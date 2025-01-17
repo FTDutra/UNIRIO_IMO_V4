@@ -1,0 +1,268 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GARAGE",
+            "GARDEN",
+            "KITCHEN",
+            "INTERCOM",
+            "HEATING",
+            "NUMBER_OF_FLOORS",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "131"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua Souza Lima, no bairro Copacabana em Rio de Janeiro. Este imóvel conta com área construída de 131m², oferecendo 3 quartos, sendo 1 suíte, 2 banheiros e 1 vaga de garagem. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apartamento de 3 quartos e vaga!!!",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2744963956",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22081010",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.982,
+                "approximateLon": -43.192,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Souza Lima",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 2: Francisco Sá",
+                "BS:BRS 1 Sá Ferreira",
+                "BS:BRS 2 Djalma Ulrich",
+                "BS:BRS 1",
+                "BS:BRS 2: Rainha Elizabeth",
+                "TS:BRS 2: Francisco Sá",
+                "TS:Estação 2",
+                "TS:BRS 1 Sá Ferreira",
+                "TS:Estação 3",
+                "TS:Copacabana",
+                "CS:Casa du bisçoito",
+                "CS:Lopes",
+                "CS:La Veronese",
+                "CS:Peixaria Z13",
+                "CS:Nema",
+                "PH:Viva Mais",
+                "PH:Farmácia Central Posto 6",
+                "PH:Prontofarma",
+                "PH:Drogaria Pop",
+                "PH:Drogaria Galanti"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PU1yib213",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "131"
+        ],
+        "advertiserId": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "4959",
+                "price": "1200000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1880"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21988595427"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988595427",
+        "stamps": []
+    },
+    "account": {
+        "id": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "name": "Luccare Investimentos",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/356f29ff805ce9c2aedf37766016903e/{description}.webp",
+        "licenseNumber": "065358-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 79203,
+        "phones": {
+            "primary": "21988595427",
+            "mobile": "21988595427"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "e69235254e8cb062f806072d88fd40f5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e69235254e8cb062f806072d88fd40f5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "750a4175057b78a2dcd9855026522425",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/750a4175057b78a2dcd9855026522425/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8fcdbab6d46157be299ce1c11746392d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8fcdbab6d46157be299ce1c11746392d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9f46bebccf9789610e22403b4c3a80fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9f46bebccf9789610e22403b4c3a80fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48c314b47b143ae3f2acb629925ca883",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48c314b47b143ae3f2acb629925ca883/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21c1f722ac1d84fc73c8d4a4d8ad5ceb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21c1f722ac1d84fc73c8d4a4d8ad5ceb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "05dc53b2ef38849a091448f1d47377a9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/05dc53b2ef38849a091448f1d47377a9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42849b84eff26b2bb94f68cdd1a77d8d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42849b84eff26b2bb94f68cdd1a77d8d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e4227844c60234ab76efec19eb676a0c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e4227844c60234ab76efec19eb676a0c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f63da3d36d95bd9db66978e62f0a882d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f63da3d36d95bd9db66978e62f0a882d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9126779b8383f2580f67beb37f2cafb6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9126779b8383f2580f67beb37f2cafb6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "482cfa2ea56ceec4df5940697fa98e8e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/482cfa2ea56ceec4df5940697fa98e8e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9639d65c163eabbb9a5fb1fa9758a83f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9639d65c163eabbb9a5fb1fa9758a83f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c8168e01de1322f70a7a40419bde5945",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c8168e01de1322f70a7a40419bde5945/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "54a5966a139f510871d8138fc3c17ad3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/54a5966a139f510871d8138fc3c17ad3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f93b2d0b1cd0d531fe747e8b80d9f54d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f93b2d0b1cd0d531fe747e8b80d9f54d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a5104f2eecae7d978661d9ea1507e0d5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a5104f2eecae7d978661d9ea1507e0d5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2114e90f9769cd295d1519565aaba501",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2114e90f9769cd295d1519565aaba501/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8612101d36d1443702ab9faf166c10e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8612101d36d1443702ab9faf166c10e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "08c56470f07ca17b11752a35176f8c45",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/08c56470f07ca17b11752a35176f8c45/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "04b4cb91a76b6f88e3f589f4171cb16d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/04b4cb91a76b6f88e3f589f4171cb16d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3eec2d312123593c61075252787939c8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3eec2d312123593c61075252787939c8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "53986fe374d93ed28c0ababe71eae058",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/53986fe374d93ed28c0ababe71eae058/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Luccare Investimentos",
+        "href": "/79203/luccare-investimentos/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 131m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-131m2-venda-RS1200000-id-2744963956/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Souza Lima",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

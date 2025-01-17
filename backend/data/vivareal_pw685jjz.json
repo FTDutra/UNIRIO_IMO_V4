@@ -1,0 +1,250 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "INTERCOM",
+            "ELEVATOR",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "78"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento no Leblon, próximo ao metrô, Shopping Leblon e comércio da região. Composto por: sala em 02 ambientes, 02 quartos grandes, banheiro social modernizado, cozinha com abertura para sala, área de serviço separada e dependências completas. Janelas antirruídos. O prédio tem uma boa apresentação, possui portaria 24h e a possibilidade de alugar vaga no prédio. Venha conferir. Temos outras opções na região. Entre em contato conosco. Exclusive Consultoria.<br><br> CJ 7844<br><br> Atual. 06/12<br>-Cod:SL21195 -Rev.11Dez",
+        "title": "Apartamento - Padrão / Residencial / Leblon",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2564091327",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22440033",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "65",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.217123,
+                "source": "GOOGLE",
+                "lat": -22.98386
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Ataulfo de Paiva",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Leblon",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "poisList": [
+                "BS:Humberto de Campos",
+                "BS:Ponto Final: Afrânio de Melo Franco I",
+                "BS:BRS 2,3 - Cupertino Durão",
+                "BS:Ponto Final: Antero de Quental",
+                "BS:Ponto Final: CIEP Nação Rubro Negra",
+                "TS:Almirante Pereira Guimarães",
+                "TS:Jardim de Alah / Leblon",
+                "TS:Jardim de Alah",
+                "TS:Borges de Medeiros",
+                "TS:Humberto de Campos",
+                "CS:Patata",
+                "CS:Talho Capixaba",
+                "CS:Rio Lisboa",
+                "CS:Armazém do Café",
+                "CS:Confeitaria Ipanema",
+                "PH:Drogasmil",
+                "PH:Drogaria Pop"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "SL21195",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "78"
+        ],
+        "advertiserId": "ebb7c6c3-c940-726f-4819-861ddcc68f46",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "407",
+                "price": "1290000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1119"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21998334020"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21998334020",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_FEVEREIRO_2024"
+        ]
+    },
+    "account": {
+        "id": "ebb7c6c3-c940-726f-4819-861ddcc68f46",
+        "name": "Exclusive Consultoria",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c734f5469e22ed45c7a14bd20ff5bcd6/{description}.webp",
+        "licenseNumber": "58071-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 127636,
+        "phones": {
+            "primary": "21998334020",
+            "mobile": "21998334020"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "d01b05cc4f01de7bb11c3075e536d6d2",
+            "url": "https://www.youtube.com/watch?v=41TIkXQTrrs",
+            "type": "VIDEO"
+        },
+        {
+            "id": "8f1f0a90010e3951791303afd778460e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8f1f0a90010e3951791303afd778460e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ada7947e322cbe3623948c6b1abfde7c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ada7947e322cbe3623948c6b1abfde7c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4a9fc7bedd8e646611fa24da2604d9a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4a9fc7bedd8e646611fa24da2604d9a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a38f98378091fd80b066e79458c6e89b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a38f98378091fd80b066e79458c6e89b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d9e8ff1245e72e24cbc6ff6072aa99c8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d9e8ff1245e72e24cbc6ff6072aa99c8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a3ec22868fd4507f59d7d7e421477e50",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a3ec22868fd4507f59d7d7e421477e50/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9363859611a97fd30eb20714af27d537",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9363859611a97fd30eb20714af27d537/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e9c209040100c8c7f006cd05d8bd2460",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e9c209040100c8c7f006cd05d8bd2460/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e6fc261485e4949959db1774915af411",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e6fc261485e4949959db1774915af411/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "232e13417967bae9a37cf7392ef8d301",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/232e13417967bae9a37cf7392ef8d301/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "41cced8d4b6bd848ba8b272be4c1d502",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/41cced8d4b6bd848ba8b272be4c1d502/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8fa5197008bd9b5f7666624ec2d89ce8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8fa5197008bd9b5f7666624ec2d89ce8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ccdbcbe8ae03851161b1dbfd03790360",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ccdbcbe8ae03851161b1dbfd03790360/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9959ac3a1ba1e46fb4b509e59a895515",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9959ac3a1ba1e46fb4b509e59a895515/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f1c32ac8834fee20c5b77207ec0d922f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f1c32ac8834fee20c5b77207ec0d922f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "121c02013bbc042d2d61c2da9d8d37c5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/121c02013bbc042d2d61c2da9d8d37c5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c2517101d27669b39b408aa067faccb0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2517101d27669b39b408aa067faccb0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f2b7ea4d44daac5122bbdf82000d8be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f2b7ea4d44daac5122bbdf82000d8be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e740fd2b4c9a14f7dd5cf42b1b000988",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e740fd2b4c9a14f7dd5cf42b1b000988/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d6b1869345c1fc5954d7fc9f255d2170",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d6b1869345c1fc5954d7fc9f255d2170/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Exclusive Consultoria",
+        "href": "/127636/exclusive-consultoria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 78m²",
+        "href": "/imovel/apartamento-2-quartos-leblon-zona-sul-rio-de-janeiro-78m2-venda-RS1290000-id-2564091327/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Ataulfo de Paiva",
+            "streetNumber": "65",
+            "zone": "Zona Sul"
+        }
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "BALCONY",
+            "GARAGE",
+            "PARTY_HALL",
+            "KITCHEN",
+            "DINNER_ROOM",
+            "COPA"
+        ],
+        "usableAreas": [
+            "64"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "COD 1019494 - Oportunidade! Empreendimento liberado para MINHA CASA, MINHA VIDA! Prédio Único, Primeira Locação, direto com construtor, dois quartos, suíte com varanda, sala com dois ambientes, cozinha e área amplas, condomínio barato, centro de terreno, vaga na escritura, arejado, com varanda, cômodos amplos, suite com varanda, salão de festas, cozinha, vista livre. Agende uma visita. Unidade a partir de R$ 280.217,70 - Informações Atualizadas em Doze de dezembro Dois Mil e Vinte e Quatro",
+        "title": "Apartamento 2 quartos, sendo 1 suíte",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2753608029",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22710280",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.947,
+                "approximateLon": -43.382,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Campinas do Sul",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Jacarepagua",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Curicica",
+            "poisList": [
+                "BS:Ponto Final: Colônia :: Linha 831",
+                "BS:Ponto Final: Curicica :: Linha 861",
+                "BS:Ponto Final: Curicica :: Linhas para Centro",
+                "BS:Ponto do 861 - Via Rio das Pedras",
+                "BS:Ponto do 861 - Via Curicica",
+                "TS:Ventura",
+                "TS:Vila Sapê (IV Centenário)",
+                "TS:Arroio Pavuna",
+                "TS:Leila Diniz",
+                "TS:Recanto das Palmeiras (Jardim São Luiz)",
+                "CS:Mercearia Sabel",
+                "CS:Padaria Sabor do Pão",
+                "CS:Padaria Felipão",
+                "PH:Drogaria Rede Economia",
+                "PH:Drogaria Ofertão",
+                "PH:Drogaria Dona Farma",
+                "PH:PAGUE MENOS",
+                "PH:Farmácia Jericó"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "1019494",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "64"
+        ],
+        "advertiserId": "9f6ec26b-6ef5-c624-ad80-31d6d7e1bcef",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "648",
+                "price": "346448",
+                "businessType": "SALE",
+                "monthlyCondoFee": "400"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2121120099",
+                "21981684528"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21981684528",
+        "stamps": []
+    },
+    "account": {
+        "id": "9f6ec26b-6ef5-c624-ad80-31d6d7e1bcef",
+        "name": "Brasil Brokers Consultoria Imobiliária - Barra da Tijuca",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d3eb5de0beabf5e4a31fd4d865f59310/{description}.webp",
+        "licenseNumber": "11315-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 781576,
+        "phones": {
+            "primary": "2121120099",
+            "mobile": "21981684528"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "676b2da967df0dccdfd68dccfcfbe9b8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/676b2da967df0dccdfd68dccfcfbe9b8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7ebc39f43febba720c84d6d35d1a2718",
+            "url": "https://www.youtube.com/watch?v=foV5G0qWeok",
+            "type": "VIDEO"
+        },
+        {
+            "id": "ffb83294d4a08e914c5edf0806851a74",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ffb83294d4a08e914c5edf0806851a74/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "58872b8260f2f55dd34fdb571cc46a44",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/58872b8260f2f55dd34fdb571cc46a44/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "228793f00d2e037373767802da8c4141",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/228793f00d2e037373767802da8c4141/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5c2f5c31e8a7ed54e52e31ea3a0e961c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5c2f5c31e8a7ed54e52e31ea3a0e961c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "484f40bafe39e66a713b5bef05db08c6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/484f40bafe39e66a713b5bef05db08c6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f50c95408589a6f4e77ed16c4b3f0e17",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f50c95408589a6f4e77ed16c4b3f0e17/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0b8bee22f073b1235cbbe2f4d83b71ea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0b8bee22f073b1235cbbe2f4d83b71ea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f59797ac2419d0880f6869314d1ab09b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f59797ac2419d0880f6869314d1ab09b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6670fab5a0ef068e39285c08a2e7586d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6670fab5a0ef068e39285c08a2e7586d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5016115ebef3014ed7295bba979111b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5016115ebef3014ed7295bba979111b0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fa174c78de34a53974642433b727a2d8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa174c78de34a53974642433b727a2d8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b7fafbc53a424b316cbaae7379a98cfc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b7fafbc53a424b316cbaae7379a98cfc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d2b3bcc73abe208d3c266496206c1598",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d2b3bcc73abe208d3c266496206c1598/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a2c7fad8de2aa3fb700234f0bbccdd1d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a2c7fad8de2aa3fb700234f0bbccdd1d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86722ddc31ab2c6ab7041de7de4c7b04",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86722ddc31ab2c6ab7041de7de4c7b04/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3b9345c00082a69f6d714a5b3b7a5b4e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b9345c00082a69f6d714a5b3b7a5b4e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "88a581f1ac5f451247ffc8d6a7f22ab0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/88a581f1ac5f451247ffc8d6a7f22ab0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5eb0bb7ce7d067b5b94bd14acef72c9a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5eb0bb7ce7d067b5b94bd14acef72c9a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a4120efef7899bff95872cce34707b2c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4120efef7899bff95872cce34707b2c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "697bd7041d9b2273fb1acb22a50cceef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/697bd7041d9b2273fb1acb22a50cceef/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Brasil Brokers Consultoria Imobiliária - Barra da Tijuca",
+        "href": "/781576/brasil-brokers-consultoria-imobiliaria-barra-da-tijuca/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 64m²",
+        "href": "/imovel/apartamento-2-quartos-jacarepagua-zona-oeste-rio-de-janeiro-com-garagem-64m2-venda-RS346448-id-2753608029/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jacarepaguá",
+            "state": "Rio de Janeiro",
+            "street": "Rua Campinas do Sul",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

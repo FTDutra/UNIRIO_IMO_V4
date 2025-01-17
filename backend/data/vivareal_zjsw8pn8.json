@@ -1,0 +1,264 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "FURNISHED",
+            "PETS_ALLOWED",
+            "GARAGE",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "HOME_OFFICE",
+            "CONCIERGE_24H",
+            "INTERNET_ACCESS",
+            "KITCHEN",
+            "DEPOSIT",
+            "INTERCOM",
+            "ALARM_SYSTEM",
+            "CABLE_TV",
+            "HEATING",
+            "WATCHMAN",
+            "SAFETY_CIRCUIT",
+            "FULL_CABLING"
+        ],
+        "usableAreas": [
+            "101"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento todo reformado em uma ótima rua no Humaitá. <br>Sala três quartos, com uma suite com closet, banheiro social , copa cozinha com canto alemão, marcenaria de primeira linha, cooktop indução embutido, forno, lavanderia.<br>imovel super silencioso. conta com 1 vaga na escritura<br><br>Edifcio sem elevador com lance de escada com portaria com horario comercial.",
+        "title": "3 quartos sendo 1 suite, closet, vista livre, reformado, vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2759339843",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22261080",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.957,
+                "approximateLon": -43.2,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Maria Eugênia",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Humaita",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Humaitá",
+            "poisList": [
+                "BS:Humaitá",
+                "BS:Cobal do Humaitá",
+                "BS:Cobal",
+                "BS:Maria Angélica",
+                "BS:BRS 3: Sorocaba",
+                "TS:Humaitá",
+                "TS:Cobal do Humaitá",
+                "TS:Cobal",
+                "TS:Maria Angélica",
+                "TS:Morro do Inglês",
+                "CS:Mercado Humaitá",
+                "CS:Farinha Pura",
+                "CS:Do Conde",
+                "CS:TECNOMEDI BOTAFOGO",
+                "CS:Panificação Lagoa",
+                "PH:Minipreço",
+                "PH:Ypiranga",
+                "PH:Caminhoá",
+                "PH:Bio Mundo",
+                "PH:Nash"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "74146",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "101"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2968",
+                "price": "1300000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "700"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "5a9b4d54417a1267aa19cd9357ac832c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5a9b4d54417a1267aa19cd9357ac832c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f560265788c13fdc64e14533ba378ac7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f560265788c13fdc64e14533ba378ac7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1422dd42f954f2dc55edc86d2318bb0d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1422dd42f954f2dc55edc86d2318bb0d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "585bcf989a839eb7fc2e8cd63ea08878",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/585bcf989a839eb7fc2e8cd63ea08878/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f37e00afcf285b21c801933bb706d121",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f37e00afcf285b21c801933bb706d121/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e2a8cd047f1d02a642cb196d13e39882",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e2a8cd047f1d02a642cb196d13e39882/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e82f49d2859e01e29ddaf89411195beb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e82f49d2859e01e29ddaf89411195beb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e1baff1ab8f5e0a6db1cc5d98a762d8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e1baff1ab8f5e0a6db1cc5d98a762d8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d26170f009ba3fbe733b88e65d5d0179",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d26170f009ba3fbe733b88e65d5d0179/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "150fa8564bb1ccb1d6ee70eaa8ba8ada",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/150fa8564bb1ccb1d6ee70eaa8ba8ada/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0d4dfc0b86783ee775791ecfb0c59af9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0d4dfc0b86783ee775791ecfb0c59af9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "901d7a1ea5eda49b5df8280fecbda3ba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/901d7a1ea5eda49b5df8280fecbda3ba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6090df660ad9e06f1d5fbf340ea8d01b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6090df660ad9e06f1d5fbf340ea8d01b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0d0b7d21ea59ced2f9a26181f23cd127",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0d0b7d21ea59ced2f9a26181f23cd127/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1f4aa6da3c454f44840fd3c1daafbb29",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1f4aa6da3c454f44840fd3c1daafbb29/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6bd747aad087847c324968bdec121ac9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6bd747aad087847c324968bdec121ac9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c89f5ebd7aff93e99a7667108192f217",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c89f5ebd7aff93e99a7667108192f217/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5ba56a49f74d62dd10d33ece0498b753",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5ba56a49f74d62dd10d33ece0498b753/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "35562c9efa2a9aeef4ae3bf76ddf4ffc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/35562c9efa2a9aeef4ae3bf76ddf4ffc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c47864d0f2aba0e5b93a4389c8bbe1a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c47864d0f2aba0e5b93a4389c8bbe1a6/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 101m²",
+        "href": "/imovel/apartamento-3-quartos-humaita-zona-sul-rio-de-janeiro-com-garagem-101m2-venda-RS1300000-id-2759339843/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Humaitá",
+            "state": "Rio de Janeiro",
+            "street": "Rua Maria Eugênia",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

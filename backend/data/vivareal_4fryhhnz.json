@@ -1,0 +1,201 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "KITCHEN",
+            "WATCHMAN",
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "60"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Flamengo, Rua Paissandú. Prédio é centro de terreno! Excelente localização!<br>Apartamento em ótimo estado, vazio, claro e arejado. Pronto para morar! Composto de sala, 2 quartos com armários embutidos, banheiro social, cozinha, área de serviço e dependências completas. Vaga de garagem na escritura. Ref: Senador Correa,<br>Marquês de Abrantes e Metrô.",
+        "title": "Apartamento á venda Flamengo, prédio e centro de terreno, 2 quartos dependências vaga pronto para mo",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2652548660",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22230001",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "219",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.176882,
+                "source": "GOOGLE",
+                "lat": -22.940245
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Senador Vergueiro",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Flamengo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "poisList": [
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Largo do Machado",
+                "BS:Palácio Universitário",
+                "BS:Rua das Laranjeiras, 336",
+                "BS:Marechal Cantuária",
+                "TS:Flamengo",
+                "TS:Ponto Final: Largo do Machado :: Linha 497",
+                "TS:Acesso Catete",
+                "TS:Largo do Machado",
+                "TS:Acesso Largo do Machado",
+                "CS:Padaria Napoles",
+                "CS:Deep Freeze",
+                "CS:Maguila",
+                "CS:Mei-jo",
+                "CS:Benamor",
+                "PH:Rio Brasil",
+                "PH:Farma Hall",
+                "PH:RioFarma",
+                "PH:Drogaria Paraná",
+                "PH:Drogaria Ric"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "147",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "60"
+        ],
+        "advertiserId": "d42cd1ae-2a65-985f-20ed-40344e468d4e",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "125",
+                "price": "1400000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "800"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21960156592"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21960156592",
+        "stamps": []
+    },
+    "account": {
+        "id": "d42cd1ae-2a65-985f-20ed-40344e468d4e",
+        "name": "Albae & Alefe Administracao de Imoveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82a1c3d20932004fa708829f7de2b209/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 745263,
+        "phones": {
+            "primary": "21960156592",
+            "mobile": "21960156592"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "4eb6a424383290dff5c1f0d3e4b9eed5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4eb6a424383290dff5c1f0d3e4b9eed5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d0c00092214f1bc9b681a7d237db6271",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d0c00092214f1bc9b681a7d237db6271/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fce65ea4383cda30dabfb772fef827de",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fce65ea4383cda30dabfb772fef827de/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cec2f05ec10c2cdee75384ef81dc1f21",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cec2f05ec10c2cdee75384ef81dc1f21/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "101c23e0ce9353af54731b62a0d9d441",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/101c23e0ce9353af54731b62a0d9d441/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "16cb7033aae1deb76fb7e29942d2051a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/16cb7033aae1deb76fb7e29942d2051a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "02644bdf421d073f91fd1b8bd0def3e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/02644bdf421d073f91fd1b8bd0def3e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "75522140a2bf7eecc55a68eb7814aa21",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/75522140a2bf7eecc55a68eb7814aa21/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "efd03c102324843e9be9905aa736fef0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/efd03c102324843e9be9905aa736fef0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4b7633ce37a36f1c036206c3b34f1415",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b7633ce37a36f1c036206c3b34f1415/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "24a61b90044b2891e182decf4b201932",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/24a61b90044b2891e182decf4b201932/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Albae & Alefe Administracao de Imoveis",
+        "href": "/745263/albae-alefe-administracao-de-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 60m²",
+        "href": "/imovel/apartamento-2-quartos-flamengo-zona-sul-rio-de-janeiro-com-garagem-60m2-venda-RS1400000-id-2652548660/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Senador Vergueiro",
+            "streetNumber": "219",
+            "zone": "Zona Sul"
+        }
+    }
+}

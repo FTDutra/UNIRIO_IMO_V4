@@ -1,0 +1,219 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "KITCHEN",
+            "SERVICE_AREA"
+        ],
+        "usableAreas": [
+            "48"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento na Rua Rui de Andrade Pinto, Taquara - Rio de Janeiro/RJ CEP 22710-365Apartamento de 48m² de área construída, dispondo de Sala, Cozinha, Área de serviço, Banheiro social e 02 Quartos. Sem elevador.Imóvel próximo Supermarket, Mercadão de Jacarepaguá, Hortifruit, Restaurante Cavallino, Churrascaria Lampião, Padaria Paladino, Chatuba, Tubarão Atacadista, Mercado Carioca, Academia Ripe, Sushi Club, Drogaria Exata, BRT Estação Merck, Colégio Ceom, Restaurante Lampião, entre outros comércios da Região. - 89616",
+        "title": "Taquara | Apartamento 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2568595470",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22710365",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "154",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.370322,
+                "source": "GOOGLE",
+                "lat": -22.934951
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Rui de Andrade Pinto",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Taquara",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Taquara",
+            "poisList": [
+                "BS:Terminal Bandeira Brasil (Taquara) :: Plat. Oeste",
+                "BS:Ponto Final: Pechincha :: Linha 2115",
+                "BS:Ponto Final: Cidade de Deus",
+                "BS:Ponto do 861 - Via Rio das Pedras",
+                "TS:Merck",
+                "TS:Divina Providência",
+                "TS:André Rocha",
+                "TS:Taquara (Expresso)",
+                "TS:Taquara (Parador)",
+                "CS:Padaria Quero Pão da Taquara",
+                "PH:Farmácia (Rede Bandeirantes de Drogarias)",
+                "PH:Farmácia Jericó",
+                "PH:Drogaria Ofertão",
+                "PH:Drogaria Rede Economia",
+                "PH:Mega Expressa"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "AP1247",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "48"
+        ],
+        "advertiserId": "7f942283-df06-9291-64ea-f174d7936ed6",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "190000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "250"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2133123250",
+                "21960114837"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21960114837",
+        "stamps": []
+    },
+    "account": {
+        "id": "7f942283-df06-9291-64ea-f174d7936ed6",
+        "name": "MR3 IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/88a28509261faa030e686cb1c5f84d13/{description}.webp",
+        "licenseNumber": "006030-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 240158,
+        "phones": {
+            "primary": "2133123250",
+            "mobile": "21960114837"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "5779ca8aa8a083cc7f29f47f42a1ffe8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5779ca8aa8a083cc7f29f47f42a1ffe8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e1795549ae1c3c2db14675758cd8160f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e1795549ae1c3c2db14675758cd8160f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6cff91111ff004e65766a7b928eeff27",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6cff91111ff004e65766a7b928eeff27/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f8b07a4088f91babaaf7287bc9e55d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f8b07a4088f91babaaf7287bc9e55d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aed13f399dbf770c656e61c064607f38",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aed13f399dbf770c656e61c064607f38/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ed849cdfbb7ce07e0ec192dab6b0d560",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed849cdfbb7ce07e0ec192dab6b0d560/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "25264c2fc94cbcb52203379b2c9281b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/25264c2fc94cbcb52203379b2c9281b0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d8d0e995019d89d06108c50ab3fffccd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8d0e995019d89d06108c50ab3fffccd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4cd997798ebe99124466e79f31ddd220",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4cd997798ebe99124466e79f31ddd220/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8fb01713f821088eb8be899a6df9ac46",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8fb01713f821088eb8be899a6df9ac46/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0b0d680148a8455155fcfd3e1f2684ac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0b0d680148a8455155fcfd3e1f2684ac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7947362b2253839908de887eff784640",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7947362b2253839908de887eff784640/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5cdbcad783dfe788a905592471f2a2ea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5cdbcad783dfe788a905592471f2a2ea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4e9594100f016de2d252676732fbb2c2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4e9594100f016de2d252676732fbb2c2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e283647ad9d898456dcc46bab695577",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e283647ad9d898456dcc46bab695577/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6b0ad994864f8ec8aaff10d6a3a2abd4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6b0ad994864f8ec8aaff10d6a3a2abd4/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "MR3 IMÓVEIS",
+        "href": "/240158/mr3-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 48m²",
+        "href": "/imovel/apartamento-2-quartos-taquara-zona-oeste-rio-de-janeiro-48m2-venda-RS190000-id-2568595470/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Taquara",
+            "state": "Rio de Janeiro",
+            "street": "Rua Rui de Andrade Pinto",
+            "streetNumber": "154",
+            "zone": "Zona Oeste"
+        }
+    }
+}

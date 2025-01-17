@@ -1,0 +1,258 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "KITCHEN_CABINETS",
+            "AIR_CONDITIONING",
+            "BUILTIN_WARDROBE",
+            "SERVICE_AREA"
+        ],
+        "usableAreas": [
+            "88"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento à venda em Botafogo, planta diferenciada, condomínio barato, super silencioso, composto de sala ampla em 2 ambientes, bem iluminada e arejada. 3 quartos grandes com armários sob medida, cozinha planejada, banheiro social, dependência de empregada completa. Pronto para morar. 001ea",
+        "title": "Botafogo | Apartamento 3 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2655188496",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22260140",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.949,
+                "approximateLon": -43.192,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Marechal Francisco de Moura",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Botafogo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:BRS 3: Sorocaba",
+                "BS:Cobal",
+                "BS:Cobal do Humaitá",
+                "BS:Rua Cosme Velho, 433",
+                "BS:Humaitá",
+                "TS:Cobal",
+                "TS:Cobal do Humaitá",
+                "TS:Acesso São Clemente/Humaitá",
+                "TS:Acesso Muniz Barreto/Botafogo Praia Shopping",
+                "TS:Acesso Voluntários",
+                "CS:Latteria Bloise",
+                "CS:Degustare",
+                "CS:Casa Imperial",
+                "CS:TECNOMEDI BOTAFOGO",
+                "CS:Panificação Voluntários",
+                "PH:Bio Mundo",
+                "PH:Ypiranga",
+                "PH:Caminhoá",
+                "PH:Minipreço",
+                "PH:Poubel"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "CO3AP40093",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "88"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "733",
+                "price": "580000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "550"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": []
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "ade80fb48882c2197e6c472ad51475bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ade80fb48882c2197e6c472ad51475bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8577820b7b28e1f5788cd9a9609c0fd7",
+            "url": "https://www.youtube.com/watch?v=HPc5SIUbx34",
+            "type": "VIDEO"
+        },
+        {
+            "id": "b07c8c316b669f2d62c15b592e570a90",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c8c316b669f2d62c15b592e570a90/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "31672d81a58453b0f5b1f897139a6879",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/31672d81a58453b0f5b1f897139a6879/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "87464319a62ad657943b91522cad464a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/87464319a62ad657943b91522cad464a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a198304cd4c29cc0361001a02d8b61ec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a198304cd4c29cc0361001a02d8b61ec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e9d8f29d767300dbee3b54d805bd5694",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e9d8f29d767300dbee3b54d805bd5694/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "40fc8610c6fdf4961d1073eac72db180",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40fc8610c6fdf4961d1073eac72db180/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "46da8a41422736f1a55e8e3919f3fbff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/46da8a41422736f1a55e8e3919f3fbff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "83aa16544d23c4d5b6c624a049b0349f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/83aa16544d23c4d5b6c624a049b0349f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "783248cd7c6c42f08d8d55d12fcb85b1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/783248cd7c6c42f08d8d55d12fcb85b1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c7f210db641b54f9db939b28b4333ab7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c7f210db641b54f9db939b28b4333ab7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c939db1cfb5a321202bfe0ba8ff04509",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c939db1cfb5a321202bfe0ba8ff04509/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eeae1ce3db210aa6e0dea3b2a41a394f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eeae1ce3db210aa6e0dea3b2a41a394f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "35a51d5bdf394765a48e262d7f70bdaa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/35a51d5bdf394765a48e262d7f70bdaa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dba438c80970f56f75da8fe4dfcf088d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dba438c80970f56f75da8fe4dfcf088d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9d8490ad8d83607236da08990ffbab8d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9d8490ad8d83607236da08990ffbab8d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "edd9e8141bbc64bf000254231ce7ca97",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/edd9e8141bbc64bf000254231ce7ca97/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1570f7a839e0d481f2b653de2412252",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1570f7a839e0d481f2b653de2412252/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "80509d200cb32d5e08d35f3049215138",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/80509d200cb32d5e08d35f3049215138/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6eaf9e42670e0a4c39c05e70a65e737e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6eaf9e42670e0a4c39c05e70a65e737e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0db428c655cece4776bc86e4983f231b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0db428c655cece4776bc86e4983f231b/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 88m²",
+        "href": "/imovel/apartamento-3-quartos-botafogo-zona-sul-rio-de-janeiro-88m2-venda-RS580000-id-2655188496/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Marechal Francisco de Moura",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

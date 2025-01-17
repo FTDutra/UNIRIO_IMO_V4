@@ -1,0 +1,270 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "BALCONY",
+            "GOURMET_SPACE",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "KITCHEN_CABINETS",
+            "INTERNET_ACCESS",
+            "KITCHEN",
+            "INTERCOM",
+            "CABLE_TV",
+            "PATROL"
+        ],
+        "usableAreas": [
+            "46"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "COD 1009216 - Apartamento todo reformado no Parque Carioca, com 48 m², 2 quartos, cozinha com armário e chão porcelanato ,banheiro com armário , blindex e chão porcelanato , laminado em outro cômodos, varanda . Condomínio com parquinho , churrasqueira , salão de festa. - Informações Atualizadas em Doze de dezembro Dois Mil e Vinte e Quatro",
+        "title": "Apartamento à venda com 46,00m² e 2 quartos em Jacarepaguá, Rio de Janeiro - rj",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2753609901",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22780084",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.931,
+                "approximateLon": -43.373,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Estrada dos Bandeirantes",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Jacarepagua",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Jacarepaguá",
+            "poisList": [
+                "BS:Terminal Bandeira Brasil (Taquara) :: Plat. Oeste",
+                "BS:Ponto Final: Pechincha :: Linha 2115",
+                "BS:Ponto do 861 - Via Rio das Pedras",
+                "BS:Ponto do 861 - Via Curicica",
+                "TS:André Rocha",
+                "TS:Merck",
+                "TS:Taquara (Expresso)",
+                "TS:Taquara (Parador)",
+                "TS:Terminal Bandeira Brasil (Taquara) :: Plat. Oeste",
+                "CS:Padaria Quero Pão da Taquara",
+                "CS:Sweet Gula",
+                "PH:Farmácia (Rede Bandeirantes de Drogarias)",
+                "PH:Drogaria Rede Economia",
+                "PH:Ennes Farma",
+                "PH:Drogaria Ofertão",
+                "PH:Farmácia Jericó"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "1009216",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "46"
+        ],
+        "advertiserId": "9f6ec26b-6ef5-c624-ad80-31d6d7e1bcef",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "100",
+                "price": "280000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "11"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2121120099",
+                "21981684528"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21981684528",
+        "stamps": []
+    },
+    "account": {
+        "id": "9f6ec26b-6ef5-c624-ad80-31d6d7e1bcef",
+        "name": "Brasil Brokers Consultoria Imobiliária - Barra da Tijuca",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d3eb5de0beabf5e4a31fd4d865f59310/{description}.webp",
+        "licenseNumber": "11315-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 781576,
+        "phones": {
+            "primary": "2121120099",
+            "mobile": "21981684528"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "6594c21713fef234dbe8aa1f440d94da",
+            "url": "https://www.youtube.com/watch?v=ZAzabXwrtFQ",
+            "type": "VIDEO"
+        },
+        {
+            "id": "5dbeb993bbe5e62e02fee9aa5181792d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5dbeb993bbe5e62e02fee9aa5181792d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "14ec50bc7de7d7463bf146a254b60c17",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/14ec50bc7de7d7463bf146a254b60c17/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c24e3755a7d5c2878c33972affe4ac15",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c24e3755a7d5c2878c33972affe4ac15/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f403efefca5e88acacb566f9bf65197e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f403efefca5e88acacb566f9bf65197e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "05e262a0694c3f7d8be6eafa1861b63b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/05e262a0694c3f7d8be6eafa1861b63b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "03b375b3a42f7396d93a32eb9c8f05d5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/03b375b3a42f7396d93a32eb9c8f05d5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5c24ddd4d9977722758d2a78a68191a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5c24ddd4d9977722758d2a78a68191a6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9917578865cb3d539270c6cf1a8e96e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9917578865cb3d539270c6cf1a8e96e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8c3da43580658042dd8cbdf45c437d46",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8c3da43580658042dd8cbdf45c437d46/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1097b67276176394e8d35bcc03a9f31f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1097b67276176394e8d35bcc03a9f31f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "18dec1151096dac576407b730e271a4e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/18dec1151096dac576407b730e271a4e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0a397d4e4106877f471143437f34bd31",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0a397d4e4106877f471143437f34bd31/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "40a48d5849e9fa3ec6d96abce53edd4f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40a48d5849e9fa3ec6d96abce53edd4f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca090dead377d13fc90325968cd88527",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca090dead377d13fc90325968cd88527/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "520748ac8af57ffc3f6ccf469ffd9b36",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/520748ac8af57ffc3f6ccf469ffd9b36/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd11600c53fd84f0e379fe711167e740",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd11600c53fd84f0e379fe711167e740/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9d9c993785b8e2db5af816a2eef09d6f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9d9c993785b8e2db5af816a2eef09d6f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cbd4cf8394f8378c1b101698318057e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cbd4cf8394f8378c1b101698318057e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b082ce726df48db162b06072d5efaa64",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b082ce726df48db162b06072d5efaa64/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "55906d747cdb5b04f49a43b22499b175",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/55906d747cdb5b04f49a43b22499b175/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0d282953d54bd054dd2118739f5f4c24",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0d282953d54bd054dd2118739f5f4c24/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "abc86674bb2e2a422a1ead52602e1260",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/abc86674bb2e2a422a1ead52602e1260/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Brasil Brokers Consultoria Imobiliária - Barra da Tijuca",
+        "href": "/781576/brasil-brokers-consultoria-imobiliaria-barra-da-tijuca/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 46m²",
+        "href": "/imovel/apartamento-2-quartos-jacarepagua-zona-oeste-rio-de-janeiro-46m2-venda-RS280000-id-2753609901/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jacarepaguá",
+            "state": "Rio de Janeiro",
+            "street": "Estrada dos Bandeirantes",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

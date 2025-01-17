@@ -1,0 +1,296 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "AIR_CONDITIONING",
+            "BICYCLES_PLACE",
+            "CLOSET",
+            "DISABLED_ACCESS",
+            "COWORKING",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "240"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "PORTARIA Das 7:00 às 21:30<br>3 suítes <br>Churrasqueira <br>Salão <br>Área de serviço ampla e arejada .<br>Cozinha ótima <br>Lavanderia <br>O elevador social sai direto no interior do apartamento",
+        "title": "COPACABANA - RUA SANTA CLARA - 3 SUITES",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2748242597",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22041011",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "171",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.189366,
+                "source": "GOOGLE",
+                "lat": -22.969393
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Santa Clara",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 1 Figueiredo Magalhães",
+                "BS:BRS 1,3 - Avenida Nossa Senhora de Copacabana",
+                "BS:Ponto Regulador: Metrô Siqueira Campos",
+                "BS:BRS 2 Santa Clara",
+                "BS:BRS 3 Siqueira Campos",
+                "TS:Figueiredo Magalhães",
+                "TS:Siqueira Campos - Sentido Gen. Osório / Jd. Ocêanico",
+                "TS:Siqueira Campos / Copacabana - Sentido Gen. Osório / Jd. Ocêanico",
+                "TS:Siqueira Campos / Copacabana",
+                "TS:BRS 1 Figueiredo Magalhães",
+                "CS:The Bakers",
+                "CS:Grão da terra",
+                "CS:La Copa",
+                "CS:Multifruti",
+                "CS:Sulimar",
+                "PH:Drogaria Galanti",
+                "PH:Nash",
+                "PH:Prontofarma",
+                "PH:Caminhoá",
+                "PH:Galícia"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            3
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "12OC8IB",
+        "bathrooms": [
+            5
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "240"
+        ],
+        "advertiserId": "d0c2ff7b-a439-c56d-976a-773b738068bd",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "787",
+                "price": "2165000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1781"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2121470504",
+                "21979826486"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21979826486",
+        "stamps": []
+    },
+    "account": {
+        "id": "d0c2ff7b-a439-c56d-976a-773b738068bd",
+        "name": "Fernanda Azevedo Pereira",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf238b70770733100360346765080612/{description}.webp",
+        "licenseNumber": "52100-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 56757,
+        "phones": {
+            "primary": "2121470504",
+            "mobile": "21979826486"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "09ce81a803157d8ff23aaddaaa934eea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/09ce81a803157d8ff23aaddaaa934eea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5d6e8fc2cab031789526b6a06f34308c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5d6e8fc2cab031789526b6a06f34308c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7398d84d26214060d9d55aef37c1cefe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7398d84d26214060d9d55aef37c1cefe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "936d156bd435d517d8177f43bea014c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/936d156bd435d517d8177f43bea014c7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c930a4c1532056a6cca8ac93b98c4360",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c930a4c1532056a6cca8ac93b98c4360/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c587e1cb5143e984f3b2b6717dcc487d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c587e1cb5143e984f3b2b6717dcc487d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cce9c15e17d92515abdf5554fa5809c0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cce9c15e17d92515abdf5554fa5809c0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "96050d9c25b332a56f839c4f3ac38451",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/96050d9c25b332a56f839c4f3ac38451/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2f539ed268dca681f130188747749737",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2f539ed268dca681f130188747749737/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f29783d9383ae3688fc6faf42692b556",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f29783d9383ae3688fc6faf42692b556/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1084009adbea4344791fdee95097763f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1084009adbea4344791fdee95097763f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "58dd59fa6ac2251e2f37d77da3679cec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/58dd59fa6ac2251e2f37d77da3679cec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "64ca05ea61fc3e60dce9d1b09490f4cd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/64ca05ea61fc3e60dce9d1b09490f4cd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "130ccf8b67d15aa4ef4ebbb4ef576295",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/130ccf8b67d15aa4ef4ebbb4ef576295/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6ab52f5525521652e7184a61ec1fb83e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ab52f5525521652e7184a61ec1fb83e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "60ac96b0777590a74eb9fdd388e1ad07",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60ac96b0777590a74eb9fdd388e1ad07/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "19d906781d402c75b54eab8f62ae5eb1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/19d906781d402c75b54eab8f62ae5eb1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd4c97336cd86a02aff772ee2b46abb2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd4c97336cd86a02aff772ee2b46abb2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a2d8070e4d5357b90a4756b4ba76ddd3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a2d8070e4d5357b90a4756b4ba76ddd3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2554a5960074b22b4a32786f49383768",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2554a5960074b22b4a32786f49383768/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42fbe9e3a19389d8138833694be76357",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42fbe9e3a19389d8138833694be76357/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c175840fd4a5a1adfffbfb50ad87884b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c175840fd4a5a1adfffbfb50ad87884b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c1c300acaaa070f79dcfab5cc5fc0a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c1c300acaaa070f79dcfab5cc5fc0a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0b091f1ca6cc651ca4b22133a2ec7f97",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0b091f1ca6cc651ca4b22133a2ec7f97/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ef3b3f1ad4cc97a00746fd64d2e4accb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ef3b3f1ad4cc97a00746fd64d2e4accb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a79ae7803c9f08eaf339742e516f4f55",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a79ae7803c9f08eaf339742e516f4f55/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "63b52c4b2b37aa9daacdaecec56bbc49",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/63b52c4b2b37aa9daacdaecec56bbc49/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "18bbc6a979606c4cc80cf43dab135064",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/18bbc6a979606c4cc80cf43dab135064/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Fernanda Azevedo Pereira",
+        "href": "/56757/fernanda-azevedo-pereira/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 240m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-240m2-venda-RS2165000-id-2748242597/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Santa Clara",
+            "streetNumber": "171",
+            "zone": "Zona Sul"
+        }
+    }
+}

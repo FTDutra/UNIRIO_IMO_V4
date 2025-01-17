@@ -1,0 +1,255 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "GARAGE",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "CONCIERGE_24H",
+            "PAVED_STREET",
+            "WATCHMAN",
+            "INTEGRATED_ENVIRONMENTS"
+        ],
+        "usableAreas": [
+            "95"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento em ótima localização, vazio, com 95 m² no IPTU. Sala em \"L\" piso cerâmica, 3 quartos sendo 1 suíte, banheiro social, boa cozinha, área de serviço e dependência de empregada completa. Portaria 24 horas, 1 vaga na escritura, total infraestrutura. 1e0f5",
+        "title": "Méier | Apartamento 3 quartos, sendo 1 suite",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2596237868",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20725232",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.908,
+                "approximateLon": -43.288,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Pedro de Carvalho",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Meier",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Méier",
+            "poisList": [
+                "BS:Ponto Final: Méier :: Linha 679",
+                "BS:679 - Méier x Grotão",
+                "BS:232 - Lins x Praça XV",
+                "BS:Ponto Final: Linha 232",
+                "BS:Constança Barbosa",
+                "TS:Ponto Final: Méier :: Linha 679",
+                "TS:232 - Lins x Praça XV",
+                "TS:Ponto Final: Linha 232",
+                "TS:Constança Barbosa",
+                "TS:Agripino Grieco",
+                "CS:Panificadora Aquidabã",
+                "CS:TECNOMEDI MÉIER",
+                "CS:Rainha do Méier",
+                "CS:Dika do Méier",
+                "CS:ortális",
+                "PH:Drogaria Atração do Méier",
+                "PH:Drogaria Mais Barato - Méier"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "AP30458",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "95"
+        ],
+        "advertiserId": "8c3933ab-3821-6adf-b230-951afdfd05f7",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "998",
+                "price": "405000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "850"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21967741221"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21967741221",
+        "stamps": []
+    },
+    "account": {
+        "id": "8c3933ab-3821-6adf-b230-951afdfd05f7",
+        "name": "VIVAX PRIME IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2768a51ef6a019eb5a5f56cb4276035/{description}.webp",
+        "licenseNumber": "9577-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 787728,
+        "phones": {
+            "primary": "21967741221",
+            "mobile": "21967741221"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "1c9d6eab22d77f6cc75fb02bcd4cd61f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c9d6eab22d77f6cc75fb02bcd4cd61f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9f3f9c257364bd48c7fb3d2bb8e7d9ed",
+            "url": "https://www.youtube.com/watch?v=9ogtrTqUwVA",
+            "type": "VIDEO"
+        },
+        {
+            "id": "ed2f2b0470262022ce28fc7e01c17e71",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed2f2b0470262022ce28fc7e01c17e71/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ee94e90724dd85f3ab0002790126ce5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ee94e90724dd85f3ab0002790126ce5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "660e200d1f7aafcba6e88caedc213f4f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/660e200d1f7aafcba6e88caedc213f4f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "69d9215791dae17a02eb890292f5cefa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/69d9215791dae17a02eb890292f5cefa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8623342992c256dec5c899681a6249a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8623342992c256dec5c899681a6249a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d3d9b2ec55eecaa65697aa2bdffe0e4c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d3d9b2ec55eecaa65697aa2bdffe0e4c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9a7b56fef3969fa6fe68fef290f87f53",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9a7b56fef3969fa6fe68fef290f87f53/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5eaca1583c705168e66762868ad9e7f7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5eaca1583c705168e66762868ad9e7f7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca6825dac805ffa2d06c26a4e98c3e7e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca6825dac805ffa2d06c26a4e98c3e7e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f83ab09146c821c9cd1140ce89c748c9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f83ab09146c821c9cd1140ce89c748c9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7d73b534774b26951b51894de6f45779",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7d73b534774b26951b51894de6f45779/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2b28f9dea5e14454695b9d0b22732c3a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b28f9dea5e14454695b9d0b22732c3a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ecaa37704856c9139285f093fe230130",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ecaa37704856c9139285f093fe230130/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1b217fa773f570b24ea8644fadf57627",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1b217fa773f570b24ea8644fadf57627/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "643c9cf5cf49ac0038ef3e8e817c7e8c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/643c9cf5cf49ac0038ef3e8e817c7e8c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5beb6c011dac5988fa48a7d21656606d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5beb6c011dac5988fa48a7d21656606d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b0eec68b7f7ae8ad025084538067bab7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b0eec68b7f7ae8ad025084538067bab7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d46c117bbc1908e850cce02050e39dd1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d46c117bbc1908e850cce02050e39dd1/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "VIVAX PRIME IMÓVEIS",
+        "href": "/787728/vivax-prime-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 95m²",
+        "href": "/imovel/apartamento-3-quartos-meier-zona-norte-rio-de-janeiro-com-garagem-95m2-venda-RS405000-id-2596237868/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Méier",
+            "state": "Rio de Janeiro",
+            "street": "Rua Pedro de Carvalho",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

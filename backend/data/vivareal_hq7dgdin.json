@@ -1,0 +1,311 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "ELEVATOR",
+            "GYM",
+            "GOURMET_SPACE",
+            "GARAGE",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "CABLE_TV",
+            "HEATING",
+            "ADULT_GAME_ROOM",
+            "CINEMA",
+            "SAFETY_CIRCUIT",
+            "HOME_CINEMA",
+            "FULL_CABLING",
+            "LAKE_VIEW",
+            "MOUNTAIN_VIEW",
+            "SAUNA",
+            "WATCHMAN"
+        ],
+        "usableAreas": [
+            "92"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "A Privilégio Imóveis vende: Apartamento em prédio moderno as margens da Lagoa Rodrigo de Freitas, prédio com duas portarias uma pela Rua Gastão Baiana e outra pela Henrique Dodsworth. Completa infraestrutura, com piscina, duas saunas, bicicletário, jardim de inverno, dois andares de garagem privativa, vaga na escritura, não demarcada. 18 Vagas para carro e 9 vagas para motos em espaço para visitantes no interior do condomínio, vista majestosa do Morro do Cantagalo e da Lagoa Rodrigo de Freitas.<br>Circuito interno de TV e Vigilância, portaria 24 Horas, salão de festas completo, ar condicionado em todos os quartos. Apto composto de 3 quartos, 2 Banheiros, lavabo e dependência de empregada podendo ser revertida para ampliar a cozinha.<br>Apartamento comprado na planta e ainda com o primeiro proprietário.<br><br>O valor do imóvel poderá sofrer alteração sem aviso prévio. Fale conosco: .",
+        "title": "Apartamento conceito nas Margens da Lagoa Rodrigues de Freitas",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2664214495",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22061030",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.976,
+                "approximateLon": -43.198,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Henrique Dodsworth",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 3 Miguel Lemos",
+                "BS:BRS 1 Xavier da Silveira",
+                "BS:BRS 2 Bolívar",
+                "BS:BRS 1 Miguel Lemos",
+                "BS:BRS 2 Djalma Ulrich",
+                "TS:Lagoa",
+                "TS:Cantagalo - Sentido Gen. Osório / Jd. Oceânico",
+                "TS:Cantagalo / Copacabana - Sentido Gen. Osório / Jd. Oceânico",
+                "TS:Cantagalo - sentido Uruguai",
+                "TS:Cantagalo / Copacabana - sentido Uruguai",
+                "CS:Sulimar",
+                "CS:Planeta Água",
+                "CS:Empório das Águas",
+                "CS:Casa du bisçoito",
+                "CS:Terra Mineira",
+                "PH:Prontofarma",
+                "PH:Drogaria Pop",
+                "PH:Viva Mais",
+                "PH:Farmácia Central Posto 6",
+                "PH:Drogaria Galanti"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "26540",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "98"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2870",
+                "price": "1600000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1060"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "2b31433ed17b49536a1ae0f85b047f41",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b31433ed17b49536a1ae0f85b047f41/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "73abe6d41e5dcb6b24a1e85a3ad3a471",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/73abe6d41e5dcb6b24a1e85a3ad3a471/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8f060962335c91e97925164c095bd857",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8f060962335c91e97925164c095bd857/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65ea6366ad8e2486dec5f7764134baa5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65ea6366ad8e2486dec5f7764134baa5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b561af74e5d3debf12d37207e5b83179",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b561af74e5d3debf12d37207e5b83179/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bf39d936808f14f3aee5ea6e3b3a828e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bf39d936808f14f3aee5ea6e3b3a828e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d05000035df617cffba45e2644147f4c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d05000035df617cffba45e2644147f4c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9eee0d1e92b8f9c965157ad3d3573c68",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9eee0d1e92b8f9c965157ad3d3573c68/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "749ba465b8c31ae507381d430a6e207b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/749ba465b8c31ae507381d430a6e207b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "880eec8e2fdeae882b1037a41cf4b7e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/880eec8e2fdeae882b1037a41cf4b7e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cdff4d120c8af59a9f0afaa316c25f4e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cdff4d120c8af59a9f0afaa316c25f4e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "79c1b723088ea90f7913a743244d2faf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/79c1b723088ea90f7913a743244d2faf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9d531ac649aa4980f72284b0f538e0f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9d531ac649aa4980f72284b0f538e0f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6f0826300a0cb2faf8c3ca99a5e2c34e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6f0826300a0cb2faf8c3ca99a5e2c34e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6fcf26ba5253d720570bd12bd6479952",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6fcf26ba5253d720570bd12bd6479952/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "52c4b58ab128e2711d1df725e2f098e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52c4b58ab128e2711d1df725e2f098e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "18255b0706b69a33c91279692d9e5ef5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/18255b0706b69a33c91279692d9e5ef5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "60729711e78cbc04d666d09e4a3badaf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60729711e78cbc04d666d09e4a3badaf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d40b725388a5617d1ad4a77b4ba0f052",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d40b725388a5617d1ad4a77b4ba0f052/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9131d490c19a25d88f42a078b7a77402",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9131d490c19a25d88f42a078b7a77402/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "034de3344d546940ecdacd2cbf0c67e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/034de3344d546940ecdacd2cbf0c67e3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3278df3786c516f6b5bdebbbca41d316",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3278df3786c516f6b5bdebbbca41d316/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d8930da70459731374f9740c1e319cef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8930da70459731374f9740c1e319cef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5587e9d5f0ab34d682f9b55f010c0691",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5587e9d5f0ab34d682f9b55f010c0691/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2af73bef91cd8f7208f0cd92a4364723",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2af73bef91cd8f7208f0cd92a4364723/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cda36fcf5e7dfedf4387e2e8e6fc7f6f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cda36fcf5e7dfedf4387e2e8e6fc7f6f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ad960fa5275ce2a396b35d05bba21a73",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ad960fa5275ce2a396b35d05bba21a73/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "29232587e8e51e2b6523550e5fb069ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/29232587e8e51e2b6523550e5fb069ed/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 92m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-92m2-venda-RS1600000-id-2664214495/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Henrique Dodsworth",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

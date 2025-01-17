@@ -1,0 +1,194 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "DISABLED_ACCESS",
+            "ELECTRONIC_GATE",
+            "BICYCLES_PLACE",
+            "PETS_ALLOWED",
+            "ELEVATOR"
+        ],
+        "usableAreas": [
+            "168"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "apartamento de luxo com 4 dormitórios, sendo 1 suíte, em uma localização privilegiada. O imóvel, com fachada em granito, está situado nos fundos do edifício, proporcionando tranquilidade e privacidade. Além disso, conta com 168 m² de área total e 168 m² de área útil, distribuídos de forma inteligente e funcional.<br><br>O apartamento possui uma vaga de garagem e desfruta de uma excelente posição solar, com sol da manhã, garantindo ambientes sempre iluminados e arejados. A infraestrutura do condomínio oferece interfone e portaria, garantindo a segurança e comodidade dos moradores.",
+        "title": "Imperdível oportunidade no leblon",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [
+            "DUPLEX"
+        ],
+        "id": "2744989772",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22431040",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "200",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.224761,
+                "source": "GOOGLE",
+                "lat": -22.981613
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua General Urquiza",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Leblon",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "poisList": [
+                "BS:Ponto Final: Leblon :: Ônibus Executivos",
+                "BS:Nossa Senhora Auxiliadora",
+                "BS:Ponto Final: CIEP Nação Rubro Negra",
+                "BS:Ponto Final: Antero de Quental",
+                "BS:BRS 2,3 - Cupertino Durão",
+                "TS:Ponto Final: Leblon :: Ônibus Executivos",
+                "TS:Nossa Senhora Auxiliadora",
+                "TS:Antero de Quental",
+                "TS:Antero de Quental / Leblon",
+                "TS:Metrô - Estação Antero de Quental",
+                "CS:Talho Capixaba",
+                "CS:Rio Lisboa",
+                "CS:am/pm",
+                "CS:Patata",
+                "CS:Mini Mercado Pacheco Leão",
+                "PH:Drogasmil",
+                "PH:Ric",
+                "PH:Padrão"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "LAAP41069",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "168"
+        ],
+        "advertiserId": "dd629e29-8105-a585-d129-b79f3c5998b5",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "559",
+                "price": "3200000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2500"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21988517613"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988517613",
+        "stamps": []
+    },
+    "account": {
+        "id": "dd629e29-8105-a585-d129-b79f3c5998b5",
+        "name": "Érico - Jul",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 813804,
+        "phones": {
+            "primary": "21988517613",
+            "mobile": "21988517613"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "74e7ac97732230c6686031df7fb1e3f3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/74e7ac97732230c6686031df7fb1e3f3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf3f41e4b59eda0961c8f9f54cc132d0",
+            "url": "https://youtu.be/uq9rBiILOu4?si=vmF8i61xZdi1tzb6",
+            "type": "VIDEO"
+        },
+        {
+            "id": "3c68d3312d5f907dab8591db54440e9d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c68d3312d5f907dab8591db54440e9d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "748d77e3082a978dfa95532c58afea3f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/748d77e3082a978dfa95532c58afea3f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e7acbc406e42363adca56a2e57710cf5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e7acbc406e42363adca56a2e57710cf5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "16edf4808b8e3dcca6d94fc6ff475ebb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/16edf4808b8e3dcca6d94fc6ff475ebb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f1c9350a0fc32eff87f5b97818c875c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f1c9350a0fc32eff87f5b97818c875c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "31a3a7a7e41e66609dd9e0dbb124c1d9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/31a3a7a7e41e66609dd9e0dbb124c1d9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ec1f1887192f769affb344e6a2b76bba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ec1f1887192f769affb344e6a2b76bba/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Érico - Jul",
+        "href": "/813804/erico-jul/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 168m²",
+        "href": "/imovel/apartamento-4-quartos-leblon-zona-sul-rio-de-janeiro-com-garagem-168m2-venda-RS3200000-id-2744989772/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "state": "Rio de Janeiro",
+            "street": "Rua General Urquiza",
+            "streetNumber": "200",
+            "zone": "Zona Sul"
+        }
+    }
+}

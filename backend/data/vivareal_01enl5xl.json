@@ -1,0 +1,231 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "INTERCOM",
+            "SERVICE_AREA",
+            "INTERNET_ACCESS",
+            "SLAB",
+            "SOUNDPROOFING"
+        ],
+        "usableAreas": [
+            "50"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O apartamento no bairro Guaratiba com 50 metros quadrados com 1 quarto e 1 banheiro, apto ao lado do supermercado BOM, bem perto do B.R.T.",
+        "title": "Apartamento para venda tem 50 metros quadrados com 1 quarto em Guaratiba - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2686757036",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "23020650",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "125",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.594532,
+                "source": "GOOGLE",
+                "lat": -22.989863
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Doutor Mário Machado",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Guaratiba",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Guaratiba",
+            "poisList": [
+                "TS:Mato Alto",
+                "SU:Escola Municipal Professor Castilho",
+                "SU:Creche Municipal Sonho de Criança",
+                "CH:Centro Municipal de Saúde Maia Bittencourt",
+                "SC:Piraquê",
+                "SC:Lotérica JC"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "apto Daniel",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "50"
+        ],
+        "advertiserId": "4e1b2ce9-9baa-ef66-18e2-dfa8f11f8939",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "85000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21999371303"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21999371303",
+        "stamps": []
+    },
+    "account": {
+        "id": "4e1b2ce9-9baa-ef66-18e2-dfa8f11f8939",
+        "name": "RHW IMOBILIÁRIA",
+        "licenseNumber": "76046-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 394050,
+        "phones": {
+            "primary": "21999371303",
+            "mobile": ""
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "59c58c01f758cbff434a70a8b3e4eea4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/59c58c01f758cbff434a70a8b3e4eea4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9019542d137bf0a6a111627c93260f30",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9019542d137bf0a6a111627c93260f30/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bdb2b8bf756e6df92d1fafffb615ff22",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bdb2b8bf756e6df92d1fafffb615ff22/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "815d0386b391ff0556e4e82f81293563",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/815d0386b391ff0556e4e82f81293563/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fbbe4cd7230db782a4c763fbdef2074c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fbbe4cd7230db782a4c763fbdef2074c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8f2270926e37e60c41830b450b7f7706",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8f2270926e37e60c41830b450b7f7706/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2684018ce138517d782961dd347d6343",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2684018ce138517d782961dd347d6343/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "df6b37e856d745768e289dbf6fe9f0d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df6b37e856d745768e289dbf6fe9f0d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "55f1734b84382a2538cf05d1c399ea42",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/55f1734b84382a2538cf05d1c399ea42/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a9bff81bc1c8d982e3cadf0bae7d9d08",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a9bff81bc1c8d982e3cadf0bae7d9d08/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9ad94624c84b3c1c71751f39ae849ff8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ad94624c84b3c1c71751f39ae849ff8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9fb4d5e6a6632468aca22442788bc6f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9fb4d5e6a6632468aca22442788bc6f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6dae3eebcd39d5a84abb92b55be617ec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6dae3eebcd39d5a84abb92b55be617ec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "135919f789583d74df3fbd539431f089",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/135919f789583d74df3fbd539431f089/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "597ce6320d2c6b8af6c28fd4399a2fab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/597ce6320d2c6b8af6c28fd4399a2fab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "befde34bad12cc9a207b7658567df96f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/befde34bad12cc9a207b7658567df96f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b32a4e4cb88cc77661e42ac4bfa310b3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b32a4e4cb88cc77661e42ac4bfa310b3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "02562ec726048b072d428ebff9c8746d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/02562ec726048b072d428ebff9c8746d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cda54a33561601d2f2392087e9a96a70",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cda54a33561601d2f2392087e9a96a70/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86ff746d12bededa91b4f318f96d3714",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86ff746d12bededa91b4f318f96d3714/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "RHW IMOBILIÁRIA",
+        "href": "/394050/rhw-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 50m²",
+        "href": "/imovel/apartamento-1-quartos-guaratiba-zona-oeste-rio-de-janeiro-50m2-venda-RS85000-id-2686757036/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Guaratiba",
+            "state": "Rio de Janeiro",
+            "street": "Rua Doutor Mário Machado",
+            "streetNumber": "125",
+            "zone": "Zona Oeste"
+        }
+    }
+}

@@ -1,0 +1,283 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "BARBECUE_GRILL",
+            "SERVICE_AREA",
+            "KITCHEN",
+            "PARTY_HALL",
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "80"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Oportunidade única! Apartamento pertinho do Shopping Carioca, em frente ao BRT, possuí; sala, dois dormitórios, frente, sol da manhã, desocupado, banheiro social com box blindex e uma grande área de serviço interna. Aceitamos financiamento e FGTS. Agende uma visita com um de nossos corretores. Avaliamos gratuitamente seu imóvel.<br>-Cod:VPAP20206 -Rev.11Dez",
+        "title": "Apartamento - Shopping Carioca - Vila da Penha",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2755456519",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21210623",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.849,
+                "approximateLon": -43.308,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Avenida Vicente de Carvalho",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Vila da Penha",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Vila da Penha",
+            "poisList": [
+                "TS:Vila Kosmos (Nossa Senhora do Carmo)",
+                "TS:Vicente de Carvalho (Parador)",
+                "TS:Vicente de Carvalho (Expresso)",
+                "TS:Vicente de Carvalho",
+                "TS:Marambaia",
+                "CS:Girão Girão Horti-Fruti",
+                "CS:Tecnologia do Pão",
+                "CS:Açougue do Augusto",
+                "CS:LECADÔ",
+                "CS:ALGO DOCE",
+                "PH:Droga Ética",
+                "PH:Cityfarma",
+                "PH:Drogaria Jurema",
+                "PH:A Nossa Drogaria",
+                "PH:Drogaria Mais Barato",
+                "SU:Brasas",
+                "SU:Legacy School",
+                "SU:Escola Municipal Desembargador Montenegro",
+                "SU:Escola Municipal Vicente de Carvalho",
+                "SU:Creche Municipal Tio Sebastião Xavier"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "SUPER_PREMIUM",
+        "externalId": "VPAP20206",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "80"
+        ],
+        "advertiserId": "88ee35a1-d05d-522c-b5e3-fadca4f6e940",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "price": "225000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "400"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2134595757",
+                "21993129826"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21993129826",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "88ee35a1-d05d-522c-b5e3-fadca4f6e940",
+        "name": "JAYLSON IMOBILIÁRIA | VILA DA PENHA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f49318a32e533bb9086d43a9ff3572ed/{description}.webp",
+        "licenseNumber": "06871-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 45812,
+        "phones": {
+            "primary": "2134595757",
+            "mobile": "21993129826"
+        },
+        "tier": ""
+    },
+    "medias": [
+        {
+            "id": "c8829cbc7bc023fc0d83b6fe641b775a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c8829cbc7bc023fc0d83b6fe641b775a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a61c5a8b17dff00488e80bbaf7700d5",
+            "url": "https://youtu.be/nhtoHf1C6WI",
+            "type": "VIDEO"
+        },
+        {
+            "id": "2e4cfb2dd1c8799305ab386c90c78feb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e4cfb2dd1c8799305ab386c90c78feb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "33c9876a2ae2ab191ded177476be865e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/33c9876a2ae2ab191ded177476be865e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "648df706ed0dd5205d2ed41329c66220",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/648df706ed0dd5205d2ed41329c66220/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "702eb810869eb1cb4462ac1d5b878abc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/702eb810869eb1cb4462ac1d5b878abc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "75728ec3555c4b6816b1a3a58dba4d7d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/75728ec3555c4b6816b1a3a58dba4d7d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c3f3f68dc3cc24fbb23c8e40ba569da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c3f3f68dc3cc24fbb23c8e40ba569da/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf55c0223a6f0b73600f5d3b3dc783f3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf55c0223a6f0b73600f5d3b3dc783f3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2a47979221274234ed7cd89b85bb44f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a47979221274234ed7cd89b85bb44f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f82cb2435362c030f2aae8b3c6e0c95",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f82cb2435362c030f2aae8b3c6e0c95/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2047b272d5654641749453748044a905",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2047b272d5654641749453748044a905/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ba0baa2d89452e6237a4ee95e218262",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ba0baa2d89452e6237a4ee95e218262/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e1b920aecb75a4377cd94353e9708105",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e1b920aecb75a4377cd94353e9708105/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "82dacb0e599b7ddb2504df3ae1472d73",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82dacb0e599b7ddb2504df3ae1472d73/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce62a16617346c709051c71c9be51ad5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce62a16617346c709051c71c9be51ad5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1cd292570fbdb202c94e828946db8efc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1cd292570fbdb202c94e828946db8efc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c01249551554c3b7b1877b9a388a640",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c01249551554c3b7b1877b9a388a640/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c85ab0279e06c5813dce51da30384419",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c85ab0279e06c5813dce51da30384419/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fcec48f1bd2a1a7376586d343505903b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fcec48f1bd2a1a7376586d343505903b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "45ca0d63bab66df8388a405a3ed36e77",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/45ca0d63bab66df8388a405a3ed36e77/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ef9f1591e46a7ff08483e90a9451d6a1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ef9f1591e46a7ff08483e90a9451d6a1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ba1da722ee6872fa05cfb79d6d9ad71c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ba1da722ee6872fa05cfb79d6d9ad71c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8f8901eb6d75488981b0aeafaa50b295",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8f8901eb6d75488981b0aeafaa50b295/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a537c571f157da62e18547850de55026",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a537c571f157da62e18547850de55026/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a22a2fc44936e1c6ae8efdd9f6408bb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a22a2fc44936e1c6ae8efdd9f6408bb/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "JAYLSON IMOBILIÁRIA | VILA DA PENHA",
+        "href": "/45812/jaylson-imobiliaria-vila-da-penha/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 80m²",
+        "href": "/imovel/apartamento-2-quartos-vila-da-penha-zona-norte-rio-de-janeiro-com-garagem-80m2-venda-RS225000-id-2755456519/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Vila da Penha",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Vicente de Carvalho",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

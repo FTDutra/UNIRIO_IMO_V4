@@ -1,0 +1,306 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "PETS_ALLOWED",
+            "SERVICE_AREA",
+            "KITCHEN_CABINETS",
+            "BATHROOM_CABINETS",
+            "SERVICE_BATHROOM",
+            "SIDE_ENTRANCE",
+            "SERVICE_ENTRANCE",
+            "ALUMINUM_WINDOW",
+            "COLD_FLOOR",
+            "BLINDEX_BOX",
+            "DISABLED_ACCESS",
+            "ELECTRONIC_GATE",
+            "SERVICE_ROOM"
+        ],
+        "usableAreas": [
+            "70"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "ÁGUIA REAL IMÓVEIS VENDE!<br>EXCLUSIVIDADE!<br>Oportunidade maravilhosa no Rio Comprido!<br>Excelente apartamento composto por sala, dois dormitórios, cozinha, banheiro social, área de serviço e dependências completas! Super bem dividido, claro e arejado! 70m²! <br>GARAGEM GARANTIDA PARA PROPRIETÁRIOS!<br>Ótimo estado de conservação! Entrar e morar!<br>Prédio estritamente residencial com poucos apartamentos por andar!<br>Proximidades do Metrô!<br>Documentação perfeita! Aceita financiamento e FGTS!<br>Ótima oportunidade para investimento ou moradia!<br>Não perca esta oportunidade!<br>Comprove!<br>O valor do imóvel poderá ser alterado sem prévio aviso.",
+        "title": "Apartamento para venda possui 70 metros quadrados com 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2721665646",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20261232",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.932,
+                "approximateLon": -43.209,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Santa Alexandrina",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Rio Comprido",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Rio Comprido",
+            "poisList": [
+                "BS:Rua Cosme Velho, 433",
+                "BS:Club Municipal",
+                "TS:Ponto de Mototáxi",
+                "TS:Cosme Velho",
+                "TS:Rua Cosme Velho, 433",
+                "TS:Largo do França",
+                "TS:Club Municipal",
+                "CS:Padaria do Raphael",
+                "CS:Cereal",
+                "CS:Padaria da Chácara",
+                "CS:Conflor",
+                "CS:Grão de Minas",
+                "PH:RIC",
+                "PH:Farmavita"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "CA20969",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "70"
+        ],
+        "advertiserId": "bfb11c58-0505-a965-fa3a-9c73ac68fb74",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "220000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "360"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21969278234",
+                "21996094698"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996094698",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "bfb11c58-0505-a965-fa3a-9c73ac68fb74",
+        "name": "AGUIA REAL IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d32b141d873dc70a43584f4ff429f5e/{description}.webp",
+        "licenseNumber": "6994-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 396968,
+        "phones": {
+            "primary": "21969278234",
+            "mobile": "21996094698"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "5f99e68dcc758e0c0cee16229f5058fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f99e68dcc758e0c0cee16229f5058fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8726d2ef44ae9b48da54b47583ddee7b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8726d2ef44ae9b48da54b47583ddee7b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0e478ec16ce411bd39ee51dad201abde",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0e478ec16ce411bd39ee51dad201abde/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb8b738f225ab9d433e437be7bad1330",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb8b738f225ab9d433e437be7bad1330/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "12fc5b5316ccb0838b2bb1a29193371f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/12fc5b5316ccb0838b2bb1a29193371f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9bca0163b3c80680d50082e366af6711",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9bca0163b3c80680d50082e366af6711/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2b82f6a7be511c3913e679def04b5ff9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b82f6a7be511c3913e679def04b5ff9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5726e351e46b47fbca594af6f63ffa2b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5726e351e46b47fbca594af6f63ffa2b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2c0b9220a46f2b8844d6637295e09e5d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c0b9220a46f2b8844d6637295e09e5d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2338bfe91de289baa16d5cea5aad4ea1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2338bfe91de289baa16d5cea5aad4ea1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48bb9215a08390ed12226ed8c00e1198",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48bb9215a08390ed12226ed8c00e1198/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "247fbc1618250149625b0a75173d9fa4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/247fbc1618250149625b0a75173d9fa4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc01c471f753ba9573b8c5bde7133a68",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc01c471f753ba9573b8c5bde7133a68/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8ea52cbbc14196b6143de7fe243daa10",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8ea52cbbc14196b6143de7fe243daa10/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8db408ee2f573b648142c6a134904430",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8db408ee2f573b648142c6a134904430/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd28838ab0530a693b961df474eea924",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd28838ab0530a693b961df474eea924/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a3ee3fbb1269ad01e57b2cfaf3aae718",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a3ee3fbb1269ad01e57b2cfaf3aae718/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f2400dfbecf6b3de9c9ee84ab75ce595",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f2400dfbecf6b3de9c9ee84ab75ce595/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "67fd51838798a78d17ef75b5f237b0fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/67fd51838798a78d17ef75b5f237b0fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b8bc8745cc5d3bf42aa973eea3eb4f1c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b8bc8745cc5d3bf42aa973eea3eb4f1c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "912f08d392e63069e6fb0a8c342388da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/912f08d392e63069e6fb0a8c342388da/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7bb6d6428b1d89d29114651a06c29a0e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7bb6d6428b1d89d29114651a06c29a0e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7c1624304b197deb5d30d7dffb7cd43d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7c1624304b197deb5d30d7dffb7cd43d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5b62dc98e7a56d0e92f28dbd792de629",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b62dc98e7a56d0e92f28dbd792de629/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "592f97ac7ca9d9c8653d6f4c18686644",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/592f97ac7ca9d9c8653d6f4c18686644/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4855a2b574b56ae6b378a1cf56449b63",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4855a2b574b56ae6b378a1cf56449b63/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e3a22ab08bf35ff72d5cb1c1e34fb6e5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e3a22ab08bf35ff72d5cb1c1e34fb6e5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4cb474668b295e6ece04d107df476ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4cb474668b295e6ece04d107df476ed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "55659facacc35f3a88c0e90c7859733b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/55659facacc35f3a88c0e90c7859733b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "78ef69a4b6f4503c5ef98620aa104d67",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/78ef69a4b6f4503c5ef98620aa104d67/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "AGUIA REAL IMOVEIS",
+        "href": "/396968/aguia-real-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 70m²",
+        "href": "/imovel/apartamento-2-quartos-rio-comprido-zona-central-rio-de-janeiro-70m2-venda-RS220000-id-2721665646/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Rio Comprido",
+            "state": "Rio de Janeiro",
+            "street": "Rua Santa Alexandrina",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

@@ -1,0 +1,254 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "INTERCOM",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "35"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Kitnet/Conjugado à venda com 35 m² de área total, localizado na frente do prédio com fachada em argamassa. Desfrute de uma vista livre e ensolarada pela manhã. <br><br> O imóvel possui padrão simples, ideal para praticidade, e está inserido em um condomínio com infraestrutura básica: interfone, portaria, circuito de TV a cabo, câmeras de vigilância e porteiro 24 horas. <br><br> Perfeito para quem busca conforto e segurança em um espaço compacto, esta kitnet proporciona praticidade e comodidade em seu dia a dia. Agende uma visita e venha conhecer esta oportunidade única!<br>-Cod:RBKI00208 -Rev.11Dez",
+        "title": "Kitnet/Conjugado - / Residencial / Centro",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [
+            "KITNET"
+        ],
+        "id": "2744715200",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "20230015",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.914,
+                "approximateLon": -43.188,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Rua Riachuelo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:Ponto Final: Cruz Vermelha",
+                "BS:P28",
+                "BS:BRS 1,2,4 Inválidos",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "BS:BRS 1,2 e 4",
+                "TS:Ponto Final: Cruz Vermelha",
+                "TS:P28",
+                "TS:BRS 1,2,4 Inválidos",
+                "TS:Rua Paschoal Carlos Magno próximo ao 15",
+                "TS:Francisco Muratori",
+                "CS:ArmaZen",
+                "CS:Seu Zé",
+                "CS:Padaria e Confeitaria Costa Bastos",
+                "CS:Café Bakery",
+                "CS:Padaria Vilar Pães",
+                "PH:Viva Bem",
+                "PH:Exata",
+                "PH:Drogaria Rey",
+                "PH:Drogaria Exata",
+                "PH:City Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "RBKI00208",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "35"
+        ],
+        "advertiserId": "e1725895-485b-0e08-292f-6a8322969bd3",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1",
+                "price": "295000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "550"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21980977522"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21980977522",
+        "stamps": []
+    },
+    "account": {
+        "id": "e1725895-485b-0e08-292f-6a8322969bd3",
+        "name": "RBS Imóveis - LTDA",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 795443,
+        "phones": {
+            "primary": "21980977522",
+            "mobile": "21980977522"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "71b08a125754a64e884be36b28e56792",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/71b08a125754a64e884be36b28e56792/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "05fd8e5a2fea94d868f7728f5c8e00dd",
+            "url": "https://youtu.be/INM05tp_WME",
+            "type": "VIDEO"
+        },
+        {
+            "id": "d1a4b523f66eaa1953cdeef509f3c9e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1a4b523f66eaa1953cdeef509f3c9e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f58636a0230fc2e0945608531baa14c2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f58636a0230fc2e0945608531baa14c2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "047c4a212679cff1df2a3b9c63a0f7fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/047c4a212679cff1df2a3b9c63a0f7fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "52628223dc7991c20dd470660fb49b61",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52628223dc7991c20dd470660fb49b61/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c5273721c07a5c46e9709d2ef44b3dd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c5273721c07a5c46e9709d2ef44b3dd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f4540a52a1e5c20142fb5b9f1c5cd5c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f4540a52a1e5c20142fb5b9f1c5cd5c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9401f852114bbadc8385902d43a00c65",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9401f852114bbadc8385902d43a00c65/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "51b46516f7d0f6f3ff8d28065f260477",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/51b46516f7d0f6f3ff8d28065f260477/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "92f44c73fdf7fa290a5293184460fd88",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/92f44c73fdf7fa290a5293184460fd88/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "869de85bd727ef45fd1899af24fe00f7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/869de85bd727ef45fd1899af24fe00f7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9d6458d784f90da8c3a637f1b44fd694",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9d6458d784f90da8c3a637f1b44fd694/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2413a68c58b35f160c881f8a2cea5d16",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2413a68c58b35f160c881f8a2cea5d16/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9bc7ca231f019701dd0f7715f6b9f208",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9bc7ca231f019701dd0f7715f6b9f208/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd207d61a6f89af260e8f61e02ebd686",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd207d61a6f89af260e8f61e02ebd686/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c0a8b44a5ed105de82d576d825fe0e80",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c0a8b44a5ed105de82d576d825fe0e80/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c93f2c00318c72e6eafedb9815691bcc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c93f2c00318c72e6eafedb9815691bcc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ee1425e5ea548821bfc825547b42afac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ee1425e5ea548821bfc825547b42afac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2721f298d8ed6c4771774057e2e9afa6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2721f298d8ed6c4771774057e2e9afa6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0aab79761b9f40fefe4d7ca2a9825b70",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0aab79761b9f40fefe4d7ca2a9825b70/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "RBS Imóveis - LTDA",
+        "href": "/795443/rbs-imoveis-ltda/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Kitnet com 1 Quarto à venda, 35m²",
+        "href": "/imovel/kitnet-1-quartos-centro-zona-central-rio-de-janeiro-35m2-venda-RS295000-id-2744715200/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Rua Riachuelo",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

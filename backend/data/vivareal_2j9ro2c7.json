@@ -1,0 +1,260 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "BALCONY",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "GARDEN",
+            "INTERNET_ACCESS",
+            "KITCHEN",
+            "INTERCOM",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "102"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "CONDOMÍNIO: Excelente prédio residencial, padrão Recreio com apenas 03 andares, fachada em granito, elevador, portaria decorada, garagem, interfone, gradil frontal e paisagismo, garagem subsolo e box para guardados.<br><br> APARTAMENTO: Lindo, finamente decorado, no coração da gleba A, a 600m da praia, Frente, Varandão, salão em 02 ambientes, circulação, banheiro social, 03 quartos (01 suíte), copa-cozinha, área, banheiro de empregada, box para guardados. 02 vagas. <br><br> OBS: Aceita carta, fgts, financiamento bancário, consórcio.............<br>-Cod:REAP30368 -Rev.11Dez",
+        "title": "Excelente 03 quartos próximo a Praia Ac. financiamento bancário Recreio bandeirantes",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2747450298",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790010",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.015,
+                "approximateLon": -43.448,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Professor Taciel Cylleno",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Salvador Allende (Expresso)",
+                "BS:Salvador Allende (Parador)",
+                "TS:Salvador Allende (Expresso)",
+                "TS:Salvador Allende (Parador)",
+                "TS:Terminal Recreio",
+                "TS:Catedral do Recreio",
+                "CS:Padaria & Confeitaria A Lisboeta",
+                "CS:Padaria e Confeitaria Rei do Recreio",
+                "CS:Pão Carioca",
+                "CS:Padaria Nobreza",
+                "CS:Santa Therezinha",
+                "PH:Venâncio",
+                "PH:Drogaria do Povo das Américas",
+                "PH:Botica do Rio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "REAP30368",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "102"
+        ],
+        "advertiserId": "0c4eeba4-2d16-7088-48d8-f1a485a51cc2",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "350",
+                "price": "830000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1100"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2137959889",
+                "21996166950"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996166950",
+        "stamps": []
+    },
+    "account": {
+        "id": "0c4eeba4-2d16-7088-48d8-f1a485a51cc2",
+        "name": "RECREIO IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/395289d5f0d0832b5945f75d1d550104/{description}.webp",
+        "licenseNumber": "009457-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 762476,
+        "phones": {
+            "primary": "2137959889",
+            "mobile": "21996166950"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "142e54bf7bdd4b292e5103a3d49c6839",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/142e54bf7bdd4b292e5103a3d49c6839/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dd330db37303043a179097213e629244",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd330db37303043a179097213e629244/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "92b1a9ce62b0f87081759d5628577d71",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/92b1a9ce62b0f87081759d5628577d71/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "06dc84f801aabe2eed854a8703121f39",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/06dc84f801aabe2eed854a8703121f39/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a712d637a639ed999c072fedff1bd21",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a712d637a639ed999c072fedff1bd21/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "908766975484a50dba67fd3f4083d8fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/908766975484a50dba67fd3f4083d8fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5557ac4673dba8871889f5e378969537",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5557ac4673dba8871889f5e378969537/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "88f0f1e574cd24dbd227cfd89b8b2621",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/88f0f1e574cd24dbd227cfd89b8b2621/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1bf3e644287683d1cea9c8a228d9baf0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1bf3e644287683d1cea9c8a228d9baf0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1da10e0661c25665f4f814ee3c806658",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1da10e0661c25665f4f814ee3c806658/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f83830f36473b5f217de5731523b5e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f83830f36473b5f217de5731523b5e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f1ee83c7e66afb2e120ed7fdc7d01e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f1ee83c7e66afb2e120ed7fdc7d01e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c3292adfebb97c392e7b21d6892a7bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c3292adfebb97c392e7b21d6892a7bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c91a096728d83943fbc2a765e1b60db6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c91a096728d83943fbc2a765e1b60db6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "58539302c08e74ca8391820d2ff80f20",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/58539302c08e74ca8391820d2ff80f20/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b74314d7cf8f334351e3a28fe7d80c81",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b74314d7cf8f334351e3a28fe7d80c81/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3d783125fcf980f81d2401234501c51f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3d783125fcf980f81d2401234501c51f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4bf72352cf842c2b4d5e4993b50ad772",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4bf72352cf842c2b4d5e4993b50ad772/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c8a4ae7eed76a03edfe8163e171f084",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c8a4ae7eed76a03edfe8163e171f084/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e901dd22f6505a69f7852acbbbdc5a2b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e901dd22f6505a69f7852acbbbdc5a2b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "40b8f5529070a8ccb7b99e2767c72487",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40b8f5529070a8ccb7b99e2767c72487/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f8f15a5b0e34cee34131ca9adda4f6cc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f8f15a5b0e34cee34131ca9adda4f6cc/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "RECREIO IMÓVEIS",
+        "href": "/762476/recreio-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 102m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-102m2-venda-RS830000-id-2747450298/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Professor Taciel Cylleno",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "ELEVATOR",
+            "BALCONY",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "SPORTS_COURT",
+            "BICYCLES_PLACE",
+            "BUILTIN_WARDROBE",
+            "CLOSET",
+            "KITCHEN",
+            "DINNER_ROOM",
+            "HEATING",
+            "FITNESS_ROOM",
+            "SEA_VIEW",
+            "INDOOR_SOCCER",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "166"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento no bairro São Conrado com 166.0m², contendo hall, sala de estar, varanda aberta, sala de jantar, lavabo. Na parte íntima do imóvel 4 quartos, sendo 1 suíte, além de 3 banheiros, armários embutidos. Parte de serviço com cozinha, copa, área de serviço, dependência de empregada, banheiro de empregada. Outras características, vista para o mar, 2 vagas de garagem.",
+        "title": "Apartamento para venda com 4 quartos, 166m² - São Conrado - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2759943621",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22610080",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.996,
+                "approximateLon": -43.259,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Povina Cavalcanti",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Sao Conrado",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "São Conrado",
+            "poisList": [
+                "BS:Ponto Final: Prefeito Mendes de Moraes",
+                "BS:Almirante Álvaro Alberto",
+                "BS:Van São Conrado-Jardim de Alah",
+                "BS:Largo das Flores",
+                "BS:Mercado Popular da Rocinha",
+                "TS:Ponto Final: Prefeito Mendes de Moraes",
+                "TS:Almirante Álvaro Alberto",
+                "TS:Estrada da Gávea",
+                "TS:Aquarela do Brasil",
+                "TS:Van São Conrado-Jardim de Alah",
+                "CS:Torta & Cia",
+                "SU:Escola Municipal Rinaldo De Lamare",
+                "SU:Ciep Doutor Bento Rubião",
+                "SU:Escola Municipal Lúcia Miguel Pereira",
+                "SU:Creche Municipal Doutor Sobral Pinto",
+                "SU:Escola Municipal Paula Brito"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "12011693",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "166"
+        ],
+        "advertiserId": "53a81422-c55b-213a-0bfa-48f6a5cb7922",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "737",
+                "price": "2200000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2300"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2125409999",
+                "21995592196"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21995592196",
+        "stamps": []
+    },
+    "account": {
+        "id": "53a81422-c55b-213a-0bfa-48f6a5cb7922",
+        "name": "JUDICE & ARAUJO IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b47db0afe01055497c42eadf8736dc4/{description}.webp",
+        "licenseNumber": "005244-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 51066,
+        "phones": {
+            "primary": "2125409999",
+            "mobile": "21995592196"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "91423fb61b43da8b042e304a060fba3b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/91423fb61b43da8b042e304a060fba3b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81a97930ac64da988733f3a596b67220",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81a97930ac64da988733f3a596b67220/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "160cdff55a30936315587b8c760e1888",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/160cdff55a30936315587b8c760e1888/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b14d62ffe9ed547d118ec772233e649f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b14d62ffe9ed547d118ec772233e649f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fdfbd72af6c800d27fa4c9357283330c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fdfbd72af6c800d27fa4c9357283330c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b9c38b5e67e942a558bb62cf5e49077d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b9c38b5e67e942a558bb62cf5e49077d/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "JUDICE & ARAUJO IMOVEIS",
+        "href": "/51066/judice-araujo-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 166m²",
+        "href": "/imovel/apartamento-4-quartos-sao-conrado-zona-sul-rio-de-janeiro-com-garagem-166m2-venda-RS2200000-id-2759943621/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "São Conrado",
+            "state": "Rio de Janeiro",
+            "street": "Rua Povina Cavalcanti",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

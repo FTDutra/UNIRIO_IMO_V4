@@ -1,0 +1,292 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "NUMBER_OF_FLOORS",
+            "HEATING"
+        ],
+        "usableAreas": [
+            "61"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua Jardim Botânico, no bairro Jardim Botânico em Rio de Janeiro. Este imóvel conta com área construída de 61m², oferecendo 1 quarto e 1 banheiro. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apartamento à venda em Jardim Botânico com 61 m², 1 quarto",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2745783761",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22461000",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.961,
+                "approximateLon": -43.214,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Jardim Botânico",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Jardim Botanico",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "poisList": [
+                "BS:Hospital da Lagoa",
+                "BS:Jardim Botânico",
+                "BS:Maria Angélica",
+                "BS:Humaitá",
+                "BS:Baixo Gávea",
+                "TS:Hospital da Lagoa",
+                "TS:Maria Angélica",
+                "TS:Humaitá",
+                "TS:Paineiras",
+                "TS:Cobal do Humaitá",
+                "CS:Vitória Régia",
+                "CS:A Padaria - Café Et Marché",
+                "CS:Panificação Lagoa",
+                "CS:La Bicyclette",
+                "CS:Bastarda",
+                "PH:Padrão",
+                "PH:Ric",
+                "PH:Minipreço"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "PUegi2ma",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "61"
+        ],
+        "advertiserId": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2700",
+                "price": "1100000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "586"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21988595427"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988595427",
+        "stamps": []
+    },
+    "account": {
+        "id": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "name": "Luccare Investimentos",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/356f29ff805ce9c2aedf37766016903e/{description}.webp",
+        "licenseNumber": "065358-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 79203,
+        "phones": {
+            "primary": "21988595427",
+            "mobile": "21988595427"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "f1cbc8a69f665a31e971963762da833b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f1cbc8a69f665a31e971963762da833b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7ec2de70cd9096e81df162d8313f3d7e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7ec2de70cd9096e81df162d8313f3d7e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c3f509274b00a0a41b114f2139a94fd6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c3f509274b00a0a41b114f2139a94fd6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e6f2f6734e82ebb2feadb109e5c9cd78",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e6f2f6734e82ebb2feadb109e5c9cd78/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "091a2da9f4c3d999c9c1b350cd817bc9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/091a2da9f4c3d999c9c1b350cd817bc9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "952b0b3bae423a8635bf58a46c9f66c1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/952b0b3bae423a8635bf58a46c9f66c1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8d6009eaa613b51249a2bfaffad54a41",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d6009eaa613b51249a2bfaffad54a41/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e359aec371186ddc753b45fa38bc1a88",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e359aec371186ddc753b45fa38bc1a88/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b3b1773f7cd40c520d3a68119e2e1c01",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b3b1773f7cd40c520d3a68119e2e1c01/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dfeda06d5a270f2792999797a73b5c99",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dfeda06d5a270f2792999797a73b5c99/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "70436ef44e3a19a339d5d5aba4ba4718",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/70436ef44e3a19a339d5d5aba4ba4718/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f89c0caeafd1455d59b35eab0530fbb7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f89c0caeafd1455d59b35eab0530fbb7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7acd7323fb6aa70bfbf55eb7d7f2e4d0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7acd7323fb6aa70bfbf55eb7d7f2e4d0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2b72cb063b8bbb102383d0a67679e46d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b72cb063b8bbb102383d0a67679e46d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8c6343026346d9507c0dbab1925a483f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8c6343026346d9507c0dbab1925a483f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9d80af5b859c892d3a5d892bfd1190a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9d80af5b859c892d3a5d892bfd1190a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e8e32cae90a0f6976bea68fe5fa90b1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9e8e32cae90a0f6976bea68fe5fa90b1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6225d2828cbb745538c181948ebe7e78",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6225d2828cbb745538c181948ebe7e78/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4d7896e926a651a59694ac3e1461f668",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4d7896e926a651a59694ac3e1461f668/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e9ba480f524a602dfc47b8cf3c89b192",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e9ba480f524a602dfc47b8cf3c89b192/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1ccb9c0af3fe296c9e594ef6d9773fa3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1ccb9c0af3fe296c9e594ef6d9773fa3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "193ac04cc8bdef72bf485bef6f0e51e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/193ac04cc8bdef72bf485bef6f0e51e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f5bfa1e697890467d14f947d1b155a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f5bfa1e697890467d14f947d1b155a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb7913ab26f43e58d6de7e7a8444ffe5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb7913ab26f43e58d6de7e7a8444ffe5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a8d79a817e2497f70939d90f37ff37e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a8d79a817e2497f70939d90f37ff37e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "940846886f57f784d60917723ec2d3f5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/940846886f57f784d60917723ec2d3f5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e9fb86ae41e860c4accf7f4da732308",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e9fb86ae41e860c4accf7f4da732308/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7ac494100ebd957270c9429c75861b46",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7ac494100ebd957270c9429c75861b46/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ab13ed82d668dfb2e86274251de411a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ab13ed82d668dfb2e86274251de411a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "004aecd754092706c928a63a888d0af5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004aecd754092706c928a63a888d0af5/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Luccare Investimentos",
+        "href": "/79203/luccare-investimentos/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 61m²",
+        "href": "/imovel/apartamento-1-quartos-jardim-botanico-zona-sul-rio-de-janeiro-61m2-venda-RS1100000-id-2745783761/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "state": "Rio de Janeiro",
+            "street": "Rua Jardim Botânico",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

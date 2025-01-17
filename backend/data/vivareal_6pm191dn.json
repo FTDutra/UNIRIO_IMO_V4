@@ -1,0 +1,217 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "SERVICE_AREA",
+            "INTERNET_ACCESS",
+            "KITCHEN",
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "65"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "div style=text-align: justify; Colégio Militar, metrô S. F. Xavier, supermercado, padarias, hortifrutis, restaurantes, escolas, farto meios de transportes, via de fácil acesso para demais regiões.<br> div style=text-align: justify; Prédio único, condomínio em conta, apartamento vazio, pronto para entrar e morar, totalmente reformado. Distribuído em sala, 2 dormitórios, sendo 2 suítes e 1 sendo canadense, cozinha e área de serviço.<br> div style=text-align: justify; -Cod:MBAP28012 -Rev.20Out<br><br>OBS: NÚMERO DE ENDEREÇO APROXIMADO",
+        "title": "Apartamento - Padrão / Residencial / Tijuca",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2748810761",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "20550012",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.916,
+                "approximateLon": -43.227,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua São Francisco Xavier",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:P8: Barão de Mesquita",
+                "BS:P9: Moraes e Silva",
+                "BS:P6: Jaceguaí",
+                "BS:Ponto Final: Saens Peña :: Linha 601",
+                "BS:Ponto Final do 600 (Taquara)",
+                "TS:P8: Barão de Mesquita",
+                "TS:P9: Moraes e Silva",
+                "TS:P6: Jaceguaí",
+                "TS:Ponto Final: Saens Peña :: Linha 601",
+                "TS:Ponto Final do 600 (Taquara)",
+                "CS:Panetteria São Francisco Xavier",
+                "CS:Flor da Tijuca",
+                "CS:A Propósito",
+                "CS:Confeitaria Rita de Cássia",
+                "CS:Empório Lamego",
+                "PH:Drograria Venâncio",
+                "PH:Drogaria Pedro Ernesto",
+                "PH:Farmavita",
+                "PH:Farma Dez"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "MBAP28012",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "65"
+        ],
+        "advertiserId": "61671c8a-a28f-9cb8-cf31-30816e3cf46e",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "848",
+                "price": "450000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "770"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2139597000",
+                "21988416234"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988416234",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "61671c8a-a28f-9cb8-cf31-30816e3cf46e",
+        "name": "RJC PRIME",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e777b2c4617fa1feb07c1b57ced6a945/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 844967,
+        "phones": {
+            "primary": "2139597000",
+            "mobile": "21988416234"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "a936099ca2df4eaaed4994ec7febd3df",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a936099ca2df4eaaed4994ec7febd3df/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0c0fbeaa471e37fea415b8b893afbc01",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0c0fbeaa471e37fea415b8b893afbc01/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "46aa04664b66887300cbbec38fa9d405",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/46aa04664b66887300cbbec38fa9d405/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c4aef80109335c6077748c4b791778b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c4aef80109335c6077748c4b791778b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6659e07b4890ac354ad9a15b0dda5984",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6659e07b4890ac354ad9a15b0dda5984/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21d005ee4a27cea2f5281c11292698ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21d005ee4a27cea2f5281c11292698ff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e7076663b646a6f111c64f5ffcfc6a9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e7076663b646a6f111c64f5ffcfc6a9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dd24264dd8ceff3eb468a008b423a8fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd24264dd8ceff3eb468a008b423a8fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1771ebc90ba6766a4ea9ae37d895ad20",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1771ebc90ba6766a4ea9ae37d895ad20/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b4cbc4907b3ca6a3b3263676682e72b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b4cbc4907b3ca6a3b3263676682e72b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9b69f39f01fcfc7c27c4b704e4c58fd1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9b69f39f01fcfc7c27c4b704e4c58fd1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc78d39f059c7c152cdaddbb80c630d8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc78d39f059c7c152cdaddbb80c630d8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "402d3f082ce9e4ec3204345ecd15cd38",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/402d3f082ce9e4ec3204345ecd15cd38/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "RJC PRIME",
+        "href": "/844967/rjc-prime/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 65m²",
+        "href": "/imovel/apartamento-2-quartos-tijuca-zona-norte-rio-de-janeiro-65m2-venda-RS450000-id-2748810761/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua São Francisco Xavier",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

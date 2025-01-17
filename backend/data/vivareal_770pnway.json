@@ -1,0 +1,260 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "BALCONY",
+            "GARAGE",
+            "GARDEN",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "GREEN_SPACE",
+            "PARTY_HALL",
+            "BUILTIN_WARDROBE",
+            "KITCHEN",
+            "LARGE_WINDOW",
+            "SAFETY_CIRCUIT",
+            "SEA_VIEW"
+        ],
+        "usableAreas": [
+            "90"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda na Praia da Bandeira com vista espetacular para a Baía de Guanabara. Imóvel espaçoso com 2 quartos, sendo 1 suíte, e 2 banheiros. Possui dependências completas, com todos os cômodos equipados com armários embutidos. A cozinha é planejada, prática e moderna, e há uma área de serviço bem ventilada. Localização privilegiada em região tranquila e agradável, perfeita para quem busca conforto e qualidade de vida perto do mar. Ideal para morar ou investir. 7eff4",
+        "title": "Praia da Bandeira | Apartamento Garden 2 quartos, sendo 1 suite",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2761253227",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21921550",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.81,
+                "approximateLon": -43.179,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Maciel Monteiro",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Praia da Bandeira",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Praia da Bandeira",
+            "poisList": [
+                "BS:Terminal da Ribeira :: Plataforma C",
+                "BS:Terminal da Ribeira :: Plataforma B",
+                "BS:Terminal da Ribeira :: Plataforma A",
+                "TS:Cocotá",
+                "TS:Terminal da Ribeira :: Plataforma C",
+                "TS:Terminal da Ribeira :: Plataforma B",
+                "TS:Terminal da Ribeira :: Plataforma A",
+                "TS:Terminal da Ribeira",
+                "CS:Padaria X",
+                "CS:padaria",
+                "CS:Padaria do Jorge",
+                "PH:Dograrias Mais Barato",
+                "PH:Drogarias Mais Barato",
+                "PH:Drogaria Mundial"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "IG2AG104481",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "115"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "856",
+                "price": "530000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "540"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": []
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "077e43c13b5baa36119213ed88ae5f5f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/077e43c13b5baa36119213ed88ae5f5f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "98004bc7b23837dfaf208e4f3bdbaa1a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98004bc7b23837dfaf208e4f3bdbaa1a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "25dffac868ce2161f3d8b16fc4b53f52",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/25dffac868ce2161f3d8b16fc4b53f52/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1b47ec1115cd95193d98a78a6780859a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1b47ec1115cd95193d98a78a6780859a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ef3b3f255a5e8268f58673f4ccff1b58",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ef3b3f255a5e8268f58673f4ccff1b58/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a7bb293b77ec7be4e4cf29c4bfe6729",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a7bb293b77ec7be4e4cf29c4bfe6729/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81fe2cc5040be5e8354dbf8972208fd4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81fe2cc5040be5e8354dbf8972208fd4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf39ec21d6be09da94902c12fc7d8b72",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf39ec21d6be09da94902c12fc7d8b72/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1de7a614d9f36526574f880494b592cf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1de7a614d9f36526574f880494b592cf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7392e8c2420fe244d4f9f7a58cd94087",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7392e8c2420fe244d4f9f7a58cd94087/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "400ea620d8f7386abbd3d5a70938a53f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/400ea620d8f7386abbd3d5a70938a53f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bdae4ac43a0b272ace32ec657ac1b4c2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bdae4ac43a0b272ace32ec657ac1b4c2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9bf29410b1abd732b970b2009a275f50",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9bf29410b1abd732b970b2009a275f50/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "730d7beacca302a0f8ef8d501a2c1381",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/730d7beacca302a0f8ef8d501a2c1381/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "847a8df410e67fc2a5142128b9135cee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/847a8df410e67fc2a5142128b9135cee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e437ee9115af9929b1ca46f02f1769aa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e437ee9115af9929b1ca46f02f1769aa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "79834adad79c4a517b31d333126a28f0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/79834adad79c4a517b31d333126a28f0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a16fc9c6bfc63d8a4ba83fad39bb39d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a16fc9c6bfc63d8a4ba83fad39bb39d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "63915fbf87a0709ab432aef5526c06e2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/63915fbf87a0709ab432aef5526c06e2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d6845dda0d653ebeb00807d31553feda",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d6845dda0d653ebeb00807d31553feda/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "899e11ce5822c65b572f6c8776967f35",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/899e11ce5822c65b572f6c8776967f35/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 90m²",
+        "href": "/imovel/apartamento-2-quartos-praia-da-bandeira-zona-norte-rio-de-janeiro-com-garagem-90m2-venda-RS530000-id-2761253227/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": " Praia da Bandeira",
+            "state": "Rio de Janeiro",
+            "street": "Rua Maciel Monteiro",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

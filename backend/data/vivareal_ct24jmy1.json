@@ -1,0 +1,192 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [],
+        "usableAreas": [
+            "202"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Imóvel amplo à venda com 3 quartos, sendo 1 suíte, e 2 banheiros no total. Este imóvel está bem equipado, é ideal para quem procura conforto e comodidade. O condomínio fica localizado em Rua Conde de Irajá no bairro Botafogo em Rio de Janeiro. Está bem localizado, próximo a pontos de interesse de Botafogo, tais como Clinica Dr. Pedro L Briggs, Universidade Corporativa, Escola Municipal Marechal Hermes, Espaço MIX, Casa de Saúde São José e Colégio Padre Antônio Vieira.<br>Itens disponíveis<br>Box<br><br>Varanda<br><br>Piscina privativa<br><br>Armários no quarto<br><br>Armários nos banheiros<br><br>Armários na cozinha<br><br>Ar condicionado<br><br>Chuveiro a gás<br><br>Apartamento cobertura<br><br>Área de serviço",
+        "title": "Apartamento à venda com 202m², 3 quartos e 1 vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2751731538",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22271020",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.957,
+                "approximateLon": -43.194,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Conde de Irajá",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Botafogo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:Cobal do Humaitá",
+                "BS:Cobal",
+                "BS:BRS 3: Sorocaba",
+                "BS:Humaitá",
+                "BS:Ponto Regulador: Metrô Siqueira Campos",
+                "TS:Cobal do Humaitá",
+                "TS:Cobal",
+                "TS:Humaitá",
+                "TS:Acesso Mena Barreto",
+                "TS:Ponto Regulador: Metrô Siqueira Campos",
+                "CS:Do Conde",
+                "CS:Mercado Humaitá",
+                "CS:TECNOMEDI BOTAFOGO",
+                "CS:Casa Imperial",
+                "CS:Farinha Pura",
+                "PH:Caminhoá",
+                "PH:Ypiranga",
+                "PH:Minipreço",
+                "PH:Bio Mundo",
+                "PH:Nash"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP6126RJ",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "202"
+        ],
+        "advertiserId": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "507",
+                "price": "2050000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1700"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21988595427"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988595427",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "name": "Luccare Investimentos",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/356f29ff805ce9c2aedf37766016903e/{description}.webp",
+        "licenseNumber": "065358-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 79203,
+        "phones": {
+            "primary": "21988595427",
+            "mobile": "21988595427"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "df039820700c68ad3bb19bdec72ff7af",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df039820700c68ad3bb19bdec72ff7af/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0049066efbfdf3ab9829ea9108d2852f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0049066efbfdf3ab9829ea9108d2852f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "74d702f3af05c6bc881cd58881876a01",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/74d702f3af05c6bc881cd58881876a01/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "494531c9c49b5e13c2eb80a41cad515a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/494531c9c49b5e13c2eb80a41cad515a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f1ece9ec0bc5d35b037ed81482f8217",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f1ece9ec0bc5d35b037ed81482f8217/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42a869f853651ef30dde94658f8673ca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42a869f853651ef30dde94658f8673ca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c08187360a68f9e2e5383f5cfd28a7e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c08187360a68f9e2e5383f5cfd28a7e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f9f66e73cf5be3b5bdccc842514d91a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f9f66e73cf5be3b5bdccc842514d91a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "555849f497837d1620a690397207b380",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/555849f497837d1620a690397207b380/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Luccare Investimentos",
+        "href": "/79203/luccare-investimentos/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 202m²",
+        "href": "/imovel/apartamento-3-quartos-botafogo-zona-sul-rio-de-janeiro-com-garagem-202m2-venda-RS2050000-id-2751731538/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Conde de Irajá",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

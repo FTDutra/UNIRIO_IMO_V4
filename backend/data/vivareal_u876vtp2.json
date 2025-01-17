@@ -1,0 +1,323 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "BALCONY",
+            "GYM",
+            "GARAGE",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "PARTY_HALL",
+            "NEAR_ACCESS_ROADS",
+            "NEAR_SCHOOL",
+            "NEAR_HOSPITAL",
+            "NEAR_SHOPPING_CENTER",
+            "SPORTS_COURT",
+            "HOME_OFFICE",
+            "CONCIERGE_24H",
+            "BUILTIN_WARDROBE",
+            "KITCHEN_CABINETS",
+            "KITCHEN",
+            "GOURMET_KITCHEN",
+            "LARGE_WINDOW",
+            "INTEGRATED_ENVIRONMENTS",
+            "SEMI_OLYMPIC_POOL",
+            "FITNESS_ROOM",
+            "SEA_VIEW",
+            "NEAR_PUBLIC_TRANSPORT",
+            "SMART_APARTMENT"
+        ],
+        "usableAreas": [
+            "143"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "BAAP3124 | Apartamento à venda 3 quartos na ABM com Vista mar | Barra da Tijuca.<br>Apartamento 143m² andar alto, sol da manhã com vista mar na ABM, Barra da Tijuca. Planta original de 4 quartos, atualmente transformada em 3 quartos, sendo um utilizado para ampliar a sala, atualmente utilizado como escritório.<br>O apartamento oferece uma sala ampla em três ambientes, equipada com elegantes armários de lacca, ar-condicionado, piso em porcelanato 90x90 confere sofisticação ao ambiente. Conta também com um lavabo impecável e uma cozinha planejada com armários sob medida, além de área de serviço com banheiro. A varanda, recém-reformada com guarda-corpo novo, é um verdadeiro destaque, proporcionando uma vista espetacular para o mar e recebendo o agradável sol da manhã.<br>Para mais informações e agendamento de visitas, entre em contato conosco! 88025",
+        "title": "Barra da Tijuca | Apartamento 3 quartos, sendo 1 suite",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2745454419",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22631450",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.005,
+                "approximateLon": -43.321,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Jornalista Henrique Cordeiro",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "TS:Bosque Marapendi",
+                "TS:Bosque Marapendi (Expresso)",
+                "TS:Bosque Marapendi (Parador)",
+                "TS:Caís do Downtown",
+                "TS:Caís do Condado de Cascais",
+                "CS:Padaria Belle Barra",
+                "CS:Amendoeira II",
+                "CS:Mini Market Gigoia",
+                "CS:Sabor da Bahia",
+                "CS:O Boi Que Ri",
+                "PH:Drogas Rio",
+                "SU:IDOMED",
+                "SU:Britannia English School",
+                "SU:Escola Municipal Golda Meir",
+                "SU:Centro Educacional Muzema",
+                "SU:Creche Municipal Carmen Miranda"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "BAAP3124",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "143"
+        ],
+        "advertiserId": "47f1083a-31bc-6d3c-12e7-fd27d0e5a994",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "4338",
+                "price": "2390000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2353"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21967320404"
+            ]
+        },
+        "videoTourLink": "https://my360.com.br/3d-model/icon-golf-apartamento-decorado-3-suites-david-bastos/fullscreen/",
+        "whatsappNumber": "21967320404",
+        "stamps": []
+    },
+    "account": {
+        "id": "47f1083a-31bc-6d3c-12e7-fd27d0e5a994",
+        "name": "SUA CASA DIGITAL",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b7c6cff2e09ebcf80c09d49722f1cdf1/{description}.webp",
+        "licenseNumber": "8313-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 648459,
+        "phones": {
+            "primary": "21967320404",
+            "mobile": "21967320404"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "5bd62e356d9e1526eeea88d9c72bb3a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5bd62e356d9e1526eeea88d9c72bb3a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c38f26be7bfdd1cd02681cd0d7afd4bc",
+            "url": "https://my360.com.br/3d-model/icon-golf-apartamento-decorado-3-suites-david-bastos/fullscreen/",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "c5098aba87204838384fa070abb8668f",
+            "url": "https://www.youtube.com/watch?v=Z4ydIOm7UWg",
+            "type": "VIDEO"
+        },
+        {
+            "id": "c8ed03e7d4f89afccf0c913333304788",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c8ed03e7d4f89afccf0c913333304788/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "472ba6d6bfedc2d75475d2cf48b743b1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/472ba6d6bfedc2d75475d2cf48b743b1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4b51e8fbaf5f3904d178e4f691945459",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b51e8fbaf5f3904d178e4f691945459/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a698b90f15e93b9e6448c3c913bbe40",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a698b90f15e93b9e6448c3c913bbe40/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e737e3e1ed80b1d2baff401159c4fc0a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e737e3e1ed80b1d2baff401159c4fc0a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d2d8b1a6e33692878bfb298a17e707fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d2d8b1a6e33692878bfb298a17e707fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fba5f4342b675ae8330118be5a440db4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fba5f4342b675ae8330118be5a440db4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bddbfc4f694a9bdcfa90e52219c67a00",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bddbfc4f694a9bdcfa90e52219c67a00/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ab988604339c2ba7f17b877685d54576",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ab988604339c2ba7f17b877685d54576/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "16b717292702d38f9245aacae9ee66af",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/16b717292702d38f9245aacae9ee66af/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "91e04484263fb3d395bb480cf06cef1c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/91e04484263fb3d395bb480cf06cef1c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a0a357fa85412dd7a7ae0c0befd114c8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a0a357fa85412dd7a7ae0c0befd114c8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7dbd8ceb90babc84d081a49911ceaa7c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7dbd8ceb90babc84d081a49911ceaa7c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dbfc4963ae95a9a1ded716a3b94be9a7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dbfc4963ae95a9a1ded716a3b94be9a7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c02d0cdc40cfe3191542c37bf4e1ea0a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c02d0cdc40cfe3191542c37bf4e1ea0a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "97b8b8ed8de4501080b53358ad4f8dc1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/97b8b8ed8de4501080b53358ad4f8dc1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c731d4fb5dccf0ecfcaedfbddcb556f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c731d4fb5dccf0ecfcaedfbddcb556f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a533ca782fa0c8f29132b2c477499dbe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a533ca782fa0c8f29132b2c477499dbe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "61460cc5f6b9e0cae3ab62f20f52483b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/61460cc5f6b9e0cae3ab62f20f52483b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a0dd82c79123987e4de3d0cad8397ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a0dd82c79123987e4de3d0cad8397ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dc6763d8fc71b8e5ad413d5fd3a08d0a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc6763d8fc71b8e5ad413d5fd3a08d0a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e66d997c489bb0490580f54fa3d7170",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9e66d997c489bb0490580f54fa3d7170/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4134963325318a5a8d0cbc3fc1269acd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4134963325318a5a8d0cbc3fc1269acd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d940ec15b2ce8ad874f35ca0ee601203",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d940ec15b2ce8ad874f35ca0ee601203/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d575cb0ba0109f4aec46bc9ded64563c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d575cb0ba0109f4aec46bc9ded64563c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3d3e18a31e495038c1eeda42d4498810",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3d3e18a31e495038c1eeda42d4498810/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6e13154087985a181e8c95dc0cc4f8ac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6e13154087985a181e8c95dc0cc4f8ac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c917fd7551d7f547315c05376789d7f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c917fd7551d7f547315c05376789d7f8/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SUA CASA DIGITAL",
+        "href": "/648459/sua-casa-digital/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 143m²",
+        "href": "/imovel/apartamento-3-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-143m2-venda-RS2390000-id-2745454419/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Jornalista Henrique Cordeiro",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

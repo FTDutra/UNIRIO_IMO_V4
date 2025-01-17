@@ -1,0 +1,319 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GYM",
+            "GOURMET_SPACE",
+            "GARAGE",
+            "GARDEN",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "GOURMET_BALCONY",
+            "GREEN_SPACE",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "CONCIERGE_24H",
+            "RECREATION_AREA",
+            "ALARM_SYSTEM",
+            "HOME_CINEMA",
+            "REFLECTING_POOL",
+            "SAFETY_CIRCUIT",
+            "SPA",
+            "PAVED_STREET",
+            "WATCHMAN",
+            "RECEPTION",
+            "HIKING_TRAIL",
+            "ADULT_GAME_ROOM",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "160"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Nova Época vende excelente apartamento no empreendimento Ilha Pura, Barra da Tijuca. São 160m² de área privativa, bem distribuídos em 4 suítes, sala de estar e jantar, dependências, 5 banheiros (incluindo a suíte), sol da manhã, 2 vagas na garagem, ampla varanda. Salão de festas adulto e infantil, espaço gourmet, espaço kids, espaço massagem com ofurô, espaço beleza, SPA, academia, SPA externo, spinning, espaço jogos, espaço office, salão de festas teen, garage band, cinema, hidromassagem, bar da piscina, quadra poliesportiva, segurança 24 horas, além do parque de 72.000m² totalmente pronto. Linha de ônibus para o Metrô Jardim Oceânico com ônibus executivo exclusivos para os moradores de Ilha Pura. 3b9f9",
+        "title": "Barra da Tijuca | Apartamento 4 quartos, sendo 4 suites",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2747292207",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            3
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22783124",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.983,
+                "approximateLon": -43.413,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Escritor Rodrigo Melo Franco",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra Olímpica",
+            "poisList": [
+                "BS:Estrada dos Bandeirantes",
+                "TS:Olof Palme",
+                "TS:Ilha Pura",
+                "TS:Estrada dos Bandeirantes",
+                "TS:Riocentro",
+                "TS:Golfe Olímpico",
+                "CS:La Fabrica dell Pane",
+                "CS:Deli Delícia",
+                "CS:Panificadora e Mercearia São Jorge",
+                "CS:Lilo's Café",
+                "PH:Cruz Souza Xavier",
+                "PH:Drogarias MEP"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            4
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "JB4AP73257",
+        "bathrooms": [
+            6
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "160"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "1600000",
+                "businessType": "SALE"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": []
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "dc6d10649a3d5315c93f988f3339b22d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc6d10649a3d5315c93f988f3339b22d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c524220b16e3bde2c6f0d9cc68059046",
+            "url": "https://www.youtube.com/watch?v=KyH6se6BJ68",
+            "type": "VIDEO"
+        },
+        {
+            "id": "78744e85a563cf742660e65c9c956a00",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/78744e85a563cf742660e65c9c956a00/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a0d84db06a98b00f76d1b120aa2b7cee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a0d84db06a98b00f76d1b120aa2b7cee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c52160ccced20e70ad13cd245e9ddc4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c52160ccced20e70ad13cd245e9ddc4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ab2479ffef25cc50b9f0590f6fd9be05",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ab2479ffef25cc50b9f0590f6fd9be05/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f4066efaac90a03d204e282061b8410f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f4066efaac90a03d204e282061b8410f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "000befca04551b05ee09ba5195025e0e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/000befca04551b05ee09ba5195025e0e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ed23bc14f8b64597188aea5785c9da23",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed23bc14f8b64597188aea5785c9da23/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1297c06e0b0a71c31a66ab072f4aa1e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1297c06e0b0a71c31a66ab072f4aa1e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ebfa8e2efa150efdf3dac16fc493e9f1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ebfa8e2efa150efdf3dac16fc493e9f1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c2038b2f2b31097b3b244eb900a63477",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2038b2f2b31097b3b244eb900a63477/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fa8f20fd00f411cb6f8d9036dbfc54eb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa8f20fd00f411cb6f8d9036dbfc54eb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "841b55aca0d126ebb41356c4152646e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/841b55aca0d126ebb41356c4152646e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a1c8561df533434cc121ed79bd70c2f2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a1c8561df533434cc121ed79bd70c2f2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c579b139be8e513e7cac6c0114979f61",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c579b139be8e513e7cac6c0114979f61/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ca2a9b10ac711c7abc5b21bbbb22e90",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ca2a9b10ac711c7abc5b21bbbb22e90/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "16efd156f15daa7c17d96cd155ca720d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/16efd156f15daa7c17d96cd155ca720d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d319424601ed942bfe8a2ddd53dcc675",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d319424601ed942bfe8a2ddd53dcc675/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "20f3c72120cc0ab368dc00e3e3e1a753",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/20f3c72120cc0ab368dc00e3e3e1a753/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2197a7d18698625e228dfc137ad38d29",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2197a7d18698625e228dfc137ad38d29/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "537cbcb6daee54dd9036e0c7c7f966e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/537cbcb6daee54dd9036e0c7c7f966e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce1172015f36b352224a1d3cf7f9851d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce1172015f36b352224a1d3cf7f9851d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "810c16627087ec117d54f9df0257c28f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/810c16627087ec117d54f9df0257c28f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7bf0e2d594868afd46e68e7bc4b59a8d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7bf0e2d594868afd46e68e7bc4b59a8d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9aa2f78ad0198a5747140d69c2ac1868",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9aa2f78ad0198a5747140d69c2ac1868/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "04d9ffb1c710261f71e07b8bca5438de",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/04d9ffb1c710261f71e07b8bca5438de/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "125823281876ba8b3ffbf3b6a7d259b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/125823281876ba8b3ffbf3b6a7d259b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d323cb866035ba943e79ddb8918fd774",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d323cb866035ba943e79ddb8918fd774/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd9e73fe5012ee1f1b878f94e0bfd93e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd9e73fe5012ee1f1b878f94e0bfd93e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f3b4f7823031cdac82a1e0a788623501",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f3b4f7823031cdac82a1e0a788623501/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 160m²",
+        "href": "/imovel/apartamento-4-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-160m2-venda-RS1600000-id-2747292207/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Escritor Rodrigo Melo Franco",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "PLAYGROUND",
+            "SPORTS_COURT",
+            "CONCIERGE_24H",
+            "ADULT_GAME_ROOM"
+        ],
+        "usableAreas": [
+            "30"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Um lugar privilegiado que une a proximidade com a natureza, por estar bem próximo ao Bosque da Freguesia, sem deixar de oferecer as facilidades de uma metrópole. Preço e disponibilidade do imóvel sujeitos a alteração sem aviso prévio. -",
+        "title": "Vitale Park",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2758941344",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22763154",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.95,
+                "approximateLon": -43.349,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Estrada do Gabinal",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Freguesia- Jacarepagua",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Freguesia (Jacarepaguá)",
+            "poisList": [
+                "BS:Ponto final da linha 932A",
+                "BS:Terminal Rodoviário Urbano Arquiteto Julius Sass",
+                "BS:Ponto final da linha 939A",
+                "BS:Terminal Arquiteto Julius Sass :: Plataforma B",
+                "BS:Professora Camisão",
+                "TS:Ponto final da linha 932A",
+                "TS:Terminal Rodoviário Urbano Arquiteto Julius Sass",
+                "TS:Ponto final da linha 939A",
+                "TS:Terminal Arquiteto Julius Sass :: Plataforma B",
+                "TS:Provedora Lygia Moreira Alves de Brito",
+                "CS:TECNOMEDI FREGUESIA",
+                "CS:Kúffura",
+                "CS:Padaria Felipão",
+                "PH:Mega Expressa",
+                "PH:Farmácia Jericó"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "AP0458",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "30"
+        ],
+        "advertiserId": "75774a02-43a5-048b-f90f-6c052f678e61",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "219000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21991239252"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21991239252",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "75774a02-43a5-048b-f90f-6c052f678e61",
+        "name": "Official Imóveis Ltda",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/46b2e42b8a4f7f4e567a93b81204c3cf/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 838705,
+        "phones": {
+            "primary": "21991239252",
+            "mobile": "21991239252"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "711d77aae13c267e346df4e2cb56bc4d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/711d77aae13c267e346df4e2cb56bc4d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0a87f466f8c9131a5ae5104e34e0656f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0a87f466f8c9131a5ae5104e34e0656f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c3dd09377df6bbc7680d8957545ce6e7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c3dd09377df6bbc7680d8957545ce6e7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd84585ba1c169e502b1bacc59e53a37",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd84585ba1c169e502b1bacc59e53a37/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b28d2f644b676a67843e43666c76bc0e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b28d2f644b676a67843e43666c76bc0e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "508bbc8bacd3212e7ade9d798f926678",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/508bbc8bacd3212e7ade9d798f926678/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b957c654d1cdca85e6282a0448a58c8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b957c654d1cdca85e6282a0448a58c8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0655f13dbd9eb5cf014b3f39bbcc2554",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0655f13dbd9eb5cf014b3f39bbcc2554/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "de8204e86cee22ebcae3a314b885db5c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/de8204e86cee22ebcae3a314b885db5c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "92d90446b7c8845450f7840415b3ce3a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/92d90446b7c8845450f7840415b3ce3a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ea500f4e6a96046e7bfece65c41a89d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ea500f4e6a96046e7bfece65c41a89d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "de41daee167b02b34d4d3c46d080e00d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/de41daee167b02b34d4d3c46d080e00d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cfad0acdf42654d168381a551fc40395",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cfad0acdf42654d168381a551fc40395/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "61eef5dbf5d8119fcbfc7a2b598e3824",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/61eef5dbf5d8119fcbfc7a2b598e3824/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Official Imóveis Ltda",
+        "href": "/838705/official-imoveis-ltda/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 30m²",
+        "href": "/imovel/apartamento-1-quartos-freguesia-jacarepagua-zona-oeste-rio-de-janeiro-30m2-venda-RS219000-id-2758941344/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Freguesia- Jacarepaguá",
+            "state": "Rio de Janeiro",
+            "street": "Estrada do Gabinal",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

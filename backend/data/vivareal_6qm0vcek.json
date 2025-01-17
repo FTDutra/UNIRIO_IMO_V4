@@ -1,0 +1,227 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "AIR_CONDITIONING",
+            "GARDEN",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "TENNIS_COURT",
+            "LAUNDRY",
+            "ADULT_GAME_ROOM",
+            "HOME_CINEMA",
+            "SPA",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "99"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Condomínio Le Parc Resort<br><br>Apartamento composto por sala em dois ambiente, varanda totalmente espaçosa, banheiro social, cozinha planejada, área de serviço, dependência de empregada e 2 quartos, sendo 1 suíte.",
+        "title": "Condomínio Le Parc Resort 2Q",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2702151576",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22640908",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "255",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.347309,
+                "source": "GOOGLE",
+                "lat": -22.99727
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Jornalista Tim Lopes",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:Barra Shopping Lateral",
+                "BS:Barra Shopping",
+                "BS:Barra Shopping Fundos (Hot Zone)",
+                "BS:O2 Corporate & Offices",
+                "BS:Casa Shopping",
+                "TS:Barra Shopping",
+                "TS:Afrânio Costa",
+                "TS:Barra Shopping (Expresso)",
+                "TS:O2 Corporate & Offices",
+                "TS:Barra Shopping (Parador)",
+                "CS:Esso",
+                "CS:Mundo Verde",
+                "CS:Sítio do Moinho",
+                "CS:Fábrica do Bolo",
+                "CS:Meu Doce Rio",
+                "PH:Drogarias Carioca"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "HPBFN50",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [],
+        "advertiserId": "3db5bdd2-f97d-8de7-aeb2-38866c63599e",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "480",
+                "price": "1300000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1950"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21987370721"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21987370721",
+        "stamps": []
+    },
+    "account": {
+        "id": "3db5bdd2-f97d-8de7-aeb2-38866c63599e",
+        "name": "H PREMIUM IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52c4d4a4f35c309aadb62d8b49b9f60e/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 593456,
+        "phones": {
+            "primary": "21987370721",
+            "mobile": "21987370721"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "20c105fde976fcfabe40187cc5566526",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/20c105fde976fcfabe40187cc5566526/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a4f3f3dc766e472ce012b0e6afef6068",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4f3f3dc766e472ce012b0e6afef6068/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3dbb6fe9d988f983e5eedf36d0518ece",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3dbb6fe9d988f983e5eedf36d0518ece/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "51b283937065b3d6da2c25ca459c1653",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/51b283937065b3d6da2c25ca459c1653/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "74c1376f55a74bbee5bcdcb6c339e641",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/74c1376f55a74bbee5bcdcb6c339e641/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "03dc60406f7074ccc0d6aac83dc5daa8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/03dc60406f7074ccc0d6aac83dc5daa8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd5dbda4ab0502bf140f851923222d26",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd5dbda4ab0502bf140f851923222d26/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b03a3eb624b61c50be0df4bef5760784",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b03a3eb624b61c50be0df4bef5760784/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "03fb52875b5e8868b340ed4ca0f6017e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/03fb52875b5e8868b340ed4ca0f6017e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "87b0ee4a18885ff160af66f1ee2c6174",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/87b0ee4a18885ff160af66f1ee2c6174/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "afeebb439f0facf896f9b80b6875e2ca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/afeebb439f0facf896f9b80b6875e2ca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2dd7bc45488bd8bcc585337b09d2c1e4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2dd7bc45488bd8bcc585337b09d2c1e4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b315ba9d2009734ec76c86ddedbe5b83",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b315ba9d2009734ec76c86ddedbe5b83/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "515ca7e581a6d85ae7d54a44485fbdfd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/515ca7e581a6d85ae7d54a44485fbdfd/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "H PREMIUM IMÓVEIS",
+        "href": "/593456/h-premium-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 99m²",
+        "href": "/imovel/apartamento-2-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-99m2-venda-RS1300000-id-2702151576/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Jornalista Tim Lopes",
+            "streetNumber": "255",
+            "zone": "Zona Oeste"
+        }
+    }
+}

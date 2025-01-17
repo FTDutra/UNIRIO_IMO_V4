@@ -1,0 +1,261 @@
+{
+    "listing": {
+        "displayAddressType": "NEIGHBORHOOD",
+        "amenities": [
+            "GATED_COMMUNITY",
+            "FURNISHED",
+            "AIR_CONDITIONING"
+        ],
+        "usableAreas": [
+            "80"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Em uma das melhores ruas do Leblon. Apartamento totalmente reformado em prédio charmoso tombado pelo patrimônio e pronto para morar. Vende com todos os móveis. Piso em mármore branco, pé direito alto com iluminação moderna respeitando as danças originais. <br>A cozinha é americana, possui sala de estar, sala jantar e varanda, espaço de lavanderia e escritório. Conta ainda com lababo, 1 suite com cama king e um quarto com cama queen, ambos rico em armários de excelente qualidade. Os quartos estão separados por porta de correr ( para permitir o uso de todo espaço no caso de um casal ou single - reversível )<br>Agende sua visita.<br>*Os valores podem sofrer alterações, pelo proprietário, sem prévio aviso. <br>O quarto 2 não é suite mas tem sua ducha privada e está em frente ao lavabo. <br>Apartamento indevassado e pronto para morar.",
+        "title": "LEBLON - 68 M - 2 QTS - STE - REFORMADISSIMO - PORTEIRA FECHADA",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2459044566",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22430220",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.986,
+                "approximateLon": -43.22,
+                "radius": 250
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Leblon",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "poisList": [
+                "BS:Ponto Final: Antero de Quental",
+                "BS:BRS 2,3 - Cupertino Durão",
+                "BS:Ponto Final: Leblon :: Ônibus Executivos",
+                "BS:Humberto de Campos",
+                "BS:BRS 1 - Rita Ludolf",
+                "TS:Ponto Final: Antero de Quental",
+                "TS:Bartolomeu Mitre",
+                "TS:Metrô - Estação Antero de Quental",
+                "TS:General Urquiza",
+                "TS:Antero de Quental",
+                "CS:Talho Capixaba",
+                "CS:Rio Lisboa",
+                "CS:Patata",
+                "CS:am/pm",
+                "CS:Armazém do Café",
+                "PH:Drogasmil"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "CBI772",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "80"
+        ],
+        "advertiserId": "1c293276-fa6a-6913-03cf-e5f5145cfb0f",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "6860",
+                "price": "1480000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2072"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21983888881"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21983888881",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "1c293276-fa6a-6913-03cf-e5f5145cfb0f",
+        "name": "CASTRO BOTELHO",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8771a7103ec400a5cf7f160bc56462df/{description}.webp",
+        "licenseNumber": "054667-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 97020,
+        "phones": {
+            "primary": "21983888881",
+            "mobile": "21983888881"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "08cdc749d97755b44422b220ee33d4bf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/08cdc749d97755b44422b220ee33d4bf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "991cb417ca7f66ad43236c90ea87dbc5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/991cb417ca7f66ad43236c90ea87dbc5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4d822cb2d0289f75c2d78dbe07c93e18",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4d822cb2d0289f75c2d78dbe07c93e18/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c087d5e5a62ae1a30b3e48792667640",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c087d5e5a62ae1a30b3e48792667640/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a83eecd8022c2620f491d5b705a983fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a83eecd8022c2620f491d5b705a983fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2430141d54bd5bad6e81b93d0291265f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2430141d54bd5bad6e81b93d0291265f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8846d3d426a1e6e68e6c6a99d2a7914c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8846d3d426a1e6e68e6c6a99d2a7914c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "812fc2bea40d7cf385790eed9829b11d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/812fc2bea40d7cf385790eed9829b11d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff697ab316fdd881e766b0d0871fb057",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff697ab316fdd881e766b0d0871fb057/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c7f9af070cade09cbf175177287d7c6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c7f9af070cade09cbf175177287d7c6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b189faa679322cba1322b29c79e292a9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b189faa679322cba1322b29c79e292a9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "09be080f401c49ad9623077b50faf440",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/09be080f401c49ad9623077b50faf440/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c2677aa9286b88b4ebd5f1c213e6e31b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2677aa9286b88b4ebd5f1c213e6e31b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b65d9303f6d7fc8d87794d5a66c30389",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b65d9303f6d7fc8d87794d5a66c30389/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86d50d9b64020b9f556495f08dcb577a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86d50d9b64020b9f556495f08dcb577a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f0d0b561070872374375c9dee425386b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f0d0b561070872374375c9dee425386b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8f636f9b381168907b1b766d6d43739b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8f636f9b381168907b1b766d6d43739b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8439a113a247a9135ec243476a965664",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8439a113a247a9135ec243476a965664/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fbcb0f45f6cac6fd4532a7add234ec8c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fbcb0f45f6cac6fd4532a7add234ec8c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd72cfc1dff6b9cdc6b2193ae1a51594",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd72cfc1dff6b9cdc6b2193ae1a51594/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f070148e35afc4ce937493301efd1c6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f070148e35afc4ce937493301efd1c6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f25cd1032c4940188fb9bc9083a715da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f25cd1032c4940188fb9bc9083a715da/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f0e0c5164d47cb07dfe2bc41c3dec15d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f0e0c5164d47cb07dfe2bc41c3dec15d/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "CASTRO BOTELHO",
+        "href": "/97020/castro-botelho/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 80m²",
+        "href": "/imovel/apartamento-2-quartos-leblon-zona-sul-rio-de-janeiro-80m2-venda-RS1480000-id-2459044566/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "state": "Rio de Janeiro",
+            "street": "",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

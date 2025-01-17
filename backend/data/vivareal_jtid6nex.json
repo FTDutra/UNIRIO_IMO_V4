@@ -1,0 +1,287 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "SERVICE_AREA",
+            "NEAR_ACCESS_ROADS",
+            "NEAR_SCHOOL",
+            "NEAR_HOSPITAL",
+            "BUILTIN_WARDROBE",
+            "KITCHEN_CABINETS",
+            "KITCHEN",
+            "WATCHMAN",
+            "SAFETY_CIRCUIT",
+            "NEAR_PUBLIC_TRANSPORT",
+            "PAVED_STREET"
+        ],
+        "usableAreas": [
+            "58"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento em ótima localização,Rua Mariz e Barros, farto comércio e transportes. Prédio com porteiro, circuito interno de TV, elevadores. Apartamento com sol manhã, composto de sala em dois ambientes, dois quartos com armários, banheiro social, cozinha com armários, área de serviço separada. Pronto para morar, agende sua visita. Avaliamos seu imóvel! Visite nossa loja. Rua Doutor Satamini, 172 - Praça Afonso Pena. c3a0f",
+        "title": "Maracanã | Apartamento 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2733453303",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20270002",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.916,
+                "approximateLon": -43.223,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Mariz e Barros",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Maracana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Maracanã",
+            "poisList": [
+                "BS:P9: Moraes e Silva",
+                "BS:Ponto Final: Saens Peña :: Linha 601",
+                "BS:P8: Barão de Mesquita",
+                "BS:Ponto Final do 600 (Taquara)",
+                "BS:Club Municipal",
+                "TS:P9: Moraes e Silva",
+                "TS:São Francisco Xavier / Tijuca",
+                "TS:Ponto Final: Saens Peña :: Linha 601",
+                "TS:P8: Barão de Mesquita",
+                "TS:Ponto Final do 600 (Taquara)",
+                "CS:Império do Pão",
+                "CS:Confeitaria Rita de Cássia",
+                "CS:Empório Mineiro Cheirin Bão",
+                "CS:Grão de Minas",
+                "CS:Empório Lamego",
+                "PH:Farmavita",
+                "PH:Drograria Venâncio",
+                "PH:Drogaria Pedro Ernesto"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP2AP94884",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "58"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "843",
+                "price": "450000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1073"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": []
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "600d2840286bf599fff8e6678cb2cd91",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/600d2840286bf599fff8e6678cb2cd91/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c524220b16e3bde2c6f0d9cc68059046",
+            "url": "https://www.youtube.com/watch?v=KyH6se6BJ68",
+            "type": "VIDEO"
+        },
+        {
+            "id": "cd66f60230973b8ecd93e1cd7fa67d8c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd66f60230973b8ecd93e1cd7fa67d8c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d35648c8bc9680cd354b241597e7aea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d35648c8bc9680cd354b241597e7aea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd09d003227f746125414c4a66953a32",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd09d003227f746125414c4a66953a32/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c0f25f23bbec75e03777fb2fff43d26a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c0f25f23bbec75e03777fb2fff43d26a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "351cf02e6f3340d52f031bbad7d56edd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/351cf02e6f3340d52f031bbad7d56edd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "04ea1e53dd4f159ab01b19964c76cee7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/04ea1e53dd4f159ab01b19964c76cee7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "12a290d08c551dd5fcc0a3bc2f1779b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/12a290d08c551dd5fcc0a3bc2f1779b5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f733b58dbd369c6b1b4f3d9e77c45c07",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f733b58dbd369c6b1b4f3d9e77c45c07/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e94469aa505ef920806a031406bee76b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e94469aa505ef920806a031406bee76b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "750a3668c07b3545913b996dcb94cfdd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/750a3668c07b3545913b996dcb94cfdd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2626ba88fb744fd73286043d5056e0b3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2626ba88fb744fd73286043d5056e0b3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "776679571518979365e599a40c75a56b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/776679571518979365e599a40c75a56b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "44a03a7a92de27cc79579033aac19f68",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/44a03a7a92de27cc79579033aac19f68/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c35bfc9e4eb5f67b73d3b83cc667bdbc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c35bfc9e4eb5f67b73d3b83cc667bdbc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3fcfa0ec5207638068c5dafd1885074d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3fcfa0ec5207638068c5dafd1885074d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "93af486e9668907a26da45f6f33f7807",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/93af486e9668907a26da45f6f33f7807/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ae298c47601dea728227030eb5632f2d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae298c47601dea728227030eb5632f2d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "280bcb7694267ee8534df5d8319c348c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/280bcb7694267ee8534df5d8319c348c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "67cc87821f4d961aad1445f186b0df29",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/67cc87821f4d961aad1445f186b0df29/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9e5b48d477533bdd099376392d27637",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9e5b48d477533bdd099376392d27637/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6bcf2f794fa32f3b104c66164059085c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6bcf2f794fa32f3b104c66164059085c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "32b20d9a0cd4fa4074c0decda6996349",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/32b20d9a0cd4fa4074c0decda6996349/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a2d13307dd826c625a36c065957eaf6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8a2d13307dd826c625a36c065957eaf6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8bba3e6b3b134150da9decf65563dbc3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8bba3e6b3b134150da9decf65563dbc3/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 58m²",
+        "href": "/imovel/apartamento-2-quartos-maracana-zona-norte-rio-de-janeiro-58m2-venda-RS450000-id-2733453303/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Maracanã",
+            "state": "Rio de Janeiro",
+            "street": "Rua Mariz e Barros",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

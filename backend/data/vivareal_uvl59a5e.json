@@ -1,0 +1,225 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "SAFETY_CIRCUIT",
+            "NUMBER_OF_FLOORS",
+            "KITCHEN",
+            "HEATING"
+        ],
+        "usableAreas": [
+            "75"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Avenida Henrique Dumont, no bairro Ipanema em Rio de Janeiro. Este imóvel conta com área construída de 75m², oferecendo 2 quartos, sendo 1 suíte e 4 banheiros. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apartamento 2 Quartos em Ipanema",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2744967246",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22410060",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.982,
+                "approximateLon": -43.213,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Henrique Dumont",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Ipanema",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "poisList": [
+                "BS:Humberto de Campos",
+                "BS:Ponto Final: Afrânio de Melo Franco I",
+                "BS:BRS 2,3 - Cupertino Durão",
+                "BS:BRS 2: Joana Angélica",
+                "BS:Ponto Final: CIEP Nação Rubro Negra",
+                "TS:Borges de Medeiros",
+                "TS:Jardim de Alah",
+                "TS:Jardim de Alah / Leblon",
+                "TS:Almirante Pereira Guimarães",
+                "TS:Humberto de Campos",
+                "CS:Patata",
+                "CS:Armazém do Café",
+                "CS:Confeitaria Ipanema",
+                "CS:TECNOMEDI IPANEMA",
+                "CS:Talho Capixaba",
+                "PH:Drogasmil",
+                "PH:Drogaria Pop"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PUf3rjes",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "75"
+        ],
+        "advertiserId": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3577",
+                "price": "1300000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "893"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21988595427"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988595427",
+        "stamps": []
+    },
+    "account": {
+        "id": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "name": "Luccare Investimentos",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/356f29ff805ce9c2aedf37766016903e/{description}.webp",
+        "licenseNumber": "065358-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 79203,
+        "phones": {
+            "primary": "21988595427",
+            "mobile": "21988595427"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "bc1f3d5533380ad12059e5193162fdd4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc1f3d5533380ad12059e5193162fdd4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9072ab958b46cc2751697df05bd672a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9072ab958b46cc2751697df05bd672a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e7f220ab5ac2cea031bfce23abbc6a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e7f220ab5ac2cea031bfce23abbc6a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6089cbff4e37dbad6ee4d9e36495c63a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6089cbff4e37dbad6ee4d9e36495c63a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "45f6cc707e4e2e689239de0c20734b4e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/45f6cc707e4e2e689239de0c20734b4e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c834ce0ee05ca93e541da5d7799aa6ae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c834ce0ee05ca93e541da5d7799aa6ae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd40cf67e6fb1fe4b6b3ba396bca0a8f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd40cf67e6fb1fe4b6b3ba396bca0a8f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f2c2e3d8795c01fef8c6a4a2099ce999",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f2c2e3d8795c01fef8c6a4a2099ce999/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e9c904bf246b1b56dff0a4191874b836",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e9c904bf246b1b56dff0a4191874b836/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b9aaab910a538fd30ca16f8e6854bb07",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b9aaab910a538fd30ca16f8e6854bb07/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "947d1c16a04b5e9fa7f4677120393435",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/947d1c16a04b5e9fa7f4677120393435/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "109a6866a4bdd1df97455aa4db86d953",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/109a6866a4bdd1df97455aa4db86d953/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e95439bcb4f5ba86644ead2fde98caf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9e95439bcb4f5ba86644ead2fde98caf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8ef3ba317f8788a3fad085a89fec914a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8ef3ba317f8788a3fad085a89fec914a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "80e8c743201b096c0e072690c7467293",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/80e8c743201b096c0e072690c7467293/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "92bbc634fe4aa980cf3f003a75db7a20",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/92bbc634fe4aa980cf3f003a75db7a20/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Luccare Investimentos",
+        "href": "/79203/luccare-investimentos/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 75m²",
+        "href": "/imovel/apartamento-2-quartos-ipanema-zona-sul-rio-de-janeiro-75m2-venda-RS1300000-id-2744967246/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Henrique Dumont",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

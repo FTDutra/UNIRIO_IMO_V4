@@ -1,0 +1,236 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [],
+        "usableAreas": [
+            "140"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Linda cobertura duplex no Recreio dos Bandeirantes, em no Condomínio Village com 140 m2 .<br><br>No primeiro andar : Três quartos , sendo duas suítes com closet e um quarto com banheiro social. <br>No Segundo andar: Sala e cozinha no conceito Americano, integrado. Lavabo, área de serviço e varanda com churrasqueira e pia de apoio.<br><br>Área de lazer <br>Piscinas, sauna, SPA, academia, salão de jogos, brinquedoteca, parquinho, campo de futebol, quadra de areia, quadra de tênis, quadra poliesportiva, bicicletario e estacionamento visitantes.<br><br>Agende sua visita .",
+        "title": "COBERTURA DUPLEX BARRA VILLAGE HOUSE LIFE",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [
+            "PENTHOUSE"
+        ],
+        "id": "2703343873",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790705",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "NEIGHBORHOOD",
+            "precision": "APPROXIMATE",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.017,
+                "approximateLon": -43.464,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida César Morani",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Gilka Machado",
+                "TS:Guiomar Novaes",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "CS:Panetteria Recreio",
+                "CS:Américas Pão",
+                "CS:Armazém do Recreio",
+                "CS:Padaria Nobreza",
+                "CS:R2 Bolos",
+                "PH:Botica do Rio",
+                "PH:Drogaria do Povo das Américas",
+                "PH:Venâncio",
+                "PH:Farmario",
+                "PH:Dona Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "CG 2552",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [],
+        "advertiserId": "39dcfeda-c070-cdea-3564-cd123592150b",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "price": "1150000",
+                "businessType": "SALE"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21997282121"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21997282121",
+        "stamps": []
+    },
+    "account": {
+        "id": "39dcfeda-c070-cdea-3564-cd123592150b",
+        "name": "CG Imóveis Design",
+        "licenseNumber": "050707-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 102014,
+        "phones": {
+            "primary": "21997282121",
+            "mobile": "21997282121"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "9ea11b81715eec4c995838276bf96c99",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ea11b81715eec4c995838276bf96c99/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "27c6ad93cba5d09dc3b93f531ca3deb6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/27c6ad93cba5d09dc3b93f531ca3deb6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d87518a8b910da3210f99d5f107787a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d87518a8b910da3210f99d5f107787a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "22efb814fde05d1a90938ea3bb4b8f39",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/22efb814fde05d1a90938ea3bb4b8f39/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "87a896c682bbdab9a98e5277fd800f02",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/87a896c682bbdab9a98e5277fd800f02/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a2cd6c9841c273e342e23a7aebd9cc6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a2cd6c9841c273e342e23a7aebd9cc6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9891438c3f181f49065c2bfa48d34d96",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9891438c3f181f49065c2bfa48d34d96/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d35bd0226948f2f8acca32ffc0c5d80d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d35bd0226948f2f8acca32ffc0c5d80d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1628fbc0d2dc86c85c7c68ecd227b06c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1628fbc0d2dc86c85c7c68ecd227b06c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0eaed85ac5db94b3ecad57ebeefd3a46",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0eaed85ac5db94b3ecad57ebeefd3a46/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "328a39ef9c8e57bac0a40ecd2d86a9b8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/328a39ef9c8e57bac0a40ecd2d86a9b8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e04f8ee858ac4d17237dd07e381f4b1a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e04f8ee858ac4d17237dd07e381f4b1a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ad3382f2d3da41ce47b35fc3dcade776",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ad3382f2d3da41ce47b35fc3dcade776/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "790713ae2f6dc88499e1c1268f62e328",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/790713ae2f6dc88499e1c1268f62e328/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "30163bc427c7100310df1b6f07581ec6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30163bc427c7100310df1b6f07581ec6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cc1918c68e1506ce912c85c238ff8c58",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cc1918c68e1506ce912c85c238ff8c58/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "90b6b08e6571251153ef1cb0471e2225",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/90b6b08e6571251153ef1cb0471e2225/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2408f80e0bb2c85e87a0efbb76050653",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2408f80e0bb2c85e87a0efbb76050653/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f23cae4b6a440ea45988d5b946785649",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f23cae4b6a440ea45988d5b946785649/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cace81d8a145f5afe724a69282719424",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cace81d8a145f5afe724a69282719424/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "CG Imóveis Design",
+        "href": "/102014/cg-imoveis-design/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Cobertura com 3 Quartos à venda, 140m²",
+        "href": "/imovel/cobertura-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-140m2-venda-RS1150000-id-2703343873/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Avenida César Morani",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

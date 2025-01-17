@@ -1,0 +1,302 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "INTERCOM",
+            "KITCHEN",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "120"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento incrível com vista livre e no quadrilatero de Ipanema. Distribuídos 3 quartos amplos e arejados sendo 1 suíte, esse imóvel conta com uma espaçosa sala de estar com vista para o mar e dois irmãos, banheiro social com possibilidade de segunda suíte. A cozinha é moderna e funcional, ideal para preparar suas refeições com praticidade. Área de serviço e dependências completas. Para mais comodidade o apartamento conta com 2 vagas de garagem e portaria 24h. Agende sua visita e venha morar em Ipanema! Um bairro localizado entre a praia e a Lagoa, ao lado do Leblon, Copacabana e Arpoador, e que possui duas estações de Metrô: Praça Nossa Senhora da Paz e Praça General Osório, diversas escolas municipais, creches infantis e escolas tradicionais como os colégios PH, Notre Dame, entre outros. . O valor do imóvel poderá ser alterado sem aviso prévio.<br>-Cod:MQAP31163 -Rev.11Dez",
+        "title": "Apartamento - / Residencial / Ipanema",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2751676002",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22420042",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.984,
+                "approximateLon": -43.21,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Prudente de Morais",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Ipanema",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "poisList": [
+                "BS:BRS 2: Joana Angélica",
+                "BS:Humberto de Campos",
+                "BS:Ponto Final: Afrânio de Melo Franco I",
+                "BS:BRS 2 Farme de Amoedo",
+                "BS:BRS 1/3 Teixeira de Melo",
+                "TS:Maria Quitéria",
+                "TS:Nossa Senhora da Paz",
+                "TS:Nossa Senhora da Paz / Ipanema",
+                "TS:Joana Angélica",
+                "TS:Borges de Medeiros",
+                "CS:Armazém do Café",
+                "CS:Confeitaria Ipanema",
+                "CS:TECNOMEDI IPANEMA",
+                "CS:Patata",
+                "CS:Chocolate Brasil Cacau",
+                "PH:Drogaria Pop",
+                "PH:Drogasmil",
+                "PH:Farmácia Central Posto 6"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "MQAP31163",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "120"
+        ],
+        "advertiserId": "9ba9da10-9ffc-7726-bc7e-14748d519580",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "736",
+                "price": "3300000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2400"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21987351011"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21987351011",
+        "stamps": []
+    },
+    "account": {
+        "id": "9ba9da10-9ffc-7726-bc7e-14748d519580",
+        "name": "QUITERIA Imóveis Boutique",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e629c98591f61ef04a6b07e3bbf0d68/{description}.webp",
+        "licenseNumber": "11697-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 846195,
+        "phones": {
+            "primary": "21987351011",
+            "mobile": "21987351011"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "ebcf152fe82394b288793b31fd737b39",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ebcf152fe82394b288793b31fd737b39/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e3e6a6c232040973d0d7093f852bb139",
+            "url": "https://youtu.be/GbpzbxXMjZE",
+            "type": "VIDEO"
+        },
+        {
+            "id": "66300a94519a054616e57cdd07d88fa6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/66300a94519a054616e57cdd07d88fa6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "70b87012f394870f3765f81ff307fed6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/70b87012f394870f3765f81ff307fed6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "62cf85a436df528f7dff9d5ea24eaaa3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/62cf85a436df528f7dff9d5ea24eaaa3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "878212e8d104a56caead9260256631c4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/878212e8d104a56caead9260256631c4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fa8dfb770e0d7b9d4a27a0f1b7c7b972",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa8dfb770e0d7b9d4a27a0f1b7c7b972/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8cdbc4e615b5819827bbfdb8fbffd929",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8cdbc4e615b5819827bbfdb8fbffd929/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "038a695ca54cf7d3925386abc527d534",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/038a695ca54cf7d3925386abc527d534/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dda93e0ebda5ed8c97a774b26c6aa548",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dda93e0ebda5ed8c97a774b26c6aa548/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ee47a311222e152448978c74114764f5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ee47a311222e152448978c74114764f5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "73065922c82aabd90953d82641651bb8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/73065922c82aabd90953d82641651bb8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8b575b41bc594ede17ed41b79b5f507d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8b575b41bc594ede17ed41b79b5f507d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "409ad84caa348949e3bc9c5d87370685",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/409ad84caa348949e3bc9c5d87370685/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "55b13b2569c889f9ebb321a94a4ae7fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/55b13b2569c889f9ebb321a94a4ae7fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21d0d96089e506453ae467dd229260b7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21d0d96089e506453ae467dd229260b7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d622e557cfffaa8f7b5775de5df8dbae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d622e557cfffaa8f7b5775de5df8dbae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f77ecd0942ec6d9a7bf9479ddea2f55a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f77ecd0942ec6d9a7bf9479ddea2f55a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4664d56a07628802a18daca49d02f068",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4664d56a07628802a18daca49d02f068/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1adbc17dff9eb955ceffcf73ecc99759",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1adbc17dff9eb955ceffcf73ecc99759/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c921ee766642b658a1811f1f71f439f2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c921ee766642b658a1811f1f71f439f2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "52fbc698799e0c667e44860fa1565266",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52fbc698799e0c667e44860fa1565266/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a18464e6017089bb291a3c01decb3a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a18464e6017089bb291a3c01decb3a6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5e0097b3e6a893d6bd91cbf8b3bc0df0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5e0097b3e6a893d6bd91cbf8b3bc0df0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a4a283fddd12aedee027b37268898b94",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4a283fddd12aedee027b37268898b94/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "30c0b09ffc63145c9ac3d2a7a130f9e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30c0b09ffc63145c9ac3d2a7a130f9e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a8f83873224d909e21ac06fca4e8c3af",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a8f83873224d909e21ac06fca4e8c3af/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2d1b40e36f2cfdaaf2eb69c11185c293",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2d1b40e36f2cfdaaf2eb69c11185c293/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce8235da78233556476eaf082ac323d0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce8235da78233556476eaf082ac323d0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f203d297987ac08e9bfb23244e58503b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f203d297987ac08e9bfb23244e58503b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf86508ccc8278a419b6dbca7d8789b3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf86508ccc8278a419b6dbca7d8789b3/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "QUITERIA Imóveis Boutique",
+        "href": "/846195/quiteria-imoveis-boutique/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 120m²",
+        "href": "/imovel/apartamento-3-quartos-ipanema-zona-sul-rio-de-janeiro-com-garagem-120m2-venda-RS3300000-id-2751676002/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "state": "Rio de Janeiro",
+            "street": "Rua Prudente de Morais",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

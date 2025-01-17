@@ -1,0 +1,238 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [],
+        "usableAreas": [
+            "65"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "São Cristóvão - Apartamento com hall de entrada, sala de estar, sala de jantar pequena, 2 quartos, tudo em piso porcelanato, banheiro social com box blindex, cozinha clara, área de serviço separada, aberta. Imóvel claro, sol da manhã, sem escadas, e sem vaga de garagem no prédio, Localização excelente, perto do Largo da Cancela, Feira de São Cristóvão, colégio Pedro II, farto comercio local, ponto de ônibus para o centro na porta. Aceitando financiamento bancário e FGTS. -",
+        "title": "Apartamento",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2715733609",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20910010",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.9,
+                "approximateLon": -43.223,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Travessa Filgueiras",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Sao Cristovao",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "São Cristóvão",
+            "poisList": [
+                "BS:Ponto Final: São Cristovão :: Copacabana (via Rebouças)",
+                "BS:Ponto Final: São Cristovão :: Linhas 460 e 461",
+                "BS:Ponto Final: São Januário :: Linha 473",
+                "BS:104",
+                "BS:Ponto final 104",
+                "TS:Ponto Final: São Cristovão :: Copacabana (via Rebouças)",
+                "TS:São Cristóvão",
+                "TS:São Cristovão",
+                "TS:Ponto Final: São Cristovão :: Linhas 460 e 461",
+                "TS:Ponto Final: São Januário :: Linha 473",
+                "CS:Padaria Cancela",
+                "CS:Padaria Do Sardo",
+                "CS:Panificação Esmero",
+                "CS:Ponto de Bala",
+                "CS:Americanas Express",
+                "PH:Farmavita",
+                "PH:Drogaria Pedro Ernesto"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP3998",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "65"
+        ],
+        "advertiserId": "11d6aae1-06c7-ea6c-83c1-0e632be97d93",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "270000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "480"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2131803505",
+                "21991006533"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21991006533",
+        "stamps": []
+    },
+    "account": {
+        "id": "11d6aae1-06c7-ea6c-83c1-0e632be97d93",
+        "name": "CASA PARKES SOLUCOES IMOBILIARIAS LTDA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b18279247ba146474465f08b04e4ea07/{description}.webp",
+        "licenseNumber": "10689-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 821822,
+        "phones": {
+            "primary": "2131803505",
+            "mobile": "21991006533"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "8141ca8dba88f193caa59a5b1d8ae942",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8141ca8dba88f193caa59a5b1d8ae942/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "da136812395eab70e9b197505a761d7b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/da136812395eab70e9b197505a761d7b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "08d5176f19a69cb6718d8e52e40ebbd6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/08d5176f19a69cb6718d8e52e40ebbd6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0fcf95ec167a6bf66722eb65b00202f6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0fcf95ec167a6bf66722eb65b00202f6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cfadc0a22d484b672b4a6979e0656aac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cfadc0a22d484b672b4a6979e0656aac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "80584e92255aee35bc1b5afc451df942",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/80584e92255aee35bc1b5afc451df942/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9b8997c296d86c66c2d4a706da1037fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9b8997c296d86c66c2d4a706da1037fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "59aef1ce1ac63156dd2d09fddbe3da22",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/59aef1ce1ac63156dd2d09fddbe3da22/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd1661802d28e55eec81634ca767fc6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd1661802d28e55eec81634ca767fc6e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b3241f8a34279789d94fad5e94deb43b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b3241f8a34279789d94fad5e94deb43b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5873ca4aee3ffac964fe1ecd2a59875a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5873ca4aee3ffac964fe1ecd2a59875a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce7fed5099326a6f4072fe920c8c48ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce7fed5099326a6f4072fe920c8c48ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aee9805752d286c92da852cb9a5c3699",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aee9805752d286c92da852cb9a5c3699/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c42c9c49431d5a2042b2bb7a8dbb3f30",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c42c9c49431d5a2042b2bb7a8dbb3f30/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0d9a30bf3e99795a9fe1f272eea4563a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0d9a30bf3e99795a9fe1f272eea4563a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a68ff1bd7edfb42523bdf9831b74881",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a68ff1bd7edfb42523bdf9831b74881/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c942ba342050e7d40fa3f4e0515d1ca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c942ba342050e7d40fa3f4e0515d1ca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f3a68ad2d0fb20ee56bf56ade778d4cb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f3a68ad2d0fb20ee56bf56ade778d4cb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "89e044b37d75663b43b18cde17fc6545",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/89e044b37d75663b43b18cde17fc6545/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "CASA PARKES SOLUCOES IMOBILIARIAS LTDA",
+        "href": "/821822/casa-parkes-solucoes-imobiliarias-ltda/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 65m²",
+        "href": "/imovel/apartamento-2-quartos-sao-cristovao-zona-norte-rio-de-janeiro-65m2-venda-RS270000-id-2715733609/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "São Cristóvão",
+            "state": "Rio de Janeiro",
+            "street": "Travessa Filgueiras",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

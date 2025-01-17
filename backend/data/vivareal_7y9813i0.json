@@ -1,0 +1,277 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "PLAYGROUND",
+            "INTERCOM",
+            "KITCHEN",
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "90"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua das Palmeiras, no bairro Botafogo em Rio de Janeiro. Este imóvel conta com área construída de 89m², oferecendo 2 quartos, sendo 1 suíte, 2 banheiros e 1 vaga de garagem. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "B&amp;A Vende Apartamento 2 Quartos 1 Vaga em Botafogo",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2744963011",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22270070",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.95,
+                "approximateLon": -43.192,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua das Palmeiras",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Botafogo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:BRS 3: Sorocaba",
+                "BS:Cobal",
+                "BS:Cobal do Humaitá",
+                "BS:Rua Cosme Velho, 433",
+                "BS:Humaitá",
+                "TS:Cobal",
+                "TS:Cobal do Humaitá",
+                "TS:Acesso São Clemente/Humaitá",
+                "TS:Acesso Voluntários",
+                "TS:Acesso Mena Barreto",
+                "CS:Latteria Bloise",
+                "CS:Degustare",
+                "CS:Casa Imperial",
+                "CS:TECNOMEDI BOTAFOGO",
+                "CS:Panificação Voluntários",
+                "PH:Bio Mundo",
+                "PH:Ypiranga",
+                "PH:Caminhoá",
+                "PH:Minipreço",
+                "PH:Poubel"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PU1axtpb7",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "84"
+        ],
+        "advertiserId": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "266",
+                "price": "850000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1470"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21988595427"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988595427",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "name": "Luccare Investimentos",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/356f29ff805ce9c2aedf37766016903e/{description}.webp",
+        "licenseNumber": "065358-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 79203,
+        "phones": {
+            "primary": "21988595427",
+            "mobile": "21988595427"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "027b1e512563375c357672fa9bb8a2d8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/027b1e512563375c357672fa9bb8a2d8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "11c55dc3d68c8db1f80ce02a623f9da9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/11c55dc3d68c8db1f80ce02a623f9da9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1fec1f0357715591586f499bd06d728",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1fec1f0357715591586f499bd06d728/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9643844b160db59b1c4879ba4d83fc17",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9643844b160db59b1c4879ba4d83fc17/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "972e26382f6ff7f83af02b8616ac5a8a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/972e26382f6ff7f83af02b8616ac5a8a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9a44344ab874195062c8036a9f5fb14",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9a44344ab874195062c8036a9f5fb14/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "213793a6ebea265b12d0be97a9719031",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/213793a6ebea265b12d0be97a9719031/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "73f738900d765a9521b40bebbdb47469",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/73f738900d765a9521b40bebbdb47469/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe6e196c965f07cc03f0f87e4353328b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe6e196c965f07cc03f0f87e4353328b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1b81ab135a76da31fbf3dbfe3cc38e64",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1b81ab135a76da31fbf3dbfe3cc38e64/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4698bfdd7e51ebaced0aab4b33180e23",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4698bfdd7e51ebaced0aab4b33180e23/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "26d2b15da087c7a036b5af89126431bf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/26d2b15da087c7a036b5af89126431bf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "08830a1eb62281a49623b99ba55991a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/08830a1eb62281a49623b99ba55991a4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0b1071303e7d8a9cce1e9a7aa3cba818",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0b1071303e7d8a9cce1e9a7aa3cba818/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e9bec818e5fd2fe0490f56354c30176e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e9bec818e5fd2fe0490f56354c30176e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f92818199ac5ebd009bac088ae8504fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f92818199ac5ebd009bac088ae8504fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d048b4cab0a243fee054f3e529a33f89",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d048b4cab0a243fee054f3e529a33f89/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ec32960004e3d95e8f57b56f914f4adc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ec32960004e3d95e8f57b56f914f4adc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c09a20de5e2453ac0a40c3984f4f4cc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c09a20de5e2453ac0a40c3984f4f4cc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a73d00f74a592618ad1d416b75ef471",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a73d00f74a592618ad1d416b75ef471/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "43b74e9c7b06e63ff8609e8d63193acb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/43b74e9c7b06e63ff8609e8d63193acb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "80f9c65712346a22a43ac05bdb2ef1c6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/80f9c65712346a22a43ac05bdb2ef1c6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "50512d4a41e0d5922b6311274b265fe7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/50512d4a41e0d5922b6311274b265fe7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "251412e1492a1e3680037769cecbe28b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/251412e1492a1e3680037769cecbe28b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb6d87615a3eb3374f63cbbb1f292987",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb6d87615a3eb3374f63cbbb1f292987/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Luccare Investimentos",
+        "href": "/79203/luccare-investimentos/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 90m²",
+        "href": "/imovel/apartamento-2-quartos-botafogo-zona-sul-rio-de-janeiro-com-garagem-90m2-venda-RS850000-id-2744963011/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "state": "Rio de Janeiro",
+            "street": "Rua das Palmeiras",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

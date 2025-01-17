@@ -1,0 +1,236 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "BALCONY",
+            "GARAGE",
+            "SERVICE_AREA",
+            "PARTY_HALL",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "WATCHMAN"
+        ],
+        "usableAreas": [
+            "130"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento 3 quartos no Maracanã disponível para venda na Privilégio Imóveis.<br>Composta por sala com dois ambientes e varanda,3 quartos sendo uma suíte, banheiro social completo,cozinha com armários semi mobiliado,área de serviço e dependência completa,condomínio com portaria 24 h,imóvel possui uma vaga na escritura, em ótima localização,com vasta área comercial e de serviços ao entorno.Os valores poderão sofrer alterações sem aviso prévio. Fale conosco no Whatsapp:",
+        "title": "Apartamento 3 quartos no Maracanã disponível para venda na Privilégio Imóveis.",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2593814359",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20550011",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.904,
+                "approximateLon": -43.242,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua São Francisco Xavier",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Maracana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Maracanã",
+            "poisList": [
+                "BS:Ponto Final: Maracanã :: Linha 464",
+                "BS:Ponto Final: Triagem :: Linhas 471 e 472",
+                "BS:BRS 2, 6, 7",
+                "BS:BRS 4, 5, I",
+                "BS:Ponto Final 438",
+                "TS:São Francisco Xavier",
+                "TS:Mangueira / Jamelão",
+                "TS:Ponto Final: Maracanã :: Linha 464",
+                "TS:Maracanã",
+                "TS:Triagem",
+                "CS:Nossa Padaria",
+                "CS:PADARIA E PANIFICAÇÃO 2 AMIGOS",
+                "CS:Padaria Abaeté",
+                "CS:Padaria Villas Garden",
+                "CS:Mercado de Carnes Coração da Vila",
+                "PH:Drogaria Pedro Ernesto",
+                "PH:Farma Dez",
+                "PH:Drogaria MEP",
+                "PH:Drograria Venâncio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "45802",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "130"
+        ],
+        "advertiserId": "47bfba65-4536-fdcd-02a0-7c94c59de885",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1000",
+                "price": "380000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "510"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2139883415",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "47bfba65-4536-fdcd-02a0-7c94c59de885",
+        "name": "Privilégio Tijuca",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca0857f43658bddac6ef6c3da8d31f19/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 761981,
+        "phones": {
+            "primary": "2139883415",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "2e7e38f5aa8d900d750302e8c95f466b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e7e38f5aa8d900d750302e8c95f466b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f0649c91cddabf014709076ee4ce3fe5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f0649c91cddabf014709076ee4ce3fe5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6df6173d55d1f28c6ce27ea09ee9c7ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6df6173d55d1f28c6ce27ea09ee9c7ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36ac812ffa03096d7edc6f2375c376a1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36ac812ffa03096d7edc6f2375c376a1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1ebf54d217ea7ecbf843a33d2a486a4a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1ebf54d217ea7ecbf843a33d2a486a4a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ebf4b64bb85c30f8508c1d5f0d99cc5e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ebf4b64bb85c30f8508c1d5f0d99cc5e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8fa28198da629113bb60f72f16846e81",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8fa28198da629113bb60f72f16846e81/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "913b0a6fd116294c111140af639248fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/913b0a6fd116294c111140af639248fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6df5295e09223ce42e6f35489e093c6b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6df5295e09223ce42e6f35489e093c6b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "64d1e16bf4a23e874191e3fd0812ee55",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/64d1e16bf4a23e874191e3fd0812ee55/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5580bc32edb7fafe454ee61cb4c55253",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5580bc32edb7fafe454ee61cb4c55253/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d91cf470636d0a628d86cd9cd65b204b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d91cf470636d0a628d86cd9cd65b204b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e0d8735fa2c47bba152fc0381018f75",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e0d8735fa2c47bba152fc0381018f75/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c84ad68d402f1e5b7219ed6bc9361105",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c84ad68d402f1e5b7219ed6bc9361105/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "581ed5811ed8ecd2c3b2178568966c2c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/581ed5811ed8ecd2c3b2178568966c2c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8984d6ba63f65ebfea873b8364f0b48c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8984d6ba63f65ebfea873b8364f0b48c/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Tijuca",
+        "href": "/761981/privilegio-tijuca/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 130m²",
+        "href": "/imovel/apartamento-3-quartos-maracana-zona-norte-rio-de-janeiro-com-garagem-130m2-venda-RS380000-id-2593814359/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Maracanã",
+            "state": "Rio de Janeiro",
+            "street": "Rua São Francisco Xavier",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

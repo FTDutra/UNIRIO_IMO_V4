@@ -1,0 +1,268 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "PETS_ALLOWED",
+            "GARAGE",
+            "NEAR_ACCESS_ROADS",
+            "NEAR_SCHOOL",
+            "NEAR_SHOPPING_CENTER",
+            "NEAR_PUBLIC_TRANSPORT"
+        ],
+        "usableAreas": [
+            "75"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento em Higienópolis com hall de entrada, excelente espaço interno distribuído em uma sala bem espaçosa com ótima iluminação, 2 quartos amplos, banheiro social, cozinha, área de serviço e direito de uso da laje.<br>O apartamento tem acesso tanto pela sala quanto pela porta da cozinha.<br>A cozinha possui revestimento até o teto e armários.<br>Área de serviço separada com excelente armário embutido.<br>Banheiro social com revestimento até o teto e com blindex e armários.<br>Toldos nas janelas.<br>2 vagas de garagem, sendo, 1 vaga coberta.<br>Condomínio somente com taxa de água.<br>Aceita financiamento e FGTS!<br>Documentação Ok! 616e8",
+        "title": "AGENDE SUA VISITA !! ( WhatsApp 9 6 7 7 4 - 1 2 2 1 )",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2748354444",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21050700",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.875,
+                "approximateLon": -43.261,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Astreia",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Higienopolis",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Higienópolis",
+            "poisList": [
+                "BS:Silva Rosa",
+                "BS:Antônio de Freitas",
+                "BS:Ponto Final: Bonsucesso :: Linha 918",
+                "BS:Ponto final 611, 612, 613, 614",
+                "BS:Ponto Final: Shopping Nova América :: Linhas Barra e Jacarepaguá",
+                "TS:Silva Rosa",
+                "TS:Antônio de Freitas",
+                "TS:Maria da Graça",
+                "TS:Ponto Final: Bonsucesso :: Linha 918",
+                "TS:Del Castilho",
+                "CS:LOTERIA - TIO PATINHAS",
+                "CS:Panificação Recreio do Cruzeiro",
+                "PH:Londres"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "AP23309",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "75"
+        ],
+        "advertiserId": "8c3933ab-3821-6adf-b230-951afdfd05f7",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "310000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "150"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21967741221"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21967741221",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024",
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "8c3933ab-3821-6adf-b230-951afdfd05f7",
+        "name": "VIVAX PRIME IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2768a51ef6a019eb5a5f56cb4276035/{description}.webp",
+        "licenseNumber": "9577-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 787728,
+        "phones": {
+            "primary": "21967741221",
+            "mobile": "21967741221"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "9f3f9c257364bd48c7fb3d2bb8e7d9ed",
+            "url": "https://www.youtube.com/watch?v=9ogtrTqUwVA",
+            "type": "VIDEO"
+        },
+        {
+            "id": "0f10c627ac51a7f559a44558d825de6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f10c627ac51a7f559a44558d825de6e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3bde7a16d015568d92ae22f7b53a92e7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3bde7a16d015568d92ae22f7b53a92e7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36726a203693cba16723f791a6f23b54",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36726a203693cba16723f791a6f23b54/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "064d7388465ba3d631ad97d3913c0149",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/064d7388465ba3d631ad97d3913c0149/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0fabfa71b68733d4fabdf3a0841f8c2d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0fabfa71b68733d4fabdf3a0841f8c2d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6be86e0d1dfea20ba6d054dfbb69ae62",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6be86e0d1dfea20ba6d054dfbb69ae62/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc7942c98d2d80c11e8a66ddabaf0cfd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc7942c98d2d80c11e8a66ddabaf0cfd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "50599a9130e8c1c1900dc34fa421c710",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/50599a9130e8c1c1900dc34fa421c710/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8cfcc91a12df27c57dc27f43e6ad57ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8cfcc91a12df27c57dc27f43e6ad57ed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e285524b11ee5a67bcc5a0c2a384be9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e285524b11ee5a67bcc5a0c2a384be9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8300876237c8a06829b8b80a0c3cb21d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8300876237c8a06829b8b80a0c3cb21d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "382903e7e14e4309b14e3219dae0ff92",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/382903e7e14e4309b14e3219dae0ff92/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "49434214282f7ab4e10f522acca8166a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/49434214282f7ab4e10f522acca8166a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5a76899c2fba7fa3c5ff1c3aaeefda8e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5a76899c2fba7fa3c5ff1c3aaeefda8e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "efa3e61d412906eed0de23a90732eeea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/efa3e61d412906eed0de23a90732eeea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "79578ffeb22bbccedaecc22989e2ee42",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/79578ffeb22bbccedaecc22989e2ee42/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "56ea9ef3171066bf43b81a332d8ce81b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56ea9ef3171066bf43b81a332d8ce81b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bddc637f756a8178938a204d5d5aedf3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bddc637f756a8178938a204d5d5aedf3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0300de6d2ff66b9dc1fd4a5d5960aa6b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0300de6d2ff66b9dc1fd4a5d5960aa6b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c613b6abad29859cf2c8bcfe479319fc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c613b6abad29859cf2c8bcfe479319fc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7bbbb567e9b72786a86947365f5aff30",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7bbbb567e9b72786a86947365f5aff30/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2722fd72c9f045057161e3891da5c16f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2722fd72c9f045057161e3891da5c16f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6f166483962ac107dde32e1a55ddcd13",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6f166483962ac107dde32e1a55ddcd13/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "VIVAX PRIME IMÓVEIS",
+        "href": "/787728/vivax-prime-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 75m²",
+        "href": "/imovel/apartamento-2-quartos-higienopolis-zona-norte-rio-de-janeiro-com-garagem-75m2-venda-RS310000-id-2748354444/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Higienópolis",
+            "state": "Rio de Janeiro",
+            "street": "Rua Astreia",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

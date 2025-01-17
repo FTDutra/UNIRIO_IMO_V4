@@ -1,0 +1,307 @@
+{
+    "listing": {
+        "contractType": "REAL_ESTATE",
+        "sourceId": "9ad2650e-94a3-3ecf-a7ae-ae61226014bf",
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GARDEN",
+            "ELEVATOR",
+            "NUMBER_OF_FLOORS",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            47
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Rua Zelio Valverde - ORLA RECREIO GRUMARI - Apartamento 2 quartos A Andreata Gestão Imobiliária vende OU aluga Apartamento no Condomínio Orla Carioca Grumari , Condomínio fechado com total infra estrutura de : Área de piquenique, Redário , Pet Place, piscina, salão de jogos, Coworking, Brinquedoteca, academia, bicicletário, segurança 24 horas. <br><br> Junto a Praia do Recreio e conta com comercio local , restaurantes , escolas , Shopping e igrejas. O apartamento claro e arejado , 1 locação , com entrega realizada em Maio/2024 , composto de : varanda , sala para 2 ambientes ( no contra piso) , 2 quartos com piso em durafloor , banheiro social , cozinha integrada com a área de serviço ( no contra piso) . <br><br>Destaque para os prédio com elevadores . O imóvel quitado . <br><br>Excelente opção de investimento para locação , moradia e liberação de Fgts.<br><br>Agende sua visita.",
+        "title": "Rua Zelio Valverde - ORLA RECREIO GRUMARI - Apartamento 2 quartos",
+        "stamps": [],
+        "createdAt": "2024-12-03T15:25:58.202+00:00",
+        "floors": [
+            5
+        ],
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "providerId": "58516",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "unitsOnTheFloor": 0,
+        "legacyId": "",
+        "id": "2761061204",
+        "portal": "GRUPOZAP",
+        "unitFloor": 2,
+        "parkingSpaces": [],
+        "updatedAt": "2024-12-12T10:46:01.501+00:00",
+        "address": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "street": "Rua Zelio Valverde",
+            "point": {
+                "source": "GOOGLE",
+                "approximateLat": -23.028,
+                "approximateLon": -43.48,
+                "radius": 140
+            },
+            "stateAcronym": "RJ"
+        },
+        "suites": [],
+        "publicationType": "PREMIUM",
+        "externalId": "7661",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            47
+        ],
+        "advertiserId": "35946e7d-d02c-9514-fb43-464ee9bd5b89",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2133261001",
+                "21996407018"
+            ]
+        },
+        "whatsappNumber": "21996407018",
+        "bedrooms": [
+            2
+        ],
+        "acceptExchange": false,
+        "pricingInfos": [
+            {
+                "businessType": "RENTAL",
+                "yearlyIptu": 1,
+                "price": 2500,
+                "monthlyCondoFee": 400,
+                "rentalInfo": {
+                    "period": "MONTHLY",
+                    "warranties": [],
+                    "monthlyRentalTotalPrice": 2900
+                }
+            },
+            {
+                "businessType": "SALE",
+                "yearlyIptu": 1,
+                "price": 400000,
+                "monthlyCondoFee": 400
+            }
+        ],
+        "showPrice": true,
+        "resale": false,
+        "buildings": 0,
+        "capacityLimit": [],
+        "status": "ACTIVE"
+    },
+    "account": {
+        "id": "35946e7d-d02c-9514-fb43-464ee9bd5b89",
+        "name": "ANDREATA GESTÃO IMOBILIÁRIA",
+        "logoUrl": "https://resizedimgs.zapimoveis.com.br/{action}/{width}x{height}/vr.images.sp/11be5283d85dac851a0608bf8f5e65c4.webp",
+        "licenseNumber": "05291-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 25968,
+        "legacyZapId": 12267,
+        "createdDate": "2018-03-27T15:11:37Z",
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "4f8704544b38906ac697b841c1dd0879",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/4f8704544b38906ac697b841c1dd0879.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a78b41adb53c4eb32f2c6f646fadd0d1",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/a78b41adb53c4eb32f2c6f646fadd0d1.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f89987af9aff0f0e4db31ca86728da0f",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/f89987af9aff0f0e4db31ca86728da0f.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2c6fff630754892e256f9abc1f295eee",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/2c6fff630754892e256f9abc1f295eee.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ac769f0425fae5d2390b0cc6e02be7a7",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/ac769f0425fae5d2390b0cc6e02be7a7.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9684e523ed4ca8d4f4d880c4581b5719",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/9684e523ed4ca8d4f4d880c4581b5719.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86b6d5de44bca64470db29f940ccb444",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/86b6d5de44bca64470db29f940ccb444.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0cff0a409e29e1aee0e35976cfddc425",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/0cff0a409e29e1aee0e35976cfddc425.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d7c96751d6d1906df5b78c5e668b56c2",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/d7c96751d6d1906df5b78c5e668b56c2.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6e5ca27f1cd7b9fdd11fc67c767fcbbb",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/6e5ca27f1cd7b9fdd11fc67c767fcbbb.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f0c2389770885e97eb4855abd41e2e2",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/4f0c2389770885e97eb4855abd41e2e2.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cdf3b2aa70750a5308dd6abcd642b009",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/cdf3b2aa70750a5308dd6abcd642b009.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "51064865342b03c3acdfa206ec17f9c3",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/51064865342b03c3acdfa206ec17f9c3.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "75dc3ddf621ad3f8d3364109b4bdb0d2",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/75dc3ddf621ad3f8d3364109b4bdb0d2.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ac395b37f47a69703d50767a55b5372",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/3ac395b37f47a69703d50767a55b5372.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "053ada660aed61474fcc0775785bd27e",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/053ada660aed61474fcc0775785bd27e.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "add765e4ab0532f869e9de51559b3919",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/add765e4ab0532f869e9de51559b3919.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "891181e3fb64670bd68f9ffcb945029a",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/891181e3fb64670bd68f9ffcb945029a.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3b958a479f56186cd832a6ad933df305",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/3b958a479f56186cd832a6ad933df305.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "172db3bc8385a746c3deb482335d01c1",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/172db3bc8385a746c3deb482335d01c1.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "618ae1578c8e786b1f556c811f9e121e",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/618ae1578c8e786b1f556c811f9e121e.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a51aae7ed7efaefb9e93fe72330dd267",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/a51aae7ed7efaefb9e93fe72330dd267.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f8fff9cb75dd0ff7ac48b569f68b5a5",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/3f8fff9cb75dd0ff7ac48b569f68b5a5.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "710750e0b7c208a8162396f00c7d0228",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/710750e0b7c208a8162396f00c7d0228.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48660fddf3cca9aca96260d12d16c117",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/48660fddf3cca9aca96260d12d16c117.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f78678c10f158a8e1259f8422349a3a6",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/f78678c10f158a8e1259f8422349a3a6.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "799d98def1c35e87e928f10245ebe774",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/799d98def1c35e87e928f10245ebe774.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b8a9368c90f35082fb7f2bdc0c9e601a",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/b8a9368c90f35082fb7f2bdc0c9e601a.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ad55189a255ea02d7ef5e997ec4fb03d",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/ad55189a255ea02d7ef5e997ec4fb03d.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c9656c878ff32e39c1b3691661ee03fe",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/c9656c878ff32e39c1b3691661ee03fe.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb7191b312518d45ef92d2636eec6fca",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/eb7191b312518d45ef92d2636eec6fca.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "725ea29bd30973fb1a30ba412d6a457d",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/725ea29bd30973fb1a30ba412d6a457d.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a0f75a22581bfde06960c389d7be5bec",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/a0f75a22581bfde06960c389d7be5bec.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a2574beb4d249b4e16b86527fbb4b5a4",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/a2574beb4d249b4e16b86527fbb4b5a4.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "76685fb5d79ee488c1598222b6255f2f",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/76685fb5d79ee488c1598222b6255f2f.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "ANDREATA GESTÃO IMOBILIÁRIA",
+        "href": "/imobiliaria/25968/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos para venda ou aluguel, 47m²",
+        "href": "/imovel/venda-apartamento-2-quartos-com-jardim-recreio-dos-bandeirantes-rio-de-janeiro-47m2-id-2761061204/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "state": "",
+            "street": "Rua Zelio Valverde",
+            "streetNumber": "",
+            "zone": ""
+        }
+    }
+}

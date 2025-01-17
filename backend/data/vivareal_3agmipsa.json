@@ -1,0 +1,246 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "60"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda na Rua Caruso, Tijuca - Rio de Janeiro, RJ<br>Sobre o Imóvel:<br>- Área 60 m²<br>- Quartos: 3<br>- Banheiros: 1<br>- Elevador no prédio: Não<br>Diferenciais:<br>- Armário Na Cozinha<br>- Armário No Quarto<br>- Armários Embutidos<br>- Banheiro Com Box<br>- Área De Serviço",
+        "title": "Privilégio Imóveis vende:",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2560178090",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20270220",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.917,
+                "approximateLon": -43.212,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Caruso",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Club Municipal",
+                "BS:Ponto Final: Praça da Bandeira :: Linha 624",
+                "BS:Ponto Final: São Cristovão :: Linhas 460 e 461",
+                "BS:Ponto Final: Saens Peña :: Linha 601",
+                "BS:Ponto Final do 600 (Taquara)",
+                "TS:Afonso Pena / Tijuca",
+                "TS:Afonso Pena",
+                "TS:Club Municipal",
+                "TS:Ponto Final: Praça da Bandeira :: Linha 624",
+                "TS:Estácio",
+                "CS:Grão de Minas",
+                "CS:Empório Mineiro Cheirin Bão",
+                "CS:Império do Pão",
+                "CS:Americanas Express",
+                "CS:Confeitaria Rita de Cássia",
+                "PH:Farmavita"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "44821",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "60"
+        ],
+        "advertiserId": "47bfba65-4536-fdcd-02a0-7c94c59de885",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "300",
+                "price": "350000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "200"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2139883415",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "47bfba65-4536-fdcd-02a0-7c94c59de885",
+        "name": "Privilégio Tijuca",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca0857f43658bddac6ef6c3da8d31f19/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 761981,
+        "phones": {
+            "primary": "2139883415",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "f37ae3091bceae4ff3ac3b1add303f0f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f37ae3091bceae4ff3ac3b1add303f0f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "32df4d3d06aa10bd1c8122b0afab8c37",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/32df4d3d06aa10bd1c8122b0afab8c37/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aee4b5842a28396168b57d4dbaf89115",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aee4b5842a28396168b57d4dbaf89115/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dd41467f6f215ab1c90624d11374e5b2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd41467f6f215ab1c90624d11374e5b2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "684f7cf0d269d58842e0012a3519d1ca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/684f7cf0d269d58842e0012a3519d1ca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "83c48f9f41da1689ebfb57077cf2f159",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/83c48f9f41da1689ebfb57077cf2f159/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "adbf3dd75f64909a0340b7ca1bb1a8a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/adbf3dd75f64909a0340b7ca1bb1a8a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f4f5cac32214480b8dcd736a78106c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f4f5cac32214480b8dcd736a78106c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86a138decfb27c97c6241dad6111921b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86a138decfb27c97c6241dad6111921b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "04c8a34df4b94edbe8a9a8740ab0bd90",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/04c8a34df4b94edbe8a9a8740ab0bd90/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "14fdfec93b34d35bc889cbe4d2bad0bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/14fdfec93b34d35bc889cbe4d2bad0bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0dc613ef7d66027efa84bf517bc8e15a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0dc613ef7d66027efa84bf517bc8e15a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "402eb597b3c6726140fc37c4c1a9f4dd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/402eb597b3c6726140fc37c4c1a9f4dd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9945bff611cf05c8860143a8ae7bd437",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9945bff611cf05c8860143a8ae7bd437/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "059febdf9af7522a7485bf7270b16fcb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/059febdf9af7522a7485bf7270b16fcb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a68e6febf0a5db83ffb0b3405dd60acf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a68e6febf0a5db83ffb0b3405dd60acf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "76e0f2e542abbea2ffb1942ef00667a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/76e0f2e542abbea2ffb1942ef00667a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e96c15c457e75339647f5cb47b933db4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e96c15c457e75339647f5cb47b933db4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1f7436bb30a304e4635fc037aca9dc3c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1f7436bb30a304e4635fc037aca9dc3c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "481592522f50c7c24b1ba6543335443c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/481592522f50c7c24b1ba6543335443c/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Tijuca",
+        "href": "/761981/privilegio-tijuca/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 60m²",
+        "href": "/imovel/apartamento-2-quartos-tijuca-zona-norte-rio-de-janeiro-60m2-venda-RS350000-id-2560178090/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Caruso",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

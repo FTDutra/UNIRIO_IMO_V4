@@ -1,0 +1,261 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "PETS_ALLOWED",
+            "SERVICE_AREA",
+            "KITCHEN_CABINETS",
+            "SERVICE_BATHROOM",
+            "INTERNET_ACCESS",
+            "PANTRY",
+            "INTERCOM",
+            "LARGE_WINDOW",
+            "LARGE_ROOM",
+            "ELECTRONIC_GATE",
+            "COLD_FLOOR",
+            "ALUMINUM_WINDOW",
+            "NATURAL_VENTILATION",
+            "HALF_FLOOR",
+            "STAIR"
+        ],
+        "usableAreas": [
+            "61"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Rua Carlos Vasconcelos, a apenas 100 mts da Praça Saens Pena, elétrica e hidráulica novas. Prédio sem elevador, 1 lance de escada, imóvel com sala em piso cerâmica, 2 quartos no mesmo padrão, banheiro social piso cerâmica azl. ao teto, cozinha piso cerâmica azl ao teto e área de serviço, condomínio barato, na parte térrea tem espaço para carro (tipo corredor, hoje tem 1 carro apenas).<br>OBS: NÚMERO DE ENDEREÇO APROXIMADO",
+        "title": "Imóvel para venda com 61 metros quadrados com 2 quartos em Tijuca - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2730053350",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20521050",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "27",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.228177,
+                "source": "GOOGLE",
+                "lat": -22.92651
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Carlos de Vasconcelos",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Saens Peña :: Integração Metrô",
+                "BS:Ponto Final: Saens Peña :: Linha 665",
+                "BS:Ponto Final: Saens Peña",
+                "BS:Ponto Final do 600 (Taquara)",
+                "BS:Ponto Final: Saens Peña :: Linha 639",
+                "TS:Heitor Beltrão",
+                "TS:Carlos de Vasconcelos",
+                "TS:Saens Peña :: Integração Metrô",
+                "TS:Major Ávila",
+                "TS:Saens Peña",
+                "CS:Empório Lamego",
+                "CS:Lojas Bandeirantes",
+                "CS:TECNOMEDI TIJUCA",
+                "CS:Confeitaria Rita de Cássia",
+                "CS:Pão & Companhia",
+                "PH:Drograria Venâncio",
+                "PH:Drogaria Venancio",
+                "PH:Drogaria Unidas",
+                "PH:FarmaDez",
+                "PH:Drogaria Pedro Ernesto"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "MBAP27952",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "61"
+        ],
+        "advertiserId": "389c32ae-d0fe-84f2-5fb6-bdb9645da201",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "90",
+                "price": "460000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "250"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122047000",
+                "21994033825"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21994033825",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "389c32ae-d0fe-84f2-5fb6-bdb9645da201",
+        "name": "RJC IMOBILIÁRIA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82c4683131e146314b54c3710d313a85/{description}.webp",
+        "licenseNumber": "043388-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 232020,
+        "phones": {
+            "primary": "2122047000",
+            "mobile": "21994033825"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "4c7d37c6a9534826d0280cb731a2f7e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c7d37c6a9534826d0280cb731a2f7e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38137f513d36f46e92d61433d30c2f71",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38137f513d36f46e92d61433d30c2f71/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "10d122803b86fb98a4234dc59cb8bd3d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/10d122803b86fb98a4234dc59cb8bd3d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "611faf96a6f69a99cfd7b81dd6626353",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/611faf96a6f69a99cfd7b81dd6626353/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b6198ba2ad7657b4086dbc94da2e29bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b6198ba2ad7657b4086dbc94da2e29bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "624fac2dfff0a875c1aa85cfb593dc62",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/624fac2dfff0a875c1aa85cfb593dc62/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "167dac92001af22edf6e07e200a57276",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/167dac92001af22edf6e07e200a57276/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0e0d56075613efcc99f1d4db142f071f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0e0d56075613efcc99f1d4db142f071f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3fa5efbb89b936b2baa656408033088a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3fa5efbb89b936b2baa656408033088a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fefe2396acaa525cec1537e1a5ce5435",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fefe2396acaa525cec1537e1a5ce5435/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e4c16236355dd7197b992f04af9cc48",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9e4c16236355dd7197b992f04af9cc48/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb7cbf7bf9c2e83f44739fe657dfb7c9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb7cbf7bf9c2e83f44739fe657dfb7c9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2f9c6ab8444e037dc4f8924ca33f3adc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2f9c6ab8444e037dc4f8924ca33f3adc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8cd6c544ebcd1d4b1f31433b9dc9fa55",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8cd6c544ebcd1d4b1f31433b9dc9fa55/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0e25dfa04ebcf4f1a62aadc941c9bb70",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0e25dfa04ebcf4f1a62aadc941c9bb70/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7793224ce919866cba5190b29d59f0df",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7793224ce919866cba5190b29d59f0df/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0fe6c480005c90e5b1ddc72efb52e94c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0fe6c480005c90e5b1ddc72efb52e94c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a451a78baa0d8a07aa45e385b7b8a304",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a451a78baa0d8a07aa45e385b7b8a304/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a262ce16f100ff508eedebd34876dd2f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a262ce16f100ff508eedebd34876dd2f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "60da8691b5db0f2d8d118b5f7029e35b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60da8691b5db0f2d8d118b5f7029e35b/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "RJC IMOBILIÁRIA",
+        "href": "/232020/rjc-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 61m²",
+        "href": "/imovel/apartamento-2-quartos-tijuca-zona-norte-rio-de-janeiro-com-garagem-61m2-venda-RS460000-id-2730053350/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Carlos de Vasconcelos",
+            "streetNumber": "27",
+            "zone": "Zona Norte"
+        }
+    }
+}

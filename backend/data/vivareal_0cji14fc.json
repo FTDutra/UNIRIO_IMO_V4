@@ -1,0 +1,246 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "AMERICAN_KITCHEN"
+        ],
+        "usableAreas": [
+            "124"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento 3 quartos com 2 vagas na escritura, 120m², reformado, esquina da Uruguai com Barão de Mesquita. Excelente imóvel com sala para 3 ambientes, todo imóvel climatizado, 3 quartos sendo um suíte, todos com móveis sob medida, quarto e banheiro de serviço, área de serviço, cozinha espaçosa. Todos os ambientes claros. Vista linda. Prédio com portaria, play com salão de festas, parquinho, quadra de esporte.",
+        "title": "Apartamento para venda possui 124 metros quadrados com 2 quartos em Tijuca - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2691079930",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20540001",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "722",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.249005,
+                "source": "GOOGLE",
+                "lat": -22.925638
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Barão de Mesquita",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Ponto Final - 134B (Nova Iguaçu - Vila Isabel)",
+                "BS:Muda (Ponto Final)",
+                "BS:Ponto Final: Andaraí :: Linha 217",
+                "BS:Barão de Mesquita 482c",
+                "BS:Ponto Final: Vila Isabel :: Linha 432",
+                "TS:Ponto Final - 134B (Nova Iguaçu - Vila Isabel)",
+                "TS:Muda (Ponto Final)",
+                "TS:Ponto Final: Andaraí :: Linha 217",
+                "TS:Ponto Final: Vila Isabel :: Linha 432",
+                "TS:Ponto Final 605",
+                "CS:Afagá Confeitaria Brasileira",
+                "CS:Grão Vizir",
+                "CS:Casa da Ostra",
+                "CS:Jiv's",
+                "CS:Confeitaria Thaís",
+                "PH:Drogaria Unidas",
+                "PH:FarmaDez",
+                "PH:Drogaria Venancio",
+                "PH:Farma Dez",
+                "PH:Drogarias Mundial"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "MBAP35030",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "124"
+        ],
+        "advertiserId": "389c32ae-d0fe-84f2-5fb6-bdb9645da201",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "200",
+                "price": "750000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "890"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122047000",
+                "21994033825"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21994033825",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_FEVEREIRO_2024",
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "389c32ae-d0fe-84f2-5fb6-bdb9645da201",
+        "name": "RJC IMOBILIÁRIA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82c4683131e146314b54c3710d313a85/{description}.webp",
+        "licenseNumber": "043388-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 232020,
+        "phones": {
+            "primary": "2122047000",
+            "mobile": "21994033825"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "7f7acb963ce1a8b39626e2d67c2b2ff5",
+            "url": "https://www.youtube.com/watch?v=8pDyv05L2XA",
+            "type": "VIDEO"
+        },
+        {
+            "id": "cb22c9c9cef8957bd8cb209c97a52139",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cb22c9c9cef8957bd8cb209c97a52139/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4fdf4b514bb1411f581506df45b1a067",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4fdf4b514bb1411f581506df45b1a067/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "06fd98b14f854e87317dede72527f502",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/06fd98b14f854e87317dede72527f502/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b171b73e2f34a5df665f1426ba289e98",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b171b73e2f34a5df665f1426ba289e98/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a2de8b54b912fc5d2fe1fa88e28e426f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a2de8b54b912fc5d2fe1fa88e28e426f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7ef54fa748e97e991e0fe01fb8a93c6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7ef54fa748e97e991e0fe01fb8a93c6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b22b86da8d2c3247da98815582fdffe5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b22b86da8d2c3247da98815582fdffe5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "70940b5a434ed851bce1b3d9e763e40e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/70940b5a434ed851bce1b3d9e763e40e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "09ee92f78dfadd912fbb2f593c7f624d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/09ee92f78dfadd912fbb2f593c7f624d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1777f4357211068a55469faf71bc48f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1777f4357211068a55469faf71bc48f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9702d94e81a4993999bfd8d76a00d274",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9702d94e81a4993999bfd8d76a00d274/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "995f9157ae3767c6695a0a111ae00b12",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/995f9157ae3767c6695a0a111ae00b12/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4246fd73a30722d6257a0ad32cf8666f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4246fd73a30722d6257a0ad32cf8666f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e8f6c2da355044164eb17d038419b7b7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e8f6c2da355044164eb17d038419b7b7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b8665e022851a1eeac9e632eb1c8ba61",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b8665e022851a1eeac9e632eb1c8ba61/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f90d999aa36e8e471c340a58428e834",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f90d999aa36e8e471c340a58428e834/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "caeebe6524d583a3bf9c7e2be6efba73",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/caeebe6524d583a3bf9c7e2be6efba73/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "RJC IMOBILIÁRIA",
+        "href": "/232020/rjc-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 124m²",
+        "href": "/imovel/apartamento-2-quartos-tijuca-zona-norte-rio-de-janeiro-com-garagem-124m2-venda-RS750000-id-2691079930/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Barão de Mesquita",
+            "streetNumber": "722",
+            "zone": "Zona Norte"
+        }
+    }
+}

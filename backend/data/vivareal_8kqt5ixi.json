@@ -1,0 +1,211 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "SERVICE_AREA",
+            "KITCHEN",
+            "INTERCOM",
+            "ALARM_SYSTEM",
+            "SEA_VIEW"
+        ],
+        "usableAreas": [
+            "117"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Precisão vende Ipanema apartamento um por andar na melhor localização do bairro, entre Garcia Dávila e Anibal de Mendonça.<br>Planta excelente, andar alto com vista para o mar, sala ampla. 3 quartos sendo 1 suíte, banheiro com blindex, cozinha espaçosa, área de serviço e dependência completa, repleto de armários. 2 vagas escrituradas. Excelente portaria e prédio bem administrado. O condomínio dispõe de interfone, câmeras de vigilância e porteiro 24 horas.<br>Venha conhecer este belíssimo imóvel.<br>www.precisaoimoveisrj.com.br -",
+        "title": "Ipanema- vista mar, 3 qts , 2vagas!!",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2744807393",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22420042",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.984,
+                "approximateLon": -43.21,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Prudente de Morais",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Ipanema",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "poisList": [
+                "BS:BRS 2: Joana Angélica",
+                "BS:Humberto de Campos",
+                "BS:Ponto Final: Afrânio de Melo Franco I",
+                "BS:BRS 2 Farme de Amoedo",
+                "BS:BRS 1/3 Teixeira de Melo",
+                "TS:Maria Quitéria",
+                "TS:Nossa Senhora da Paz",
+                "TS:Nossa Senhora da Paz / Ipanema",
+                "TS:Joana Angélica",
+                "TS:Borges de Medeiros",
+                "CS:Armazém do Café",
+                "CS:Confeitaria Ipanema",
+                "CS:TECNOMEDI IPANEMA",
+                "CS:Patata",
+                "CS:Chocolate Brasil Cacau",
+                "PH:Drogaria Pop",
+                "PH:Drogasmil",
+                "PH:Farmácia Central Posto 6"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP2376",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "120"
+        ],
+        "advertiserId": "2c202a43-2df0-6093-c6fb-9a2b4d2d5bdc",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "684",
+                "price": "3100000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2650"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2138832476",
+                "21998164125"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21998164125",
+        "stamps": []
+    },
+    "account": {
+        "id": "2c202a43-2df0-6093-c6fb-9a2b4d2d5bdc",
+        "name": "PRECISÃO IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5d9b3377a4df4b269e4e96dca33038a1/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 380097,
+        "phones": {
+            "primary": "2138832476",
+            "mobile": "21998164125"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "926ecce44038cad2401d8cd4d16d469a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/926ecce44038cad2401d8cd4d16d469a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "34a565f691b6e674726f2e25a8847b20",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/34a565f691b6e674726f2e25a8847b20/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0b447e7b73fccb920d16c4ec6880e3a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0b447e7b73fccb920d16c4ec6880e3a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ade66fb5aa5b264b0967bcc7a39bc1b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ade66fb5aa5b264b0967bcc7a39bc1b0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6e117d08f3df025f154dedb0ff81b83d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6e117d08f3df025f154dedb0ff81b83d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "381934d2a3ea2b6126b8b24928a8ea20",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/381934d2a3ea2b6126b8b24928a8ea20/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e3533a17d6680a25d98961f66a62f264",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e3533a17d6680a25d98961f66a62f264/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c9d9d073db8b44054aaf0bccf54b4e1f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c9d9d073db8b44054aaf0bccf54b4e1f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3b2f41f1b917a8c1d49af5bae6e35c43",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b2f41f1b917a8c1d49af5bae6e35c43/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "79e19ea5fa1a8dfa7b4167535d3764b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/79e19ea5fa1a8dfa7b4167535d3764b0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4588b50856a21c6ba98bf86f67697a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4588b50856a21c6ba98bf86f67697a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d523b7877a5dce4dde13bbc09f0f40d0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d523b7877a5dce4dde13bbc09f0f40d0/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "PRECISÃO IMÓVEIS",
+        "href": "/380097/precisao-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 117m²",
+        "href": "/imovel/apartamento-3-quartos-ipanema-zona-sul-rio-de-janeiro-com-garagem-117m2-venda-RS3100000-id-2744807393/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "state": "Rio de Janeiro",
+            "street": "Rua Prudente de Morais",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

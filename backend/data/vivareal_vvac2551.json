@@ -1,0 +1,252 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GATED_COMMUNITY",
+            "KITCHEN",
+            "SERVICE_AREA"
+        ],
+        "usableAreas": [
+            "115"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento 2 quartos sendo 1 suíte com armários planejados, mais dependência completa, sala ampla com porta para varanda blindex, cozinha com armários planejados, área de serviço com armário, piso porcelanato. <br><br><br>Chave do anúncio: jTA4K7dYRIYA25Mg",
+        "title": "Apartamento à venda, 115 m² por R$ 300.000,00 - Pechincha - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2683579813",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22763010",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.945,
+                "approximateLon": -43.358,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Edgard Werneck",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Pechincha",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Pechincha",
+            "poisList": [
+                "BS:Ponto Final: Cidade de Deus",
+                "BS:Professora Camisão",
+                "BS:Terminal Rodoviário Urbano Arquiteto Julius Sass",
+                "BS:Ponto final da linha 932A",
+                "BS:Ponto final da linha 939A",
+                "TS:Ponto Final: Cidade de Deus",
+                "TS:Provedora Lygia Moreira Alves de Brito",
+                "TS:José Roiz de Aragão",
+                "TS:Recanto das Palmeiras (Jardim São Luiz)",
+                "TS:Recreio das Palmeiras (Jardim São Luiz)",
+                "CS:Padaria Felipão",
+                "CS:TECNOMEDI FREGUESIA",
+                "CS:Kúffura",
+                "PH:Mega Expressa",
+                "PH:Farmácia Jericó",
+                "PH:Drogaria Ofertão"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0316",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "115"
+        ],
+        "advertiserId": "25b5397b-e357-e778-7779-02fbe817a440",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "68",
+                "price": "300000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "290"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2124354968"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "25b5397b-e357-e778-7779-02fbe817a440",
+        "name": "Nazio Freitas",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/768f9b1d28b57a75a9355eda4f1b6788/{description}.webp",
+        "licenseNumber": "00000-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 130497,
+        "phones": {
+            "primary": "2124354968",
+            "mobile": ""
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "af90c3d0cefd112bb0c51a7e69e6b9e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/af90c3d0cefd112bb0c51a7e69e6b9e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d26cbfe588d15de78ff27f23c003ebad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d26cbfe588d15de78ff27f23c003ebad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5fe56b4296ac79cc8cfdbf13afb007b2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5fe56b4296ac79cc8cfdbf13afb007b2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f879646ed0893edfa785b02f26c3d8e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f879646ed0893edfa785b02f26c3d8e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d683f37337a7b4c112fa474b564ef73c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d683f37337a7b4c112fa474b564ef73c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7e7fee764a07348c3ea234900502a9d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7e7fee764a07348c3ea234900502a9d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e0d863dbf9d268b396f8f174f16a9e91",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e0d863dbf9d268b396f8f174f16a9e91/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e244e2d97a63cc7c2a8bd195719894b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e244e2d97a63cc7c2a8bd195719894b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8d618c27c2e2b6dcf03bde4fdff74193",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d618c27c2e2b6dcf03bde4fdff74193/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "382b52e29f5091482734157e691507c1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/382b52e29f5091482734157e691507c1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4ce6f00ae95de0f046b8c7bb4f9e98f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4ce6f00ae95de0f046b8c7bb4f9e98f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "448435615fd8e3c5093d28bd4a9dc5bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/448435615fd8e3c5093d28bd4a9dc5bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "940c549c8c5e35f54f39920080f3a8ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/940c549c8c5e35f54f39920080f3a8ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dc3311adb16e1ff1dfc9cbfd936564b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc3311adb16e1ff1dfc9cbfd936564b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "396b835a27ef2b1638e63edfeb1927d9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/396b835a27ef2b1638e63edfeb1927d9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c13f40b35914e8b0e585c929162e34ab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c13f40b35914e8b0e585c929162e34ab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38b25fcba187012187204f6428f6080c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38b25fcba187012187204f6428f6080c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d8f031c7bd92a38f356b14079d49651b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8f031c7bd92a38f356b14079d49651b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bfbe5d1f0c6260d5b6e2852a66a1c5af",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bfbe5d1f0c6260d5b6e2852a66a1c5af/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e9041e471050835e4134c78e740e0921",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e9041e471050835e4134c78e740e0921/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9097661cc0612e1ba4ea760597b65f06",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9097661cc0612e1ba4ea760597b65f06/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Nazio Freitas",
+        "href": "/130497/nazio-freitas/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 115m²",
+        "href": "/imovel/apartamento-2-quartos-pechincha-zona-oeste-rio-de-janeiro-com-garagem-115m2-venda-RS300000-id-2683579813/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Pechincha",
+            "state": "Rio de Janeiro",
+            "street": "Rua Edgard Werneck",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

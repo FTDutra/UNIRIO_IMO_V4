@@ -1,0 +1,276 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "CONCIERGE_24H",
+            "INTERCOM",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "68"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "APARTAMENTO À VENDA NO LEBLON. Ótimo Apartamento com Vista Livre e Sol da Manhã. Composto de 68m² no IPTU, hall de entrada, sala ampla em dois ambientes, varanda ampla, 2 quartos com armários (sendo 1 suíte), cozinha planejada, banheiro social, área e banheiro de serviço, dependência de empregada, 1 vaga de garagem livre. Bom estado, sol da manhã, vista livre, claro, arejado. Prédio muito bem administrado com porteiro 24 horas, sistema interno de Tv, salão de festa, dois andares de garagem, bicicletário, 4 unidade por andar. Excelente localização a 6 minutos da Praia e a 7 do Metrô, todo comércio e serviços na Região! Ligue já, e agende sua visita!<br>-Cod:LEAP20361 -Rev.11Dez",
+        "title": "Apartamento - / Residencial / Leblon",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2755182139",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22441030",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "240",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.221077,
+                "source": "GOOGLE",
+                "lat": -22.981521
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Cupertino Durão",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Leblon",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "poisList": [
+                "BS:BRS 2,3 - Cupertino Durão",
+                "BS:Humberto de Campos",
+                "BS:Ponto Final: CIEP Nação Rubro Negra",
+                "BS:Ponto Final: Afrânio de Melo Franco I",
+                "BS:Nossa Senhora Auxiliadora",
+                "TS:Humberto de Campos",
+                "TS:Ponto Final: CIEP Nação Rubro Negra",
+                "TS:Ponto Final: Afrânio de Melo Franco I",
+                "TS:Nossa Senhora Auxiliadora",
+                "TS:Metrô - Estação Antero de Quental",
+                "CS:Patata",
+                "CS:Talho Capixaba",
+                "CS:Rio Lisboa",
+                "CS:am/pm",
+                "CS:Armazém do Café",
+                "PH:Drogasmil",
+                "PH:Ric",
+                "PH:Padrão"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "LEAP20361",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "68"
+        ],
+        "advertiserId": "6e032c3d-ad3e-c60a-b153-647fccdaac8e",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "4138",
+                "price": "2150000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1600"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21991167127",
+                "21968634429"
+            ]
+        },
+        "videoTourLink": "https://midas360.imb.br/visita_virtual/visita.php?i=MTkwMDM&b=MjExMw&t=8121d0702dd859409a088643afce1661",
+        "whatsappNumber": "21968634429",
+        "stamps": []
+    },
+    "account": {
+        "id": "6e032c3d-ad3e-c60a-b153-647fccdaac8e",
+        "name": "OKRE IMÓVEIS COPACABANA",
+        "licenseNumber": "09927-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 846171,
+        "phones": {
+            "primary": "21991167127",
+            "mobile": "21968634429"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "47f5bd2d66305cba337ad1947fe1eae2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/47f5bd2d66305cba337ad1947fe1eae2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ada80d66f4ea89736d9874ecaff3f362",
+            "url": "https://www.youtube.com/watch?v=omboYKYpSaM",
+            "type": "VIDEO"
+        },
+        {
+            "id": "c7cb2902b76716d829e7a849658d71a8",
+            "url": "https://midas360.imb.br/visita_virtual/visita.php?i=MTkwMDM&b=MjExMw&t=8121d0702dd859409a088643afce1661",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "3f2dd166a205d7710482b2be464e26a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f2dd166a205d7710482b2be464e26a6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48cde08c3e38a8ac6f23440cd7cc1b38",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48cde08c3e38a8ac6f23440cd7cc1b38/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c8195548728d143bf213339191932f57",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c8195548728d143bf213339191932f57/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ef433ec115ab8ba2f9a6023db0973025",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ef433ec115ab8ba2f9a6023db0973025/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7ea00fd8c988ffa5857a087fbcc46e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7ea00fd8c988ffa5857a087fbcc46e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2203601606e51d732a7bf422831163d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2203601606e51d732a7bf422831163d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "14920b9615504fa8835f3eced897242d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/14920b9615504fa8835f3eced897242d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c2806a23a67bd6ba8d2bcf18a2fee34c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2806a23a67bd6ba8d2bcf18a2fee34c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a4cbe0d229d268f03e78243b0df6ace8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4cbe0d229d268f03e78243b0df6ace8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e2ab0c6cc33359eee02c895f388c4743",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e2ab0c6cc33359eee02c895f388c4743/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "77a5816814ce4a0bf65caa8a1a5b5c61",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/77a5816814ce4a0bf65caa8a1a5b5c61/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2ed8ea82ed34b58b93f012ac9ae2bb84",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2ed8ea82ed34b58b93f012ac9ae2bb84/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2966fbb3a71eaae9e9dd4f137029a90c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2966fbb3a71eaae9e9dd4f137029a90c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ef553941e1ca3fcf7d4f85b79209959b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ef553941e1ca3fcf7d4f85b79209959b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7598e60906f90d5a3ec358940989d1f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7598e60906f90d5a3ec358940989d1f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "041b9bb25effa4f3dd62731ac43944f5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/041b9bb25effa4f3dd62731ac43944f5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "82b368d8aa8ea0707e455defa633e3cf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82b368d8aa8ea0707e455defa633e3cf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "55ade5bc5a987ebc2ed0a53d7f15ce36",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/55ade5bc5a987ebc2ed0a53d7f15ce36/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d62a65e5b8a050f780f9ca1cc3aa0f67",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d62a65e5b8a050f780f9ca1cc3aa0f67/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "64b0b8686f8bdfd7e0d51e40b0587b44",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/64b0b8686f8bdfd7e0d51e40b0587b44/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aaff18be846299fa8e14e70c653b1f64",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aaff18be846299fa8e14e70c653b1f64/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "03e939ec7d6881e8cf13d7702191d6dd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/03e939ec7d6881e8cf13d7702191d6dd/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "OKRE IMÓVEIS COPACABANA",
+        "href": "/846171/okre-imoveis-copacabana/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 68m²",
+        "href": "/imovel/apartamento-2-quartos-leblon-zona-sul-rio-de-janeiro-com-garagem-68m2-venda-RS2150000-id-2755182139/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "state": "Rio de Janeiro",
+            "street": "Rua Cupertino Durão",
+            "streetNumber": "240",
+            "zone": "Zona Sul"
+        }
+    }
+}

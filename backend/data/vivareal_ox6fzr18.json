@@ -1,0 +1,314 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GYM",
+            "GOURMET_SPACE",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "INTERCOM",
+            "SAFETY_CIRCUIT",
+            "SAUNA",
+            "ADULT_GAME_ROOM",
+            "SPA"
+        ],
+        "usableAreas": [
+            "147"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Este magnífico apartamento semi-luxo está localizado em uma posição privilegiada, com vista deslumbrante para o Cristo Redentor e o Pão de Açúcar. Com 147.9 m² de área total e 3 suítes, o imóvel oferece o conforto e a sofisticação que você merece.<br><br> O imóvel conta com duas amplas salas, ideais para receber amigos e familiares com todo o conforto. A cozinha é espaçosa e funcional, perfeita para os amantes da culinária. A suíte principal é um verdadeiro refúgio, proporcionando privacidade e conforto.<br><br> Além disso, o condomínio oferece uma infraestrutura completa, com piscina infantil, piscina, bar na piscina, sauna, churrasqueira, academia, salão de festas, salão de jogos, playground e segurança 24 horas. Você e sua família poderão desfrutar de momentos inesquecíveis sem sair de casa.<br><br> Não perca a oportunidade de viver em um imóvel de alto padrão, com todas as comodidades que você merece. Agende uma visita e apaixone-se por este incrível apartamento!<br>-Cod:OLAP30507 -Rev.11Dez",
+        "title": "Apartamento - / Residencial / Botafogo",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2728431217",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22280040",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.952,
+                "approximateLon": -43.184,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Professor Álvaro Rodrigues",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Botafogo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:BRS 3: Sorocaba",
+                "BS:Integrada 9",
+                "BS:Ponto Final: Rio Sul :: Barra, Recreio e Vargem Grande",
+                "BS:Integrada 8",
+                "BS:Integrada 2",
+                "TS:Acesso Mena Barreto",
+                "TS:Acesso Voluntários/Nelson Mandela",
+                "TS:Acesso Voluntários",
+                "TS:Botafogo",
+                "TS:Botafogo / Coca-Cola",
+                "CS:Americanas Local",
+                "CS:Le Dépanneur Delicatessen",
+                "CS:The Slow Bakery",
+                "CS:Naziras X",
+                "CS:Panificação Voluntários",
+                "PH:Farmacopa",
+                "PH:Farma Nature",
+                "PH:Poubel",
+                "PH:Bio Mundo",
+                "PH:Caminhoá"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            3
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "OLAP30507",
+        "bathrooms": [
+            6
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "147"
+        ],
+        "advertiserId": "007196ea-a471-b020-f5ce-147923acf789",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "2864595",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1469"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2138730044",
+                "21991953498"
+            ]
+        },
+        "videoTourLink": "https://v.cyrelatc.com.br/tour/rjz-cyrela-easy-botafogo-3-suites",
+        "whatsappNumber": "21991953498",
+        "stamps": []
+    },
+    "account": {
+        "id": "007196ea-a471-b020-f5ce-147923acf789",
+        "name": "Orla Rio Imóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5831b7ecd2c747605508d6984c92c6dc/{description}.webp",
+        "licenseNumber": "005087-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 43558,
+        "phones": {
+            "primary": "2138730044",
+            "mobile": "21991953498"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "55db5cc3bfe7cebf82bd768bc000ab22",
+            "url": "https://v.cyrelatc.com.br/tour/rjz-cyrela-easy-botafogo-3-suites",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "8db8eef04f6a4ee02be1cd2b247aa5ba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8db8eef04f6a4ee02be1cd2b247aa5ba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dae1fa7cd05ec1c7ccfe11051ab38cdb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dae1fa7cd05ec1c7ccfe11051ab38cdb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f3006b1bca97268eda86e7dcf681c9ba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f3006b1bca97268eda86e7dcf681c9ba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f4b636ff14b6aa7e69e493d2c099ac02",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f4b636ff14b6aa7e69e493d2c099ac02/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "43404617a0601c88a89077224208164a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/43404617a0601c88a89077224208164a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "de6825b91e9fb520497e15e8dbab9eba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/de6825b91e9fb520497e15e8dbab9eba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "28beb4268fb521d99d981fb3d7f4bdf2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/28beb4268fb521d99d981fb3d7f4bdf2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dd51debf3f92e272331a611807a384fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd51debf3f92e272331a611807a384fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e97c0f84a322a9e940d55c0fc1e085b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e97c0f84a322a9e940d55c0fc1e085b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dcb030fc01e5c96e052a948d394f9c59",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dcb030fc01e5c96e052a948d394f9c59/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ad889b5313ccb537b7b787a666efe6ae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ad889b5313ccb537b7b787a666efe6ae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5070ae162f2c11ea9d9b35adc580fd60",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5070ae162f2c11ea9d9b35adc580fd60/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a502f7743fed2a3645c1438b88bdad8a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a502f7743fed2a3645c1438b88bdad8a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "68ca6d325d72189619efac9f814e4fe3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/68ca6d325d72189619efac9f814e4fe3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f2ffaac28188d88692fa49e6e4aead23",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f2ffaac28188d88692fa49e6e4aead23/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6f41c478f723c63f0501cdd8a306b2fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6f41c478f723c63f0501cdd8a306b2fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e090a0cdbe0c86dbd8b15e9ab47a5bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e090a0cdbe0c86dbd8b15e9ab47a5bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "680bd42225eea4b0501157f831c51a2c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/680bd42225eea4b0501157f831c51a2c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "804bd75648200d311891a9f9710c912d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/804bd75648200d311891a9f9710c912d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0ee3612567b69fb37e39e4cb866da3bb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0ee3612567b69fb37e39e4cb866da3bb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5caf32dc1ea44c2cc90e85e8d039a54e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5caf32dc1ea44c2cc90e85e8d039a54e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5350db75ec6413b3ff9f544483b16bfb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5350db75ec6413b3ff9f544483b16bfb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "98920c44a49710038f282f60e22a4584",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98920c44a49710038f282f60e22a4584/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8146384e20830cc054373b43a73d7ffd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8146384e20830cc054373b43a73d7ffd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e80dcef1184f4f876fb47e6f5850bb28",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e80dcef1184f4f876fb47e6f5850bb28/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "89ee96adb49f705e7dfd64c25a870e9c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/89ee96adb49f705e7dfd64c25a870e9c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ad2844804638f4cdf04c0bc9fa858692",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ad2844804638f4cdf04c0bc9fa858692/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "089b709d73154397635662f6a7356954",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/089b709d73154397635662f6a7356954/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c2de0b2c6c7b5461d02cafb7fb7abae4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2de0b2c6c7b5461d02cafb7fb7abae4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "feea92c9da5b4617468e712444838f51",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/feea92c9da5b4617468e712444838f51/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Orla Rio Imóveis",
+        "href": "/43558/orla-rio-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 147m²",
+        "href": "/imovel/apartamento-3-quartos-botafogo-zona-sul-rio-de-janeiro-com-garagem-147m2-venda-RS2864595-id-2728431217/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Professor Álvaro Rodrigues",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

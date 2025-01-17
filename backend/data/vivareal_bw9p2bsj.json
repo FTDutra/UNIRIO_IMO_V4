@@ -1,0 +1,253 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "FURNISHED",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "GARDEN",
+            "SERVICE_AREA",
+            "BICYCLES_PLACE",
+            "BUILTIN_WARDROBE",
+            "INTERNET_ACCESS",
+            "DISABLED_ACCESS",
+            "INTEGRATED_ENVIRONMENTS",
+            "ENTRANCE_HALL",
+            "SAFETY_CIRCUIT",
+            "ELECTRONIC_GATE",
+            "SECURITY_CAMERA"
+        ],
+        "usableAreas": [
+            "90"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento no Recreio dos Bandeirantes sol da manhã, planejado, ar condicionado composto de: 3 quartos sendo 1 Suítes, sala ampla com dois ambientes, banheiro social e de serviço, cozinha com armários, área de serviço e varanda com cortina de vidro.<br><br> Agende uma visita e traga sua proposta!",
+        "title": "Apartamento com 3 quartos no Recreio dos Bandeirantes - Gleba B",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2761993133",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790430",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "25",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.474529,
+                "source": "GOOGLE",
+                "lat": -23.018786
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Almirante Ary Rongel",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Gilka Machado",
+                "TS:Guiomar Novaes",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Recreio Shopping",
+                "CS:R2 Bolos",
+                "CS:Américas Pão",
+                "CS:Armazém do Recreio",
+                "CS:Barra Bonita Padaria",
+                "CS:Alfa Belle",
+                "PH:Foliare",
+                "PH:Economia de Drogarias",
+                "PH:Botica do Rio",
+                "PH:Drogaria M. M. Júnior",
+                "PH:Dona Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "Almirante Ary Rongel. 3Q. 610K. LC.",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "90"
+        ],
+        "advertiserId": "f7e22f98-4d54-87e9-86e0-da92ca7d7cc9",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "180",
+                "price": "610000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "980"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21987674740"
+            ]
+        },
+        "videoTourLink": "https://www.vila360.com.br/videos-360-realidade-virtual/?gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4ats-x6xZ0DUT1URZcmO4O0_Xzg94dfHhUvfGNI8O1MCsP6SGaAdsxRoCcfEQAvD_BwE",
+        "whatsappNumber": "21987674740",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "f7e22f98-4d54-87e9-86e0-da92ca7d7cc9",
+        "name": "SILVA SANTOS IMÓVEIS RJ",
+        "licenseNumber": "068385-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 106606,
+        "phones": {
+            "primary": "21987674740",
+            "mobile": "21987674740"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "055a0572c60eb23f048e80bb27a84c06",
+            "url": "https://www.vila360.com.br/videos-360-realidade-virtual/?gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4ats-x6xZ0DUT1URZcmO4O0_Xzg94dfHhUvfGNI8O1MCsP6SGaAdsxRoCcfEQAvD_BwE",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "319926f5e1e81247b3bb73a0b73078e8",
+            "url": "https://www.youtube.com/watch?v=ZzNTPn4s9o8",
+            "type": "VIDEO"
+        },
+        {
+            "id": "38ddb4e4db6c22b40bee0638189e8953",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38ddb4e4db6c22b40bee0638189e8953/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a78aca8d7472285307b6ae2d52b5b56",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a78aca8d7472285307b6ae2d52b5b56/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aeb623653ae368d1e63d575c8bf9cae6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aeb623653ae368d1e63d575c8bf9cae6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e67419b8c1c93a87d0088b1195b4f50",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e67419b8c1c93a87d0088b1195b4f50/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b8394369e544a5fdd43c2768c643317",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b8394369e544a5fdd43c2768c643317/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7394ec564cac4101d3571a4a7da4dd9c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7394ec564cac4101d3571a4a7da4dd9c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e08fb8a46d527c3df1ee40442d9d4196",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e08fb8a46d527c3df1ee40442d9d4196/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa7028617d959ae5a114e5ff5f9db400",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa7028617d959ae5a114e5ff5f9db400/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "604e9d750b4ace400349585b7199e35d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/604e9d750b4ace400349585b7199e35d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3bd51d54d9a145a6de3fd2ea80e8c1f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3bd51d54d9a145a6de3fd2ea80e8c1f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e59f44b863bca8d93b501fac64880fc9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e59f44b863bca8d93b501fac64880fc9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "be25121271a2a22629347e80aef58166",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/be25121271a2a22629347e80aef58166/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d2cab88c2348b702fe0eb73459745d18",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d2cab88c2348b702fe0eb73459745d18/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1510fc1cac94c2f522da6bbbcb35a22e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1510fc1cac94c2f522da6bbbcb35a22e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3b41cdb0527c836ef0c985aa3757350f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b41cdb0527c836ef0c985aa3757350f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "92d5dbc93c89123a1af265b475d43fbe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/92d5dbc93c89123a1af265b475d43fbe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "03f083a9c5203d3ff613eec51f1d3a85",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/03f083a9c5203d3ff613eec51f1d3a85/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SILVA SANTOS IMÓVEIS RJ",
+        "href": "/106606/silva-santos-imoveis-rj/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 90m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-90m2-venda-RS610000-id-2761993133/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Almirante Ary Rongel",
+            "streetNumber": "25",
+            "zone": "Zona Oeste"
+        }
+    }
+}

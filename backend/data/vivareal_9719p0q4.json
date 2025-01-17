@@ -1,0 +1,290 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "INTERCOM",
+            "BARBECUE_GRILL",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "66"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Encante-se por este charmoso apartamento de 2 dormitórios situado em uma localização privilegiada, com 1 vaga de garagem para sua comodidade. Próximo a Rua Retiro dos Artistas.<br><br> Sol da manhã adentrando pelas janelas, piso frio, iluminando os 66 m² de área útil deste imóvel. O condomínio oferece estrutura com interfone, portaria, churrasqueira e câmeras de vigilância para garantir a segurança.<br>-Cod:XPAP20059 -Rev.11Dez",
+        "title": "Apartamento 2 quartos à venda no Pechincha - Garagem 3 varandas",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2754202882",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22770580",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.94,
+                "approximateLon": -43.359,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Caniu",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Pechincha",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Pechincha",
+            "poisList": [
+                "BS:Ponto Final: Cidade de Deus",
+                "BS:Ponto Final: Pechincha :: Linha 2115",
+                "BS:Professora Camisão",
+                "TS:Ponto Final: Cidade de Deus",
+                "TS:Provedora Lygia Moreira Alves de Brito",
+                "TS:Divina Providência",
+                "TS:José Roiz de Aragão",
+                "TS:Ponto Final: Pechincha :: Linha 2115",
+                "CS:Padaria Felipão",
+                "CS:TECNOMEDI FREGUESIA",
+                "CS:Kúffura",
+                "PH:Mega Expressa",
+                "PH:Farmácia Jericó",
+                "PH:Drogaria Ofertão"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "XPAP20059",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "66"
+        ],
+        "advertiserId": "c221a258-3970-8891-3948-d109ee6ce392",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "66",
+                "price": "250000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "650"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21964704017"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964704017",
+        "stamps": []
+    },
+    "account": {
+        "id": "c221a258-3970-8891-3948-d109ee6ce392",
+        "name": "EXPERTISE IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8f575cd33dce459534f5fee0dae10a9a/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 600174,
+        "phones": {
+            "primary": "21964704017",
+            "mobile": "21964704017"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "219762dbc82a57a21cf76e97b0ca26b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/219762dbc82a57a21cf76e97b0ca26b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e5b58db71614770ccaf3f79eced48df",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e5b58db71614770ccaf3f79eced48df/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a2194098713114c146afbdd2b801a0de",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a2194098713114c146afbdd2b801a0de/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "50d2a4b170978ef9b0df7cfd4437eeb7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/50d2a4b170978ef9b0df7cfd4437eeb7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "108878e1898b423d2a2cbd5b3a55bdfa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/108878e1898b423d2a2cbd5b3a55bdfa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "56a0d47b44116b4f3095fc3455825fe0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56a0d47b44116b4f3095fc3455825fe0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8dc04be9a697e696b11e3af33f6fa0ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8dc04be9a697e696b11e3af33f6fa0ed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "59a9bf331d0a3364551512577838578b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/59a9bf331d0a3364551512577838578b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a79d8bfcbc0b8b212e820a7dc9121422",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a79d8bfcbc0b8b212e820a7dc9121422/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "199b9dd1fd9be8e55aab8b51a24fab7f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/199b9dd1fd9be8e55aab8b51a24fab7f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3050abd7a661e398cdcb7c0221a199f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3050abd7a661e398cdcb7c0221a199f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4355053bf1e0dbf263070012e967aa77",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4355053bf1e0dbf263070012e967aa77/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8eda8086c8f1a8d76d03d508657e36db",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8eda8086c8f1a8d76d03d508657e36db/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "873064a93377d3a63246eaf557354a9f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/873064a93377d3a63246eaf557354a9f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cdff0a34de31842e2b7e09576bcb3fea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cdff0a34de31842e2b7e09576bcb3fea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3921b48479264c19baf29a6ef2a2c5b2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3921b48479264c19baf29a6ef2a2c5b2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e727fe8763b7d36a53501b39025d1603",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e727fe8763b7d36a53501b39025d1603/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f4db7e7dd2f2713df8c633bb38179d3a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f4db7e7dd2f2713df8c633bb38179d3a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f9991f29c2dcb5e11e712512932fc95",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f9991f29c2dcb5e11e712512932fc95/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6dba0765e3d0d2f72735e84c9f2417f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6dba0765e3d0d2f72735e84c9f2417f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c3f3321ef5a6a708c8e64cce62134f39",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c3f3321ef5a6a708c8e64cce62134f39/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7fcf6942ac4c55cafc0817639fd9a051",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7fcf6942ac4c55cafc0817639fd9a051/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2b55fc68ad80e7f3f272effe1178c2d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b55fc68ad80e7f3f272effe1178c2d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5c8371272cf8fc148e220d1094d15465",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5c8371272cf8fc148e220d1094d15465/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce259e224ccc06abfaf9b8ed06305e57",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce259e224ccc06abfaf9b8ed06305e57/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "16ff0ef0839240c05102470f5934c79f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/16ff0ef0839240c05102470f5934c79f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e60770c347f80aa345092a290bd6ffb5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e60770c347f80aa345092a290bd6ffb5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f3e915cdb5406485b022987d3c7de2b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f3e915cdb5406485b022987d3c7de2b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b362cabb55eefa5cd1b6ebb2e7f902dd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b362cabb55eefa5cd1b6ebb2e7f902dd/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "EXPERTISE IMÓVEIS",
+        "href": "/600174/expertise-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 66m²",
+        "href": "/imovel/apartamento-2-quartos-pechincha-zona-oeste-rio-de-janeiro-com-garagem-66m2-venda-RS250000-id-2754202882/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Pechincha",
+            "state": "Rio de Janeiro",
+            "street": "Rua Caniu",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

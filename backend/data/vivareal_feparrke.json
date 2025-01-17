@@ -1,0 +1,256 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "GARAGE",
+            "KITCHEN",
+            "INTERCOM",
+            "NUMBER_OF_FLOORS"
+        ],
+        "usableAreas": [
+            "233"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua José Américo de Almeida, no bairro Recreio dos Bandeirantes em Rio de Janeiro. Este imóvel conta com área construída de 233m², oferecendo 5 quartos, sendo 5 suítes, 5 banheiros e 4 vagas de garagem. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Cobertura com 5 quartos à venda no Recreio",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2753101513",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            4
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22795045",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "688",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.457337,
+                "source": "GOOGLE",
+                "lat": -23.023204
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua José Américo de Almeida",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "CS:Panetteria Recreio",
+                "CS:Padaria Nobreza",
+                "CS:Padaria e Confeitaria Rei do Recreio",
+                "CS:Pão Carioca",
+                "CS:Padaria AlfaBelle",
+                "PH:Botica do Rio",
+                "PH:Drogaria do Povo das Américas",
+                "PH:Venâncio",
+                "PH:Farmario",
+                "PH:Dona Farma",
+                "SU:Colégio Recanto",
+                "SU:Recreio Christian School",
+                "SU:Colégio e Vestibular de A a Z",
+                "SU:Colégio Alfa CEM Bilíngue",
+                "SU:Colégio QI",
+                "CH:rto Ortopedia",
+                "CH:Primer",
+                "CH:Espaço Salud",
+                "CH:Oftalmo Recreio Clínica dos Olhos",
+                "CH:Instituto Angelica Mendes"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            5
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PU1jmaxps",
+        "bathrooms": [
+            5
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "233"
+        ],
+        "advertiserId": "fa1a9921-ab60-2910-8f99-5e45f0aa9871",
+        "bedrooms": [
+            5
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "6175",
+                "price": "2700000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2350"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21965821001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21965821001",
+        "stamps": []
+    },
+    "account": {
+        "id": "fa1a9921-ab60-2910-8f99-5e45f0aa9871",
+        "name": "IMOVELUM",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/15328a298c0ec4b887ab76fd5fe7b3ba/{description}.webp",
+        "licenseNumber": "8951-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 772667,
+        "phones": {
+            "primary": "21965821001",
+            "mobile": "21965821001"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "2b0f109c64f0feef9cd711971114d90e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b0f109c64f0feef9cd711971114d90e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "183831281932c0d56fde26d3fda739ab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/183831281932c0d56fde26d3fda739ab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dec70270da7d19dfe7ef4e3035d8f943",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dec70270da7d19dfe7ef4e3035d8f943/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "27881dc4a7feb1bce20b3de519721575",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/27881dc4a7feb1bce20b3de519721575/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6384326e7e2c2b04e99ac91555ce79ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6384326e7e2c2b04e99ac91555ce79ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e8988697437b3691d15474b7f79ed954",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e8988697437b3691d15474b7f79ed954/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7465610cde4b1d100f7c271f27ccc940",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7465610cde4b1d100f7c271f27ccc940/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9a060a5d5c713ece59d7de508dc0818c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9a060a5d5c713ece59d7de508dc0818c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c182e06a285a28179372146b959e97ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c182e06a285a28179372146b959e97ff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "70989cc44d8e1b474b3790c4cea0c761",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/70989cc44d8e1b474b3790c4cea0c761/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd313007bfd7f44b4d1c5125dae7cdf9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd313007bfd7f44b4d1c5125dae7cdf9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6cfc3080de1a44bd36f6e1e1c9e6c35d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6cfc3080de1a44bd36f6e1e1c9e6c35d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ba38e12f4189a7ab6fab2b0ae47e4eb7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ba38e12f4189a7ab6fab2b0ae47e4eb7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8637834872f7549149de768d7b940d1b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8637834872f7549149de768d7b940d1b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d7d3e9980b50cf481391cc50d95bd759",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7d3e9980b50cf481391cc50d95bd759/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1eeaeadb0fde6bff684cd9f1559e3a89",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1eeaeadb0fde6bff684cd9f1559e3a89/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0bcf5fc7cefd6de0eeebaba76e4587f5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0bcf5fc7cefd6de0eeebaba76e4587f5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "415b0863e2fab3345940c6085d347de6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/415b0863e2fab3345940c6085d347de6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6b48768960b89b66fb2aa48b41a5a9ae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6b48768960b89b66fb2aa48b41a5a9ae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b122f5ee53a788fc1517c8874a04b06f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b122f5ee53a788fc1517c8874a04b06f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e1060a8367cc548ecd6bba0406e7f346",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e1060a8367cc548ecd6bba0406e7f346/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "IMOVELUM",
+        "href": "/772667/imovelum/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 5 Quartos à venda, 233m²",
+        "href": "/imovel/apartamento-5-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-233m2-venda-RS2700000-id-2753101513/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua José Américo de Almeida",
+            "streetNumber": "688",
+            "zone": "Zona Oeste"
+        }
+    }
+}

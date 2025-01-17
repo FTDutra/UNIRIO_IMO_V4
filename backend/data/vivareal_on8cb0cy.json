@@ -1,0 +1,245 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "DINNER_ROOM",
+            "HEATING",
+            "SERVICE_AREA"
+        ],
+        "usableAreas": [
+            "116"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento no bairro Jardim Botânico com 116m², contendo hall, sala de estar e sala de jantar. Na parte íntima do imóvel, são 3 quartos e 1 banheiro social. Parte de serviço com cozinha, área de serviço, dependência de empregada e banheiro de empregada. Sem garagem. Perto de amplo comércio local, feira livre e em excelente zona gastronômica. Venha visitar!",
+        "title": "Apartamento para venda com 3 quartos, 116m² - Jardim Botânico - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2718330343",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22461151",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.96,
+                "approximateLon": -43.208,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Maria Angélica",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Jardim Botanico",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "poisList": [
+                "BS:Maria Angélica",
+                "BS:Humaitá",
+                "BS:Hospital da Lagoa",
+                "BS:Jardim Botânico",
+                "BS:Cobal do Humaitá",
+                "TS:Maria Angélica",
+                "TS:Humaitá",
+                "TS:Hospital da Lagoa",
+                "TS:Cobal do Humaitá",
+                "TS:Cobal",
+                "CS:A Padaria - Café Et Marché",
+                "CS:Panificação Lagoa",
+                "CS:Vitória Régia",
+                "CS:Mercado Humaitá",
+                "CS:Farinha Pura",
+                "PH:Padrão",
+                "PH:Minipreço",
+                "PH:Ypiranga",
+                "PH:Ric",
+                "PH:Caminhoá"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "12012444",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "116"
+        ],
+        "advertiserId": "9aef4a01-f5ed-0e89-09e8-5558847b760f",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "378",
+                "price": "1380000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "988"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21991247199"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21991247199",
+        "stamps": []
+    },
+    "account": {
+        "id": "9aef4a01-f5ed-0e89-09e8-5558847b760f",
+        "name": "HomeHub Jardim Botânico",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a2783a4b84157abf421825301d4bc1a2/{description}.webp",
+        "licenseNumber": "008870-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 672429,
+        "phones": {
+            "primary": "21991247199",
+            "mobile": "21991247199"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "01baf1f00aa72b8f2998dd4535df39ae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/01baf1f00aa72b8f2998dd4535df39ae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5de9b645f0ac50a203b9dfab7f02d7fe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5de9b645f0ac50a203b9dfab7f02d7fe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce0ef8fd5168b528f783b66cb504b062",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce0ef8fd5168b528f783b66cb504b062/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "20ea1d270c7b1668c5f47ea1f64718c5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/20ea1d270c7b1668c5f47ea1f64718c5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a36d9c5f4eb7f752dcccde41cf1f76a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a36d9c5f4eb7f752dcccde41cf1f76a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "00a74cfdc78e7180cc6b90e92a0d46c5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/00a74cfdc78e7180cc6b90e92a0d46c5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa7f4ba91f1e4596f55950af319a9c0b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa7f4ba91f1e4596f55950af319a9c0b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "37fd39bb0e63f03324eb5a94e257cf43",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/37fd39bb0e63f03324eb5a94e257cf43/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "208cb8641a249c42599272104342dbcb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/208cb8641a249c42599272104342dbcb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "daafad9f7b3d53c86d808e50bd0c49c1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/daafad9f7b3d53c86d808e50bd0c49c1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86295ffc0a717b4c717f5ee9a300a4a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86295ffc0a717b4c717f5ee9a300a4a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "db3dcbad28945de0bf532f85906a4958",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/db3dcbad28945de0bf532f85906a4958/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1f23b1d526b7eb1c0b97fe639cfc74a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1f23b1d526b7eb1c0b97fe639cfc74a4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d0394a52b69a785f01a27219f24ea775",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d0394a52b69a785f01a27219f24ea775/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0e2d0ff2312c5c99683485105f92d1a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0e2d0ff2312c5c99683485105f92d1a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "486375fb54c521c36cd6881d20d12a48",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/486375fb54c521c36cd6881d20d12a48/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "056c951eec7968f2e11ee433d33902e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/056c951eec7968f2e11ee433d33902e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d8624845372b9bc12f0af52e16c5da83",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8624845372b9bc12f0af52e16c5da83/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ea2db53080917a4a4136c92e64f075de",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ea2db53080917a4a4136c92e64f075de/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "HomeHub Jardim Botânico",
+        "href": "/672429/homehub-jardim-botanico/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 116m²",
+        "href": "/imovel/apartamento-3-quartos-jardim-botanico-zona-sul-rio-de-janeiro-116m2-venda-RS1380000-id-2718330343/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "state": "Rio de Janeiro",
+            "street": "Rua Maria Angélica",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

@@ -1,0 +1,237 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "DEPOSIT",
+            "INTERCOM",
+            "WATCHMAN"
+        ],
+        "usableAreas": [
+            "100"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "* Apartamento a venda em Laranjeiras, Rua Moura Brasil.<br><br>* Excelente localização, pertinho do Clube Fluminense, rua arborizada e tranquila.<br><br>* Apartamento em andar alto, claro e arejado com vista para a copa das árvores, boa sala em piso taco, podendo fazer dois ambientes. <br><br>* 3 quartos, 2 com armários ( sendo 1 suíte ), banheiro social, cozinha, área de serviço e dependência. <br><br>* Condomínio bem administrado com ampla portaria. Possui 1 vaga de garagem na escritura.",
+        "title": "Apartamento 3 quartos 1 suíte em Laranjeiras.",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2744459518",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22231200",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "60",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.185362,
+                "source": "GOOGLE",
+                "lat": -22.93565
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Moura Brasil",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Laranjeiras",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Laranjeiras",
+            "poisList": [
+                "BS:Rua das Laranjeiras, 336",
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Largo do Machado",
+                "BS:Rua Cosme Velho, 433",
+                "BS:Rua Monte Alegre próximo ao 342",
+                "TS:Rua das Laranjeiras, 336",
+                "TS:Flamengo",
+                "TS:Acesso Largo do Machado",
+                "TS:Acesso Catete",
+                "TS:Ponto Final: Largo do Machado :: Linha 497",
+                "CS:Mercearia Fuji",
+                "CS:Frigorífico Palácio",
+                "CS:Mercado São José das Artes",
+                "CS:Panificação Aliança",
+                "CS:Confeitaria Itajaí",
+                "PH:Farmácia Pinheiro Machado",
+                "PH:drogarias tambaú",
+                "PH:RIC",
+                "PH:Bioderme",
+                "PH:Drogaria Ric"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "3861",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "100"
+        ],
+        "advertiserId": "d42cd1ae-2a65-985f-20ed-40344e468d4e",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "255",
+                "price": "850000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1560"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21960156592"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21960156592",
+        "stamps": []
+    },
+    "account": {
+        "id": "d42cd1ae-2a65-985f-20ed-40344e468d4e",
+        "name": "Albae & Alefe Administracao de Imoveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82a1c3d20932004fa708829f7de2b209/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 745263,
+        "phones": {
+            "primary": "21960156592",
+            "mobile": "21960156592"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "5b41f9281521c72dca58a3c88a3d5751",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b41f9281521c72dca58a3c88a3d5751/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "25c806c125f144c49d8fd795d5435fea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/25c806c125f144c49d8fd795d5435fea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "69c822b4c492ce19c39377591c6475b7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/69c822b4c492ce19c39377591c6475b7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86946e5a4833e466c204c549ec5f0a6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86946e5a4833e466c204c549ec5f0a6e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd651797247899db1258ba8209ba9f28",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd651797247899db1258ba8209ba9f28/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "02e4181e862ada4b98ce114686eb7a97",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/02e4181e862ada4b98ce114686eb7a97/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a2696283d2a6a372b711b71b4737acfc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a2696283d2a6a372b711b71b4737acfc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e728b00a99bdce1f0e8faac4fa1b30d2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e728b00a99bdce1f0e8faac4fa1b30d2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e89455dbef0f87f7fb44d5041892985",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e89455dbef0f87f7fb44d5041892985/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0418d23d15711a806ecf99b3582f59c0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0418d23d15711a806ecf99b3582f59c0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6b28a4ca47a5ee450cd30c060b763649",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6b28a4ca47a5ee450cd30c060b763649/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "79215115b3bbe5131b8a36316f551341",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/79215115b3bbe5131b8a36316f551341/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "587fd724fbc0c7e3cfb793bfd0296a40",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/587fd724fbc0c7e3cfb793bfd0296a40/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9ab38dd0aaf85eb318f92e605cf9783",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9ab38dd0aaf85eb318f92e605cf9783/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5c0e80257111506bc2274cb9ca9b6cd9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5c0e80257111506bc2274cb9ca9b6cd9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e0b339b885142e232bf11253f30b165c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e0b339b885142e232bf11253f30b165c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "34548a0038775763f16e5c37d9f759f6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/34548a0038775763f16e5c37d9f759f6/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Albae & Alefe Administracao de Imoveis",
+        "href": "/745263/albae-alefe-administracao-de-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 100m²",
+        "href": "/imovel/apartamento-3-quartos-laranjeiras-zona-sul-rio-de-janeiro-com-garagem-100m2-venda-RS850000-id-2744459518/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Laranjeiras",
+            "state": "Rio de Janeiro",
+            "street": "Rua Moura Brasil",
+            "streetNumber": "60",
+            "zone": "Zona Sul"
+        }
+    }
+}

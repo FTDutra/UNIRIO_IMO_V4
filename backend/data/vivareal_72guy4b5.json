@@ -1,0 +1,465 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "AIR_CONDITIONING",
+            "GARDEN",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "TENNIS_COURT",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "LAUNDRY",
+            "SPA",
+            "COWORKING",
+            "DISABLED_ACCESS",
+            "ELECTRONIC_GATE",
+            "SAUNA",
+            "GAMES_ROOM"
+        ],
+        "usableAreas": [
+            "158"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Barra da Tijuca - Península - Península Green - Edifício Green Star - Ótimo apartamento , 158 m2, 2 vgs , sol da manhã, andar médio, vista livre para parque, composto de 4 quartos 3 suítes sendo 1 canadense, totalmente reformado , com piso , iluminação, revestimentos, metais e ferragens trocados, cozinha banheiros e quartos com armários em excelente estado. Prédio acabou de passar por uma grande reforma e atualização. Ficou impecável inclusive nas áreas comuns. academia, espaço gourmet, jardim, parquinho com diferentes brinquedos, espaço para festas.",
+        "title": "Apartamento para venda possui 158 metros quadrados com 4 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2716747202",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22776000",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "280",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.354787,
+                "source": "GOOGLE",
+                "lat": -22.989681
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida das Acácias da Península",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:O2 Corporate & Offices",
+                "BS:Casa Shopping",
+                "BS:Barra Shopping Fundos (Hot Zone)",
+                "BS:Via Parque Shopping",
+                "BS:Barra Shopping Lateral",
+                "TS:O2 Corporate & Offices",
+                "TS:Casa Shopping",
+                "TS:Via Parque Shopping",
+                "TS:Barra Shopping",
+                "TS:Aeroporto de Jacarepaguá",
+                "CS:Sítio do Moinho",
+                "CS:Mundo Verde",
+                "CS:Fábrica do Bolo",
+                "CS:Esso",
+                "CS:Candy Delicatesse",
+                "PH:Drogarias Carioca"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            3
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "V0G3CA",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "158"
+        ],
+        "advertiserId": "6a810300-acfa-9da7-9390-7c5cedfa69cb",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "630",
+                "price": "2300000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2750"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21972223377"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21972223377",
+        "stamps": []
+    },
+    "account": {
+        "id": "6a810300-acfa-9da7-9390-7c5cedfa69cb",
+        "name": "JACQUELINE DUTTON IMÓVEIS RJ",
+        "licenseNumber": "023003-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 69002,
+        "phones": {
+            "primary": "21972223377",
+            "mobile": "21972223377"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "eb0b0de5ca0bbb99ad3d0b7f6943b9f7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb0b0de5ca0bbb99ad3d0b7f6943b9f7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e01ad39c100a2f718b902cdcbe1004c0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e01ad39c100a2f718b902cdcbe1004c0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "542aa468295042238281c4a95f1e3c5c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/542aa468295042238281c4a95f1e3c5c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "735572f939e657368e491c361fe834c0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/735572f939e657368e491c361fe834c0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b140f2bef2b8f89291fc87a0a3e06d3b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b140f2bef2b8f89291fc87a0a3e06d3b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1691da6d0ff5768944d670aa5ea04625",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1691da6d0ff5768944d670aa5ea04625/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "11626879487f1a333f7f1fd252f60ef4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/11626879487f1a333f7f1fd252f60ef4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3954f72a055c443098656d01876fe0e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3954f72a055c443098656d01876fe0e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa40a4bff61c73b1fe9e61837d253a86",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa40a4bff61c73b1fe9e61837d253a86/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "785ecf57b0333ea4c67dc7d85bbb0e7f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/785ecf57b0333ea4c67dc7d85bbb0e7f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a3cada6dd0f04899c486e73a2349cf5d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a3cada6dd0f04899c486e73a2349cf5d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "13f78fc144144f8bf25db7b96cef8faa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/13f78fc144144f8bf25db7b96cef8faa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8b3d7469405716d9c1a33b6d80707cee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8b3d7469405716d9c1a33b6d80707cee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "052f825ad7d906045802d5e76e05568d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/052f825ad7d906045802d5e76e05568d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81eec5f08ab6e2db0ca2f8aeb3bad79f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81eec5f08ab6e2db0ca2f8aeb3bad79f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "52adb9ac91dfd80b9f3e7464cbd7fb5a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52adb9ac91dfd80b9f3e7464cbd7fb5a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd84d13851e644353ddd5f0d2e5b36cb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd84d13851e644353ddd5f0d2e5b36cb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5223cb1105f4eb1ff8bf4b03cd7fcfcd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5223cb1105f4eb1ff8bf4b03cd7fcfcd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "707bffe47c734804387101fce6b17525",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/707bffe47c734804387101fce6b17525/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2bccd60000c88b543020c87964577478",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2bccd60000c88b543020c87964577478/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d8a7ea9691b17ce6e848df2b08824f49",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8a7ea9691b17ce6e848df2b08824f49/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "454ad5ebf0cdd34230b44ec93816d0e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/454ad5ebf0cdd34230b44ec93816d0e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "12fbeb760ab5a3cecc1895787bdbfa6c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/12fbeb760ab5a3cecc1895787bdbfa6c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c2825fbfb8bb18cf329169cce6a0fdb5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2825fbfb8bb18cf329169cce6a0fdb5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "496ec16ef7f169c3d260ec5be4aa8d5a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/496ec16ef7f169c3d260ec5be4aa8d5a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "58fd9adb105c35ff6169e61d1f82728b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/58fd9adb105c35ff6169e61d1f82728b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "37b71f297897dd3eaa84184b93427f55",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/37b71f297897dd3eaa84184b93427f55/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f52f94b73b7323b6681a653c99b64de",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f52f94b73b7323b6681a653c99b64de/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "16b2c3032577ca0e9f8b3146c3cbe6e2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/16b2c3032577ca0e9f8b3146c3cbe6e2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "980a67e4afcfb2e503cf6545f3cf0969",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/980a67e4afcfb2e503cf6545f3cf0969/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21c4573554dd47e92182a9bd0e8b5e00",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21c4573554dd47e92182a9bd0e8b5e00/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7da0a082152d2c2332503324d7ec2a68",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7da0a082152d2c2332503324d7ec2a68/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7083a613ff3d05f42cb740dbe95c9837",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7083a613ff3d05f42cb740dbe95c9837/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65d608249afc442a1b8cbeed47984ac0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65d608249afc442a1b8cbeed47984ac0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8db0c8632cb59195932f91b28247ee9b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8db0c8632cb59195932f91b28247ee9b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3312d8c0edcf7cedb91728858086e2c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3312d8c0edcf7cedb91728858086e2c7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5fe19aeb3a265eb935d7a69dc99e87b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5fe19aeb3a265eb935d7a69dc99e87b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7df0b29ea705b8834c674a525dd44424",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7df0b29ea705b8834c674a525dd44424/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1e8d9169fae3158fcd2ee639b1d12a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1e8d9169fae3158fcd2ee639b1d12a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "14322d8291e7564bdc918d1e1e3de860",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/14322d8291e7564bdc918d1e1e3de860/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5e9e2b8f8ffba1641593a8ca6e228b5d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5e9e2b8f8ffba1641593a8ca6e228b5d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "932a9471096998141b7be2985738f21e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/932a9471096998141b7be2985738f21e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e02428e1f5abdd2a89611f39b8ad94c8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e02428e1f5abdd2a89611f39b8ad94c8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "453979e620b07b1a833641188f133743",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/453979e620b07b1a833641188f133743/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c099d434a2f13d50df91f5e9fbfeaa20",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c099d434a2f13d50df91f5e9fbfeaa20/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f8cf2b2106f8249a4cb8b2289ed053a7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f8cf2b2106f8249a4cb8b2289ed053a7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9cacd2a60543f9edcac45a25742d22d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9cacd2a60543f9edcac45a25742d22d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb4d3eba29747066ae1a5abd2d4f7a57",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb4d3eba29747066ae1a5abd2d4f7a57/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dcc0065ef59ed127663d227fd1d9d4a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dcc0065ef59ed127663d227fd1d9d4a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4da55e931cbf62ccea1e70b11b69ce27",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4da55e931cbf62ccea1e70b11b69ce27/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a82beb94b1c58736ed135a535ca5041f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a82beb94b1c58736ed135a535ca5041f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a192b0714bec3914eb8204fed400b63",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a192b0714bec3914eb8204fed400b63/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "35aeae21da6b31dd4bbcb729272cb993",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/35aeae21da6b31dd4bbcb729272cb993/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2c7e3f3cacf291b907c9b24fcee3a0d9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c7e3f3cacf291b907c9b24fcee3a0d9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1b7199b3eb65e2e124854770d0959374",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1b7199b3eb65e2e124854770d0959374/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1f37d332aada0088ecc321f7606b205",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1f37d332aada0088ecc321f7606b205/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "973fff775c7f9d00f20dd87b5587573d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/973fff775c7f9d00f20dd87b5587573d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "24c472d48cee5a1cdf445fa5c49b0d10",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/24c472d48cee5a1cdf445fa5c49b0d10/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fa8f93e11aa5f79b5fc3ec72f1f7ca1c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa8f93e11aa5f79b5fc3ec72f1f7ca1c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "30dac1ae8d63595354d9aa872c13dbc0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30dac1ae8d63595354d9aa872c13dbc0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f0084438bb682131955f0b5bfcdcfdd1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f0084438bb682131955f0b5bfcdcfdd1/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "JACQUELINE DUTTON IMÓVEIS RJ",
+        "href": "/69002/jacqueline-dutton-imoveis-rj/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 158m²",
+        "href": "/imovel/apartamento-4-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-158m2-venda-RS2300000-id-2716747202/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Avenida das Acácias da Península",
+            "streetNumber": "280",
+            "zone": "Zona Oeste"
+        }
+    }
+}

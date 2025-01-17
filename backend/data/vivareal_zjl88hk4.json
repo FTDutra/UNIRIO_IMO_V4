@@ -1,0 +1,210 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "HEATING",
+            "KITCHEN_CABINETS",
+            "INTERCOM",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "130"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda no Flamengo!<br> <br>Descricões sobre o apartamento: <br>Localização privilegiada<br> ️ 3 Quartos <br> ️ 1 Suite<br> 1 Banheiro <br> 3° Andar <br> 130m2<br> Lavabo <br> Portaria 24 horas <br>VALOR DA VENDA: R$ 1.280.000<br>Entre em contato conosco para agendar uma vista agora mesmo!",
+        "title": "Apartamento à venda no Flamengo - 4 quartos - 1 suite - 1 vaga - 130m2",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2727909941",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22230060",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "151",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.177609,
+                "source": "GOOGLE",
+                "lat": -22.938395
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Marquês de Abrantes",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Flamengo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "poisList": [
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Largo do Machado",
+                "BS:Rua das Laranjeiras, 336",
+                "BS:Palácio Universitário",
+                "BS:Marechal Cantuária",
+                "TS:Flamengo",
+                "TS:Ponto Final: Largo do Machado :: Linha 497",
+                "TS:Acesso Catete",
+                "TS:Largo do Machado",
+                "TS:Acesso Largo do Machado",
+                "CS:Maguila",
+                "CS:Deep Freeze",
+                "CS:Padaria Napoles",
+                "CS:Benamor",
+                "CS:Mei-jo",
+                "PH:Drogaria Paraná",
+                "PH:Farma Hall",
+                "PH:Rio Brasil",
+                "PH:RioFarma",
+                "PH:Quintessência"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "60877",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "130"
+        ],
+        "advertiserId": "cff0752d-6348-cc1c-4c4a-ea62f473edbc",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3300",
+                "price": "1280000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1300"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21991616884"
+            ]
+        },
+        "videoTourLink": "https://kuula.co/profile/AFASA/collections",
+        "whatsappNumber": "21991616884",
+        "stamps": []
+    },
+    "account": {
+        "id": "cff0752d-6348-cc1c-4c4a-ea62f473edbc",
+        "name": "AFASA Imóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/374efcfc04f0e805677a1ab6eb42a153/{description}.webp",
+        "licenseNumber": "008484-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 642152,
+        "phones": {
+            "primary": "21991616884",
+            "mobile": "21991616884"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "69f64bffaa8bb558a372e5ceaf0d3ab4",
+            "url": "https://youtu.be/3qK61KGesEw",
+            "type": "VIDEO"
+        },
+        {
+            "id": "3100ee2e1cfd8cbb807236ce511d10e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3100ee2e1cfd8cbb807236ce511d10e3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "afca6c30894d4e002a5c63610b2a28c9",
+            "url": "https://kuula.co/profile/AFASA/collections",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "1c5bfc49337105a234a89ed88eeb91ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c5bfc49337105a234a89ed88eeb91ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0676971394d1fb705ab66b73c3017aca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0676971394d1fb705ab66b73c3017aca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "686773a744f324f7b8bcab69e610c152",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/686773a744f324f7b8bcab69e610c152/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "12a4546bec9bc7b356f852a39aa78837",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/12a4546bec9bc7b356f852a39aa78837/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0315ab7b1307014fa7ca3d83935963d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0315ab7b1307014fa7ca3d83935963d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "39518324c923a0aeab3ba558be346b47",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39518324c923a0aeab3ba558be346b47/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6aa1ed307a379dfb166d5088c9c9d062",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6aa1ed307a379dfb166d5088c9c9d062/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2d319b81e8911c2885c40bd223af1a3f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2d319b81e8911c2885c40bd223af1a3f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "653eeb02025bb450e0618cf3b219f427",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/653eeb02025bb450e0618cf3b219f427/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "AFASA Imóveis",
+        "href": "/642152/afasa-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 130m²",
+        "href": "/imovel/apartamento-4-quartos-flamengo-zona-sul-rio-de-janeiro-com-garagem-130m2-venda-RS1280000-id-2727909941/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Marquês de Abrantes",
+            "streetNumber": "151",
+            "zone": "Zona Sul"
+        }
+    }
+}

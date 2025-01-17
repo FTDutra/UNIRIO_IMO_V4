@@ -1,0 +1,250 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "PETS_ALLOWED",
+            "SERVICE_AREA",
+            "BUILTIN_WARDROBE",
+            "BEDROOM_WARDROBE",
+            "KITCHEN_CABINETS",
+            "SERVICE_BATHROOM",
+            "INTERNET_ACCESS",
+            "LARGE_KITCHEN",
+            "PANTRY",
+            "INTERCOM",
+            "LARGE_WINDOW",
+            "DINNER_ROOM",
+            "LARGE_ROOM",
+            "ALUMINUM_WINDOW",
+            "BLINDEX_BOX",
+            "FULL_FLOOR",
+            "ELECTRONIC_GATE",
+            "NATURAL_VENTILATION",
+            "LUNCH_ROOM"
+        ],
+        "usableAreas": [
+            "90"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Á 5 MINUTOS METRÔ AFONSO PENA , APARTAMENTO TIPO CASA TÉRREA, 3 QUARTOS SENDO UM COM ARMÁRIO EMBUTIDO, BANHEIRO SOCIAL, COZINHA COM AMÁRIOS, ÀREA DE SERVIÇO COM BANHEIRO, QUINTAL, VAGA DE GAGAREM COM PORTÃO ELETRÔNICO.",
+        "title": "Apartamento para venda possui 90 metros quadrados com 3 quartos em Tijuca - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2611267460",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20260210",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.921,
+                "approximateLon": -43.216,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Engenheiro Adel",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Club Municipal",
+                "BS:Ponto Final do 600 (Taquara)",
+                "BS:Ponto Final: Saens Peña :: Linha 601",
+                "BS:P9: Moraes e Silva",
+                "BS:Ponto Final: Praça da Bandeira :: Linha 624",
+                "TS:Club Municipal",
+                "TS:Afonso Pena / Tijuca",
+                "TS:Afonso Pena",
+                "TS:Ponto de Mototáxi",
+                "TS:São Francisco Xavier / Tijuca",
+                "CS:Grão de Minas",
+                "CS:Empório Mineiro Cheirin Bão",
+                "CS:Império do Pão",
+                "CS:Confeitaria Rita de Cássia",
+                "CS:Empório Lamego",
+                "PH:Farmavita"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "MBAP34488",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "90"
+        ],
+        "advertiserId": "389c32ae-d0fe-84f2-5fb6-bdb9645da201",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1100",
+                "price": "635000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122047000",
+                "21994033825"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21994033825",
+        "stamps": []
+    },
+    "account": {
+        "id": "389c32ae-d0fe-84f2-5fb6-bdb9645da201",
+        "name": "RJC IMOBILIÁRIA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82c4683131e146314b54c3710d313a85/{description}.webp",
+        "licenseNumber": "043388-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 232020,
+        "phones": {
+            "primary": "2122047000",
+            "mobile": "21994033825"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "97071f8d19e679664bcf58d9f980e6c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/97071f8d19e679664bcf58d9f980e6c7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "00de14723f469095316c9b86a632cb54",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/00de14723f469095316c9b86a632cb54/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6aac5e1beeee65aa3eb21f3bf2abef3d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6aac5e1beeee65aa3eb21f3bf2abef3d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ece1ddf81cec282738ae6502e51b0e41",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ece1ddf81cec282738ae6502e51b0e41/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "43ed613260224f6864ae64392cc5c63e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/43ed613260224f6864ae64392cc5c63e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "acfc3d7691fce5b71248cff2b0c36061",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/acfc3d7691fce5b71248cff2b0c36061/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5cf1acfa785dd2df57970bf767165349",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5cf1acfa785dd2df57970bf767165349/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7342dfa6b06ed23a56f84e8a7e2690a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7342dfa6b06ed23a56f84e8a7e2690a4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a4321f37d6015794025f2b274113729e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4321f37d6015794025f2b274113729e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dcd06bc66cce06f2bdd07aa062abcca7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dcd06bc66cce06f2bdd07aa062abcca7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "faa81de13c573882c0827755d0ec477e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/faa81de13c573882c0827755d0ec477e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "56a991de3edc8cca62ba6469d9a0d256",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56a991de3edc8cca62ba6469d9a0d256/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe836c84b63aedf882be4777ed31dc66",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe836c84b63aedf882be4777ed31dc66/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e11808bde1a958a6b034960b33ff4776",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e11808bde1a958a6b034960b33ff4776/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd8f3d855ba7f41f82535413e2dc2dea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd8f3d855ba7f41f82535413e2dc2dea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f72a0ee10975710bacfdb61f30ae300",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f72a0ee10975710bacfdb61f30ae300/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2b1c69fadc6d6112559b20a3e649deb9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b1c69fadc6d6112559b20a3e649deb9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4845efb46b75c8ce7a6d12d829db68de",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4845efb46b75c8ce7a6d12d829db68de/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "RJC IMOBILIÁRIA",
+        "href": "/232020/rjc-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 90m²",
+        "href": "/imovel/apartamento-3-quartos-tijuca-zona-norte-rio-de-janeiro-com-garagem-90m2-venda-RS635000-id-2611267460/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Engenheiro Adel",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

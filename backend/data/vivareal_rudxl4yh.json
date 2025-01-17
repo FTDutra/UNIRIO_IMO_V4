@@ -1,0 +1,223 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "SAFETY_CIRCUIT",
+            "ELEVATOR"
+        ],
+        "usableAreas": [
+            "36"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Encantador apartamento residencial com uma aconchegante sala, proporcionando um ambiente acolhedor para receber amigos e familiares. O dormitório oferece conforto e privacidade, ideal para desfrutar de momentos de descanso. Cozinha funcional, permitindo preparar deliciosas refeições para toda a família.<br>-Cod:CBAP10016 -Rev.11Dez",
+        "title": "Apartamento - / Residencial / Copacabana",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2755455697",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22011010",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "355",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.175282,
+                "source": "GOOGLE",
+                "lat": -22.962065
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Princesa Isabel",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:Belfort Roxo",
+                "BS:Ronald de Carvalho",
+                "BS:BRS 2 Belford Roxo",
+                "BS:Duvivier",
+                "BS:Rodolfo Dantas",
+                "TS:Belfort Roxo",
+                "TS:Ronald de Carvalho",
+                "TS:BRS 2 Belford Roxo",
+                "TS:Duvivier",
+                "TS:Rodolfo Dantas",
+                "CS:Copa Fish",
+                "CS:Panificadora e Confeitaria Atlântica",
+                "CS:Açai de gema",
+                "CS:Marina",
+                "CS:Paõ & Companhia",
+                "PH:Galícia",
+                "PH:Farmácia do Leme",
+                "PH:Drogarias American",
+                "PH:Farmácia Iate Club",
+                "PH:Farma Nature"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "SUPER_PREMIUM",
+        "externalId": "CBAP10016",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "36"
+        ],
+        "advertiserId": "6e032c3d-ad3e-c60a-b153-647fccdaac8e",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "price": "450000",
+                "businessType": "SALE"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21991167127",
+                "21968634429"
+            ]
+        },
+        "videoTourLink": "https://midas360.imb.br/visita_virtual/visita.php?i=MTkwMDM&b=MjExMw&t=8121d0702dd859409a088643afce1661",
+        "whatsappNumber": "21968634429",
+        "stamps": []
+    },
+    "account": {
+        "id": "6e032c3d-ad3e-c60a-b153-647fccdaac8e",
+        "name": "OKRE IMÓVEIS COPACABANA",
+        "licenseNumber": "09927-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 846171,
+        "phones": {
+            "primary": "21991167127",
+            "mobile": "21968634429"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "d872924af2b6e0f2c10ac9fc13ad59bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d872924af2b6e0f2c10ac9fc13ad59bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c7cb2902b76716d829e7a849658d71a8",
+            "url": "https://midas360.imb.br/visita_virtual/visita.php?i=MTkwMDM&b=MjExMw&t=8121d0702dd859409a088643afce1661",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "ada80d66f4ea89736d9874ecaff3f362",
+            "url": "https://www.youtube.com/watch?v=omboYKYpSaM",
+            "type": "VIDEO"
+        },
+        {
+            "id": "596c0f80b7c6e17e01c173c3239a132f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/596c0f80b7c6e17e01c173c3239a132f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e7fdcafb4ee762498879a6edf6dac38",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9e7fdcafb4ee762498879a6edf6dac38/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8277c83c3e5a7d744f552ea6565b1873",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8277c83c3e5a7d744f552ea6565b1873/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b396e7215f45a9b51d472763b2c33fc7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b396e7215f45a9b51d472763b2c33fc7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e48153ab8c6230599eb2e4f9cfb76c90",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e48153ab8c6230599eb2e4f9cfb76c90/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "05340aa3e36dc255bd1a7fde60254204",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/05340aa3e36dc255bd1a7fde60254204/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b7c95fb180cb52bcfd7b4c50e75cc86a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b7c95fb180cb52bcfd7b4c50e75cc86a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "15279019f0d40c69f4b0c627ae1554c4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/15279019f0d40c69f4b0c627ae1554c4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3657ae9add4c601a7debfe56c1227a64",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3657ae9add4c601a7debfe56c1227a64/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "987892570086d76089bd7f1b9330bb85",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/987892570086d76089bd7f1b9330bb85/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "414e85c48ee46d10f06a7ca05c9e9fa6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/414e85c48ee46d10f06a7ca05c9e9fa6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "18ccabb28e6663066e38b152f49e2b4c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/18ccabb28e6663066e38b152f49e2b4c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ad92443f6729c68b7bbf87ec3290e600",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ad92443f6729c68b7bbf87ec3290e600/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "OKRE IMÓVEIS COPACABANA",
+        "href": "/846171/okre-imoveis-copacabana/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 36m²",
+        "href": "/imovel/apartamento-1-quartos-copacabana-zona-sul-rio-de-janeiro-36m2-venda-RS450000-id-2755455697/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Princesa Isabel",
+            "streetNumber": "355",
+            "zone": "Zona Sul"
+        }
+    }
+}

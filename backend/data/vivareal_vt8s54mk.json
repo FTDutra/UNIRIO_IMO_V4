@@ -1,0 +1,264 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "FURNISHED",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "GARDEN",
+            "GOURMET_BALCONY",
+            "BICYCLES_PLACE",
+            "CLOSET",
+            "AMERICAN_KITCHEN",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "147"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O apartamento está todo reformado por arquiteto renomado, possui 3 quartos, sendo 1 suite com closet e varanda separado <br>Venda: com os itens ar condicionado em todos os quartos e sala <br>Fogão embutido <br>Coifa <br>Armários <br>Churrasqueira elétrica<br><br>Se quiser retirar algum desses itens, pode ser negociado o valor",
+        "title": "VENDO APARTAMENTO 3 quartos na BARRA",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2727350558",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22620082",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "150",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.302784,
+                "source": "GOOGLE",
+                "lat": -23.011251
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida João Carlos Machado",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:Avenida Vítor Konder próximo ao 225-243",
+                "TS:Passarela da Barra",
+                "TS:Avenida Vítor Konder próximo ao 225-243",
+                "TS:Cais da UNIMED",
+                "TS:Cais do Barra Private",
+                "TS:Cais Principal da Ilha da Gigoia",
+                "CS:O Boi Que Ri",
+                "CS:Concha Doce",
+                "CS:Amendoeira II",
+                "CS:Mini Market Gigoia",
+                "CS:Sabor da Bahia",
+                "PH:Drogas Rio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "071c3b",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "147"
+        ],
+        "advertiserId": "7e901a72-26f4-1a75-2706-090fa052483f",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "7000",
+                "price": "2300000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1500"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21989008599",
+                "21984458927"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21984458927",
+        "stamps": []
+    },
+    "account": {
+        "id": "7e901a72-26f4-1a75-2706-090fa052483f",
+        "name": "GARCIA MARQUES IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c1ac6677b402df78085f9c78f57b78a/{description}.webp",
+        "licenseNumber": "07280-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 135952,
+        "phones": {
+            "primary": "21989008599",
+            "mobile": "21984458927"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "da64461024a9a4291f81bcb9b5e63eb7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/da64461024a9a4291f81bcb9b5e63eb7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7eeab7538948e34eebf6ec4a1dc9ff63",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7eeab7538948e34eebf6ec4a1dc9ff63/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d174dee2495c68d9add4e6365e3c5392",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d174dee2495c68d9add4e6365e3c5392/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2aab951ada7e853054363366bb0ea7bb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2aab951ada7e853054363366bb0ea7bb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9b4aa9be6744e8bf6df050b51206fc58",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9b4aa9be6744e8bf6df050b51206fc58/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e651cdf7c63e184a882f386896ccffe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e651cdf7c63e184a882f386896ccffe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "699459bda02a9a1fb157bbda6575ac24",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/699459bda02a9a1fb157bbda6575ac24/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "da53a1678da7039b92aee46fa58bf747",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/da53a1678da7039b92aee46fa58bf747/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e974e50a06c3ee250a3ff8b362f35497",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e974e50a06c3ee250a3ff8b362f35497/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b6a56a75533fb9b294b827e399f828c4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b6a56a75533fb9b294b827e399f828c4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c77f9c551250e659687c59cf059c1f5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c77f9c551250e659687c59cf059c1f5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b0c1bb306053dac04bd0a423248f4ebd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b0c1bb306053dac04bd0a423248f4ebd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "725b9cac45d8d47e75dfcef10e58c163",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/725b9cac45d8d47e75dfcef10e58c163/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f2af345b2e69e6918964beb6c2c19e7b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f2af345b2e69e6918964beb6c2c19e7b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5c021765c7482c4b537c273d76f0d88c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5c021765c7482c4b537c273d76f0d88c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8b3a3bd7f49e2fad2a741bcf7becef54",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8b3a3bd7f49e2fad2a741bcf7becef54/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "40e102b4f99e73e1de385d8472cb05f2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40e102b4f99e73e1de385d8472cb05f2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "013f5209648dcf4c356bc992d0417547",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/013f5209648dcf4c356bc992d0417547/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca6228e73f924964afa89ba78a9497ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca6228e73f924964afa89ba78a9497ff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "186f335fc847f83ab8259aa630f6576d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/186f335fc847f83ab8259aa630f6576d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "314506787203e8b9a80a60448206786d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/314506787203e8b9a80a60448206786d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ba814bb9275501dbaa95c14b11d18c7f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ba814bb9275501dbaa95c14b11d18c7f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "119700ccc7e9506377538b53884e04bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/119700ccc7e9506377538b53884e04bd/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "GARCIA MARQUES IMÓVEIS",
+        "href": "/135952/garcia-marques-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 147m²",
+        "href": "/imovel/apartamento-3-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-147m2-venda-RS2300000-id-2727350558/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Avenida João Carlos Machado",
+            "streetNumber": "150",
+            "zone": "Zona Oeste"
+        }
+    }
+}

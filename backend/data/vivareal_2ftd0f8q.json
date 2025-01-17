@@ -1,0 +1,255 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "INTERCOM",
+            "ELEVATOR",
+            "CONCIERGE_24H"
+        ],
+        "usableAreas": [
+            "42"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "sala quarto com suíte, cozinha cabe geladeira e fogão, rua silenciosa no centro, próximo ao prédio novo da Petrobras, poucos por andar, apto desocupado fácil visita, prédio recuado, gradeado, totalmente seguro, com portaria 24hs.<br><br>*O valor do imóvel poderá ser alterado sem aviso prévio, conforme orientação do proprietário. 8153f",
+        "title": "Centro | Apartamento 1 quarto, sendo 1 suite",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2660789506",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20231044",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.908,
+                "approximateLon": -43.186,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Rua dos Inválidos",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:BRS 1,2: Praça da República",
+                "BS:BRS 5",
+                "BS:BRS 4",
+                "BS:BRS 4: Praça da República",
+                "BS:BRS 5: Praça da República",
+                "TS:BRS 1,2: Praça da República",
+                "TS:BRS 4: Praça da República",
+                "TS:BRS 5: Praça da República",
+                "TS:P28",
+                "TS:BRS 1,2,4 Inválidos",
+                "CS:Via Verde",
+                "CS:Confeitaria Senado",
+                "CS:Nova Aymoré",
+                "CS:Lojas Americanas - Express",
+                "CS:Fábrica de Bolo - vó Alzira",
+                "PH:City Farma",
+                "PH:Drogaria Exata",
+                "PH:Drogaria Guanabara",
+                "PH:Exata",
+                "PH:Drogaria Brilhante"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "BO1AP54972",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "42"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "270000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "450"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": []
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "c524220b16e3bde2c6f0d9cc68059046",
+            "url": "https://www.youtube.com/watch?v=KyH6se6BJ68",
+            "type": "VIDEO"
+        },
+        {
+            "id": "aeea31f68f2a591959e5d02431adccaa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aeea31f68f2a591959e5d02431adccaa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "35a9703491d63a0aaad14f86dc3113be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/35a9703491d63a0aaad14f86dc3113be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b459773e15ca43d7393fa12b27703aaf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b459773e15ca43d7393fa12b27703aaf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "428316940f4829987180617f3e9a3b2f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/428316940f4829987180617f3e9a3b2f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6be03296d8d4cf29a5219bbea020966a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6be03296d8d4cf29a5219bbea020966a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5812bc11f72cd53db6bdb4a827aa05e2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5812bc11f72cd53db6bdb4a827aa05e2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6d4cc2cbd0443b42be94ffe5f395ae7b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6d4cc2cbd0443b42be94ffe5f395ae7b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "091fe7a2b5280729aebf774946b67fd7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/091fe7a2b5280729aebf774946b67fd7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8c9fc7717aedfb998243d3966a6b9147",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8c9fc7717aedfb998243d3966a6b9147/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ab1b6ccc2ae1a1fcc23f2c1e915d687a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ab1b6ccc2ae1a1fcc23f2c1e915d687a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a9785d1b52d7e23a091f48132bdc0743",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a9785d1b52d7e23a091f48132bdc0743/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dae1cef5c5fb861cff7660eab5340ee0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dae1cef5c5fb861cff7660eab5340ee0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f26fa1d22797919a7b0490a49441dbe2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f26fa1d22797919a7b0490a49441dbe2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f8023c95aec0b1be8fea41aa27355da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f8023c95aec0b1be8fea41aa27355da/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e51cdc1fd9c5dcb6f3b09b0f07b3674",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e51cdc1fd9c5dcb6f3b09b0f07b3674/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e9d6cad1876ab047376a10729b3347e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e9d6cad1876ab047376a10729b3347e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1affbcfea5187428571352f1702b1700",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1affbcfea5187428571352f1702b1700/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2530b59402634558df0220673aac16a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2530b59402634558df0220673aac16a4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "360fc6a47fee60f7957cf1e0cb3586be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/360fc6a47fee60f7957cf1e0cb3586be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3e2b8c4c62ba93fb80795221bb97e95f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3e2b8c4c62ba93fb80795221bb97e95f/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 42m²",
+        "href": "/imovel/apartamento-1-quartos-centro-zona-central-rio-de-janeiro-42m2-venda-RS270000-id-2660789506/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Rua dos Inválidos",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

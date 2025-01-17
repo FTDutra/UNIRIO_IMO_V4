@@ -1,0 +1,269 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "GARAGE",
+            "SERVICE_AREA",
+            "KITCHEN",
+            "INTERCOM",
+            "MOUNTAIN_VIEW"
+        ],
+        "usableAreas": [
+            "144"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Alto Leblon, rua tranquila e silenciosa. Apartamento reformado, metragem generosa e vista livre. Conta com cômodos amplos e confortáveis, sala de estar em dois ambientes, 4 quartos (2 suítes), uma das suítes possui closet, banheiro social, cozinha repleta de armários de excelente qualidade, área de serviço, banheiro de serviço, 1 vaga.",
+        "title": "Amplo e reformado. Apto de 144 m², 4 quartos (2 suítes), 1 vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2734644823",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22450150",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.984,
+                "approximateLon": -43.23,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Engenheiro Cortes Sigaud",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Leblon",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "poisList": [
+                "BS:Metrô - Estação Alto Leblon",
+                "BS:BRS 1 - Rita Ludolf",
+                "BS:Ponto Final: Leblon :: Ônibus Executivos",
+                "BS:Ponto Final: Metrô na Superfície :: PUC",
+                "BS:Terminal da PUC :: Plataforma B",
+                "TS:Ponto Final: Leblon :: Ônibus Executivos",
+                "TS:Ponto Final: Metrô na Superfície :: PUC",
+                "TS:Terminal da PUC :: Plataforma B",
+                "TS:Gávea",
+                "TS:Terminal da PUC :: Plataforma A",
+                "CS:Rio Lisboa",
+                "CS:Talho Capixaba",
+                "CS:am/pm",
+                "CS:Patata",
+                "CS:Mini Mercado Pacheco Leão",
+                "PH:Drogasmil"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "70961",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "144"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "6726",
+                "price": "2750000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "29dd64ccf6fc4a7477ca5f9254811467",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/29dd64ccf6fc4a7477ca5f9254811467/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e723e8afcd965ed3e82044c3bd7b970",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e723e8afcd965ed3e82044c3bd7b970/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb1e24e881a38537fa70240284b2e95d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb1e24e881a38537fa70240284b2e95d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c658d90c68a2d18bdbd070672432b0b2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c658d90c68a2d18bdbd070672432b0b2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a41225fa6c11ee93882f5f999da606a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a41225fa6c11ee93882f5f999da606a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "32530c5f61a1de2c4a9a4a4ae22a0e76",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/32530c5f61a1de2c4a9a4a4ae22a0e76/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fcaf70908197d1b9d0cba50d8db70dfa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fcaf70908197d1b9d0cba50d8db70dfa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d4984d4eff84505de4ebb2640191481a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d4984d4eff84505de4ebb2640191481a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3040201e24d8e4d31f3dd4d465277bbf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3040201e24d8e4d31f3dd4d465277bbf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c225f045477f712eaaf62125005c7db0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c225f045477f712eaaf62125005c7db0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f80c121a151ff9b42f7976e4d3c3e73c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f80c121a151ff9b42f7976e4d3c3e73c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4841dbcdc82d3987753c73c27410fd0c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4841dbcdc82d3987753c73c27410fd0c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "82134ce581b2246eaa516f6f0d85f50f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82134ce581b2246eaa516f6f0d85f50f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "898c894f759af13f9acf52de03897fa2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/898c894f759af13f9acf52de03897fa2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3e9ee08776343564a2ebbbd4811ac871",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3e9ee08776343564a2ebbbd4811ac871/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e0cad5066e11f445de1326e1d07af5fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e0cad5066e11f445de1326e1d07af5fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c95696f98c4792ea08d0243c629d8911",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c95696f98c4792ea08d0243c629d8911/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5373054610e18cd2eac6accc2a119965",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5373054610e18cd2eac6accc2a119965/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "45e84ef8b3bf0d86664f6b377aab37d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/45e84ef8b3bf0d86664f6b377aab37d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9df829823066ed58e65ff0162b374bb5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9df829823066ed58e65ff0162b374bb5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cb8278c33fa08279b83d4b056828761c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cb8278c33fa08279b83d4b056828761c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "563d42fae527175053c4712bd52a156f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/563d42fae527175053c4712bd52a156f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ac8b798d797a3751655933bc67123e36",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ac8b798d797a3751655933bc67123e36/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0b299ce4db8563b3e8b01a08b85f484f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0b299ce4db8563b3e8b01a08b85f484f/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 144m²",
+        "href": "/imovel/apartamento-4-quartos-leblon-zona-sul-rio-de-janeiro-com-garagem-144m2-venda-RS2750000-id-2734644823/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "state": "Rio de Janeiro",
+            "street": "Rua Engenheiro Cortes Sigaud",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

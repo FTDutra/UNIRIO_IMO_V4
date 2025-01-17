@@ -1,0 +1,296 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "SAFETY_CIRCUIT",
+            "KITCHEN",
+            "INTERCOM",
+            "ELEVATOR",
+            "PETS_ALLOWED"
+        ],
+        "usableAreas": [
+            "90"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "APSA VENDE - Apartamento com 90² amplos no Posto 3 , próximo a praia e meios de transporte, incluindo metrô.<br><br> Prédio bem conservado e administrado, portaria 24 horas, câmeras de vigilância.<br><br> Composto de : Hall com armário, sala amplas em 2 ambientes, corredor amplo 3 qurtos com possibilidade de suíte , 1 banheiro grande com armários e box blindex, cozinha com a possibilidade de integrar com a sala, área de serviços ampla, dependência de empregada completa, como 1 vaga de garagem no prédio alugado por R$ 60,00. Agende sua visita com um de nossos consultores.<br>-Cod:TJAP31567 -Rev.11Dez",
+        "title": "Apartamento 3 quartos em Copacabana com vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2713558186",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22020001",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.967,
+                "approximateLon": -43.182,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Nossa Senhora de Copacabana",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 1 Paula Freitas",
+                "BS:BRS 2 República do Peru",
+                "BS:BRS 2: Hilário de Gouveia",
+                "BS:BRS 2 Hilário de Gouveia",
+                "BS:BRS 3 Fernando Mendes",
+                "TS:BRS 1 Paula Freitas",
+                "TS:BRS 2 República do Peru",
+                "TS:BRS 2: Hilário de Gouveia",
+                "TS:BRS 2 Hilário de Gouveia",
+                "TS:BRS 3 Fernando Mendes",
+                "CS:Suíça",
+                "CS:Multifruti",
+                "CS:La Copa",
+                "CS:Paõ & Companhia",
+                "CS:Confeitaria La Marquise",
+                "PH:Drogaria Galanti",
+                "PH:Nash",
+                "PH:Farmácia do Leme",
+                "PH:Galícia",
+                "PH:Prontofarma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "TJAP31567",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "90"
+        ],
+        "advertiserId": "e60f304b-c36e-0318-bbcd-32f4f620788f",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "329",
+                "price": "920000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1280"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2125741800",
+                "21986044617"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21986044617",
+        "stamps": []
+    },
+    "account": {
+        "id": "e60f304b-c36e-0318-bbcd-32f4f620788f",
+        "name": "APSA ADMINISTAÇÃO PREDIAL RIO DE JANEIRO",
+        "licenseNumber": "000253-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 227725,
+        "phones": {
+            "primary": "2125741800",
+            "mobile": "21986044617"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "07b92e6b0974eec31c3f7089ed465c50",
+            "url": "https://www.youtube.com/watch?v=tTq5yng3H70",
+            "type": "VIDEO"
+        },
+        {
+            "id": "bc7d1ece3a35bb428c48531cea2ec9b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc7d1ece3a35bb428c48531cea2ec9b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "39045339a5901d58db0f3d63215a6f30",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39045339a5901d58db0f3d63215a6f30/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7464557c15fe1671942663d33850c36c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7464557c15fe1671942663d33850c36c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a056fcee64be8f457b1cce8e22add13",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a056fcee64be8f457b1cce8e22add13/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65a4cdb2dae6551e9a01ff291170ce08",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65a4cdb2dae6551e9a01ff291170ce08/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7ff8a37fde46e1a9a31a43a52504d1ab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7ff8a37fde46e1a9a31a43a52504d1ab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6086c46b17ffa2944ef74e6e12d8e849",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6086c46b17ffa2944ef74e6e12d8e849/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d18950ea9f409d190a39c8d06b5e51b2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d18950ea9f409d190a39c8d06b5e51b2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e4c28ce0d0d1a2ccd97ca0028e2c5f2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e4c28ce0d0d1a2ccd97ca0028e2c5f2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1162c3dcbe1a98a3dcb1b118f7b78f51",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1162c3dcbe1a98a3dcb1b118f7b78f51/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a4eaee11e2d87c80f1b4a3a157c4539c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4eaee11e2d87c80f1b4a3a157c4539c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7c125cda00ce87dd0b29ae92ecfa4c94",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7c125cda00ce87dd0b29ae92ecfa4c94/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "024e77cda8ebd39fd384746bc078e96f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/024e77cda8ebd39fd384746bc078e96f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "be9221d08083921670c2c87736a3c7a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/be9221d08083921670c2c87736a3c7a4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "46aae1364bdee10039d6d4c1dbb7f3c0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/46aae1364bdee10039d6d4c1dbb7f3c0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2ae149fd851c867225a7076be26bbc3b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2ae149fd851c867225a7076be26bbc3b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "40f67980cc53842b1f9cee7cccb8d476",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40f67980cc53842b1f9cee7cccb8d476/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e7dfc7e138f3fdad472ac6fa6262fd6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e7dfc7e138f3fdad472ac6fa6262fd6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e1be70bc681d6ed81a9c041a7294be99",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e1be70bc681d6ed81a9c041a7294be99/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2f112e8cf5aafa7b5745bb399d5aa2af",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2f112e8cf5aafa7b5745bb399d5aa2af/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e1373c0c023922e058b3f3426db4602",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9e1373c0c023922e058b3f3426db4602/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c7aa6c4d139c06718c9d362cdd34d20",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c7aa6c4d139c06718c9d362cdd34d20/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c0d59cb6118e7c906eb3b7333916b3cf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c0d59cb6118e7c906eb3b7333916b3cf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3e98006f7197c27f0f1c97f6e600a882",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3e98006f7197c27f0f1c97f6e600a882/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d16a6bfe6926acd12f4d988c36b3ac2c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d16a6bfe6926acd12f4d988c36b3ac2c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "634deef677c0b7a4b8ffa53bd755e4bb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/634deef677c0b7a4b8ffa53bd755e4bb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f6def1098c86e8176afb45bdafbc5201",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f6def1098c86e8176afb45bdafbc5201/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "131b3a73047673d6ab8d4ebf1ed1a740",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/131b3a73047673d6ab8d4ebf1ed1a740/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "APSA ADMINISTAÇÃO PREDIAL RIO DE JANEIRO",
+        "href": "/227725/apsa-administacao-predial-rio-de-janeiro/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 90m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-90m2-venda-RS920000-id-2713558186/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Nossa Senhora de Copacabana",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

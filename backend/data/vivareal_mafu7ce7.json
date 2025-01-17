@@ -1,0 +1,240 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "SERVICE_AREA",
+            "BUILTIN_WARDROBE",
+            "BEDROOM_WARDROBE",
+            "KITCHEN_CABINETS",
+            "LARGE_KITCHEN",
+            "INTERCOM",
+            "LAMINATED_FLOOR",
+            "SAFETY_CIRCUIT",
+            "ELECTRONIC_GATE",
+            "WALLS_GRIDS",
+            "STAIR",
+            "ALUMINUM_WINDOW",
+            "BLINDEX_BOX",
+            "COLD_FLOOR"
+        ],
+        "usableAreas": [
+            "72"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Prédio único com portão eletrônico, apartamento espaçoso, fundos, desocupado, próximo a todo comércio, transporte e ao Hospital Marcílio Dias. Possui sala em paviflex, 2 quartos no mesmo padrão (sendo 1 com armários), banheiro social azulejado ao teto e com blindex, cozinha azulejada ao teto, espaçosa, com bancada e armário e área de serviço no mesmo padrão. Documentação perfeita. Aceitando financiamento e FGTS.",
+        "title": "Méier - Apartamento 2 quartos - Proprietário estuda propostas!",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2744111489",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20725220",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "373",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.284514,
+                "source": "GOOGLE",
+                "lat": -22.91258
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Vilela Tavares",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Meier",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Méier",
+            "poisList": [
+                "BS:Padre Roma",
+                "BS:Constança Barbosa",
+                "BS:Agripino Grieco",
+                "BS:Ponto Final: Méier :: Linha 679",
+                "BS:679 - Méier x Grotão",
+                "TS:Padre Roma",
+                "TS:Constança Barbosa",
+                "TS:Agripino Grieco",
+                "TS:Silva Freire",
+                "TS:Ponto Final: Méier :: Linha 679",
+                "CS:Panificadora Aquidabã",
+                "CS:TECNOMEDI MÉIER",
+                "CS:Rainha do Méier",
+                "CS:Tuti Fruti",
+                "CS:Dika do Méier",
+                "PH:Drogaria Atração do Méier",
+                "PH:Drogaria Mais Barato - Méier"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "CN69",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "72"
+        ],
+        "advertiserId": "2a9acc87-1408-1751-7418-00cefea5d92c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "155000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "431"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21998963416"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21998963416",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "2a9acc87-1408-1751-7418-00cefea5d92c",
+        "name": "CLARA & NEY CORRETORES IMOBILIÁRIOS RJ",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/94861eb4f1171bebee81e1ab90f899cd/{description}.webp",
+        "licenseNumber": "55088-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 834854,
+        "phones": {
+            "primary": "21998963416",
+            "mobile": "21998963416"
+        },
+        "tier": ""
+    },
+    "medias": [
+        {
+            "id": "e71c7e54e91ab65997adb636a153030c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e71c7e54e91ab65997adb636a153030c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd1b725333cc209e25b40c5cb737431d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd1b725333cc209e25b40c5cb737431d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "80ad50664647b63ea2bd87b931039614",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/80ad50664647b63ea2bd87b931039614/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e217127883a2beb5b7ec4c189925f44c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e217127883a2beb5b7ec4c189925f44c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "342e6efb3c3c4738677067e617cee5a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/342e6efb3c3c4738677067e617cee5a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c4fca65edc49ca956c41f6a69003aeb6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c4fca65edc49ca956c41f6a69003aeb6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "88d0eb4cf2f5218574919913d7bd5ed3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/88d0eb4cf2f5218574919913d7bd5ed3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f58e181b96d4f5fe2713cbe6e44a177",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f58e181b96d4f5fe2713cbe6e44a177/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5de38f1cad007063fbb157be62dc6d56",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5de38f1cad007063fbb157be62dc6d56/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bf248549e349a2db43f962568945e867",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bf248549e349a2db43f962568945e867/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1bcc8dea9eb35ba4d94d1245e6977ad7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1bcc8dea9eb35ba4d94d1245e6977ad7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f6472627070b68d94c2d0c826cb93bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f6472627070b68d94c2d0c826cb93bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c636519f38ec9554fb406e72908d80e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c636519f38ec9554fb406e72908d80e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "728a00e72192055386219fde3fdc5336",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/728a00e72192055386219fde3fdc5336/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6adbcc871ffa0436448c847880cc5d13",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6adbcc871ffa0436448c847880cc5d13/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6693a8a6887bb011fb904fb368e8ca04",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6693a8a6887bb011fb904fb368e8ca04/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "CLARA & NEY CORRETORES IMOBILIÁRIOS RJ",
+        "href": "/834854/clara-ney-corretores-imobiliarios-rj/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 72m²",
+        "href": "/imovel/apartamento-2-quartos-meier-zona-norte-rio-de-janeiro-72m2-venda-RS155000-id-2744111489/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Méier",
+            "state": "Rio de Janeiro",
+            "street": "Rua Vilela Tavares",
+            "streetNumber": "373",
+            "zone": "Zona Norte"
+        }
+    }
+}

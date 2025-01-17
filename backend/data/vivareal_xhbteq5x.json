@@ -1,0 +1,155 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "PARTY_HALL",
+            "KITCHEN_CABINETS",
+            "LARGE_KITCHEN",
+            "PLATED_GAS",
+            "BLINDEX_BOX",
+            "ALUMINUM_WINDOW",
+            "CORNER_PROPERTY"
+        ],
+        "usableAreas": [
+            "4000"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "",
+        "title": "comunidade",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2449462982",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22040002",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.968,
+                "approximateLon": -43.185,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Barata Ribeiro",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 3 Siqueira Campos",
+                "BS:BRS 2 Hilário de Gouveia",
+                "BS:BRS 2: Hilário de Gouveia",
+                "BS:BRS 1 Paula Freitas",
+                "BS:Ponto Regulador: Metrô Siqueira Campos",
+                "TS:BRS 3 Siqueira Campos",
+                "TS:BRS 2 Hilário de Gouveia",
+                "TS:BRS 2: Hilário de Gouveia",
+                "TS:Siqueira Campos",
+                "TS:BRS 1 Paula Freitas",
+                "CS:Multifruti",
+                "CS:La Copa",
+                "CS:Suíça",
+                "CS:The Bakers",
+                "CS:Grão da terra",
+                "PH:Drogaria Galanti",
+                "PH:Nash",
+                "PH:Prontofarma",
+                "PH:Galícia",
+                "PH:Farmácia do Leme"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            28
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "ZAP1523715",
+        "bathrooms": [
+            10
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "4000"
+        ],
+        "advertiserId": "0043d055-0a9a-6d70-76b8-f7fa6d852549",
+        "bedrooms": [
+            15
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "555555",
+                "price": "10000000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "888888"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21987497585"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21987497585",
+        "stamps": []
+    },
+    "account": {
+        "id": "0043d055-0a9a-6d70-76b8-f7fa6d852549",
+        "name": "MARCO ANTONIO",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 293095,
+        "phones": {
+            "primary": "21987497585",
+            "mobile": "21987497585"
+        },
+        "tier": ""
+    },
+    "medias": [
+        {
+            "id": "08c1fed711b81432ca5b204859f458b7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/08c1fed711b81432ca5b204859f458b7/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "MARCO ANTONIO",
+        "href": "/293095/marco-antonio/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 15 Quartos à venda, 4000m²",
+        "href": "/imovel/apartamento-15-quartos-copacabana-zona-sul-rio-de-janeiro-4000m2-venda-RS10000000-id-2449462982/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Barata Ribeiro",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "listing": {
+        "displayAddressType": "NEIGHBORHOOD",
+        "amenities": [
+            "CONCIERGE_24H",
+            "INTERCOM",
+            "ELEVATOR",
+            "KITCHEN",
+            "SERVICE_AREA"
+        ],
+        "usableAreas": [
+            "250"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento com 4 dormitórios à venda, 250 m² por R$ 1.900.000 - Copacabana - Rio de Janeiro/RJ<br><br>Imobiliária Machado de Souza vende apartamento Raul Pompeia em tradicional edifício, jardim de inverno, sal 2 ambientes, sala de jantar, 4 quartos, sendo 1 suíte, copa cozinha, dependência. Portaria 24hs .<br><br>Machado de Souza Imobiliária especialista em locação, venda e administração de imóveis na Zona Sul e Barra da Tijuca.<br><br>OS VALORES REFERENTES AOS ENCARGOS PODERÃO SOFRER VARIAÇÕES.<br>CJ: 005427-RJ<br>ABADI: E1000 -",
+        "title": "Apartamento à venda, 250 m² por R$ 1.900.000,00 - Copacabana - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2623861458",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22080002",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.981,
+                "approximateLon": -43.192,
+                "radius": 250
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 2: Francisco Sá",
+                "BS:BRS 1 Sá Ferreira",
+                "BS:BRS 2 Djalma Ulrich",
+                "BS:BRS 1 Miguel Lemos",
+                "BS:BRS 1",
+                "TS:BRS 2: Francisco Sá",
+                "TS:BRS 1 Sá Ferreira",
+                "TS:Estação 2",
+                "TS:Estação 3",
+                "TS:Estação 4",
+                "CS:Casa du bisçoito",
+                "CS:Lopes",
+                "CS:La Veronese",
+                "CS:Peixaria Z13",
+                "CS:Colônia dos Pescadores",
+                "PH:Viva Mais",
+                "PH:Farmácia Central Posto 6",
+                "PH:Prontofarma",
+                "PH:Drogaria Pop",
+                "PH:Drogaria Galanti"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0507",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "250"
+        ],
+        "advertiserId": "eab80f22-9b89-033e-1669-8e9d5b0f6da2",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "505",
+                "price": "1900000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1900"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122741642",
+                "21971002435"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971002435",
+        "stamps": []
+    },
+    "account": {
+        "id": "eab80f22-9b89-033e-1669-8e9d5b0f6da2",
+        "name": "Machado de Souza Consultoria Imobiliária Ltda",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/07960537fee231d8a3a09cd40a173e54/{description}.webp",
+        "licenseNumber": "005427-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 41359,
+        "phones": {
+            "primary": "2122741642",
+            "mobile": "21971002435"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "52eef9861e345d39423a1f319aa87391",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52eef9861e345d39423a1f319aa87391/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "45be9deedd352dcd07d93e5b2f26ca88",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/45be9deedd352dcd07d93e5b2f26ca88/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5769d92b17111de1b39bff31e860c5c8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5769d92b17111de1b39bff31e860c5c8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f2cc49b5352952019495c23d3c79b856",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f2cc49b5352952019495c23d3c79b856/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "43514be3cfda2dcbaefbd71d1431b6db",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/43514be3cfda2dcbaefbd71d1431b6db/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6e7ea974de15c2fdfb02dc857f3e1f8a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6e7ea974de15c2fdfb02dc857f3e1f8a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "39b4fa101d96748e1653110227ad20b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39b4fa101d96748e1653110227ad20b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d050f66233cff972f0601f1ee2405914",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d050f66233cff972f0601f1ee2405914/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c05ced341ccf379727531291a5faca3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c05ced341ccf379727531291a5faca3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "935dc4af510f22d825579f5acee8221c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/935dc4af510f22d825579f5acee8221c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "94a8ab34b9eb291fd8bfd30926387392",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/94a8ab34b9eb291fd8bfd30926387392/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "df6de0c11c9e64548ce6f070e8f9ea4d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df6de0c11c9e64548ce6f070e8f9ea4d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21f2091dfc20f2f111c686cd3af9a88f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21f2091dfc20f2f111c686cd3af9a88f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd161ed2cc4f8c0ca062739e075f74d9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd161ed2cc4f8c0ca062739e075f74d9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0394c171cdf2e683b8495601e56ee6dc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0394c171cdf2e683b8495601e56ee6dc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3475aa6f57cffadfd38039d26fe3f6f3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3475aa6f57cffadfd38039d26fe3f6f3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a3034bdc3fa836503a1f172c6e16ebba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a3034bdc3fa836503a1f172c6e16ebba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "be67a04d66aea81212da576c82f2486c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/be67a04d66aea81212da576c82f2486c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "957fb1fde310bc32969343d664626e13",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/957fb1fde310bc32969343d664626e13/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "068c624cf4dafa17e7f0813de80daded",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/068c624cf4dafa17e7f0813de80daded/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e9b6bf72308772000da6da36058ae8c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e9b6bf72308772000da6da36058ae8c7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1077fabbedbd00c4f2d310198714f5c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1077fabbedbd00c4f2d310198714f5c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "975ef36efa6b25e347bab3f6e86ecf3f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/975ef36efa6b25e347bab3f6e86ecf3f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65d70afa845a5c3cfe512f8ba1e0e0a7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65d70afa845a5c3cfe512f8ba1e0e0a7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ac9618c8fae7a2e6f5bedcdc311178a7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ac9618c8fae7a2e6f5bedcdc311178a7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "63acb5a02c74221ad6236650a4163f13",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/63acb5a02c74221ad6236650a4163f13/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Machado de Souza Consultoria Imobiliária Ltda",
+        "href": "/41359/machado-de-souza-consultoria-imobiliaria-ltda/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 250m²",
+        "href": "/imovel/apartamento-4-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-250m2-venda-RS1900000-id-2623861458/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

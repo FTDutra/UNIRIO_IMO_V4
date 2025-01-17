@@ -1,0 +1,256 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "INTERCOM",
+            "CABLE_TV"
+        ],
+        "usableAreas": [
+            "20"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Kitnet com 1 quarto à venda, 20 m² por R$ 195.000,00 - Grajaú - Rio de Janeiro/RJ<br><br>Grajaú bem no miolo, Avenida Engenheiro Richard esquina com Comendador Martinelli !<br>Kitnet de 20 m² com banheiro e pequena cozinha, frente, vista livre para a rua e montanha... Lugar tranquilo para quem busca sossego e tranquilidade em uma das melhores ruas do bairro.<br>Condomínio barato, porteiro 24 horas com total segurança.<br>Localização ímpar, juntinho da Praça Edmundo Rego, Country Clube do Grajaú, mercado, padaria, feira livre às sextas-feiras, bares e restaurantes... Faça-nos uma visita, Lopes Enjoy imóveis loja Grajaú, Rua Borda do Mato nº 04. Avaliamos seu imóvel !!! Atualizado em vinteehumdenovembrodedoismilevinteequatro. -",
+        "title": "Kitnet com 1 quarto à venda, 20 m² por R$ 195.000 - Grajaú - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [
+            "KITNET"
+        ],
+        "id": "2656502816",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20561098",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.923,
+                "approximateLon": -43.267,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Avenida Engenheiro Richard",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Grajau",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Grajaú",
+            "poisList": [
+                "BS:Ponto Final: Grajaú",
+                "BS:Ponto final 703",
+                "BS:Ponto final 222",
+                "BS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "BS:Ponto Final: Vila Isabel :: Linha 432",
+                "TS:Ponto Final: Grajaú",
+                "TS:Ponto final 703",
+                "TS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "TS:Ponto Final: Vila Isabel :: Linha 432",
+                "TS:Padre Roma",
+                "CS:Jóia do Grajaú",
+                "CS:Empório Maria Filó",
+                "CS:Fábrica de Bolo da Vó Alzira",
+                "CS:Padaria do Verdun",
+                "PH:Drograrias Guanabara"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "KN0069",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "20"
+        ],
+        "advertiserId": "89bdbaf0-3f59-1c9f-73a8-6bd0b1439467",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "195000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "301"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2134349000"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "89bdbaf0-3f59-1c9f-73a8-6bd0b1439467",
+        "name": "LOPES ENJOY IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/532ae951fff1ad62366b920d7c68c73e/{description}.webp",
+        "licenseNumber": "32269-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 256323,
+        "phones": {
+            "primary": "2134349000",
+            "mobile": "2134349000"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "8e3945c95509b9976918ba0483b71499",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e3945c95509b9976918ba0483b71499/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a18a667caccc66519e41f2bd6680fbc",
+            "url": "https://youtu.be/9xCRRlCs-SM",
+            "type": "VIDEO"
+        },
+        {
+            "id": "e32ebf18fd4f66f75c2425b5486fbe71",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e32ebf18fd4f66f75c2425b5486fbe71/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f644ec19c58832b2996191ce5eff0a2f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f644ec19c58832b2996191ce5eff0a2f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8dec6dd0f033f669be2894807db6be69",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8dec6dd0f033f669be2894807db6be69/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "462ead996eb5db63bddaf0fbbd377026",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/462ead996eb5db63bddaf0fbbd377026/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f0f7456cb4824b1a1fa208f8ad4bf9bf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f0f7456cb4824b1a1fa208f8ad4bf9bf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2f96bbaf33799fec5e56dee8a776fdc9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2f96bbaf33799fec5e56dee8a776fdc9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ecd7907346dfc1054a3085ffb9e93c7f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ecd7907346dfc1054a3085ffb9e93c7f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e73b85627b7fde184812cf3568068ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9e73b85627b7fde184812cf3568068ff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c5fca01ed993a9fff38303c577e859e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c5fca01ed993a9fff38303c577e859e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1f32ff065af97692a6d102f824b55db7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1f32ff065af97692a6d102f824b55db7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8169c628ffe68719bb5182cc2e609db8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8169c628ffe68719bb5182cc2e609db8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2a4f19ae05af8126996044742b39b9c1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a4f19ae05af8126996044742b39b9c1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c365a177911e9639db02ae574268e42",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c365a177911e9639db02ae574268e42/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c603a160f71721d6da87c7ba06b83d25",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c603a160f71721d6da87c7ba06b83d25/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9496f87a9c17cd1db45a1c4656aa1228",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9496f87a9c17cd1db45a1c4656aa1228/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ace16fc4b035f7674420d11ea7ad53f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ace16fc4b035f7674420d11ea7ad53f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a4e21f8e4b4ad6222a9cda781fc55fcf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4e21f8e4b4ad6222a9cda781fc55fcf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "431d8d00856ea64a711f48270a1c2295",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/431d8d00856ea64a711f48270a1c2295/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c07f8faaacd46eac6ef006fbcd752c1f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c07f8faaacd46eac6ef006fbcd752c1f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "de63b4f38415f76e9451354d704c9296",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/de63b4f38415f76e9451354d704c9296/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "LOPES ENJOY IMÓVEIS",
+        "href": "/256323/lopes-enjoy-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Kitnet com 1 Quarto à venda, 20m²",
+        "href": "/imovel/kitnet-1-quartos-grajau-zona-norte-rio-de-janeiro-20m2-venda-RS195000-id-2656502816/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Grajaú",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Engenheiro Richard",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

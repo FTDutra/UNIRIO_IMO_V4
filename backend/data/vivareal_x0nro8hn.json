@@ -1,0 +1,186 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "117"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento aconchegante à venda em Ipanema, Rio de Janeiro<br><br>Imóvel com 3 quartos e 2 banheiros no total, ideal para quem procura conforto e comodidade. O condomínio está localizado na Rua Joaquim Nabuco, em uma área nobre de Ipanema, próximo a pontos de interesse como Colégio São Paulo, Escola Municipal Castelnuovo, Praia do Arpoador, Galeria River, Escola Municipal Marília de Dirceu e Central Ipanema.<br><br>Descrição do proprietário: Apartamento amplo, arejado, super confortável e silencioso, a poucos passos da praia de Ipanema. O imóvel é mobiliado, com três quartos amplos, dependência de empregada, e cozinha grande e equipada. Caso necessário, há a possibilidade de retirada da mobília.<br><br>Itens disponíveis: Box, armários no quarto, armários nos banheiros, armários na cozinha, ar condicionado, chuveiro a gás, fogão incluso, geladeira inclusa.",
+        "title": "Apartamento à venda com 117m², 3 quartos e 1 vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2755578819",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22080030",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.986,
+                "approximateLon": -43.193,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Joaquim Nabuco",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Ipanema",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:Ponto Final: Copacabana :: Linha 455",
+                "BS:Ponto Final: General Osório :: Rua Prudente de Morais",
+                "BS:Metrô na Superfície - General Osório",
+                "BS:Ponto Final: General Osório :: Rua Visconde de Pirajá",
+                "BS:BRS 1",
+                "TS:Ponto Final: Copacabana :: Linha 455",
+                "TS:Ponto Final: General Osório :: Rua Prudente de Morais",
+                "TS:Jangadeiros",
+                "TS:General Osório",
+                "TS:Metrô na Superfície - General Osório",
+                "CS:La Veronese",
+                "CS:Nema",
+                "CS:Lopes",
+                "CS:Peixaria Z13",
+                "CS:Colônia dos Pescadores",
+                "PH:Farmácia Central Posto 6",
+                "PH:Viva Mais",
+                "PH:Drogaria Pop",
+                "PH:Prontofarma",
+                "PH:Drogaria Galanti"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "PU1x0meev",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "117"
+        ],
+        "advertiserId": "312fffbf-0652-1991-ce51-b140deff11d8",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "529",
+                "price": "1700000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2134"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2125414141",
+                "21994414141"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21994414141",
+        "stamps": []
+    },
+    "account": {
+        "id": "312fffbf-0652-1991-ce51-b140deff11d8",
+        "name": "SHOW DE CASAS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d24a2337a4700cf6f8918b997e1466be/{description}.webp",
+        "licenseNumber": "06224-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 46422,
+        "phones": {
+            "primary": "2125414141",
+            "mobile": "21994414141"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "c02fec10a454fc647eea699e54da2178",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c02fec10a454fc647eea699e54da2178/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "29459da3d87d5003fb9cc58f742c145b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/29459da3d87d5003fb9cc58f742c145b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d5fc03eade30234a6eb87e49cd81a469",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d5fc03eade30234a6eb87e49cd81a469/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4d8364ac6e2ca89dfa4b04bf982e9390",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4d8364ac6e2ca89dfa4b04bf982e9390/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5ff9c64c33541525cde388401ce3564f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5ff9c64c33541525cde388401ce3564f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e2d8d4125393da26529c67c9e5d5505",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e2d8d4125393da26529c67c9e5d5505/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fa9f519c6496bfb11792a62064f10927",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa9f519c6496bfb11792a62064f10927/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b90245c274d1528b8a59dc4f0c2107a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b90245c274d1528b8a59dc4f0c2107a8/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SHOW DE CASAS",
+        "href": "/46422/show-de-casas/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 117m²",
+        "href": "/imovel/apartamento-3-quartos-ipanema-zona-sul-rio-de-janeiro-com-garagem-117m2-venda-RS1700000-id-2755578819/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "state": "Rio de Janeiro",
+            "street": "Rua Joaquim Nabuco",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

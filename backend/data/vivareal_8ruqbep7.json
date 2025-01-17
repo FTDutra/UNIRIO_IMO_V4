@@ -1,0 +1,230 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "BALCONY",
+            "PETS_ALLOWED",
+            "GARAGE",
+            "GOURMET_BALCONY",
+            "NEAR_ACCESS_ROADS",
+            "BUILTIN_WARDROBE",
+            "KITCHEN_CABINETS"
+        ],
+        "usableAreas": [
+            "81"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento na Avenida Gilka Machado, Recreio - Rio de Janeiro, RJ / CEP: 22790-570<br><br>Acompanhe nosso Instagram @mr3imoveis<br><br>Maravilhoso apartamento de 81m² de área construída, todo em piso laminado, dispondo de sala ampla em dois ambientes, varanda gourmet fechada em vidro, cozinha com armários, área de serviço, lavabo e duas suítes. <br><br>O Residencial Montpharnasse dispõe de elevador e duas vagas de garagem. <br><br>A apenas 5 minutos da praia, o imóvel é próximo a bares, restaurantes, academias, lojas para pets, agências bancárias, farmácias, Supermercados, Recreio Shopping e Terminal de ônibus Recreio. 1cabe",
+        "title": "Apartamento para venda com 2 quartos no Recreio dos Bandeirantes com 81m²",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2653331973",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790570",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "866",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.475502,
+                "source": "GOOGLE",
+                "lat": -23.023701
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Gilka Machado",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Gilka Machado",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Guiomar Novaes",
+                "TS:Recreio Shopping",
+                "CS:R2 Bolos",
+                "CS:Alfa Belle",
+                "CS:Padaria AlfaBelle",
+                "CS:Entreposto Pesca Posto 12",
+                "CS:Barra Bonita Padaria",
+                "PH:Economia de Drogarias",
+                "PH:Foliare",
+                "PH:Dona Farma",
+                "PH:Farmario",
+                "PH:Drogaria M. M. Júnior"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP5036",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "81"
+        ],
+        "advertiserId": "7f942283-df06-9291-64ea-f174d7936ed6",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "22",
+                "price": "550000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "916"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2133123250",
+                "21960114837"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21960114837",
+        "stamps": []
+    },
+    "account": {
+        "id": "7f942283-df06-9291-64ea-f174d7936ed6",
+        "name": "MR3 IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/88a28509261faa030e686cb1c5f84d13/{description}.webp",
+        "licenseNumber": "006030-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 240158,
+        "phones": {
+            "primary": "2133123250",
+            "mobile": "21960114837"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "520c169b3899ea61cbfde2cf0bb89ba7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/520c169b3899ea61cbfde2cf0bb89ba7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ffecdbd9613464be99f9a942b5a42d5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ffecdbd9613464be99f9a942b5a42d5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f640c6a2cd4abbcf87fbedae0b75b47b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f640c6a2cd4abbcf87fbedae0b75b47b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b0f9a0fd9f7818791cbfb3d112aa30b1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b0f9a0fd9f7818791cbfb3d112aa30b1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6e85061bc7d2042739720316066e13b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6e85061bc7d2042739720316066e13b5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8dee5fa5973a53b38f8a8297720f231d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8dee5fa5973a53b38f8a8297720f231d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8dc966c0c1f2e138e797a0ef5582beb3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8dc966c0c1f2e138e797a0ef5582beb3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dc4a63eb47549cfbe4ed2093ec84404b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc4a63eb47549cfbe4ed2093ec84404b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "346df22f15e289dc3863d0b6b1a1739b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/346df22f15e289dc3863d0b6b1a1739b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b0419554a9777e786f6da1767dcca2aa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b0419554a9777e786f6da1767dcca2aa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "94f3359f1231f6cfb4cc7088f6d4987d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/94f3359f1231f6cfb4cc7088f6d4987d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ab20d570e7f8e209e4eedc2a1abe582f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ab20d570e7f8e209e4eedc2a1abe582f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4013bfdbfa5cbb1c140b930fb64c54a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4013bfdbfa5cbb1c140b930fb64c54a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc883eea0f77a93bbe27395b614b0b76",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc883eea0f77a93bbe27395b614b0b76/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e9409f1079f09190a3fa5391b83afb85",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e9409f1079f09190a3fa5391b83afb85/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "994b83b63f28c1b70c08c658493664a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/994b83b63f28c1b70c08c658493664a8/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "MR3 IMÓVEIS",
+        "href": "/240158/mr3-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 81m²",
+        "href": "/imovel/apartamento-2-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-81m2-venda-RS550000-id-2653331973/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Gilka Machado",
+            "streetNumber": "866",
+            "zone": "Zona Oeste"
+        }
+    }
+}

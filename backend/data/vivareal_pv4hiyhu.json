@@ -1,0 +1,232 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "BUILTIN_WARDROBE",
+            "KITCHEN_CABINETS",
+            "BATHROOM_CABINETS",
+            "SERVICE_BATHROOM",
+            "INTERNET_ACCESS",
+            "CLOSET",
+            "LARGE_KITCHEN",
+            "PANTRY",
+            "SAFETY_CIRCUIT",
+            "ELECTRONIC_GATE",
+            "COPA",
+            "PORCELAIN",
+            "NATURAL_VENTILATION"
+        ],
+        "usableAreas": [
+            "116"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O apartamento no bairro Grajaú com 116 metros quadrados com 3 quartos e 2 banheiros<br>Vai lhe possibilitar todo o conforto do ar condicionado nos dias mais quentes.Elevador para mais praticidade no dia-a-dia.",
+        "title": "Apartamento para venda possui 116 metros quadrados com 3 quartos em Grajaú - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2669365231",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20561116",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "22",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.259683,
+                "source": "GOOGLE",
+                "lat": -22.921698
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Araxá",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Grajau",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Grajaú",
+            "poisList": [
+                "BS:Ponto Final: Grajaú",
+                "BS:Ponto final 222",
+                "BS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "BS:Ponto final 703",
+                "BS:Ponto Final: Vila Isabel :: Linha 432",
+                "TS:Ponto Final: Grajaú",
+                "TS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "TS:Ponto final 703",
+                "TS:Ponto Final: Vila Isabel :: Linha 432",
+                "TS:Ponto Final 433",
+                "CS:Fábrica de Bolo da Vó Alzira",
+                "CS:Padaria do Verdun",
+                "CS:Empório Maria Filó",
+                "CS:Jóia do Grajaú",
+                "CS:Afagá Confeitaria Brasileira",
+                "PH:Drograrias Guanabara",
+                "PH:Farma Dez"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "rua araxa",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "116"
+        ],
+        "advertiserId": "18286367-fb76-1524-5a2c-0eeaba83921f",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "price": "499000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "700"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21996274202"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996274202",
+        "stamps": []
+    },
+    "account": {
+        "id": "18286367-fb76-1524-5a2c-0eeaba83921f",
+        "name": "SHEILA MARIA GOMES FERREIRA",
+        "licenseNumber": "57297-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 74935,
+        "phones": {
+            "primary": "21996274202",
+            "mobile": "21996274202"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "88f9acca462f01b36536d3d3883482f6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/88f9acca462f01b36536d3d3883482f6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd68b404a46d1ce9383d030421340ac4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd68b404a46d1ce9383d030421340ac4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4b1369d52f19c2cd8d7af0fe6e06c773",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b1369d52f19c2cd8d7af0fe6e06c773/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "10df740381288ef7d95a30b6b8adeeee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/10df740381288ef7d95a30b6b8adeeee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd5a6f89ccbaa1bc0bbf8fb7a22b3085",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd5a6f89ccbaa1bc0bbf8fb7a22b3085/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "447f013f4ca459959eee5929d3165985",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/447f013f4ca459959eee5929d3165985/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff6b8881381f160549b4829b349f9c46",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff6b8881381f160549b4829b349f9c46/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6bfc40b93af84394a73075e25af86753",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6bfc40b93af84394a73075e25af86753/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "88d5575ed5e2de511d4038b4d8544021",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/88d5575ed5e2de511d4038b4d8544021/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6d5a1508a3681f7aa005c59e1e8062cf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6d5a1508a3681f7aa005c59e1e8062cf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "55e47d99e1340a78d253b361c0c496a1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/55e47d99e1340a78d253b361c0c496a1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e0c29030a623c245056ed37b52efe946",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e0c29030a623c245056ed37b52efe946/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa35cd64c51991448d475dfd4e707fb5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa35cd64c51991448d475dfd4e707fb5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "de4633cc8d42fa61415629c635d21559",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/de4633cc8d42fa61415629c635d21559/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "66dd8c9e1d41c39c05e18d0df562a2dc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/66dd8c9e1d41c39c05e18d0df562a2dc/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SHEILA MARIA GOMES FERREIRA",
+        "href": "/74935/sheila-maria-gomes-ferreira/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 116m²",
+        "href": "/imovel/apartamento-3-quartos-grajau-zona-norte-rio-de-janeiro-com-garagem-116m2-venda-RS499000-id-2669365231/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Grajaú",
+            "state": "Rio de Janeiro",
+            "street": "Rua Araxá",
+            "streetNumber": "22",
+            "zone": "Zona Norte"
+        }
+    }
+}

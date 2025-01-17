@@ -1,0 +1,296 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "INTERCOM",
+            "KITCHEN",
+            "SERVICE_AREA",
+            "BARBECUE_GRILL"
+        ],
+        "usableAreas": [
+            "88"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "LOPES ENJOY IMÓVEIS VENDE, ÓTIMO APARTAMENTO NO CENTRO.<br>Apartamento todo Reformado, o Verdadeiro entrar e morar.<br>Oportunidade única com 2 quartos sendo 1 suíte, sala ampla bem arejada, cozinha toda planejada com armários embutidos, área de serviço com armário planejado, banheiro social com armário planejado.<br>O Condomínio possui uma infraestrutura com sala churrasqueira, academia, porteiro 24h, sala com lutas marciais e além de uma pizzaria no próprio prédio.<br><br>Atualizado em 30 de agosto de 2024.<br><br>Agende sua visita!!!<br><br>@barralopesenjoy -",
+        "title": "Apartamento com 2 quartos à venda, 88 m² por R$ 650.000 - Centro - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2756541075",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20231016",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.91,
+                "approximateLon": -43.186,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Rua Ubaldino do Amaral",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:P28",
+                "BS:BRS 1,2,4 Inválidos",
+                "BS:BRS 4",
+                "BS:BRS 4: Praça da República",
+                "BS:BRS 5: Praça da República",
+                "TS:P28",
+                "TS:BRS 1,2,4 Inválidos",
+                "TS:BRS 4: Praça da República",
+                "TS:BRS 5: Praça da República",
+                "TS:BRS 1,2: Praça da República",
+                "CS:Artes Integrais",
+                "CS:Via Verde",
+                "CS:Mercearia Gabi",
+                "CS:Fábrica de Bolo - vó Alzira",
+                "CS:Confeitaria Senado",
+                "PH:City Farma",
+                "PH:Drogaria Exata",
+                "PH:Drogaria Guanabara",
+                "PH:Exata",
+                "PH:Viva Bem"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP6209",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "88"
+        ],
+        "advertiserId": "0ff7674f-d80f-66b3-da1c-f4f0d7575c83",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1221",
+                "price": "570000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "926"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2134349000"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "0ff7674f-d80f-66b3-da1c-f4f0d7575c83",
+        "name": "Lopes Enjoy imoveis Barra",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb3eb3767b01193dc3660867ea615e28/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 754380,
+        "phones": {
+            "primary": "2134349000",
+            "mobile": "2134349000"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "772731b0c57857bbfb3b4e1f43e39bd9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/772731b0c57857bbfb3b4e1f43e39bd9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "51c9371c7b985ca5d5987d78449a3637",
+            "url": "https://youtu.be/Vl0OG9nJlWU",
+            "type": "VIDEO"
+        },
+        {
+            "id": "f8f7a56cb03b83af40b512f1ed86df12",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f8f7a56cb03b83af40b512f1ed86df12/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5332594763efecd1edb74af8f79829c4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5332594763efecd1edb74af8f79829c4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5b7c2af06ac3fd8b95d9b30d6927b7ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b7c2af06ac3fd8b95d9b30d6927b7ff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e2cd583123e5e9ecb00003d35915bd3f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e2cd583123e5e9ecb00003d35915bd3f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d4ed8d76239e5e7b6db6c277d5ead8fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d4ed8d76239e5e7b6db6c277d5ead8fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2acb85603b39d385459227eb71fbe17c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2acb85603b39d385459227eb71fbe17c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1dab80827b0faf3a02083800e675e605",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1dab80827b0faf3a02083800e675e605/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "08fb6fa84e91fba75bd3ea0ec1ccac62",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/08fb6fa84e91fba75bd3ea0ec1ccac62/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd64c88047009ac4e333da767552f808",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd64c88047009ac4e333da767552f808/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e8819157e7b6b0998579060d460ebce",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e8819157e7b6b0998579060d460ebce/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e819f166430950c53ab2df826c7a9a25",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e819f166430950c53ab2df826c7a9a25/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a68ab07db8e804c34a8086d6546fc3f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a68ab07db8e804c34a8086d6546fc3f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a8879eafce65a9bd5d895c5067c4b330",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a8879eafce65a9bd5d895c5067c4b330/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6ccfe356599b3161d2dc89379939e11b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ccfe356599b3161d2dc89379939e11b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a66989bda7f754a90952ff30f3c16fda",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a66989bda7f754a90952ff30f3c16fda/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5b51cfe1c52f35743b89fb765e5ddf5e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b51cfe1c52f35743b89fb765e5ddf5e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38d216f2c32665588c89e565a9439859",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38d216f2c32665588c89e565a9439859/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a99b1099e084a3d8f96697557b33cd7e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a99b1099e084a3d8f96697557b33cd7e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c64f786daf96c8703642b9a68752c729",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c64f786daf96c8703642b9a68752c729/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d2a5a90a1dabe17374ca734870377a7f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d2a5a90a1dabe17374ca734870377a7f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "231cb51b6b6ec14d609b9013ec5c2a10",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/231cb51b6b6ec14d609b9013ec5c2a10/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9ee40d38235289096a8e121a21e0ccde",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ee40d38235289096a8e121a21e0ccde/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8fb5c1bb3898f29e3b9f1eab636c108c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8fb5c1bb3898f29e3b9f1eab636c108c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ed8979df4252048a027d41b40072e59e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed8979df4252048a027d41b40072e59e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dcf51dd225db4f81390a640a592002be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dcf51dd225db4f81390a640a592002be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "881d94134f934e3df1d7f19f965466b6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/881d94134f934e3df1d7f19f965466b6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b961fa78798bb37bc51ec9eea1c6a0a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b961fa78798bb37bc51ec9eea1c6a0a0/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Lopes Enjoy imoveis Barra",
+        "href": "/754380/lopes-enjoy-imoveis-barra/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 88m²",
+        "href": "/imovel/apartamento-2-quartos-centro-zona-central-rio-de-janeiro-88m2-venda-RS570000-id-2756541075/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Rua Ubaldino do Amaral",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

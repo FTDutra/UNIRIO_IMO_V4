@@ -1,0 +1,210 @@
+{
+    "listing": {
+        "displayAddressType": "NEIGHBORHOOD",
+        "amenities": [
+            "POOL",
+            "ELEVATOR",
+            "SERVICE_AREA",
+            "KITCHEN",
+            "INTERCOM",
+            "LAUNDRY"
+        ],
+        "usableAreas": [
+            "86"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "L2R Vende Belíssimo apartamento ha 2 quadras da praia, posto 11 do Recreio,, Quem ver se apaixona, entrar e mora. ligue e agende ja sua visita.; -",
+        "title": "Apartamento com 2 dormitórios à venda, 86 m² por R$ 730.000,00 - Recreio dos Bandeirantes - Rio de J",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2706441349",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22795061",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.026,
+                "approximateLon": -43.467,
+                "radius": 250
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Gilka Machado",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Guiomar Novaes",
+                "CS:Alfa Belle",
+                "CS:Padaria AlfaBelle",
+                "CS:Entreposto Pesca Posto 12",
+                "CS:Panetteria Recreio",
+                "CS:Américas Pão",
+                "PH:Farmario",
+                "PH:Dona Farma",
+                "PH:Botica do Rio",
+                "PH:Economia de Drogarias",
+                "PH:Foliare"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0242",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "86"
+        ],
+        "advertiserId": "198e86e4-56d0-797b-b948-de187d49e7bb",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2584",
+                "price": "730000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21967628336"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21967628336",
+        "stamps": []
+    },
+    "account": {
+        "id": "198e86e4-56d0-797b-b948-de187d49e7bb",
+        "name": "L2R Imóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/51237c6079c62f76ced0d1a771421351/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 625459,
+        "phones": {
+            "primary": "21967628336",
+            "mobile": "21967628336"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "b52a149dd1bec57d0e21821416410ef8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b52a149dd1bec57d0e21821416410ef8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c8bffdf65c489b7472747975e6b0922",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c8bffdf65c489b7472747975e6b0922/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b16ce67a2f9ffebb742d64a3ea8b7e37",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b16ce67a2f9ffebb742d64a3ea8b7e37/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ea1b7d2081a31f5757ceaf957a4ccb4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ea1b7d2081a31f5757ceaf957a4ccb4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "985b32cca1bb2367e222cea45bb301c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/985b32cca1bb2367e222cea45bb301c7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b5800e7253efa546b59a8f8532e51dcb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b5800e7253efa546b59a8f8532e51dcb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "62cffc6a60039c658241198d72d807a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/62cffc6a60039c658241198d72d807a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "386e097bb5c89d0f897853c3e2831d98",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/386e097bb5c89d0f897853c3e2831d98/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb26bef50fcda450487900e20f5de88b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb26bef50fcda450487900e20f5de88b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f70b299bc213965f685dfef82d830f95",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f70b299bc213965f685dfef82d830f95/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "19dffd6e4e58cd9950c7442910c57725",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/19dffd6e4e58cd9950c7442910c57725/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c612315cbe4fa4d04971987ff1723065",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c612315cbe4fa4d04971987ff1723065/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ae56b82ae32f83970658b30fbc201303",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae56b82ae32f83970658b30fbc201303/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "L2R Imóveis",
+        "href": "/625459/l2r-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 86m²",
+        "href": "/imovel/apartamento-2-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-86m2-venda-RS730000-id-2706441349/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELECTRONIC_GATE",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING"
+        ],
+        "usableAreas": [
+            "25"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O kitnet/conjugado no bairro Centro possui 25 metros quadrados com 1 quarto e 1 banheiro<br>Vai lhe possibilitar todo o conforto do ar condicionado nos dias mais quentes.",
+        "title": "Kitnet/conjugado para venda tem 25 metros quadrados com 1 quarto em Centro - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [
+            "KITNET"
+        ],
+        "id": "2524221786",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "20231048",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "1",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.185858,
+                "source": "GOOGLE",
+                "lat": -22.908476
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Rua dos Inválidos",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:BRS 5",
+                "BS:BRS 1,2: Praça da República",
+                "BS:BRS 4",
+                "BS:BRS 4: Praça da República",
+                "BS:BRS 5: Praça da República",
+                "TS:BRS 1,2: Praça da República",
+                "TS:BRS 4: Praça da República",
+                "TS:BRS 5: Praça da República",
+                "TS:P28",
+                "TS:BRS 1,2,4 Inválidos",
+                "CS:Via Verde",
+                "CS:Confeitaria Senado",
+                "CS:Nova Aymoré",
+                "CS:Lojas Americanas - Express",
+                "CS:Fábrica de Bolo - vó Alzira",
+                "PH:City Farma",
+                "PH:Drogaria Exata",
+                "PH:Drogaria Guanabara",
+                "PH:Drogaria Nações",
+                "PH:Exata"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "1PERNDL",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "25"
+        ],
+        "advertiserId": "d0c2ff7b-a439-c56d-976a-773b738068bd",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "250000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "300"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2121470504",
+                "21979826486"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21979826486",
+        "stamps": []
+    },
+    "account": {
+        "id": "d0c2ff7b-a439-c56d-976a-773b738068bd",
+        "name": "Fernanda Azevedo Pereira",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf238b70770733100360346765080612/{description}.webp",
+        "licenseNumber": "52100-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 56757,
+        "phones": {
+            "primary": "2121470504",
+            "mobile": "21979826486"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "d5182ce907e1f7f64a153bd7fff34bf9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d5182ce907e1f7f64a153bd7fff34bf9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0305cd9855c52f2728c66d5f1f5a987d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0305cd9855c52f2728c66d5f1f5a987d/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Fernanda Azevedo Pereira",
+        "href": "/56757/fernanda-azevedo-pereira/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Kitnet com 1 Quarto à venda, 25m²",
+        "href": "/imovel/kitnet-1-quartos-centro-zona-central-rio-de-janeiro-25m2-venda-RS250000-id-2524221786/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Rua dos Inválidos",
+            "streetNumber": "1",
+            "zone": "Zona Central"
+        }
+    }
+}

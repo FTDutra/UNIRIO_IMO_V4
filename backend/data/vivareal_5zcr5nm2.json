@@ -1,0 +1,244 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "GARAGE",
+            "KITCHEN",
+            "HEATING",
+            "SEA_VIEW",
+            "SAFETY_CIRCUIT",
+            "NUMBER_OF_FLOORS"
+        ],
+        "usableAreas": [
+            "60"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua Nascimento Silva, no bairro Ipanema em Rio de Janeiro. Este imóvel conta com área construída de 60m², oferecendo 2 quartos, 1 banheiro e 1 vaga de garagem. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "2 quartos com planta bem dividida!",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2761468864",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22421022",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "4",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.199399,
+                "source": "GOOGLE",
+                "lat": -22.982274
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Nascimento Silva",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Ipanema",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "poisList": [
+                "BS:BRS 2 Farme de Amoedo",
+                "BS:Barra Expresso",
+                "BS:Ponto Final: General Osório :: Rua Teixeira de Melo",
+                "BS:Ponto Final: General Osório :: Rua Visconde de Pirajá",
+                "BS:Metrô na Superfície - General Osório",
+                "TS:Teixeira de Melo",
+                "TS:BRS 2 Farme de Amoedo",
+                "TS:Estação Terminal General Osório",
+                "TS:General Osório / Ipanema",
+                "TS:Barra Expresso",
+                "CS:Planeta Água",
+                "CS:Empório das Águas",
+                "CS:Terra Mineira",
+                "CS:Chocolate Brasil Cacau",
+                "CS:La Veronese",
+                "PH:Drogaria Pop",
+                "PH:Farmácia Central Posto 6",
+                "PH:Viva Mais",
+                "PH:Prontofarma",
+                "PH:Drogaria Galanti"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "IU26827",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "60"
+        ],
+        "advertiserId": "fa1a9921-ab60-2910-8f99-5e45f0aa9871",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1730",
+                "price": "950000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "820"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21965821001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21965821001",
+        "stamps": []
+    },
+    "account": {
+        "id": "fa1a9921-ab60-2910-8f99-5e45f0aa9871",
+        "name": "IMOVELUM",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/15328a298c0ec4b887ab76fd5fe7b3ba/{description}.webp",
+        "licenseNumber": "8951-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 772667,
+        "phones": {
+            "primary": "21965821001",
+            "mobile": "21965821001"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "fad499fdbfbe2cbc6edfa6f188f06520",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fad499fdbfbe2cbc6edfa6f188f06520/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d52b6f29e533777c492740ff63c2e235",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d52b6f29e533777c492740ff63c2e235/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb9fc6c8d7e39d0e2ccf50c9e7851f6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb9fc6c8d7e39d0e2ccf50c9e7851f6e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2d608447cc07507f54d1bc25dc03c293",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2d608447cc07507f54d1bc25dc03c293/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "017688a25e930b8acd691b0cb2c12f00",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/017688a25e930b8acd691b0cb2c12f00/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1edf26797ab2f2ffd3809da5def2664",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1edf26797ab2f2ffd3809da5def2664/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f109ca291bb505bfe4ffe4b6eb78d45c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f109ca291bb505bfe4ffe4b6eb78d45c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "25781568ac02bd7c096ab988404ac745",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/25781568ac02bd7c096ab988404ac745/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d3cee7b8374d6a7f3f5f5595ee89bed3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d3cee7b8374d6a7f3f5f5595ee89bed3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "075d3032299519a4ae9a4982af76ee50",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/075d3032299519a4ae9a4982af76ee50/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5855609241f9f829ead46278d6418738",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5855609241f9f829ead46278d6418738/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "19585e3c8a685fe60ae1e7b57d8d7b8e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/19585e3c8a685fe60ae1e7b57d8d7b8e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e0b021f87098e57020a1b37345f26ddf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e0b021f87098e57020a1b37345f26ddf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eefe579a11d28dabaeb75c649e5c603b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eefe579a11d28dabaeb75c649e5c603b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9b6e1325438494c8c459a5cf506fc5b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9b6e1325438494c8c459a5cf506fc5b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "04d37f0de44c6e191c893379d4942c6a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/04d37f0de44c6e191c893379d4942c6a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "19d6ff66948e83234e662290b4b5d5ea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/19d6ff66948e83234e662290b4b5d5ea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5222fe9f4f967496eccc7fbc829e3deb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5222fe9f4f967496eccc7fbc829e3deb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7bd9911d087e04c0c9aee0f8d2949515",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7bd9911d087e04c0c9aee0f8d2949515/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "IMOVELUM",
+        "href": "/772667/imovelum/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 60m²",
+        "href": "/imovel/apartamento-2-quartos-ipanema-zona-sul-rio-de-janeiro-com-garagem-60m2-venda-RS950000-id-2761468864/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "state": "Rio de Janeiro",
+            "street": "Rua Nascimento Silva",
+            "streetNumber": "4",
+            "zone": "Zona Sul"
+        }
+    }
+}

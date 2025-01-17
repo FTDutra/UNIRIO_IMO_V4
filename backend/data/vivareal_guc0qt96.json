@@ -1,0 +1,336 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "FURNISHED",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "PARTY_HALL",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "RECREATION_AREA",
+            "BUILTIN_WARDROBE",
+            "BEDROOM_WARDROBE",
+            "KITCHEN_CABINETS",
+            "BATHROOM_CABINETS",
+            "SERVICE_BATHROOM",
+            "INTERNET_ACCESS",
+            "GAS_SHOWER",
+            "CLOSET",
+            "LARGE_KITCHEN",
+            "SANCA",
+            "INTERCOM",
+            "LARGE_WINDOW",
+            "HIGH_CEILING_HEIGHT",
+            "LARGE_ROOM",
+            "ALARM_SYSTEM",
+            "CABLE_TV",
+            "SECURITY_CAMERA",
+            "SAFETY_CIRCUIT",
+            "SERVICE_ENTRANCE",
+            "SIDE_ENTRANCE",
+            "ENTRANCE_HALL",
+            "RECEPTION",
+            "PATROL",
+            "WATCHMAN",
+            "DISABLED_ACCESS",
+            "ELECTRONIC_GATE",
+            "INTEGRATED_ENVIRONMENTS",
+            "BLINDEX_BOX",
+            "EMPLOYEE_DEPENDENCY",
+            "ALUMINUM_WINDOW",
+            "WOOD_FLOOR",
+            "NATURAL_VENTILATION"
+        ],
+        "usableAreas": [
+            "59"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Imóvel residencial com 1 sala, 1 dormitório e 1 suíte, em padrão simples, localizado na frente do prédio com fachada de argamassa, vista para a rua e posição que garante sol da manhã e tarde. Com 59 m² de área total e útil, o condomínio oferece infraestrutura completa, com interfone, portaria, salão de festas, circuito de TV a cabo e câmeras de vigilância.<br><br>ATUALIZADO 06/06<br><br>***ANÚNCIO SUJEITO A ALTERAÇÃO SEM AVISO PRÉVIO***",
+        "title": "Apartamento para venda tem 59 metros quadrados com 1 quarto em Copacabana - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2710850597",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22031060",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "134",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.191676,
+                "source": "GOOGLE",
+                "lat": -22.963989
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Praça Vereador Rocha Leão",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:Ponto Regulador: Metrô Siqueira Campos",
+                "BS:BRS 3 Siqueira Campos",
+                "BS:BRS 1 Figueiredo Magalhães",
+                "BS:BRS 2 Hilário de Gouveia",
+                "BS:BRS 2: Hilário de Gouveia",
+                "TS:Figueiredo Magalhães",
+                "TS:Siqueira Campos / Copacabana",
+                "TS:Ponto Regulador: Metrô Siqueira Campos",
+                "TS:Siqueira Campos - Sentido Gen. Osório / Jd. Ocêanico",
+                "TS:Siqueira Campos / Copacabana - Sentido Gen. Osório / Jd. Ocêanico",
+                "CS:Do Conde",
+                "CS:The Bakers",
+                "CS:Mercado Humaitá",
+                "CS:Grão da terra",
+                "CS:Suíça",
+                "PH:Nash",
+                "PH:Caminhoá",
+                "PH:Drogaria Galanti",
+                "PH:Minipreço",
+                "PH:Ypiranga"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "FCAP11416",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "59"
+        ],
+        "advertiserId": "39808deb-3261-9ad8-bb4a-7cc61de12d97",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "213",
+                "price": "500000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "587"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135634203",
+                "21974165147"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21974165147",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE",
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "39808deb-3261-9ad8-bb4a-7cc61de12d97",
+        "name": "INVICTA IMOBILIÁRIA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/46ec435dcdb6c74d06c19f06cbe60176/{description}.webp",
+        "licenseNumber": "8150-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 96803,
+        "phones": {
+            "primary": "2135634203",
+            "mobile": "21974165147"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "445d665f970971c061f583880d138e0e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/445d665f970971c061f583880d138e0e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9554104cc15831373dc255673e04c833",
+            "url": "https://www.youtube.com/watch?v=HI-lPt0o5EA",
+            "type": "VIDEO"
+        },
+        {
+            "id": "d1a53b7209e23a08a97318c254573588",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1a53b7209e23a08a97318c254573588/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0944b4fd7bbfe69ffe06a8812e3922d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0944b4fd7bbfe69ffe06a8812e3922d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "90297073c141e9eca7d487a8514cd5f6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/90297073c141e9eca7d487a8514cd5f6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f334be9cf8facffa5b5340ed9aeb1c5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f334be9cf8facffa5b5340ed9aeb1c5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b28555052d35238a39b68e7ad48c80f6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b28555052d35238a39b68e7ad48c80f6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "75ea13998bb6d28a97085bd3ae84243a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/75ea13998bb6d28a97085bd3ae84243a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b529400d5b423f714490988fdd9eba2d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b529400d5b423f714490988fdd9eba2d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c2a7853d8762be0378c7a524137b475",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c2a7853d8762be0378c7a524137b475/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "54e8b67397a81c0e590a827158744cdb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/54e8b67397a81c0e590a827158744cdb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb8998c7f7744cd72c4eec42698ba2bf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb8998c7f7744cd72c4eec42698ba2bf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e85093a326def93b1d5f19678459f06b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e85093a326def93b1d5f19678459f06b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7477f528376236976445dc2123d20178",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7477f528376236976445dc2123d20178/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e96d83f9ae206ace4ec781e15582f462",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e96d83f9ae206ace4ec781e15582f462/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "02780f1f804cf507e7cac9ec90aeaf73",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/02780f1f804cf507e7cac9ec90aeaf73/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ded2002273d6f2085f57c2ccb4b4ec92",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ded2002273d6f2085f57c2ccb4b4ec92/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1f59ce1dc583003d40c1df638713ffc8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1f59ce1dc583003d40c1df638713ffc8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e0f5398885102862bde69322a3732f43",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e0f5398885102862bde69322a3732f43/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c74ae53fd8f5b8e6429927672cdeb39c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c74ae53fd8f5b8e6429927672cdeb39c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b7d179d0ee6754270189d232c94e247a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b7d179d0ee6754270189d232c94e247a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "29e83d82258ab1d4ef102b92872700ac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/29e83d82258ab1d4ef102b92872700ac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bfd8c5f6c1cdbd12c3955c6aff57acbf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bfd8c5f6c1cdbd12c3955c6aff57acbf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8db02bc606d2e00c5e83dd373784d876",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8db02bc606d2e00c5e83dd373784d876/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a07cda249cf5f24d611ef6c830432d99",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a07cda249cf5f24d611ef6c830432d99/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "24357b5ea6b82d346207e2809b222d36",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/24357b5ea6b82d346207e2809b222d36/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "77e5d4a879761683feaba5db9a732056",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/77e5d4a879761683feaba5db9a732056/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bce41c71364ccd3c5def302ac715fabe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bce41c71364ccd3c5def302ac715fabe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "30d910063a9eab365035fb65e9a50129",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30d910063a9eab365035fb65e9a50129/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "INVICTA IMOBILIÁRIA",
+        "href": "/96803/invicta-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 59m²",
+        "href": "/imovel/apartamento-1-quartos-copacabana-zona-sul-rio-de-janeiro-59m2-venda-RS500000-id-2710850597/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Praça Vereador Rocha Leão",
+            "streetNumber": "134",
+            "zone": "Zona Sul"
+        }
+    }
+}

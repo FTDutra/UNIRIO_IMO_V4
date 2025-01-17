@@ -1,0 +1,194 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [],
+        "usableAreas": [
+            "140"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento amplo à venda no bairro Jardim Botânico, Rio de Janeiro, com 3 quartos, sendo 2 suítes, e 3 banheiros no total. Localizado em um condomínio na Rua Faro, este imóvel é ideal para quem busca conforto e praticidade, estando próximo a escolas renomadas como Jardim Botânico Educação Infantil, Escola Especial Municipal Marly Fróes Peixoto, Colégio Estadual Ignácio Azevedo do Amaral, entre outras, além de fácil acesso à Ilha Piraqué.<br><br>**Descrição do proprietário**: <br>Apartamento duplex em rua silenciosa. No **1º pavimento**, há entrada social e de serviço, cozinha com dependências, lavabo, sala ampla dividida em 2 ambientes e varanda. No **2º pavimento**, há 2 suítes e um terceiro quarto. O apartamento é bem ventilado e possui vista livre.<br><br>**Itens disponíveis**: <br>- Box <br>- Armários no quarto, banheiros e cozinha <br>- Ar condicionado <br>- Chuveiro a gás",
+        "title": "Apartamento à venda com 140m², 3 quartos e 2 vagas",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2747189505",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22461020",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.962,
+                "approximateLon": -43.218,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Faro",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Jardim Botanico",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "poisList": [
+                "BS:Jardim Botânico",
+                "BS:Hospital da Lagoa",
+                "BS:Maria Angélica",
+                "BS:Baixo Gávea",
+                "BS:Humaitá",
+                "TS:Hospital da Lagoa",
+                "TS:Maria Angélica",
+                "TS:Paineiras",
+                "TS:Humaitá",
+                "TS:Ponto Final: CIEP Nação Rubro Negra",
+                "CS:Vitória Régia",
+                "CS:La Bicyclette",
+                "CS:Bastarda",
+                "CS:Toquinha da Globo",
+                "CS:Panificação Século XX",
+                "PH:Padrão",
+                "PH:Ric"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP5973RJ",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "140"
+        ],
+        "advertiserId": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "605",
+                "price": "2000000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2498"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21988595427"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988595427",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "name": "Luccare Investimentos",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/356f29ff805ce9c2aedf37766016903e/{description}.webp",
+        "licenseNumber": "065358-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 79203,
+        "phones": {
+            "primary": "21988595427",
+            "mobile": "21988595427"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "38a13bd476c0f9a94fea42383c5cc5ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38a13bd476c0f9a94fea42383c5cc5ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d58275458b426856e49be97279128784",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d58275458b426856e49be97279128784/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42f0b20d5814a753ff248cce8e160337",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42f0b20d5814a753ff248cce8e160337/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c234a710aaad9f281b9ddce7b1d39fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c234a710aaad9f281b9ddce7b1d39fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1ee51148ca99d4efb06cabd1c171454",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1ee51148ca99d4efb06cabd1c171454/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7d6442217c1e0632262d177dd1af3dc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7d6442217c1e0632262d177dd1af3dc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5126d6883def931b3e041195cd7c7621",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5126d6883def931b3e041195cd7c7621/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d4e6b9dbf1708387f6fb2c296d3e53e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d4e6b9dbf1708387f6fb2c296d3e53e3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6b22e2858722f54084bfd81b011c54d1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6b22e2858722f54084bfd81b011c54d1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "98cf1b3c924e73167782459d67f41365",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98cf1b3c924e73167782459d67f41365/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Luccare Investimentos",
+        "href": "/79203/luccare-investimentos/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 140m²",
+        "href": "/imovel/apartamento-3-quartos-jardim-botanico-zona-sul-rio-de-janeiro-com-garagem-140m2-venda-RS2000000-id-2747189505/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "state": "Rio de Janeiro",
+            "street": "Rua Faro",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

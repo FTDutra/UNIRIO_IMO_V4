@@ -1,0 +1,298 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "INTERCOM",
+            "BALCONY",
+            "SERVICE_AREA"
+        ],
+        "usableAreas": [
+            "76"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Privilégio Imóveis vende excelente oportunidade. Apartamento dividido em: Sala ampla com varandinha, 3 quartos sendo 1 suíte, banheiro social, cozinha e área de serviço, apartamento com direito a 1 vaga box.",
+        "title": "Apartamento à venda, 3 quartos, 1 suíte, Glória - RIO DE JANEIRO/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2749888199",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20241220",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.92,
+                "approximateLon": -43.18,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Cândido Mendes",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Gloria",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Glória",
+            "poisList": [
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "BS:Rua Monte Alegre próximo ao 342",
+                "BS:Passeio :: Linha 517",
+                "BS:Ponto Regulador: Linha 247",
+                "BS:BRS 1,2,4 Inválidos",
+                "TS:Largo do Curvelo",
+                "TS:Glória",
+                "TS:Largo do Guimarães",
+                "TS:Largo dos Guimarães",
+                "TS:Outeiro da Glória",
+                "CS:Confeitaria Santo Amaro",
+                "CS:Padaria Nova Viriato",
+                "CS:Mercearia Rainha da Pipoca",
+                "CS:Pão Francês",
+                "CS:Seu Zé",
+                "PH:Bem Estar",
+                "PH:Drogaria Riofarma",
+                "PH:Miliflora Farmácia de Manipulação",
+                "PH:Drogaria RioFarma",
+                "PH:DrogaLife"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "72846",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "76"
+        ],
+        "advertiserId": "79c2710f-a2c5-6c55-f535-09d62d4bbb7f",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1935",
+                "price": "565000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "605"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2120519002",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "79c2710f-a2c5-6c55-f535-09d62d4bbb7f",
+        "name": "PRIVILEGIO COPACABANA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/088b669a85acb014eed1ac3c6c5bf45e/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 761983,
+        "phones": {
+            "primary": "2120519002",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "345fc8cb8f35ea8bdb3f422c5c0bcc0b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/345fc8cb8f35ea8bdb3f422c5c0bcc0b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "80338dfbdb27ed91147fb3cdfe590891",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/80338dfbdb27ed91147fb3cdfe590891/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "77aa2a7c6cee762de62e3b9060b63289",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/77aa2a7c6cee762de62e3b9060b63289/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c18c36beabd5af617c73ec3f0a81bb22",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c18c36beabd5af617c73ec3f0a81bb22/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "658a375b104f4e86898d2d6854306e1d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/658a375b104f4e86898d2d6854306e1d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "27bef808e1d9f0ae9801b26cda6995e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/27bef808e1d9f0ae9801b26cda6995e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5fbaa0fd12b9779eac032360a4686b80",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5fbaa0fd12b9779eac032360a4686b80/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c3e65136d397fe0299e305eee28f119a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c3e65136d397fe0299e305eee28f119a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5931b5417175c249c27fb9110b54580c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5931b5417175c249c27fb9110b54580c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2dfb63f77b004ee43f6181ea7c13b33b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2dfb63f77b004ee43f6181ea7c13b33b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4792e2868cfe7fa96cea2c816b4897b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4792e2868cfe7fa96cea2c816b4897b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e811d91490779d2e0b361ab271078c55",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e811d91490779d2e0b361ab271078c55/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8aaa4fca58147cce37de353bce4628ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8aaa4fca58147cce37de353bce4628ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "79c9a5911069a9014e70eabaeae62d6a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/79c9a5911069a9014e70eabaeae62d6a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "10605f76bb3d167e102f118e9b86d179",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/10605f76bb3d167e102f118e9b86d179/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dca8f94633750acbf298aa044233e581",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dca8f94633750acbf298aa044233e581/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "46baae1d5f7f51155b2d9af2070055d0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/46baae1d5f7f51155b2d9af2070055d0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf6c5a2e654364f544cea3c6ff07088a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf6c5a2e654364f544cea3c6ff07088a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "917663068ce59eb883a84303aaafa081",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/917663068ce59eb883a84303aaafa081/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e822b0f7bd97ac5485533d31cb883df5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e822b0f7bd97ac5485533d31cb883df5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "793a56a286b6c218d192fbcc9867f9b7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/793a56a286b6c218d192fbcc9867f9b7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9a36405e8cde7419d18154afb3e78165",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9a36405e8cde7419d18154afb3e78165/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1eee808e0c2239d490db4b9e0c50929e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1eee808e0c2239d490db4b9e0c50929e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff20c59853bd59bc0ee492f5535b0f39",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff20c59853bd59bc0ee492f5535b0f39/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "93d39ff59adb551257b5ebf9e728e4ae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/93d39ff59adb551257b5ebf9e728e4ae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e87558ff7d73f6a2f07aa8a975b2f7ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e87558ff7d73f6a2f07aa8a975b2f7ed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe40c64121b12caf8846f5205b896563",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe40c64121b12caf8846f5205b896563/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8994b452b28d7a77a5862bf9117aef6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8994b452b28d7a77a5862bf9117aef6e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f8beac1f959d9d984346c8492361bca5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f8beac1f959d9d984346c8492361bca5/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "PRIVILEGIO COPACABANA",
+        "href": "/761983/privilegio-copacabana/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 76m²",
+        "href": "/imovel/apartamento-3-quartos-gloria-zona-sul-rio-de-janeiro-76m2-venda-RS565000-id-2749888199/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Glória",
+            "state": "Rio de Janeiro",
+            "street": "Rua Cândido Mendes",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

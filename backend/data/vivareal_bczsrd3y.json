@@ -1,0 +1,266 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "BARBECUE_GRILL",
+            "SERVICE_AREA",
+            "AIR_CONDITIONING",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "160"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento no Recreio dos Bandeirantes 160 m², frente varandão com cortina de vidro e tela de proteção, composto por 3 quartos com armários, sendo 1 suíte com closet, ampla sala em 2 ambientes, enorme varanda com cortina de vidro, banheiros com blindex e armários, cozinha arejada com armários planejados, dependência revertida em escritório e área de serviço.<br>Imóvel com duas vagas na garagem. Condomínio com churrasqueira e salão de festas.<br>Aceita Pet.<br>Agende já sua visita! -",
+        "title": "Apartamento com 3 quartos à venda, 160 m² por R$ 1.100.000 - Recreio dos Bandeirantes - Rio de Janei",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2756537853",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790430",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.019,
+                "approximateLon": -43.477,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Almirante Ary Rongel",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Gilka Machado",
+                "TS:Guiomar Novaes",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Recreio Shopping",
+                "CS:R2 Bolos",
+                "CS:Barra Bonita Padaria",
+                "CS:Américas Pão",
+                "CS:Armazém do Recreio",
+                "CS:Alfa Belle",
+                "PH:Foliare",
+                "PH:Economia de Drogarias",
+                "PH:Drogaria M. M. Júnior",
+                "PH:Prophylaxis",
+                "PH:Dona Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "AP5925",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "160"
+        ],
+        "advertiserId": "e962533b-1b86-5029-5f4c-f75aae0d208b",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3684",
+                "price": "1100000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1000"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2134349000"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "e962533b-1b86-5029-5f4c-f75aae0d208b",
+        "name": "Lopes Enjoy Imóveis EA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3eb38e64771173e32d9e0875e25a882b/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 760714,
+        "phones": {
+            "primary": "2134349000",
+            "mobile": "2134349000"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "30029d4fc8341c5d242807599a4ccc34",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30029d4fc8341c5d242807599a4ccc34/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "51c9371c7b985ca5d5987d78449a3637",
+            "url": "https://youtu.be/Vl0OG9nJlWU",
+            "type": "VIDEO"
+        },
+        {
+            "id": "2e76c616b065366288631f31cdfa9fcf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e76c616b065366288631f31cdfa9fcf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c505c8d533946a0f1bf81ab489c10d58",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c505c8d533946a0f1bf81ab489c10d58/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6e2a392b4123c1789ccb08c782c1e613",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6e2a392b4123c1789ccb08c782c1e613/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65d33e6a1c962e0daa15bc90c5e48c84",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65d33e6a1c962e0daa15bc90c5e48c84/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "236fba1d42f0e1fb5ed9f0feb677f23c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/236fba1d42f0e1fb5ed9f0feb677f23c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9a46992afa7f4410e554769e29ed3e33",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9a46992afa7f4410e554769e29ed3e33/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd11b444932fbc0393a5297fb6e9a014",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd11b444932fbc0393a5297fb6e9a014/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8251514d163ee1f8e128a27f772a885d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8251514d163ee1f8e128a27f772a885d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e6c4b3b0617398961cbf19abce10547",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e6c4b3b0617398961cbf19abce10547/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "538ca179e37f3a21dc508e9f01fa3a0a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/538ca179e37f3a21dc508e9f01fa3a0a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d5216e00143d3305dc841bd20560f49a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d5216e00143d3305dc841bd20560f49a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "544302856946b410c3ff8ffc74a9b6da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/544302856946b410c3ff8ffc74a9b6da/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "61058dd22d242019a93030935d037f44",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/61058dd22d242019a93030935d037f44/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "259c3cd45b7d2d42f6f4808afc524373",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/259c3cd45b7d2d42f6f4808afc524373/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd4cfb72697b531a542f2c9af2eb7a1f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd4cfb72697b531a542f2c9af2eb7a1f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "799d22c2962f26555c67c4a0e780e724",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/799d22c2962f26555c67c4a0e780e724/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1ff8d007a606bed244e54516685a2f12",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1ff8d007a606bed244e54516685a2f12/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9331a987e588f950865c490d7a3911c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9331a987e588f950865c490d7a3911c7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "20cea120df9e1aed118031b9d8fa7124",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/20cea120df9e1aed118031b9d8fa7124/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e84037e548ce38e16df7ea356c2c23b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9e84037e548ce38e16df7ea356c2c23b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dc12d22ae4557a2e08a866f9bdb0f9b7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc12d22ae4557a2e08a866f9bdb0f9b7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a9154a7a36e7b6408a3a2bce7ce6423b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a9154a7a36e7b6408a3a2bce7ce6423b/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Lopes Enjoy Imóveis EA",
+        "href": "/760714/lopes-enjoy-imoveis-ea/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 160m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-160m2-venda-RS1100000-id-2756537853/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Almirante Ary Rongel",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GATED_COMMUNITY",
+            "GARAGE",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "CONCIERGE_24H",
+            "WATCHMAN",
+            "PAVED_STREET"
+        ],
+        "usableAreas": [
+            "65"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Ótimo apartamento todo reformado, piso porcelanato, 3 quartos sala 2ambientes, uma dos quartos com armários embutidos, banheiro social box blindex, cozinha planejada, área, portaria 24hs, vaga no condomínio. 5bc7f",
+        "title": "Lins de Vasconcelos | Apartamento 3 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2596237071",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20725080",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.912,
+                "approximateLon": -43.282,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Heráclito Graça",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Lins de Vasconcelos",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Lins de Vasconcelos",
+            "poisList": [
+                "BS:Padre Roma",
+                "BS:Agripino Grieco",
+                "BS:Constança Barbosa",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. A",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. B",
+                "TS:Padre Roma",
+                "TS:Silva Freire",
+                "TS:Agripino Grieco",
+                "TS:Constança Barbosa",
+                "TS:Méier",
+                "CS:Panificadora Aquidabã",
+                "CS:TECNOMEDI MÉIER",
+                "CS:Rainha do Méier",
+                "CS:Tuti Fruti",
+                "CS:Lecadô",
+                "PH:Drogaria Atração do Méier",
+                "PH:Drogaria Mais Barato - Méier"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "AP30459",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "65"
+        ],
+        "advertiserId": "8c3933ab-3821-6adf-b230-951afdfd05f7",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "126",
+                "price": "250000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "400"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21967741221"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21967741221",
+        "stamps": []
+    },
+    "account": {
+        "id": "8c3933ab-3821-6adf-b230-951afdfd05f7",
+        "name": "VIVAX PRIME IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2768a51ef6a019eb5a5f56cb4276035/{description}.webp",
+        "licenseNumber": "9577-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 787728,
+        "phones": {
+            "primary": "21967741221",
+            "mobile": "21967741221"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "9f3f9c257364bd48c7fb3d2bb8e7d9ed",
+            "url": "https://www.youtube.com/watch?v=9ogtrTqUwVA",
+            "type": "VIDEO"
+        },
+        {
+            "id": "e27d628cc6e7773b874ba2be35b50b77",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e27d628cc6e7773b874ba2be35b50b77/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "003a42d1786f38527df1bb64307166d4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/003a42d1786f38527df1bb64307166d4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "77c3b611039cccd04d7f28f9a8420107",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/77c3b611039cccd04d7f28f9a8420107/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3d89abbd38bdb333476018f1df3e413e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3d89abbd38bdb333476018f1df3e413e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d548013a5b5847968b526d3ee55c0c61",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d548013a5b5847968b526d3ee55c0c61/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "780bba741dbce8b90300d57c6c768e06",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/780bba741dbce8b90300d57c6c768e06/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "92da249edfd347149cc77b3fbda4512c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/92da249edfd347149cc77b3fbda4512c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "97b8ab7dd498e97354bbb3afbd59fe82",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/97b8ab7dd498e97354bbb3afbd59fe82/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8aa982b88b9ce3f08562bccfae6fecad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8aa982b88b9ce3f08562bccfae6fecad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "af00ed43046649e5da0a4c25880796c9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/af00ed43046649e5da0a4c25880796c9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9f9a2d6fb6b03834b60abcb9aa9a7da7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9f9a2d6fb6b03834b60abcb9aa9a7da7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c32b37c1c3e25125d01ea5836c907405",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c32b37c1c3e25125d01ea5836c907405/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b7f3ef66ad04e660210d1ceb9e22badd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b7f3ef66ad04e660210d1ceb9e22badd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9c36ae657c34f6428eb3ea4e5235210",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9c36ae657c34f6428eb3ea4e5235210/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c96987773b73fc1e5fc1ba2d268203c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c96987773b73fc1e5fc1ba2d268203c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e42d6ace7324c45428174f3a1c20fe0c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e42d6ace7324c45428174f3a1c20fe0c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4cf22b270e4504536491aac842eef73",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4cf22b270e4504536491aac842eef73/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "75d7900a661d219aa679651279191c08",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/75d7900a661d219aa679651279191c08/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4109760586c3238e5f7272624882c206",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4109760586c3238e5f7272624882c206/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7be3ddc3beed2a71dec1188ce026712b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7be3ddc3beed2a71dec1188ce026712b/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "VIVAX PRIME IMÓVEIS",
+        "href": "/787728/vivax-prime-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 65m²",
+        "href": "/imovel/apartamento-3-quartos-lins-de-vasconcelos-zona-norte-rio-de-janeiro-com-garagem-65m2-venda-RS250000-id-2596237071/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Lins de Vasconcelos",
+            "state": "Rio de Janeiro",
+            "street": "Rua Heráclito Graça",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

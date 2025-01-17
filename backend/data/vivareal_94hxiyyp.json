@@ -1,0 +1,221 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "BALCONY",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "71"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Maravilhoso apartamento, tipo casa duplex, 1°piso: salão, cozinha, banheiro, área de serviço, 2°piso: três dormitórios, um banheiro, todo imóvel em piso cerâmica e azulejo teto nas partes frias, garagem no parqueamento, próximo comércio e condução. Aceitamos financiamento e FGTS. Agende sua visita com um de nossos corretores. Avaliamos gratuitamente seu imóvel.<br>-Cod:639352 -Rev.11Dez",
+        "title": "Apartamento - Padrão / Residencial / Colégio",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2611894431",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21545180",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.844,
+                "approximateLon": -43.34,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Caraíba",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Colegio",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Colégio",
+            "poisList": [
+                "BS:Ponto Final da linha: 711 - Rocha Miranda x Rio Comprido",
+                "BS:BRT de Vaz Lobo",
+                "BS:Vaz Lobo",
+                "TS:Estrada do Barro Vermelho",
+                "TS:Estrada do Colégio",
+                "TS:Colégio",
+                "TS:Ponto Final da linha: 711 - Rocha Miranda x Rio Comprido",
+                "TS:Coelho Neto",
+                "CS:Mercearia Lageado",
+                "CS:Cestão da Economia",
+                "CS:Bom Preço",
+                "CS:Padaria do Bené",
+                "CS:Atacadão dos Biscoitos",
+                "PH:Drogaria My Farma | Farmácia Online - RJ",
+                "PH:Modelo Carioca",
+                "PH:Ofertão",
+                "PH:Guanabara"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "639352",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "71"
+        ],
+        "advertiserId": "88ee35a1-d05d-522c-b5e3-fadca4f6e940",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "350000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2134595757",
+                "21993129826"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21993129826",
+        "stamps": []
+    },
+    "account": {
+        "id": "88ee35a1-d05d-522c-b5e3-fadca4f6e940",
+        "name": "JAYLSON IMOBILIÁRIA | VILA DA PENHA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f49318a32e533bb9086d43a9ff3572ed/{description}.webp",
+        "licenseNumber": "06871-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 45812,
+        "phones": {
+            "primary": "2134595757",
+            "mobile": "21993129826"
+        },
+        "tier": ""
+    },
+    "medias": [
+        {
+            "id": "7bf9162502b3856776a6ae909f427b1b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7bf9162502b3856776a6ae909f427b1b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a61c5a8b17dff00488e80bbaf7700d5",
+            "url": "https://youtu.be/nhtoHf1C6WI",
+            "type": "VIDEO"
+        },
+        {
+            "id": "0518deecefd90b424afaa9d96f421ebc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0518deecefd90b424afaa9d96f421ebc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c5bc4c2a8293f7e16a4b3bd8bcf368e4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c5bc4c2a8293f7e16a4b3bd8bcf368e4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "92a1e1825b4bba30f326a56d69b753ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/92a1e1825b4bba30f326a56d69b753ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a1b6be109d9af099636cb3104b38030",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a1b6be109d9af099636cb3104b38030/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0264fb7b73b742b0ce499a7c44e3e26f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0264fb7b73b742b0ce499a7c44e3e26f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "879db03f9b8a6928ac7171d3844c381e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/879db03f9b8a6928ac7171d3844c381e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "44b6ffa1dcbd9a5910ba98291d8a572e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/44b6ffa1dcbd9a5910ba98291d8a572e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1427667f1efc764987cbffa456739e7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1427667f1efc764987cbffa456739e7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7849d4d28deb20caf9062581fac4f284",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7849d4d28deb20caf9062581fac4f284/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "705e205d27525c53df2b510ce67adcfa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/705e205d27525c53df2b510ce67adcfa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c7bcac55a60a416ad6378f72b7beb9c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c7bcac55a60a416ad6378f72b7beb9c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8ecf3ad18abe38535909b3dc617d10e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8ecf3ad18abe38535909b3dc617d10e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6f3e7cfca0d3111f4ed5582d389d1ab9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6f3e7cfca0d3111f4ed5582d389d1ab9/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "JAYLSON IMOBILIÁRIA | VILA DA PENHA",
+        "href": "/45812/jaylson-imobiliaria-vila-da-penha/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 71m²",
+        "href": "/imovel/apartamento-3-quartos-colegio-zona-norte-rio-de-janeiro-com-garagem-71m2-venda-RS350000-id-2611894431/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Colégio",
+            "state": "Rio de Janeiro",
+            "street": "Rua Caraíba",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

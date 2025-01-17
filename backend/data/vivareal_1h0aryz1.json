@@ -1,0 +1,285 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "FURNISHED",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "BACKYARD",
+            "GYM",
+            "GOURMET_SPACE",
+            "GARAGE",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "HOME_OFFICE",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "92"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento para venda possui 92 metros quadrados com 2 quartos<br>Ótima localização, junto a supermercados, bancos, comércio. Prédio charmoso, portaria 24 horas. Apartamento totalmente reformado de fundos, composto por 2 quartos, sendo uma suite, sala e cozinha integrada com a sala,varanda. Com total infra estrutura! Entrar e morar.<br>\"Avaliamos gratuitamente seu imóvel! Temos atendimento especializado tanto por parte dos corretores como gerentes de vendas. <br>O preço do imóvel está sujeito à mudança sem aviso prévio, conforme solicitação do proprietário.\" be974",
+        "title": "Humaitá | Apartamento 2 quartos, sendo 1 suite",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2732676633",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22261004",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.959,
+                "approximateLon": -43.201,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua do Humaitá",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Humaita",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Humaitá",
+            "poisList": [
+                "BS:Humaitá",
+                "BS:Maria Angélica",
+                "BS:Cobal do Humaitá",
+                "BS:Cobal",
+                "BS:Hospital da Lagoa",
+                "TS:Humaitá",
+                "TS:Maria Angélica",
+                "TS:Cobal do Humaitá",
+                "TS:Cobal",
+                "TS:Hospital da Lagoa",
+                "CS:Panificação Lagoa",
+                "CS:Mercado Humaitá",
+                "CS:A Padaria - Café Et Marché",
+                "CS:Farinha Pura",
+                "CS:Do Conde",
+                "PH:Minipreço",
+                "PH:Ypiranga",
+                "PH:Caminhoá",
+                "PH:Nash",
+                "PH:Bio Mundo"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "BO2AP84137",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "92"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3001",
+                "price": "1400000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1390"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": []
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "18b73b89e97953e25eee6033ab759acb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/18b73b89e97953e25eee6033ab759acb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c524220b16e3bde2c6f0d9cc68059046",
+            "url": "https://www.youtube.com/watch?v=KyH6se6BJ68",
+            "type": "VIDEO"
+        },
+        {
+            "id": "b8307ab49953b4d9ad444743dbff4ab4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b8307ab49953b4d9ad444743dbff4ab4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "60913c1e1a7617b6376fcdcdd3de8d1b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60913c1e1a7617b6376fcdcdd3de8d1b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "92fcc3c9d846d545f0fdea567339cfb2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/92fcc3c9d846d545f0fdea567339cfb2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e61aec3f8c6977d8655f26fe98337f0f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e61aec3f8c6977d8655f26fe98337f0f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6e78cdd9da4b797c580e9dd48dfbbdd4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6e78cdd9da4b797c580e9dd48dfbbdd4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "83e9511053c6fd9574521df73d78d6b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/83e9511053c6fd9574521df73d78d6b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cad3359c9298bd21d9d89ee59ccf7189",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cad3359c9298bd21d9d89ee59ccf7189/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "69e26c632087c4fa02389c678b7c5fee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/69e26c632087c4fa02389c678b7c5fee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a996c8490e4073896031b0f572a6825e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a996c8490e4073896031b0f572a6825e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a2d6654858acca0b684d1bb4de3146c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a2d6654858acca0b684d1bb4de3146c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "893e331edde746418057de07a8e7c35f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/893e331edde746418057de07a8e7c35f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e7b4ae0932ccc4e9de726282789a002",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e7b4ae0932ccc4e9de726282789a002/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "488a52600b7f21117d66a995632f8fd6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/488a52600b7f21117d66a995632f8fd6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2231d269742f15edd6b5887bff931fe1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2231d269742f15edd6b5887bff931fe1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "77ad574a51c27363989c345528857804",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/77ad574a51c27363989c345528857804/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e478f07cdc136a73f04d26065c62cbfe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e478f07cdc136a73f04d26065c62cbfe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0904dfba67f3f71be6bd16cc34b01fce",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0904dfba67f3f71be6bd16cc34b01fce/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9473730a5846577c285b3b3647b9d4a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9473730a5846577c285b3b3647b9d4a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "248611e2e1faa8ecbfccf9f8869d979d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/248611e2e1faa8ecbfccf9f8869d979d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0df295d13ae9b65f7f6f7ed6103ab1de",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0df295d13ae9b65f7f6f7ed6103ab1de/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f52e43482ee9c917440d267d8258baa7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f52e43482ee9c917440d267d8258baa7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5297db4669ef657c96543db605bed07d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5297db4669ef657c96543db605bed07d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a81b7f964267b76458c576a85faa069b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a81b7f964267b76458c576a85faa069b/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 92m²",
+        "href": "/imovel/apartamento-2-quartos-humaita-zona-sul-rio-de-janeiro-com-garagem-92m2-venda-RS1400000-id-2732676633/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Humaitá",
+            "state": "Rio de Janeiro",
+            "street": "Rua do Humaitá",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

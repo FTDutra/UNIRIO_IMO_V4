@@ -1,0 +1,248 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "AIR_CONDITIONING"
+        ],
+        "usableAreas": [
+            "52"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento impecavel localizado em rua super valorizada no coração do Jardim Botanico !!!! Apartamento absolutamente impecável, com planta original de 2 quartos que foi totalmente reformado, incluindo parte elétrica e hidráulica e transformado em um grande loft, que integra quarto, sala, cozinha, e, ainda, possui um amplo banheiro. O apartamento possui janelões de vidro que tornam o ambiente arejado e iluminado e ainda contam com uma vista incrivel para o Cristo redentor. prédio pequeno com poucos andares, poucos apartamentos por andar e com condominio barato; fica a três quadras da Lagoa Rodrigo de Freitas, próximo ao Parque do Jardim Botânico do Rio e ao comércio da região, com restaurantes, bares e supermercados.<br>-Cod:LEAP20452 -Rev.11Dez",
+        "title": "Apartamento - / Residencial / Jardim Botânico",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2722979037",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22461020",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.963,
+                "approximateLon": -43.217,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Faro",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Jardim Botanico",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "poisList": [
+                "BS:Jardim Botânico",
+                "BS:Hospital da Lagoa",
+                "BS:Maria Angélica",
+                "BS:Baixo Gávea",
+                "BS:Humaitá",
+                "TS:Hospital da Lagoa",
+                "TS:Maria Angélica",
+                "TS:Humaitá",
+                "TS:Paineiras",
+                "TS:Ponto Final: CIEP Nação Rubro Negra",
+                "CS:Vitória Régia",
+                "CS:La Bicyclette",
+                "CS:Bastarda",
+                "CS:Toquinha da Globo",
+                "CS:Panificação Século XX",
+                "PH:Padrão",
+                "PH:Ric"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "LEAP20452",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "52"
+        ],
+        "advertiserId": "e3f09935-2f6c-c481-29e9-792331f4667e",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "200",
+                "price": "700000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "350"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21992877850"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21992877850",
+        "stamps": []
+    },
+    "account": {
+        "id": "e3f09935-2f6c-c481-29e9-792331f4667e",
+        "name": "DNA IMÓVEIS LEBLON",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d14fc5354f5e283a226b70422f066409/{description}.webp",
+        "licenseNumber": "009793-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 787916,
+        "phones": {
+            "primary": "21992877850",
+            "mobile": "21992877850"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "22d7b43918e75810d6348735801aae4e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/22d7b43918e75810d6348735801aae4e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "301e72d8d2fea5889f0a292f48a3b20e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/301e72d8d2fea5889f0a292f48a3b20e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eebeca8791a6929360c1cada3c4fc015",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eebeca8791a6929360c1cada3c4fc015/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cb995c67fa65210fe0450d3539994be5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cb995c67fa65210fe0450d3539994be5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d5cc8aee0acdfd4ea67c354420a3f105",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d5cc8aee0acdfd4ea67c354420a3f105/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dcd318f9fe86b3be4a743c335c7fdfc0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dcd318f9fe86b3be4a743c335c7fdfc0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4bbf6127db6c22ad1179dbfbccb89eba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4bbf6127db6c22ad1179dbfbccb89eba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8870b5196260e7f768f79ae34e029530",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8870b5196260e7f768f79ae34e029530/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ac13b9074b55f31d028a36e3daa8f8cf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ac13b9074b55f31d028a36e3daa8f8cf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e25c475d8be8b52a1bbb6f857ed092da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e25c475d8be8b52a1bbb6f857ed092da/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3217cd7827d0afd333554e00188f69a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3217cd7827d0afd333554e00188f69a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0ddd5e9552888d3a419112e204845e3a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0ddd5e9552888d3a419112e204845e3a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca51ad582b05500503828992b0b8e062",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca51ad582b05500503828992b0b8e062/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6b4610531bb00dea2f4160a24b09dd6f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6b4610531bb00dea2f4160a24b09dd6f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1527c141218793fb34e315dce9bf2793",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1527c141218793fb34e315dce9bf2793/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "593b9985dea417405d16d0e3afae3e2c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/593b9985dea417405d16d0e3afae3e2c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "89b0e2d77d0aaca8f61d582231aafa0c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/89b0e2d77d0aaca8f61d582231aafa0c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "da57c50686826847a91573101d935fe7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/da57c50686826847a91573101d935fe7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "58d990b441588bf817cf04048bd07683",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/58d990b441588bf817cf04048bd07683/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1eaf554649a6a015eb925b1e48b704c1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1eaf554649a6a015eb925b1e48b704c1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "96efcd753cb4aa62587362335e413553",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/96efcd753cb4aa62587362335e413553/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "DNA IMÓVEIS LEBLON",
+        "href": "/787916/dna-imoveis-leblon/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 52m²",
+        "href": "/imovel/apartamento-2-quartos-jardim-botanico-zona-sul-rio-de-janeiro-52m2-venda-RS700000-id-2722979037/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "state": "Rio de Janeiro",
+            "street": "Rua Faro",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

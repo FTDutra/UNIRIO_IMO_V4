@@ -1,0 +1,245 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "62"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "DNA Imóveis vende: Confortável apartamento residencial com 2 dormitórios, perfeito para quem busca praticidade e aconchego. Com uma área total de 62 m², sendo 62 m² de área útil, este imóvel oferece um espaço funcional e é bem distribuído. Sala bem dividida, iluminada e muito bem ventilada, banheiro social amplo pode ser dividido para se fazer uma suite, quartos espaçosos e bem arejados. Cozinha com armários, área de serviço e banheiro de serviço que pode ser aberto para área social como um lavabo. Prédio bem administrado e muito bem localizado a poucos minutos da rua Barão de Mesquita agende logo sua visita.<br>-Cod:NTAP23518 -Rev.11Dez",
+        "title": "Apartamento - / Residencial / Andaraí",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2758644426",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "20541190",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.925,
+                "approximateLon": -43.252,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Paula Brito",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Andarai",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Andaraí",
+            "poisList": [
+                "BS:Ponto Final - 134B (Nova Iguaçu - Vila Isabel)",
+                "BS:Ponto Final: Andaraí :: Linha 217",
+                "BS:Ponto Final: Vila Isabel :: Linha 432",
+                "BS:Muda (Ponto Final)",
+                "BS:Ponto final 222",
+                "TS:Ponto Final - 134B (Nova Iguaçu - Vila Isabel)",
+                "TS:Ponto Final: Andaraí :: Linha 217",
+                "TS:Ponto Final: Vila Isabel :: Linha 432",
+                "TS:Muda (Ponto Final)",
+                "TS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "CS:Padaria do Verdun",
+                "CS:Fábrica de Bolo da Vó Alzira",
+                "CS:Afagá Confeitaria Brasileira",
+                "CS:Confeitaria Thaís",
+                "CS:Grão Vizir",
+                "PH:Drograrias Guanabara",
+                "PH:Drogaria Unidas",
+                "PH:Drogarias Mundial",
+                "PH:Mundial",
+                "PH:Farma Dez"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "NTAP23518",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "62"
+        ],
+        "advertiserId": "f1861671-47cd-3961-5c55-2e4e27f65dbe",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "price": "290000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "325"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2121474842",
+                "21992925787"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21992925787",
+        "stamps": []
+    },
+    "account": {
+        "id": "f1861671-47cd-3961-5c55-2e4e27f65dbe",
+        "name": "DNA IMÓVEIS TIJUCA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c1ad3501ed5d42e241e038183c9d1b4f/{description}.webp",
+        "licenseNumber": "009793-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 787910,
+        "phones": {
+            "primary": "2121474842",
+            "mobile": "21992925787"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "735f2045a9f9ea7759013adb285ed4c8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/735f2045a9f9ea7759013adb285ed4c8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "be944b5f8ca95a3710154fb84e384c8c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/be944b5f8ca95a3710154fb84e384c8c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e74bf9f252ccd9c79a809387e564229",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e74bf9f252ccd9c79a809387e564229/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b58d39dcb2a9b1616e8e675a20512426",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b58d39dcb2a9b1616e8e675a20512426/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8b5eda1e91db25d084715d2ee8d3cc00",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8b5eda1e91db25d084715d2ee8d3cc00/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81cfd1a3e07a7aa9ad6e4418d393f9c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81cfd1a3e07a7aa9ad6e4418d393f9c7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "98c0175d43f27ef817ad35a0b6bf0e6b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98c0175d43f27ef817ad35a0b6bf0e6b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ad6479ccbfaad32d16bfba8a0e4a88f5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ad6479ccbfaad32d16bfba8a0e4a88f5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3197587a4f3abc2798fe8e5ceb1bbdfa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3197587a4f3abc2798fe8e5ceb1bbdfa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b55e9f908cbb332cd2106bd43d7d7223",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b55e9f908cbb332cd2106bd43d7d7223/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36784189d4f7a0920b85764d84d19a84",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36784189d4f7a0920b85764d84d19a84/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "41bb80d835d8d3f09cca3be2a74da295",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/41bb80d835d8d3f09cca3be2a74da295/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "facfce2a05d5671e1d653d57507b1e0a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/facfce2a05d5671e1d653d57507b1e0a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1f48f9b487a7d4ed25e22a79270331b1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1f48f9b487a7d4ed25e22a79270331b1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48e9500be32f360fe50dd373217751d0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48e9500be32f360fe50dd373217751d0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a6dbe0460c46b955da29d76d2c69980b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a6dbe0460c46b955da29d76d2c69980b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe998860c67ff654e31b6bd14842bf25",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe998860c67ff654e31b6bd14842bf25/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ced673b9f857294a977c31d1d970162",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ced673b9f857294a977c31d1d970162/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "92f3d08858cae47f43cad09b320060f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/92f3d08858cae47f43cad09b320060f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "614803cb380a81f0091b5ee106d279ab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/614803cb380a81f0091b5ee106d279ab/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "DNA IMÓVEIS TIJUCA",
+        "href": "/787910/dna-imoveis-tijuca/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 62m²",
+        "href": "/imovel/apartamento-2-quartos-andarai-zona-norte-rio-de-janeiro-62m2-venda-RS290000-id-2758644426/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Andaraí",
+            "state": "Rio de Janeiro",
+            "street": "Rua Paula Brito",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

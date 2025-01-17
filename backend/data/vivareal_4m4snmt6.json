@@ -1,0 +1,234 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "SERVICE_AREA",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "65"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Sala, piso ceramico, 01 quarto piso cerÂmico, esquadria de aluminio, 02 quarto piso cerÂmico, cozinha piso cerÂmico azulejo ao teto, banheiro e Suite, piso ceramico azulejo ao teto área de serviço piso cerÂmico azulejo ao teto.<br>-Cod:LGAP20316 -Rev.11Dez",
+        "title": "Ótimo Apto de 02 Quartos sendo um suite na Rua Uranos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2648851891",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "21060424",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.859,
+                "approximateLon": -43.258,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Uranos",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Ramos",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Ramos",
+            "poisList": [
+                "BS:Estação BRT Santa Luzia",
+                "BS:Ponto Final: Bonsucesso :: Linha 918",
+                "BS:Arapa",
+                "BS:Régio",
+                "BS:Passarela 10",
+                "TS:Cardoso de Moraes (Viúva Garcia)",
+                "TS:Ramos",
+                "TS:Adeus",
+                "TS:Santa Luzia (Parador)",
+                "TS:Santa Luzia (Expresso)",
+                "CS:Padaria Póvoa de Varzim",
+                "CS:Padaria Santa Helena",
+                "CS:Hashtag Alimentos",
+                "CS:Padaria e Confeitaria Nova Aurora",
+                "CS:Padaria e restaurante Central de Olaria",
+                "PH:Farmácia Xavier",
+                "PH:Londres",
+                "PH:Farmácia Farmaceutica",
+                "PH:Drogaria Madeira",
+                "PH:Drogarias Legitima"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "LGAP20316",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "65"
+        ],
+        "advertiserId": "a0d2f06b-d39e-9d8b-cd84-b241b2028a7c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "price": "385000",
+                "businessType": "SALE"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2124811577"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "a0d2f06b-d39e-9d8b-cd84-b241b2028a7c",
+        "name": "LG Imóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/904fe7ea930232094df168ac94bbf08b/{description}.webp",
+        "licenseNumber": "34047-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 38947,
+        "phones": {
+            "primary": "2124811577",
+            "mobile": "2124811577"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "bd721e5cd830ee9100d35fd4653ea466",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd721e5cd830ee9100d35fd4653ea466/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c2fc2b3fb59b5d8cc606e17e78cde6f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c2fc2b3fb59b5d8cc606e17e78cde6f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1f8532d1976f544fe7f9d56bb4613abc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1f8532d1976f544fe7f9d56bb4613abc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a806da3a4e21ef474f320ee74917e8a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a806da3a4e21ef474f320ee74917e8a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fcb5ca877eeea47b70aa2a551cadebac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fcb5ca877eeea47b70aa2a551cadebac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "15dbd6f9e6e977fe940cd14ac62f0cbb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/15dbd6f9e6e977fe940cd14ac62f0cbb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f52cf0f1894123ec9984e4316afab5d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f52cf0f1894123ec9984e4316afab5d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a399da24e9695b3abc1ed1821324b86f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a399da24e9695b3abc1ed1821324b86f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a1cd94d5c037166dcd3265e51d9f74f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a1cd94d5c037166dcd3265e51d9f74f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "947ecffc3eafa3188bfd2af99bbf35ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/947ecffc3eafa3188bfd2af99bbf35ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "16ffe48d57059e7654dd362fc8d085ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/16ffe48d57059e7654dd362fc8d085ed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c42b8a2af04586e51cfeefe23f21fb48",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c42b8a2af04586e51cfeefe23f21fb48/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a4cb26a6301492a0db2491e0b2eed59d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4cb26a6301492a0db2491e0b2eed59d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d39caa6a844addd64d19e8ac4179c3cb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d39caa6a844addd64d19e8ac4179c3cb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "120aa81738318528d7aa47cf355dbdea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/120aa81738318528d7aa47cf355dbdea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "90143a6c72a98a4d6e7023514710eaae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/90143a6c72a98a4d6e7023514710eaae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9b0a26a0416caa820d23886e44b5af7d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9b0a26a0416caa820d23886e44b5af7d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c510ff48cbeeab15734fb777d82fc2ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c510ff48cbeeab15734fb777d82fc2ad/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "LG Imóveis",
+        "href": "/38947/lg-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 65m²",
+        "href": "/imovel/apartamento-2-quartos-ramos-zona-norte-rio-de-janeiro-65m2-venda-RS385000-id-2648851891/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ramos",
+            "state": "Rio de Janeiro",
+            "street": "Rua Uranos",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

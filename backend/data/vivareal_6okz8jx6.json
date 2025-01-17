@@ -1,0 +1,295 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "PETS_ALLOWED",
+            "ELEVATOR"
+        ],
+        "usableAreas": [
+            "167"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "OPORTUNIDADE ÚNICA!!!<br><br> Copacabana <br><br> Prédio com portaria 24horas e câmera, Apartamento com 167m² todo reformado lindo, de frente, varanda interna, salão em 2 ambientes com sala de estar e sala de jantar, 4 quartos sendo 1 suíte com armários, closet, banheiro social com blindex, cozinha americana planejada, lavabo, área e banheiro de empregada, Aceita Financiamento.<br>-Cod:WGAP40001 -Rev.11Dez",
+        "title": "Apartamento 167m² 4 quartos suíte reformado",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2736691026",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22051020",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.972,
+                "approximateLon": -43.188,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Dias da Rocha",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 2 Santa Clara",
+                "BS:BRS 1,3 - Avenida Nossa Senhora de Copacabana",
+                "BS:BRS 1 Constante Ramos",
+                "BS:2018",
+                "BS:BRS 2 Barão de Ipanema",
+                "TS:BRS 2 Santa Clara",
+                "TS:BRS 1,3 - Avenida Nossa Senhora de Copacabana",
+                "TS:BRS 1 Constante Ramos",
+                "TS:2018",
+                "TS:BRS 2 Barão de Ipanema",
+                "CS:Grão da terra",
+                "CS:The Bakers",
+                "CS:Sulimar",
+                "CS:La Copa",
+                "CS:Multifruti",
+                "PH:Drogaria Galanti",
+                "PH:Prontofarma",
+                "PH:Nash",
+                "PH:Viva Mais",
+                "PH:Farmácia Central Posto 6"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "WGAP40001",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "167"
+        ],
+        "advertiserId": "7108e3eb-5c88-6d63-b197-44de7406894f",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "680",
+                "price": "1590000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2000"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21975395456"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21975395456",
+        "stamps": []
+    },
+    "account": {
+        "id": "7108e3eb-5c88-6d63-b197-44de7406894f",
+        "name": "W Consultor Imobiliário",
+        "licenseNumber": "48679-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 90034,
+        "phones": {
+            "primary": "21975395456",
+            "mobile": "21975395456"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "a83f1905f2dd6d29aabba2cbd1d20670",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a83f1905f2dd6d29aabba2cbd1d20670/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "96cc5418e5c82f36f3b5f6675b1594a1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/96cc5418e5c82f36f3b5f6675b1594a1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f322e9a220c536f518c84eb5d08361a1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f322e9a220c536f518c84eb5d08361a1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2b135cbd271ac2247dbb3f9c373c48cf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b135cbd271ac2247dbb3f9c373c48cf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f2ea388af85116244306874d3ad1207",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f2ea388af85116244306874d3ad1207/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "346e67940955b961a6c2bfefb4af8e69",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/346e67940955b961a6c2bfefb4af8e69/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c9069f3febfce9baee76146388c02821",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c9069f3febfce9baee76146388c02821/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a7e91e0f7de12a2e05b76eb3d6f3e4b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a7e91e0f7de12a2e05b76eb3d6f3e4b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "611186f1fec0d9669a8ccb9fcc1fe355",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/611186f1fec0d9669a8ccb9fcc1fe355/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36e98641555bb2f5e7eb782a0e2802d4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36e98641555bb2f5e7eb782a0e2802d4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6e99f346a92822db9bf9dbaee3b1420b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6e99f346a92822db9bf9dbaee3b1420b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48bb884a42b8a16824b1df00f2853470",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48bb884a42b8a16824b1df00f2853470/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "52e563a889b64fcf74ed7d3222b3fc7a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52e563a889b64fcf74ed7d3222b3fc7a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "78905d8d6049eff17bb6412d7349b9c2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/78905d8d6049eff17bb6412d7349b9c2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "be85cb1acccd1e9dee975616b3c24b15",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/be85cb1acccd1e9dee975616b3c24b15/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "09decec12c51d859f028b3599e2a0768",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/09decec12c51d859f028b3599e2a0768/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "32fe0b1d6b06251790ddf0d2bd4c7696",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/32fe0b1d6b06251790ddf0d2bd4c7696/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4889590eedf1b2bd05b00693ff4a5aac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4889590eedf1b2bd05b00693ff4a5aac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9500699be714a45d2f4d963402e56ded",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9500699be714a45d2f4d963402e56ded/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "94f9c05eaf67caa44a5ff4de1034140a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/94f9c05eaf67caa44a5ff4de1034140a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a9781884bbea7f57d06124da16689a6d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a9781884bbea7f57d06124da16689a6d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f159dcf4a485e3633cf9f9654505678d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f159dcf4a485e3633cf9f9654505678d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "39e7fd167aafee7fe279661766d8cdb6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39e7fd167aafee7fe279661766d8cdb6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a062cec588be217428f57444dee20909",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a062cec588be217428f57444dee20909/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38e758770f80272061bc9d0a71c2f8da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38e758770f80272061bc9d0a71c2f8da/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "29c0ff1a6cab697c84979470f6c31c84",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/29c0ff1a6cab697c84979470f6c31c84/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3d641b849b7e235bfc0984d7530dc0e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3d641b849b7e235bfc0984d7530dc0e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5b82abef7bd5246c7b08e14e80f26801",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b82abef7bd5246c7b08e14e80f26801/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a00345e136605ad3e820e8ecff3a7dcb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a00345e136605ad3e820e8ecff3a7dcb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e7cfa4b6fa845975acfa6e6439335a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e7cfa4b6fa845975acfa6e6439335a5/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "W Consultor Imobiliário",
+        "href": "/90034/w-consultor-imobiliario/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 167m²",
+        "href": "/imovel/apartamento-4-quartos-copacabana-zona-sul-rio-de-janeiro-167m2-venda-RS1590000-id-2736691026/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Dias da Rocha",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

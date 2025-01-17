@@ -1,0 +1,217 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "INTERCOM",
+            "SAUNA",
+            "POOL",
+            "ELEVATOR",
+            "BARBECUE_GRILL"
+        ],
+        "usableAreas": [
+            "78"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente oportunidade no Méier!!!<br>Apartamento super novo composto por três quartos, sendo uma suíte, sala ampla bastante arejada e iluminada, cozinha branca, ampla, composta com armários e muito bem iluminada e ventilada, condomínio com portaria vinte e quatro horas, sauna, piscina adulto e infantil, churrasqueiras, salão de festas, salão Gourmet, vaga de garagem coberta, vasto comércio, próximo à rua Dias da Cruz, além de transporte para qualquer região da cidade. Venha conferir de perto esse excelente negócio! Agende agora mesmo sua visita . -",
+        "title": "Apartamento com 3 dormitórios à venda, 78 m² por R$ 375.000,00 - Méier - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2751106958",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20735230",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.899,
+                "approximateLon": -43.287,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Paulo Silva Araújo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Meier",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Méier",
+            "poisList": [
+                "BS:232 - Lins x Praça XV",
+                "BS:Ponto Final: Linha 232",
+                "BS:679 - Méier x Grotão",
+                "BS:Ponto Final: Méier :: Linha 679",
+                "BS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. B",
+                "TS:232 - Lins x Praça XV",
+                "TS:Ponto Final: Linha 232",
+                "TS:Ponto Final: Méier :: Linha 679",
+                "TS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. B",
+                "TS:Constança Barbosa",
+                "CS:Dika do Méier",
+                "CS:TECNOMEDI MÉIER",
+                "CS:ortális",
+                "CS:Rainha do Méier",
+                "CS:Tuti Fruti",
+                "PH:Drogaria Mais Barato - Méier",
+                "PH:Drogaria Atração do Méier",
+                "PH:Drogaria Carioca",
+                "PH:Droh"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0394",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "78"
+        ],
+        "advertiserId": "5f627142-f9d6-88a1-0cf5-808bc76fd137",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "434",
+                "price": "375000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1346"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2125092458",
+                "21998222458"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21998222458",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "5f627142-f9d6-88a1-0cf5-808bc76fd137",
+        "name": "CLAP IMÓVEIS",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 394047,
+        "phones": {
+            "primary": "2125092458",
+            "mobile": "21998222458"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "a0f29f38c70cd231b0410647df1f8289",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a0f29f38c70cd231b0410647df1f8289/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "40ee0b6826b1fa1963d7a9cb52adf153",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40ee0b6826b1fa1963d7a9cb52adf153/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ee07a3890e6b2e386912a776bfb349e7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ee07a3890e6b2e386912a776bfb349e7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a3721efb8346970cb23332dae3ba735a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a3721efb8346970cb23332dae3ba735a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2072a9cacaeb457eefa05c5cff931f01",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2072a9cacaeb457eefa05c5cff931f01/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e9874453a018f087e36e8f42dd4a750a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e9874453a018f087e36e8f42dd4a750a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a352d74d2d0d9d7ffb7a96ccc0f3567b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a352d74d2d0d9d7ffb7a96ccc0f3567b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fbaf941ee9df339ad3e53dfd4dd21f24",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fbaf941ee9df339ad3e53dfd4dd21f24/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "37da493d822f4c4785b0600fad0102f5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/37da493d822f4c4785b0600fad0102f5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "49c0ec05040612f8cbd0baa0b22832f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/49c0ec05040612f8cbd0baa0b22832f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a0c4ddce6de65c4707e1b92fbe6d529",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a0c4ddce6de65c4707e1b92fbe6d529/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2a3333991cc15cbf3d87ee8c45f95efe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a3333991cc15cbf3d87ee8c45f95efe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "710b6b9d305d51c5a98d8bd936a04256",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/710b6b9d305d51c5a98d8bd936a04256/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "CLAP IMÓVEIS",
+        "href": "/394047/clap-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 78m²",
+        "href": "/imovel/apartamento-3-quartos-meier-zona-norte-rio-de-janeiro-com-garagem-78m2-venda-RS375000-id-2751106958/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Méier",
+            "state": "Rio de Janeiro",
+            "street": "Rua Paulo Silva Araújo",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

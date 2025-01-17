@@ -1,0 +1,268 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "HEATING",
+            "SEA_VIEW",
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "100"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua Almirante Alexandrino, no bairro Santa Teresa em Rio de Janeiro. Este imóvel conta com área construída de 100m², oferecendo 3 quartos, sendo 1 suíte, 2 banheiros e 1 vaga de garagem. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apartamento à venda em Santa Teresa com 100 m², 3",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2761463940",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20241260",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "2154",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.194351,
+                "source": "GOOGLE",
+                "lat": -22.929115
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Almirante Alexandrino",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Santa Teresa",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Santa Teresa",
+            "poisList": [
+                "BS:Rua das Laranjeiras, 336",
+                "BS:Rua Monte Alegre próximo ao 342",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "BS:Rua Cosme Velho, 433",
+                "BS:Ponto da Rua do Catumbi",
+                "TS:Largo do França",
+                "TS:Vista Alegre",
+                "TS:Rua das Laranjeiras, 336",
+                "TS:Rua Monte Alegre próximo ao 342",
+                "TS:Funicular RioArte",
+                "CS:Padaria da Chácara",
+                "CS:Mercearia Fuji",
+                "CS:Panificação Aliança",
+                "CS:Padaria do Raphael",
+                "CS:Cereal",
+                "PH:RIC",
+                "PH:Farmácia Pinheiro Machado",
+                "PH:Bioderme",
+                "PH:drogarias tambaú",
+                "PH:Viva Bem"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PUp3natp",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "100"
+        ],
+        "advertiserId": "da2563c4-12f0-3dc1-868f-7bb25cd3c2d6",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "100",
+                "price": "390000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1250"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21965821001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21965821001",
+        "stamps": []
+    },
+    "account": {
+        "id": "da2563c4-12f0-3dc1-868f-7bb25cd3c2d6",
+        "name": "IMOVELUM TIJUCA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5bea3a3ee0dd27e8541a75453fa1224e/{description}.webp",
+        "licenseNumber": "8951-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 73606,
+        "phones": {
+            "primary": "21965821001",
+            "mobile": "21965821001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "2c88aa407feaf3f36a678b1278cd799f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c88aa407feaf3f36a678b1278cd799f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "49cc1ebb012fb27fd62ed9d93b7cccde",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/49cc1ebb012fb27fd62ed9d93b7cccde/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d5a6025d3de9ee8e1b7bd5c876236dea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d5a6025d3de9ee8e1b7bd5c876236dea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a7e32af8cbd2cc020c4ca0f61b3c94b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a7e32af8cbd2cc020c4ca0f61b3c94b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "84e1fbc67e38aaff7b4f7533e2304cc7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/84e1fbc67e38aaff7b4f7533e2304cc7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c617226bbfa0951df381995d975488da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c617226bbfa0951df381995d975488da/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5b229fb894d464b127ee1145c185e80b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b229fb894d464b127ee1145c185e80b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a6e504d64051d02265f1152d32b4f09",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a6e504d64051d02265f1152d32b4f09/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d7d6e6cb33efce134f8bb34e702f5dd0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7d6e6cb33efce134f8bb34e702f5dd0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9651284b996f28139b72ef42dfdc8e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9651284b996f28139b72ef42dfdc8e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4db9aa6ed03c58384e60c43f66d31ad1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4db9aa6ed03c58384e60c43f66d31ad1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5b19db66fadadbb1e6d237570cb20bd0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b19db66fadadbb1e6d237570cb20bd0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e881a90b752e2a7445150f3fe6adbc23",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e881a90b752e2a7445150f3fe6adbc23/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6799a9974d2f33acf533ca9a87c19353",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6799a9974d2f33acf533ca9a87c19353/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6bcdade9e39707438e14c94419962eb8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6bcdade9e39707438e14c94419962eb8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f6625400f5a743de28a4555d9b294837",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f6625400f5a743de28a4555d9b294837/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5ce06d2801af1aea720c0fce1826fff9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5ce06d2801af1aea720c0fce1826fff9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "43c01f0492a860eb6c0c562f7ba87674",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/43c01f0492a860eb6c0c562f7ba87674/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a03f59b0db72a8d8c4872a4aaa1934d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a03f59b0db72a8d8c4872a4aaa1934d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "76d3d274704731a81e541a60d81551c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/76d3d274704731a81e541a60d81551c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "823bc45b9dc9ec68ecea001ba3bea073",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/823bc45b9dc9ec68ecea001ba3bea073/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ace242303e9ed0f1001ccee028b1bd81",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ace242303e9ed0f1001ccee028b1bd81/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0383fb7c499cb83291725efc74621312",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0383fb7c499cb83291725efc74621312/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6e0cf461b1cb81d86d6c0c49eca49d27",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6e0cf461b1cb81d86d6c0c49eca49d27/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "IMOVELUM TIJUCA",
+        "href": "/73606/imovelum-tijuca/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 100m²",
+        "href": "/imovel/apartamento-3-quartos-santa-teresa-zona-central-rio-de-janeiro-com-garagem-100m2-venda-RS390000-id-2761463940/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Santa Teresa",
+            "state": "Rio de Janeiro",
+            "street": "Rua Almirante Alexandrino",
+            "streetNumber": "2154",
+            "zone": "Zona Central"
+        }
+    }
+}

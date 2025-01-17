@@ -1,0 +1,313 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "CONCIERGE_24H",
+            "INTERNET_ACCESS",
+            "INTERCOM",
+            "CABLE_TV",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "243"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "APARTAMENTO NA QUADRA PRAIA NO LEBLON. Apartamento em excelente estado, cômodos amplos e com Vista Livre. Composto de 243m² no IPTU, planta circular, hall de entrada, sala ampla em três ambientes com janelões, original 4 (ampliação da suíte, fácil reversão), atualmente 3 quartos sendo uma suíte, lavabo, banheiro social, ampla copa-cozinha e planejada, ampla área de serviço, dependência completa de empregada (suíte), 2 vagas de garagem. Bom estado, claro, arejado e silencioso. Prédio bem administrado, porteiro 24 horas, sistema interno de Tv, ajardinado, 2 unidades por andar, 2 elevadores. Excelente localização a poucos passos da Praia, todo comércio e serviços na Região! Ligue e agende sua visita!<br>-Cod:LEAP40203 -Rev.11Dez",
+        "title": "Apartamento - / Residencial / Leblon",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2755180825",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22441130",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "125",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.22827,
+                "source": "GOOGLE",
+                "lat": -22.987834
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Praça Atahualpa",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Leblon",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "poisList": [
+                "BS:BRS 1 - Rita Ludolf",
+                "BS:Metrô - Estação Alto Leblon",
+                "BS:Ponto Final: Antero de Quental",
+                "BS:Ponto Final: Leblon :: Ônibus Executivos",
+                "BS:BRS 2,3 - Cupertino Durão",
+                "TS:Antero de Quental / Leblon",
+                "TS:Ponto Final: Antero de Quental",
+                "TS:General Urquiza",
+                "TS:Ponto Final: Leblon :: Ônibus Executivos",
+                "TS:Antero de Quental",
+                "CS:Rio Lisboa",
+                "CS:Talho Capixaba",
+                "CS:Patata",
+                "CS:am/pm",
+                "PH:Drogasmil"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "LEAP40203",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "243"
+        ],
+        "advertiserId": "6e032c3d-ad3e-c60a-b153-647fccdaac8e",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1536",
+                "price": "7900000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "5200"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21991167127",
+                "21968634429"
+            ]
+        },
+        "videoTourLink": "https://midas360.imb.br/visita_virtual/visita.php?i=MTkwMDM&b=MjExMw&t=8121d0702dd859409a088643afce1661",
+        "whatsappNumber": "21968634429",
+        "stamps": []
+    },
+    "account": {
+        "id": "6e032c3d-ad3e-c60a-b153-647fccdaac8e",
+        "name": "OKRE IMÓVEIS COPACABANA",
+        "licenseNumber": "09927-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 846171,
+        "phones": {
+            "primary": "21991167127",
+            "mobile": "21968634429"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "ada80d66f4ea89736d9874ecaff3f362",
+            "url": "https://www.youtube.com/watch?v=omboYKYpSaM",
+            "type": "VIDEO"
+        },
+        {
+            "id": "2366163ecc9a6d1b1942379896940b2c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2366163ecc9a6d1b1942379896940b2c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c7cb2902b76716d829e7a849658d71a8",
+            "url": "https://midas360.imb.br/visita_virtual/visita.php?i=MTkwMDM&b=MjExMw&t=8121d0702dd859409a088643afce1661",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "b11a5d347c478f69ff8e9a508a4bfb06",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b11a5d347c478f69ff8e9a508a4bfb06/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a7359ebcb0e757d5a7e2917184c9c482",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a7359ebcb0e757d5a7e2917184c9c482/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "256ca4af92b852d3d4e38cfdf7c2fd50",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/256ca4af92b852d3d4e38cfdf7c2fd50/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "66b36a12c3da95b1bfd4f7845a462d36",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/66b36a12c3da95b1bfd4f7845a462d36/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff3e2c86400fda33b91beef86e0e7962",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff3e2c86400fda33b91beef86e0e7962/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "687d94c285286e767ab51a25858020e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/687d94c285286e767ab51a25858020e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0be100942cfbf5b82c024697bce56038",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0be100942cfbf5b82c024697bce56038/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9f85ad2d1f33f86f61a83420fac58939",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9f85ad2d1f33f86f61a83420fac58939/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "676d426114240dae93e51204c10cc5bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/676d426114240dae93e51204c10cc5bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "605c661afd51c9e54a360f3dd3de2bf0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/605c661afd51c9e54a360f3dd3de2bf0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "553e76ee7bbc3a7225ade4450250c9c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/553e76ee7bbc3a7225ade4450250c9c7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "55e1b2fc6b922a519558a8734468eea3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/55e1b2fc6b922a519558a8734468eea3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "497bd6bcf97a9a4af1b70a93333aa08f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/497bd6bcf97a9a4af1b70a93333aa08f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e138b3d4ac03f2b8f8aaf1a26932ad6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e138b3d4ac03f2b8f8aaf1a26932ad6e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "74cfcb2a9d9112e288b365755efc10b7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/74cfcb2a9d9112e288b365755efc10b7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "983601d3605f2dd273086098eca2ab21",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/983601d3605f2dd273086098eca2ab21/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6ffad4b2e822a19e491cc2cb1994bfcc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ffad4b2e822a19e491cc2cb1994bfcc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81044f16728c4b78fc613f54b2268fd0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81044f16728c4b78fc613f54b2268fd0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e2a760364118c526ad076ee2a98a0889",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e2a760364118c526ad076ee2a98a0889/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9019d565d2db5b95dfd0b8f959f94521",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9019d565d2db5b95dfd0b8f959f94521/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa27f8c016ade6ea326b345a8c2a1ce8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa27f8c016ade6ea326b345a8c2a1ce8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1c8cfde5a46dcb8c951fcb2bb6df481",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1c8cfde5a46dcb8c951fcb2bb6df481/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9118c1673da6f6ecbaa9d7dbad7ccbf2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9118c1673da6f6ecbaa9d7dbad7ccbf2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0312690b69a12c050f9c594cee8a875b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0312690b69a12c050f9c594cee8a875b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f1390371955fc83241cc00f510efde26",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f1390371955fc83241cc00f510efde26/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0a6c4fd32330090e87e71ef38aaa85c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0a6c4fd32330090e87e71ef38aaa85c7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "32de3cd22ecbbed66580e485dfc6743d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/32de3cd22ecbbed66580e485dfc6743d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "45f80d592b353089d65b40751b10b79a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/45f80d592b353089d65b40751b10b79a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "90d911e222502649e113b17669680776",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/90d911e222502649e113b17669680776/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "54c852e8c7af98d1adb849e0af423989",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/54c852e8c7af98d1adb849e0af423989/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "OKRE IMÓVEIS COPACABANA",
+        "href": "/846171/okre-imoveis-copacabana/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 243m²",
+        "href": "/imovel/apartamento-4-quartos-leblon-zona-sul-rio-de-janeiro-com-garagem-243m2-venda-RS7900000-id-2755180825/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "state": "Rio de Janeiro",
+            "street": "Praça Atahualpa",
+            "streetNumber": "125",
+            "zone": "Zona Sul"
+        }
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GARAGE",
+            "SERVICE_AREA",
+            "BUILTIN_WARDROBE",
+            "KITCHEN_CABINETS",
+            "KITCHEN",
+            "PANTRY",
+            "LAUNDRY",
+            "DINNER_ROOM",
+            "COPA",
+            "EMPLOYEE_DEPENDENCY",
+            "LUNCH_ROOM"
+        ],
+        "usableAreas": [
+            "132"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Tijuca | Sala, 3 Quartos, Mobiliado, 132m , Em frente ao Batalhão da PE<br>Ao lado do Metrô Saens Peña e do Shopping Tijuca.<br>Portaria 24 horas<br>Dois apartamentos por andar.<br>Uma vaga de garagem na Escritura.<br>Vista indevassável de todos os quartos e sala.<br>Área de lavanderia.<br>Dependência de empregada.<br>Eliana WhatsApp <br>Chaves na mão!.<br>Ligue já!<br><br>Características do imóvel<br>Área de serviço<br>Armário de Cozinha<br>Armário embutido<br>Copa<br>Cozinha<br>Dependência de empregados<br>Despensa<br>Lavanderia<br>Sala de almoço<br>Sala de estar<br>Sala de jantar<br>Sala de TV<br>WC de empregados",
+        "title": "Tijuca| Vendo Apto 3 Quartos ao Lado do Metrô Saens Peña e Shopping Tijuca",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2671479295",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20511240",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.925,
+                "approximateLon": -43.234,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Pinto de Figueiredo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Ponto Final: Saens Peña :: Linha 639",
+                "BS:Ponto Final: Saens Peña",
+                "BS:Saens Peña :: Integração Metrô",
+                "BS:Ponto Final: Saens Peña :: Linha 665",
+                "BS:Doutor Aníbal Moreira",
+                "TS:Doutor Pereira dos Santos",
+                "TS:General Roca",
+                "TS:Praça Castilho França",
+                "TS:Praça Saens Peña",
+                "TS:Saens Peña",
+                "CS:Lojas Bandeirantes",
+                "CS:TECNOMEDI TIJUCA",
+                "CS:Pão & Companhia",
+                "CS:Jinlong",
+                "CS:Flor da Tijuca",
+                "PH:Drograria Venâncio",
+                "PH:Drogaria Venancio",
+                "PH:Drogaria Unidas",
+                "PH:FarmaDez",
+                "PH:Drogaria Pedro Ernesto"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "245",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "132"
+        ],
+        "advertiserId": "3bb1c635-b033-1fe9-d9e8-c1c088970253",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "price": "849000",
+                "businessType": "SALE"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21995333131",
+                "21970159598"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21970159598",
+        "stamps": []
+    },
+    "account": {
+        "id": "3bb1c635-b033-1fe9-d9e8-c1c088970253",
+        "name": "Pier Imóveis",
+        "licenseNumber": "044505-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 75909,
+        "phones": {
+            "primary": "21995333131",
+            "mobile": "21970159598"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "b0d92fa795279f24e2185f2e05c42889",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b0d92fa795279f24e2185f2e05c42889/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "963b3aa1f96d85f2402fb98dcfffa29d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/963b3aa1f96d85f2402fb98dcfffa29d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36aa6215fabb6608f578b124c38cdf1c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36aa6215fabb6608f578b124c38cdf1c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "134c7a74855f4418ade7c62b36a66412",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/134c7a74855f4418ade7c62b36a66412/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "64865b875d5fd78ac60314049962bba5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/64865b875d5fd78ac60314049962bba5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ddd3990c7bfd54dfe113d366f11554a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ddd3990c7bfd54dfe113d366f11554a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f4deda038d46d665f62352ea9058a238",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f4deda038d46d665f62352ea9058a238/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7cf158770d4cc1075115729d24c6947",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7cf158770d4cc1075115729d24c6947/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5c00be0cce16353de94eb845770f8dec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5c00be0cce16353de94eb845770f8dec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a2220132e8b9df0b8762813607f72dee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a2220132e8b9df0b8762813607f72dee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "91a9d1ea51be95209aa99bdf2c00e8eb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/91a9d1ea51be95209aa99bdf2c00e8eb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e7f5f254a0ef142c96c398be8ac1479",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e7f5f254a0ef142c96c398be8ac1479/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ae82be1c8d93d750d471f71d90df43a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae82be1c8d93d750d471f71d90df43a5/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Pier Imóveis",
+        "href": "/75909/pier-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 132m²",
+        "href": "/imovel/apartamento-3-quartos-tijuca-zona-norte-rio-de-janeiro-com-garagem-132m2-venda-RS849000-id-2671479295/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Pinto de Figueiredo",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

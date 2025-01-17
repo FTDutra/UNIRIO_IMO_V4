@@ -1,0 +1,324 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING"
+        ],
+        "usableAreas": [
+            "197"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento com vistão Lagoa, em frente ao clube Piraquê. 167(iptu), 195m2 metragem real. Salão em 3 ambientes(65m2), hall social, lavabo, 4 quartos(sendo 1 suite e um está aberto para uso de sala de tv. Fácil reversão para o original), banheiro social, copa-cozinha planejada, área de serviço e dependências completas. Armários planejados e ar condicionado split nos ambientes. Possui 1 quarto box(8 m2) privativo no play. 2 vagas de garagem na escritura. Prédio com portaria 24h, play e salão de festas. 2 aptos por andar.",
+        "title": "4 Quartos 2 Vagas",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2742831562",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22470002",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "2385",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.217334,
+                "source": "GOOGLE",
+                "lat": -22.966827
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Borges de Medeiros",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Lagoa",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Lagoa",
+            "poisList": [
+                "BS:Jardim Botânico",
+                "BS:Hospital da Lagoa",
+                "BS:Baixo Gávea",
+                "BS:Maria Angélica",
+                "BS:Ponto Final: CIEP Nação Rubro Negra",
+                "TS:Hospital da Lagoa",
+                "TS:Maria Angélica",
+                "TS:Ponto Final: CIEP Nação Rubro Negra",
+                "TS:Nossa Senhora Auxiliadora",
+                "TS:Ponto Final: Afrânio de Melo Franco I",
+                "CS:Vitória Régia",
+                "CS:La Bicyclette",
+                "CS:Panificação Século XX",
+                "CS:Toquinha da Globo",
+                "CS:Bastarda",
+                "PH:Padrão",
+                "PH:Ric"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "EP229999",
+        "bathrooms": [
+            5
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "197"
+        ],
+        "advertiserId": "ae822045-d474-f0d3-2739-5e0a5324f559",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "4300",
+                "price": "4500000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "10000"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21995150838"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21995150838",
+        "stamps": []
+    },
+    "account": {
+        "id": "ae822045-d474-f0d3-2739-5e0a5324f559",
+        "name": "SA - ADM.COM.BR",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/93483a31cf8e5392d7feeb84fa86de35/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 568158,
+        "phones": {
+            "primary": "21995150838",
+            "mobile": "21995150838"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "85c138b17dc3a74b57c4abf69f8c874a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/85c138b17dc3a74b57c4abf69f8c874a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a50ca0b840737ef2efff93571d3f2c9",
+            "url": "https://youtu.be/xoT1MjqLID4?si=S2QvworKpNsp-iYA",
+            "type": "VIDEO"
+        },
+        {
+            "id": "5f204a91c1c3895c8da35647926337ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f204a91c1c3895c8da35647926337ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b889ede1d71d6f04d82a527828e48fda",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b889ede1d71d6f04d82a527828e48fda/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7130b7087e8d6a432f0e3e73e36c9363",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7130b7087e8d6a432f0e3e73e36c9363/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "14c79cba0469780903acc05b00be71d0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/14c79cba0469780903acc05b00be71d0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dfaac84674700e6227dfec438dac28d8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dfaac84674700e6227dfec438dac28d8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd59b37b5a0331747d6407255d2222bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd59b37b5a0331747d6407255d2222bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c7df65abd27ca7233353181982f7b9a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c7df65abd27ca7233353181982f7b9a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a9b6ecac9b7177b2d849fcc4ad0f4e40",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a9b6ecac9b7177b2d849fcc4ad0f4e40/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9f6ee48e77e418d5226aa28a887e153a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9f6ee48e77e418d5226aa28a887e153a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e2106476ad9443c75e0627d1dcda8ca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e2106476ad9443c75e0627d1dcda8ca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e404c834e801adcab4b1adb3c6ec0211",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e404c834e801adcab4b1adb3c6ec0211/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "44c3ffc55f86c110e342acc763af07a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/44c3ffc55f86c110e342acc763af07a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "08937ed21da185a8b4ae44cedbe3dd12",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/08937ed21da185a8b4ae44cedbe3dd12/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "562b04d025342be94cb7d8e9692c4120",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/562b04d025342be94cb7d8e9692c4120/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7defe6bc67edf8d99eeefdb546b278d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7defe6bc67edf8d99eeefdb546b278d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3e8fec1506422e396f1a82660f1d2fc2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3e8fec1506422e396f1a82660f1d2fc2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f8a6d50181819eb5e9339cfd1ca6bc7f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f8a6d50181819eb5e9339cfd1ca6bc7f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bf44406badbba4ded23bc5a3ce803643",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bf44406badbba4ded23bc5a3ce803643/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c4856d0ccab0c43f2261f609e4811db3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c4856d0ccab0c43f2261f609e4811db3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5868d81c21f59a3c1b13e4a80cf3aace",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5868d81c21f59a3c1b13e4a80cf3aace/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "89f392c1e28ab44007af44adc923348d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/89f392c1e28ab44007af44adc923348d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "64a71b4f9138aa6459873463548297fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/64a71b4f9138aa6459873463548297fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7183df5e84f532f21c0c183a527005f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7183df5e84f532f21c0c183a527005f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d4269deecb96d4b6f53554ea7f67829c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d4269deecb96d4b6f53554ea7f67829c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c4008931791e62bf7bcf6ac40dceedb3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c4008931791e62bf7bcf6ac40dceedb3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "306210108a497bd7ff823e954071d0a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/306210108a497bd7ff823e954071d0a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f8554b86b01cb1f2e0f20d47c8c141a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f8554b86b01cb1f2e0f20d47c8c141a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0e3715f1cc2cd9bca96c09c1ee85ad30",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0e3715f1cc2cd9bca96c09c1ee85ad30/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3e0561571b356f4d32159651d1eff2a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3e0561571b356f4d32159651d1eff2a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6836cd631ae57bcd7132023501479a07",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6836cd631ae57bcd7132023501479a07/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5886c053d5b9db355aee4227e23d17b6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5886c053d5b9db355aee4227e23d17b6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ffc3e3d05c9872cfaedd711b7ff52e75",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ffc3e3d05c9872cfaedd711b7ff52e75/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81a8812b0904e74d5849732c2b5b31b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81a8812b0904e74d5849732c2b5b31b5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "82eff4d10f49ccc44a453b0024951326",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82eff4d10f49ccc44a453b0024951326/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SA - ADM.COM.BR",
+        "href": "/568158/sa-adm-com-br/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 197m²",
+        "href": "/imovel/apartamento-4-quartos-lagoa-zona-sul-rio-de-janeiro-com-garagem-197m2-venda-RS4500000-id-2742831562/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Lagoa",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Borges de Medeiros",
+            "streetNumber": "2385",
+            "zone": "Zona Sul"
+        }
+    }
+}

@@ -1,0 +1,279 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "BUILTIN_WARDROBE",
+            "CLOSET",
+            "KITCHEN",
+            "HEATING"
+        ],
+        "usableAreas": [
+            "62"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento em Botafogo com 62m², reformado, 2 quartos, armários embutidos, cozinha com área de serviço e dependência de empregada, banheiro de empregada, além de vista para o Cristo Redentor.",
+        "title": "Apartamento para venda com 2 quartos, 62m² - Botafogo - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2744509897",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22260009",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.949,
+                "approximateLon": -43.189,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua São Clemente",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Botafogo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:BRS 3: Sorocaba",
+                "BS:Cobal",
+                "BS:Cobal do Humaitá",
+                "BS:Integrada 9",
+                "BS:Ponto Final: Rio Sul :: Barra, Recreio e Vargem Grande",
+                "TS:Acesso São Clemente/Humaitá",
+                "TS:Acesso Muniz Barreto/Botafogo Praia Shopping",
+                "TS:Acesso Voluntários",
+                "TS:Botafogo",
+                "TS:Botafogo / Coca-Cola",
+                "CS:Latteria Bloise",
+                "CS:Degustare",
+                "CS:Panificação Voluntários",
+                "CS:Le Dépanneur Delicatessen",
+                "CS:Casa Imperial",
+                "PH:Bio Mundo",
+                "PH:Poubel",
+                "PH:Farmacopa",
+                "PH:Farma Nature",
+                "PH:Caminhoá"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "12014274",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "62"
+        ],
+        "advertiserId": "9361e2a8-8358-902e-2af3-79f61d9e2634",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "227",
+                "price": "920000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1200"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21999818130"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21999818130",
+        "stamps": []
+    },
+    "account": {
+        "id": "9361e2a8-8358-902e-2af3-79f61d9e2634",
+        "name": "HOMEHUB Enseada",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3879c0a7ec44a4d25727188da20a3e57/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 672434,
+        "phones": {
+            "primary": "21999818130",
+            "mobile": "21999818130"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "e44975fdeaf0a39b89d639a7042e2330",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e44975fdeaf0a39b89d639a7042e2330/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c549bffff49818e7a82e9f30ff228bec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c549bffff49818e7a82e9f30ff228bec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3931f5a6dd9d4203691cf673fce8148c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3931f5a6dd9d4203691cf673fce8148c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "569c2678e6e4e07b2842009d17915eca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/569c2678e6e4e07b2842009d17915eca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e6388fa713dd569874092b47c1a393a7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e6388fa713dd569874092b47c1a393a7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e72d89a7a222dea00b23a191358fcc48",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e72d89a7a222dea00b23a191358fcc48/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e0efc2ddb81a26bdbc36c3046da55c27",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e0efc2ddb81a26bdbc36c3046da55c27/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ba4eb94ad953891f77c4a66d5d3705e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ba4eb94ad953891f77c4a66d5d3705e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5ec2579906cc22a8d5ff94c98acf5021",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5ec2579906cc22a8d5ff94c98acf5021/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1be8cff8a5cb95df2bb82e8c4eaa2cca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1be8cff8a5cb95df2bb82e8c4eaa2cca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0a97218f67d569d184c4809e4513b3c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0a97218f67d569d184c4809e4513b3c7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e805c63f3701f535dcc85e23d937d0c8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e805c63f3701f535dcc85e23d937d0c8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "80fdca22f0b24a11a646e1dbcdca17cd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/80fdca22f0b24a11a646e1dbcdca17cd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "148b36a978bb394e5782bd7065bb1a04",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/148b36a978bb394e5782bd7065bb1a04/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e4ea1186050a5f1f47a5e9a7be3326b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e4ea1186050a5f1f47a5e9a7be3326b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0d643dfc0d022969e915f44df8d6f860",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0d643dfc0d022969e915f44df8d6f860/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1928b5c62335af049109f91741310a9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1928b5c62335af049109f91741310a9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "46fb41b73589c36e72b1a74e5bcfdb20",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/46fb41b73589c36e72b1a74e5bcfdb20/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5dfcae9036bdaeb094daec93bc9c3941",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5dfcae9036bdaeb094daec93bc9c3941/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0c8392c03e7ed877748c1006b3a78329",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0c8392c03e7ed877748c1006b3a78329/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "08a7f4815ce4b2ebd3a1e3136f84a8ec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/08a7f4815ce4b2ebd3a1e3136f84a8ec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9eb3ccf176f0aee72f6dc1e5585f42fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9eb3ccf176f0aee72f6dc1e5585f42fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c7c64f28fee082334f620caa4fa93582",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c7c64f28fee082334f620caa4fa93582/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8b032cd66eb2b69535d04eda8963d367",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8b032cd66eb2b69535d04eda8963d367/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fc1ed7f05473e157a1da44ef2ce6c44a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fc1ed7f05473e157a1da44ef2ce6c44a/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "HOMEHUB Enseada",
+        "href": "/672434/homehub-enseada/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 62m²",
+        "href": "/imovel/apartamento-2-quartos-botafogo-zona-sul-rio-de-janeiro-62m2-venda-RS920000-id-2744509897/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "state": "Rio de Janeiro",
+            "street": "Rua São Clemente",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

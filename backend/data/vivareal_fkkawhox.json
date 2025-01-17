@@ -1,0 +1,243 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "INTERNET_ACCESS",
+            "INTERCOM",
+            "DISABLED_ACCESS",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "29"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Ótimo apartamento conjugado todo reformado, excelente estado com banheiro e cozinha, piso frio, frente, sol da manhã, vista livre. <br><br>O kitnet/conjugado no bairro Centro com 29 metros quadrados com 1 quarto e 1 banheiroElevador para mais praticidade no dia-a-dia.<br>Fica em um condomínio fechado.",
+        "title": "Kitnet/conjugado para venda com 1 quarto em Centro - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [
+            "KITNET"
+        ],
+        "id": "2677292793",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20230025",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "51",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.187671,
+                "source": "GOOGLE",
+                "lat": -22.912968
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Rua Washington Luís",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:Ponto Final: Cruz Vermelha",
+                "BS:P28",
+                "BS:BRS 1,2,4 Inválidos",
+                "BS:BRS 5: Praça da República",
+                "BS:BRS 4: Praça da República",
+                "TS:Ponto Final: Cruz Vermelha",
+                "TS:P28",
+                "TS:BRS 1,2,4 Inválidos",
+                "TS:BRS 5: Praça da República",
+                "TS:BRS 4: Praça da República",
+                "CS:Artes Integrais",
+                "CS:Café Bakery",
+                "CS:ArmaZen",
+                "CS:Mercearia Gabi",
+                "CS:Cris",
+                "PH:Exata",
+                "PH:Drogaria Exata",
+                "PH:Viva Bem",
+                "PH:City Farma",
+                "PH:Drogaria Rey"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "CTKI10228",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "29"
+        ],
+        "advertiserId": "c6ec0ba0-66be-2768-a4a5-0d622961e39a",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "190000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "357"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21975441609"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21975441609",
+        "stamps": []
+    },
+    "account": {
+        "id": "c6ec0ba0-66be-2768-a4a5-0d622961e39a",
+        "name": "Nelson Junior",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 802672,
+        "phones": {
+            "primary": "21975441609",
+            "mobile": "21975441609"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "973533c1787939e881b37423cfd64907",
+            "url": "https://www.youtube.com/watch?v=uq9rBiILOu4",
+            "type": "VIDEO"
+        },
+        {
+            "id": "d82cb8981eaf3caa56bf0b0a4fd3610d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d82cb8981eaf3caa56bf0b0a4fd3610d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "93fc6e609db0e5692a4224038d6b41f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/93fc6e609db0e5692a4224038d6b41f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc88eec567d1b5ec1beec60fa474d4fc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc88eec567d1b5ec1beec60fa474d4fc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f64a093ca794807b9ad16ed38f2659ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f64a093ca794807b9ad16ed38f2659ff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e551e3c3ed7ea6a8d854427d8ee24875",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e551e3c3ed7ea6a8d854427d8ee24875/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e3bf848d452dbd688224942bea5914d2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e3bf848d452dbd688224942bea5914d2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "132784f2f8449d63c4f0fa222532c45a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/132784f2f8449d63c4f0fa222532c45a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65c069aa2f8c253b346d7a1bf73855f2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65c069aa2f8c253b346d7a1bf73855f2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3d68db4f2db7a1b02b9f33514fef47ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3d68db4f2db7a1b02b9f33514fef47ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f67726199ff6b8eb4fbf29155487fe8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f67726199ff6b8eb4fbf29155487fe8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f27f88aae1e968653d144a7ddb356621",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f27f88aae1e968653d144a7ddb356621/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f6d7bf7bc2317918c80d736692e9b090",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f6d7bf7bc2317918c80d736692e9b090/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a8652a52539b61d79d11ddab0b6b72e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a8652a52539b61d79d11ddab0b6b72e3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "db81e039b35132b35fee626bec1b3b39",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/db81e039b35132b35fee626bec1b3b39/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65c539a7892dd3f943961cd3cb66e6d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65c539a7892dd3f943961cd3cb66e6d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4b0408c55feed61c7e944228a538a05",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4b0408c55feed61c7e944228a538a05/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e083c033c24cea066615206f7872d803",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e083c033c24cea066615206f7872d803/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Nelson Junior",
+        "href": "/802672/nelson-junior/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Kitnet com 1 Quarto à venda, 29m²",
+        "href": "/imovel/kitnet-1-quartos-centro-zona-central-rio-de-janeiro-29m2-venda-RS190000-id-2677292793/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Rua Washington Luís",
+            "streetNumber": "51",
+            "zone": "Zona Central"
+        }
+    }
+}

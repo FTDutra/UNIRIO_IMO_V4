@@ -1,0 +1,283 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "KITCHEN",
+            "NEAR_SHOPPING_CENTER",
+            "NEAR_SCHOOL",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "45"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento para Venda no bairro Guaratiba, localizado na cidade de Rio de Janeiro / RJ <br> Composto de: 2 dormitórios, sala, cozinha, banheiro, área de serviço e vaga de garagem. <br> Valor do Imóvel R$ 230.000,00. <br> <br> Proximidades: Bares e Restaurantes, Escola, Farmácia, Shopping Center, Supermercado. <br> Excelente localização, no centro da Pedra de Guaratiba. <br> <br> Agende sua visita agora mesmo!!!",
+        "title": "Apartamento para Venda em Rio de Janeiro, Guaratiba, 2 dormitórios, 1 banheiro, 1 vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2711336328",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "23025110",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "295",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.630914,
+                "source": "GOOGLE",
+                "lat": -22.999966
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Soldado Eliseu Hipólito",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Guaratiba",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Guaratiba",
+            "poisList": [
+                "PH:Max",
+                "PH:Drogaria Art Farma",
+                "SU:Ciep Heitor dos Prazeres",
+                "SU:Escola Municipal Professora Elisa Joaquina Daltro Peixoto",
+                "SU:Escola Municipal Rivadávia Manoel Pinto",
+                "SU:Escola Municipal Professora Myrthes Wenzel",
+                "SU:Creche Municipal Sempre Vida Colônia dos Pescadores",
+                "CH:Centro Municipal de Saúde Alvimar de Carvalho",
+                "SC:Nova Matriz Auto Peças",
+                "SC:Crismar Auto Center",
+                "SC:Studio Esther Campos",
+                "SC:Marinho Material de Construção",
+                "SC:Super Compras"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "WJ-371_2-2922925",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "45"
+        ],
+        "advertiserId": "94cecb92-23b1-e61f-c02e-e00978f5fbf8",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "230000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2133779260",
+                "21990533351"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21990533351",
+        "stamps": []
+    },
+    "account": {
+        "id": "94cecb92-23b1-e61f-c02e-e00978f5fbf8",
+        "name": "IMOBILIARIA VENETILLO LTDA - ME",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/941039f1b7ec791c6c4ec5bd19b71dff/{description}.webp",
+        "licenseNumber": "040783-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 126356,
+        "phones": {
+            "primary": "2133779260",
+            "mobile": "21990533351"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "5be2db311beb33990e66e79f353e9f2b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5be2db311beb33990e66e79f353e9f2b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b45adc542aade56d7f503437465d2cbf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b45adc542aade56d7f503437465d2cbf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a890bf5fdb24e20f078f8360f844678a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a890bf5fdb24e20f078f8360f844678a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b00e89caf2391ec02f33bc19befe2ef4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b00e89caf2391ec02f33bc19befe2ef4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a81f625aacfae5f859cd39c893916f3d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a81f625aacfae5f859cd39c893916f3d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cae467e682a5a98002123ba5fcbc0782",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cae467e682a5a98002123ba5fcbc0782/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "95e47241a273a88474a99dca34a62675",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/95e47241a273a88474a99dca34a62675/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e71b98a8552145823203d650c088bc38",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e71b98a8552145823203d650c088bc38/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c03dfac8baa7370d306b367180d208f3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c03dfac8baa7370d306b367180d208f3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e7083d0154e6b11ba561d981b2fd7a42",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e7083d0154e6b11ba561d981b2fd7a42/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "867d487fc72b8f5165029ce65df26b76",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/867d487fc72b8f5165029ce65df26b76/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "382908c6cce588bc3fc60516b5fc5507",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/382908c6cce588bc3fc60516b5fc5507/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "726af4acbbcb6575eed6ce363ebf4632",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/726af4acbbcb6575eed6ce363ebf4632/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0032c7726aa00c99f221353bbbec6069",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0032c7726aa00c99f221353bbbec6069/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86b1bb532c835685a45584429334bdf4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86b1bb532c835685a45584429334bdf4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8476c1c662003e3c8a1ef646cc1702b1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8476c1c662003e3c8a1ef646cc1702b1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1103e960f662d2b337cdddd93672d1ca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1103e960f662d2b337cdddd93672d1ca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86dea01a0181a161cbc6810c68cb6b70",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86dea01a0181a161cbc6810c68cb6b70/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb7741151055d0952d1ee9ad53863fdc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb7741151055d0952d1ee9ad53863fdc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38cb745523e0041bdc2c5dff42a5a488",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38cb745523e0041bdc2c5dff42a5a488/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b7b43760125c6a3ffa77c547fae18a66",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b7b43760125c6a3ffa77c547fae18a66/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5d4e441fcdea04f502889225c312fe6c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5d4e441fcdea04f502889225c312fe6c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "869706bb21f57ad7d25482c66b2f5b93",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/869706bb21f57ad7d25482c66b2f5b93/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "40687250db3df0504ca4a5b0370b0c29",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40687250db3df0504ca4a5b0370b0c29/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4b7ecce256a159a382a29a5045de2e54",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b7ecce256a159a382a29a5045de2e54/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d839d6b097ddfadf8ed5db1de4878edd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d839d6b097ddfadf8ed5db1de4878edd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d4a5dcacfbb7dc4fc766f171500d517e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d4a5dcacfbb7dc4fc766f171500d517e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9313f9270883c5e5134bb343dcab764f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9313f9270883c5e5134bb343dcab764f/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "IMOBILIARIA VENETILLO LTDA - ME",
+        "href": "/126356/imobiliaria-venetillo-ltda-me/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 45m²",
+        "href": "/imovel/apartamento-2-quartos-guaratiba-zona-oeste-rio-de-janeiro-com-garagem-45m2-venda-RS230000-id-2711336328/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Guaratiba",
+            "state": "Rio de Janeiro",
+            "street": "Rua Soldado Eliseu Hipólito",
+            "streetNumber": "295",
+            "zone": "Zona Oeste"
+        }
+    }
+}

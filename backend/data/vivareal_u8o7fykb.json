@@ -1,0 +1,264 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "SAFETY_CIRCUIT",
+            "ELEVATOR",
+            "LARGE_WINDOW",
+            "INTEGRATED_ENVIRONMENTS",
+            "SERVICE_AREA"
+        ],
+        "usableAreas": [
+            "110"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Maravilhosa localização no coração da Lapa, pertinho de tudo, ao lado da rua do Lavradio, bem colado aos Arcos da Lapa, todos os comércios muito perto. Apartamento reformado pronto para entrar e morar. Composto de: Sala, três dormitórios, 1 banheiro social, cozinha, área de serviço e um banheiro de empregada. Prédio com portaria 24 horas. O preço do imóvel está sujeito a mudança conforme solicitação do proprietário. 2dcf6",
+        "title": "Centro | Apartamento 3 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2753412800",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20230014",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.913,
+                "approximateLon": -43.181,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Rua Riachuelo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:Passeio :: Linha 517",
+                "BS:Ponto Final: Terminal Jamil Amiden: Ônibus Executivos :: Zona Oeste",
+                "BS:BRS 1,2,4 Inválidos",
+                "BS:Ponto Regulador: Linha 247",
+                "BS:P28",
+                "TS:Francisco Muratori",
+                "TS:Portinha",
+                "TS:Passeio :: Linha 517",
+                "TS:Ponto Final: Terminal Jamil Amiden: Ônibus Executivos :: Zona Oeste",
+                "TS:BRS 1,2,4 Inválidos",
+                "CS:Mercearia Rainha da Pipoca",
+                "CS:Fábrica de Bolo - vó Alzira",
+                "CS:Lojas Americanas - Express",
+                "CS:Mercearia Gabi",
+                "CS:Seu Zé",
+                "PH:DrogaLife",
+                "PH:Drogaria Brilhante",
+                "PH:Drogaria Guanabara",
+                "PH:City Farma",
+                "PH:Exata"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "SP3AP77688",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "110"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1820",
+                "price": "660000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "800"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "47891ce24a91ccd6cb697b9194344e65",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/47891ce24a91ccd6cb697b9194344e65/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c524220b16e3bde2c6f0d9cc68059046",
+            "url": "https://www.youtube.com/watch?v=KyH6se6BJ68",
+            "type": "VIDEO"
+        },
+        {
+            "id": "76d5e8426f4aa98ca6fc8f8652d74e5b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/76d5e8426f4aa98ca6fc8f8652d74e5b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "96207f4fa2a51538afbb23b0f5ee3597",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/96207f4fa2a51538afbb23b0f5ee3597/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "39465f46a2f09c0ddb3afe1540568076",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39465f46a2f09c0ddb3afe1540568076/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca95463a22a04ef03fd22a3ba010783d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca95463a22a04ef03fd22a3ba010783d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "115dd9651d525610a7f297ef669d86b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/115dd9651d525610a7f297ef669d86b5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9187a79197cfaa38d1c4879fcb3aa998",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9187a79197cfaa38d1c4879fcb3aa998/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42468ae757d0a266c2758c812679c69d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42468ae757d0a266c2758c812679c69d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65cce49213523bb96ec3256ea9cf3b6a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65cce49213523bb96ec3256ea9cf3b6a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bdee856586bb87533eff0171f0ea7bba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bdee856586bb87533eff0171f0ea7bba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bf0137f98e80fc9b859d9f481880ca0f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bf0137f98e80fc9b859d9f481880ca0f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ba25de0be5ad6fad0aa90aa7af5e447c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ba25de0be5ad6fad0aa90aa7af5e447c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca1d5335bd639d317189150b4d5465d0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca1d5335bd639d317189150b4d5465d0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "30500a9ac497910b51daaae1aa292110",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30500a9ac497910b51daaae1aa292110/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "535c15186223500de7b64b168db59f64",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/535c15186223500de7b64b168db59f64/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e373f14611c9491b9d624bcb11e34a12",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e373f14611c9491b9d624bcb11e34a12/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cbf6f9adb7da35bdb5157caa4829d8c6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cbf6f9adb7da35bdb5157caa4829d8c6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6b23cc19624efbc33a3eb513da1bcd5f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6b23cc19624efbc33a3eb513da1bcd5f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d459070cc397d29039e4bf6a51ccf47f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d459070cc397d29039e4bf6a51ccf47f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ea81fd36e1735723a4fd7ac40007c59c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ea81fd36e1735723a4fd7ac40007c59c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c439633d31a3314555e2bec096f28aa3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c439633d31a3314555e2bec096f28aa3/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 110m²",
+        "href": "/imovel/apartamento-3-quartos-centro-zona-central-rio-de-janeiro-110m2-venda-RS660000-id-2753412800/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Rua Riachuelo",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

@@ -1,0 +1,244 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "BALCONY",
+            "GARAGE",
+            "POOL"
+        ],
+        "usableAreas": [
+            "51"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento na Barra da Tijuca! 1 quarto, sala, varanda, imóvel todo moderno. Vista lateral incrível pro mar da Praia do Pepê, área de lazer com piscina e paisagem paradisíaca. Sol da manhã e vaga na escritura. Pronto para entrar e morar!",
+        "title": "Privilégio Imóveis vende!",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2739446018",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22620171",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.014,
+                "approximateLon": -43.309,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Pepe",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:Avenida Vítor Konder próximo ao 225-243",
+                "TS:Jardim Oceânico - Acesso Mar",
+                "TS:Jardim Oceânico / Barra da Tijuca",
+                "TS:Jardim Oceânico",
+                "TS:Jardim Oceânico - Acesso BRT",
+                "TS:Jardim Oceânico - Acesso Lagoa",
+                "CS:O Boi Que Ri",
+                "CS:Amendoeira II",
+                "CS:Mini Market Gigoia",
+                "CS:Sabor da Bahia",
+                "CS:Concha Doce",
+                "PH:Drogas Rio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "68858",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "51"
+        ],
+        "advertiserId": "e5066af4-d2c1-25f1-b7b6-602ae1eb77c5",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3829",
+                "price": "1100000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1700"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "e5066af4-d2c1-25f1-b7b6-602ae1eb77c5",
+        "name": "Privilegio Imóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd4ec5a48ebc8112aa08275df64ed4ef/{description}.webp",
+        "licenseNumber": "06645-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 70655,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "2135072001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "c16a8f0b2e87741a409c6e141c13ad20",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c16a8f0b2e87741a409c6e141c13ad20/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6051d8e79dd9037c9d4528454939ea9a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6051d8e79dd9037c9d4528454939ea9a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e4470f744613eea789513e77b5810b91",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e4470f744613eea789513e77b5810b91/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "19f4191349ce28ca26d7921e0a9dc62e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/19f4191349ce28ca26d7921e0a9dc62e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ac12eeb14346348c1434be7e54fe8d6d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ac12eeb14346348c1434be7e54fe8d6d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1b3106dbd9db5a37fd5b4aa218fc36a1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1b3106dbd9db5a37fd5b4aa218fc36a1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "212609bb6b0d05bf2c35b989dab92052",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/212609bb6b0d05bf2c35b989dab92052/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5348fbb4f3163facc4e454e7099cf469",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5348fbb4f3163facc4e454e7099cf469/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3969aa34e43fe99b469bd17eac5d8554",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3969aa34e43fe99b469bd17eac5d8554/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce1507c14f08dcf191c7483970e8a9cf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce1507c14f08dcf191c7483970e8a9cf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5211960023bb1484d483e66f56e3d02e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5211960023bb1484d483e66f56e3d02e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aaf3feebe6f81402082e1d0501629f6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aaf3feebe6f81402082e1d0501629f6e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4672ad22de71219fe51ec6c5d4f65fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4672ad22de71219fe51ec6c5d4f65fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "339d7434ee9c5bbddd4d51a813b054e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/339d7434ee9c5bbddd4d51a813b054e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0ec2f8bdb109bfbc23e8498862846826",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0ec2f8bdb109bfbc23e8498862846826/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b5818d3f9e441a792a0009561e4b83ce",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b5818d3f9e441a792a0009561e4b83ce/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "856396269b66934aae772342f975eea9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/856396269b66934aae772342f975eea9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "02bbbe92a702e03d01e2d7ab0384a2f1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/02bbbe92a702e03d01e2d7ab0384a2f1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9b4e91870c468e34b3254dba66da301",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9b4e91870c468e34b3254dba66da301/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e9a7ff682c86800ae556be500b4833e7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e9a7ff682c86800ae556be500b4833e7/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilegio Imóveis",
+        "href": "/70655/privilegio-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 51m²",
+        "href": "/imovel/apartamento-1-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-51m2-venda-RS1100000-id-2739446018/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Pepe",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

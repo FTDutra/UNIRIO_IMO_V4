@@ -1,0 +1,294 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "BALCONY",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "TENNIS_COURT",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "SAFETY_CIRCUIT",
+            "ADULT_GAME_ROOM"
+        ],
+        "usableAreas": [
+            "78"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento na Tijuca, ao lado da praça Xavier de Brito, a conhecida praça dos cavalinhos, perto do metrô da rua Uruguai, e também, de supermercados, bancos, restaurantes, colégios. Apartamento todo modernizado. Sala em 2 ambientes, com saída para varanda com vista livre, sol da amanhã. 2 quartos sendo um suíte, banheiro social com box blindex, cozinha com armários planejados, área de serviço com dependências completas. Prédio possui, sistema de câmeras, playground, quadra poliesportiva. Portaria 24 horas. 1 vaga demarcada. <br><br> DDZ IMOBILIÁRIA. COMPRA, VENDA, LOCAÇÃO, ADMINISTRAÇÃO, AVALIAÇÃO e LEGALIZAÇÃO de BENS RESIDENCIAIS OU COMERCIAIS.<br>-Cod:DZAP20070 -Rev.11Dez",
+        "title": "Apartamento - Padrão / Residencial / Tijuca",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2760949227",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20530500",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.931,
+                "approximateLon": -43.245,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua General Espírito Santo Cardoso",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Muda (Ponto Final)",
+                "BS:Ponto Final - 134B (Nova Iguaçu - Vila Isabel)",
+                "BS:Jose Higino 148",
+                "BS:Doutor Aníbal Moreira",
+                "BS:Barão de Mesquita 482c",
+                "TS:Muda (Ponto Final)",
+                "TS:Uruguai",
+                "TS:Ponto Final - 134B (Nova Iguaçu - Vila Isabel)",
+                "TS:Uruguai / Tijuca",
+                "TS:Ponto Final: Andaraí :: Linha 217",
+                "CS:Confeitaria Thaís",
+                "CS:La Panetteria",
+                "CS:Erbon",
+                "CS:Jiv's",
+                "CS:Casa da Ostra",
+                "PH:Drogaria Unidas",
+                "PH:FarmaDez",
+                "PH:Drogarias Mundial",
+                "PH:Mundial",
+                "PH:Drogaria Venancio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "DZAP20070",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "78"
+        ],
+        "advertiserId": "650fee1d-5fc2-bfa6-c721-a6109f6e1626",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "131",
+                "price": "530000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1150"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21969783400"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21969783400",
+        "stamps": []
+    },
+    "account": {
+        "id": "650fee1d-5fc2-bfa6-c721-a6109f6e1626",
+        "name": "DDZ Imobiliária",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fce95ebebabe2679379087a7cec6bd3b/{description}.webp",
+        "licenseNumber": "24897-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 400464,
+        "phones": {
+            "primary": "21969783400",
+            "mobile": "21969783400"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "0f2a217c4951d9d46ff90811ef41e364",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f2a217c4951d9d46ff90811ef41e364/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a27a4afde077a1605244256346f351ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a27a4afde077a1605244256346f351ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf817853b87f5f2fae0d25ae90ebd5fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf817853b87f5f2fae0d25ae90ebd5fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "74477ecca3436dad06c9868dc7e39083",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/74477ecca3436dad06c9868dc7e39083/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "10163b9d67c7e99724af184c09783adf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/10163b9d67c7e99724af184c09783adf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "99d4af841b34b7b1fd42b228f53cefae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/99d4af841b34b7b1fd42b228f53cefae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8f4bf9d50c1dde9da21fc939e9099c03",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8f4bf9d50c1dde9da21fc939e9099c03/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bab4e99ea7b089dea55e37afbb720f48",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bab4e99ea7b089dea55e37afbb720f48/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "291a50b60512c22a5608e7483240e795",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/291a50b60512c22a5608e7483240e795/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d11becc48db97031671f1de468ab25f1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d11becc48db97031671f1de468ab25f1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "79c0b9230c346e002c3840591e736f86",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/79c0b9230c346e002c3840591e736f86/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "78616cfff8ffaa6a2867dfb21f6f8647",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/78616cfff8ffaa6a2867dfb21f6f8647/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a5a62e0eb08a05d5c3f4bcec2bb59bf1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a5a62e0eb08a05d5c3f4bcec2bb59bf1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a0afb1794f610ae3ee631639280f96c1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a0afb1794f610ae3ee631639280f96c1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b9c41895a1de8a5a24ab40884f8d9f6d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b9c41895a1de8a5a24ab40884f8d9f6d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1bbaad822fd055fa2ad508a31ae45a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1bbaad822fd055fa2ad508a31ae45a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff4b3bd9607746cb73c10bae3197002d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff4b3bd9607746cb73c10bae3197002d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3bb3a8084daa128884f6155e02be310b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3bb3a8084daa128884f6155e02be310b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b670b27b49f85de11bbd603e88b04457",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b670b27b49f85de11bbd603e88b04457/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f15f5673d849cb719ee518bd8b95fcaf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f15f5673d849cb719ee518bd8b95fcaf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0e0950ff1da8e4b4bea19418281d9349",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0e0950ff1da8e4b4bea19418281d9349/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d2c2b8d482ec71b7d5430f963d111ba5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d2c2b8d482ec71b7d5430f963d111ba5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0e2a484e40728342771859b3d421896a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0e2a484e40728342771859b3d421896a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ded18e00578d0dc308192386ee017564",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ded18e00578d0dc308192386ee017564/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cb05e7660541c21984de25b07b4c0b45",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cb05e7660541c21984de25b07b4c0b45/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "04bc3d852099badfb87892eb04fdd0a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/04bc3d852099badfb87892eb04fdd0a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a02e04c7c4a3a595740826940985a61f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a02e04c7c4a3a595740826940985a61f/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "DDZ Imobiliária",
+        "href": "/400464/ddz-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 78m²",
+        "href": "/imovel/apartamento-2-quartos-tijuca-zona-norte-rio-de-janeiro-com-garagem-78m2-venda-RS530000-id-2760949227/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua General Espírito Santo Cardoso",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

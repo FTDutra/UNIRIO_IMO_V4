@@ -1,0 +1,213 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "SEA_VIEW",
+            "CONCIERGE_24H",
+            "ELEVATOR",
+            "WATCHMAN"
+        ],
+        "usableAreas": [
+            "30"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Quintal Carioca vende Sala Comercial disponível para venda em Ipanema, um dos bairros mais charmosos do Rio de Janeiro. Localizado na Rua Visconde de Pirajá, próximo a diversos comércios e serviços. Entre em contato para mais informações!",
+        "title": "Sala Comercial - Ipanema",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2709283863",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22410003",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.984,
+                "approximateLon": -43.198,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Visconde de Pirajá",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Ipanema",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "poisList": [
+                "BS:Ponto Final: General Osório :: Rua Teixeira de Melo",
+                "BS:Barra Expresso",
+                "BS:BRS 2: General Osório",
+                "BS:Ponto Final: General Osório :: Rua Visconde de Pirajá",
+                "BS:BRS 2 Farme de Amoedo",
+                "TS:Ponto Final: General Osório :: Rua Teixeira de Melo",
+                "TS:Barra Expresso",
+                "TS:BRS 2: General Osório",
+                "TS:Ponto Final: General Osório :: Rua Visconde de Pirajá",
+                "TS:BRS 2 Farme de Amoedo",
+                "CS:Terra Mineira",
+                "CS:Empório das Águas",
+                "CS:Planeta Água",
+                "CS:Chocolate Brasil Cacau",
+                "CS:La Veronese",
+                "PH:Drogaria Pop",
+                "PH:Farmácia Central Posto 6",
+                "PH:Viva Mais",
+                "PH:Prontofarma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "485510",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "30"
+        ],
+        "advertiserId": "7382192b-6a6f-e6a7-03fd-3173f08c8335",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "500",
+                "price": "890000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1800"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21998314382",
+                "21997907977"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21997907977",
+        "stamps": []
+    },
+    "account": {
+        "id": "7382192b-6a6f-e6a7-03fd-3173f08c8335",
+        "name": "Quintal Carioca",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4fa5edc6edc15d6f3ea89cc8a426014/{description}.webp",
+        "licenseNumber": "8906-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 635783,
+        "phones": {
+            "primary": "21998314382",
+            "mobile": "21997907977"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "0616094c0ebc29229e8353c73b84b3b1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0616094c0ebc29229e8353c73b84b3b1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "94382c15b4ebb31f27506b9277f3bbc6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/94382c15b4ebb31f27506b9277f3bbc6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e3919c5b1febcfd9a460a4699c57e99",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9e3919c5b1febcfd9a460a4699c57e99/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0230002be5e4f21047377ddb3ca0ffed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0230002be5e4f21047377ddb3ca0ffed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d2e5bb0ba74eeb41844da67ec2bf2d0c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d2e5bb0ba74eeb41844da67ec2bf2d0c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c3a75d8fff7e41248ee3fea4281fc204",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c3a75d8fff7e41248ee3fea4281fc204/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "76456394cbbb68b9bf3162bcb38a2c3a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/76456394cbbb68b9bf3162bcb38a2c3a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "06c05f65b8c10c1552cb0847657c5a37",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/06c05f65b8c10c1552cb0847657c5a37/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "af6c48ba0b78a316a3cf8c44aaad6ead",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/af6c48ba0b78a316a3cf8c44aaad6ead/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f8f7556398cd447eb88fc0e13686360",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f8f7556398cd447eb88fc0e13686360/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a3f97c937337fe3309e23529d3ad0573",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a3f97c937337fe3309e23529d3ad0573/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "05597a73d40ebe004850e61833603d44",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/05597a73d40ebe004850e61833603d44/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5431e419f28de16fe20bef6b5d1626a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5431e419f28de16fe20bef6b5d1626a3/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Quintal Carioca",
+        "href": "/635783/quintal-carioca/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 30m²",
+        "href": "/imovel/apartamento-1-quartos-ipanema-zona-sul-rio-de-janeiro-30m2-venda-RS890000-id-2709283863/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "state": "Rio de Janeiro",
+            "street": "Rua Visconde de Pirajá",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "GATED_COMMUNITY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GARAGE",
+            "AIR_CONDITIONING",
+            "GARDEN",
+            "GOURMET_BALCONY",
+            "PARTY_HALL",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INDOOR_SOCCER"
+        ],
+        "usableAreas": [
+            "89"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "edd64",
+        "title": "Recreio dos Bandeirantes | Apartamento 3 quartos, sendo 3 suites",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2695806712",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790883",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.02,
+                "approximateLon": -43.512,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Teixeira Heizer",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Piabas :: Linha 554",
+                "TS:Ponto Final: Piabas :: Linha 554",
+                "PH:Drogaria Pontal",
+                "SU:Escola Municipal Professor Jurandir Paes Leme"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            3
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "BI15066",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "89"
+        ],
+        "advertiserId": "b6d77621-1cb5-dd3e-7883-a4cc7dbe795b",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1430",
+                "price": "618000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1417"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2124379295",
+                "21993193033"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21993193033",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "b6d77621-1cb5-dd3e-7883-a4cc7dbe795b",
+        "name": "BLOCK IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/67511ec184c5e38e11a06f9b7685cdf1/{description}.webp",
+        "licenseNumber": "07389-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 128910,
+        "phones": {
+            "primary": "2124379295",
+            "mobile": "21993193033"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "b8d73332f3c972857ace53f50ecc4749",
+            "url": "https://www.youtube.com/watch?v=fNmWe7k-CRE",
+            "type": "VIDEO"
+        },
+        {
+            "id": "94dbb992e9a466f8edc57901801c2662",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/94dbb992e9a466f8edc57901801c2662/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ed86bc211c3978c6c3661b0cc40fe6b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ed86bc211c3978c6c3661b0cc40fe6b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e20bc43200cae85bd8c2e7a87ba85210",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e20bc43200cae85bd8c2e7a87ba85210/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1b70199148cde083486005de62414658",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1b70199148cde083486005de62414658/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9b2047e7dff413ab0019c4bf9bb0162f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9b2047e7dff413ab0019c4bf9bb0162f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd4650d70d657e61cfa545f3cf199fd4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd4650d70d657e61cfa545f3cf199fd4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb1d96a6ed3c18a62d15cdf83fadbcd5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb1d96a6ed3c18a62d15cdf83fadbcd5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d64a87eb2b87f76590d2a2aa1da26625",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d64a87eb2b87f76590d2a2aa1da26625/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f7a31f58228eb2c9a3d0f960becd304",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f7a31f58228eb2c9a3d0f960becd304/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4cd3b250c18c0da378ba8baab39cca9f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4cd3b250c18c0da378ba8baab39cca9f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48da3f62ab5a7f554279bd432e6062c5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48da3f62ab5a7f554279bd432e6062c5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd367f4c770a55d69fd7b28722299755",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd367f4c770a55d69fd7b28722299755/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c8b9766713c8bfb8aef49def7fe66d21",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c8b9766713c8bfb8aef49def7fe66d21/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dc957a55696b9c1f9eb5c43fa1314ea7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc957a55696b9c1f9eb5c43fa1314ea7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dfc0e3546ada46913649f2ecdc2f282b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dfc0e3546ada46913649f2ecdc2f282b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "74358a4b38061ccc23a248a85da0853c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/74358a4b38061ccc23a248a85da0853c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dfa225a3c9dc40a2538dcb44e9733c93",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dfa225a3c9dc40a2538dcb44e9733c93/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6d37016f30327dd1a4af70974f2bafda",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6d37016f30327dd1a4af70974f2bafda/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "06b19768c020240664f88d170df7b239",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/06b19768c020240664f88d170df7b239/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c64378dc18a708bfb3728b2e4508d732",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c64378dc18a708bfb3728b2e4508d732/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9dc3f054c77b987e0f11c0b091400588",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9dc3f054c77b987e0f11c0b091400588/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "863a4332a69a54b36b7a1f9959409621",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/863a4332a69a54b36b7a1f9959409621/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7895fb43af1158b606f75b2a01799f2d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7895fb43af1158b606f75b2a01799f2d/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "BLOCK IMÓVEIS",
+        "href": "/128910/block-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 89m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-89m2-venda-RS618000-id-2695806712/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Teixeira Heizer",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

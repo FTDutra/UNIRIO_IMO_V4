@@ -1,0 +1,277 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "KITCHEN",
+            "AIR_CONDITIONING",
+            "INTERCOM",
+            "ELEVATOR"
+        ],
+        "usableAreas": [
+            "90"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Prédio com fachada em tijolinho, poucas unidades, portaria até às 22hs. Rua silenciosa, excelente localização, próximo ao metrô Saens Pena e rua principal da Tijuca, a rua Conde de Bonfim.<br><br> Apartamento de frente, padrão, claro, arejado, piso frio na sala e cozinha.<br><br> Composição: Sala ampla, 3 quartos, 2 banheiros socias, cozinha, dependência completa e área de serviço.<br>-Cod:7519 -Rev.11Dez",
+        "title": "Apartamento - Padrão / Residencial / Tijuca",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2738261328",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20550090",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "56",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.227954,
+                "source": "GOOGLE",
+                "lat": -22.92251
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Conselheiro Zenha",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Ponto Final do 600 (Taquara)",
+                "BS:Ponto Final: Saens Peña :: Linha 601",
+                "BS:Saens Peña :: Integração Metrô",
+                "BS:Ponto Final: Saens Peña :: Linha 665",
+                "BS:Ponto Final: Saens Peña",
+                "TS:Ponto Final do 600 (Taquara)",
+                "TS:Ponto Final: Saens Peña :: Linha 601",
+                "TS:Heitor Beltrão",
+                "TS:Major Ávila",
+                "TS:Saens Peña :: Integração Metrô",
+                "CS:Empório Lamego",
+                "CS:Confeitaria Rita de Cássia",
+                "CS:Flor da Tijuca",
+                "CS:Lojas Bandeirantes",
+                "CS:TECNOMEDI TIJUCA",
+                "PH:Drograria Venâncio",
+                "PH:Drogaria Pedro Ernesto",
+                "PH:Drogaria Venancio",
+                "PH:Drogaria Unidas",
+                "PH:Farmavita"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "7519",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "90"
+        ],
+        "advertiserId": "049a7316-bcae-0ea4-bbe1-a57bd2f33dcc",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "155",
+                "price": "600000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1736"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2125132008",
+                "21998212008"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21998212008",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "049a7316-bcae-0ea4-bbe1-a57bd2f33dcc",
+        "name": "WALKER IMOBILIÁRIA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c4bdb40aea92c742d67119306905993/{description}.webp",
+        "licenseNumber": "005422-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 28942,
+        "phones": {
+            "primary": "2125132008",
+            "mobile": "21998212008"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "fae0d674fa46b7f9cdcd3e6162c48826",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fae0d674fa46b7f9cdcd3e6162c48826/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6b121dd2da6c241e003f0dcedeac4269",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6b121dd2da6c241e003f0dcedeac4269/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d6f189fda199e2a544b2e71151e9b3c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d6f189fda199e2a544b2e71151e9b3c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e25497443d19b0fd689d1264c56b501",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9e25497443d19b0fd689d1264c56b501/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a94482259285288913c8d9580582ed0b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a94482259285288913c8d9580582ed0b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb3fc999c3eabde226bd63ebaf655220",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb3fc999c3eabde226bd63ebaf655220/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a3243d8424c9527bcef0720ff2f5361",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a3243d8424c9527bcef0720ff2f5361/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb079e576968ed1ec93bde44ebb84cd4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb079e576968ed1ec93bde44ebb84cd4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3588c620864efce9b3411ceca7eec62f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3588c620864efce9b3411ceca7eec62f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "50b0059e5e40ce1650547832f723712b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/50b0059e5e40ce1650547832f723712b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5e2799820e4c9528247ecffbc377c8b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5e2799820e4c9528247ecffbc377c8b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd5af65babe071490b308fb5089cfd48",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd5af65babe071490b308fb5089cfd48/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38b12879f13a07efe0e5e4b66cdf1594",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38b12879f13a07efe0e5e4b66cdf1594/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "46cbc6902779eacfeda9b25b317773d1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/46cbc6902779eacfeda9b25b317773d1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9cd388575aff64a8aeeb60fa1cb8f455",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9cd388575aff64a8aeeb60fa1cb8f455/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48985708beaa44844aee6d3bb4835223",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48985708beaa44844aee6d3bb4835223/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0bcca389b484f14b198f322fb7d95067",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0bcca389b484f14b198f322fb7d95067/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c862952305f857858b1c5816f1f316b6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c862952305f857858b1c5816f1f316b6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c645029c8ea463b4bb1786748d6dbb32",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c645029c8ea463b4bb1786748d6dbb32/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2aa3879ae70ef691bb2afa55668982fe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2aa3879ae70ef691bb2afa55668982fe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a425152db4eb47db7650a8cafb7acc05",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a425152db4eb47db7650a8cafb7acc05/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9bace6212b664dfdcc5802551ae328e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9bace6212b664dfdcc5802551ae328e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "be82d91f97bedd521001d9aa4c00a84f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/be82d91f97bedd521001d9aa4c00a84f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42e45ea437c40316ea59ebc3765139d9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42e45ea437c40316ea59ebc3765139d9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cfc1a8363749c62fd3e873877a7aeec6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cfc1a8363749c62fd3e873877a7aeec6/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "WALKER IMOBILIÁRIA",
+        "href": "/28942/walker-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 90m²",
+        "href": "/imovel/apartamento-3-quartos-tijuca-zona-norte-rio-de-janeiro-com-garagem-90m2-venda-RS600000-id-2738261328/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Conselheiro Zenha",
+            "streetNumber": "56",
+            "zone": "Zona Norte"
+        }
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "INTERNET_ACCESS",
+            "KITCHEN",
+            "INTERCOM",
+            "CABLE_TV",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "82"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento totalmente reformado, com 82m², localizado na Tijuca. Composto por 3 quartos, sala ampla, cozinha, banheiro social e dependência completa, este imóvel oferece conforto e praticidade para o dia a dia.<br><br> O condomínio conta com salão de festas, playground e uma agradável área verde, ideal para momentos de lazer em família. Além disso, o apartamento está em uma localização privilegiada, próximo a diversos estabelecimentos comerciais, como supermercados, farmácias, padarias e escolas, facilitando a rotina.<br><br> Venha conhecer e se encantar com este excelente imóvel na Tijuca!<br>-Cod:FLAP30210 -Rev.11Dez",
+        "title": "Oportunidade: apartamento 3 quartos à venda na Tijuca",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2755178691",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20530003",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "1105",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.251985,
+                "source": "GOOGLE",
+                "lat": -22.941219
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Conde de Bonfim",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Terminal Professor Carlos Manes Bandeira",
+                "BS:Terminal Carlos Manes Bandeira (Usina) :: Plat. B",
+                "BS:Muda (Ponto Final)",
+                "BS:Ponto Final: Andaraí :: Linha 217",
+                "BS:Ponto Final - 134B (Nova Iguaçu - Vila Isabel)",
+                "TS:Regina Coeli",
+                "TS:Terminal Professor Carlos Manes Bandeira",
+                "TS:Terminal Carlos Manes Bandeira (Usina) :: Plat. B",
+                "TS:Muda (Ponto Final)",
+                "TS:Ponto Final: Andaraí :: Linha 217",
+                "CS:Confeitaria Thaís",
+                "CS:La Panetteria",
+                "CS:Queijeiro da Muda",
+                "CS:Artigrano",
+                "CS:Nema Padaria",
+                "PH:Drogarias Mundial",
+                "PH:Mundial",
+                "PH:FarmaDez",
+                "PH:Drogaria Unidas",
+                "PH:Drogaria Venancio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "FLAP30210",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "82"
+        ],
+        "advertiserId": "6e032c3d-ad3e-c60a-b153-647fccdaac8e",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "844",
+                "price": "450000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "426"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21991167127",
+                "21968634429"
+            ]
+        },
+        "videoTourLink": "https://midas360.imb.br/visita_virtual/visita.php?i=MTkwMDM&b=MjExMw&t=8121d0702dd859409a088643afce1661",
+        "whatsappNumber": "21968634429",
+        "stamps": []
+    },
+    "account": {
+        "id": "6e032c3d-ad3e-c60a-b153-647fccdaac8e",
+        "name": "OKRE IMÓVEIS COPACABANA",
+        "licenseNumber": "09927-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 846171,
+        "phones": {
+            "primary": "21991167127",
+            "mobile": "21968634429"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "e70816b45e4d0813d05e264ea531df6d",
+            "url": "https://youtu.be/ZS3wZlPaOtc",
+            "type": "VIDEO"
+        },
+        {
+            "id": "c7cb2902b76716d829e7a849658d71a8",
+            "url": "https://midas360.imb.br/visita_virtual/visita.php?i=MTkwMDM&b=MjExMw&t=8121d0702dd859409a088643afce1661",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "d34adc755a72fd2285da96930cd1fda7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d34adc755a72fd2285da96930cd1fda7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "efc1a690ad90311b79c10c02bbf1bebf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/efc1a690ad90311b79c10c02bbf1bebf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "27d1ec13f75d25aa2c15656aafdd5423",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/27d1ec13f75d25aa2c15656aafdd5423/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "94caf253c283bc11cb33ce798cd3d535",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/94caf253c283bc11cb33ce798cd3d535/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7927df4490bc6edca6b46056be299819",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7927df4490bc6edca6b46056be299819/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ff9769fe568d478e7dd6076cde50fe4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ff9769fe568d478e7dd6076cde50fe4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a32374604e1fdc41a10614cf755902c6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a32374604e1fdc41a10614cf755902c6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "69d37f189faf88f2656fb803d19ec15e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/69d37f189faf88f2656fb803d19ec15e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1687aafb092b88163e371cfac0de627c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1687aafb092b88163e371cfac0de627c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9ce51bf245217efd6a45994461d8104b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ce51bf245217efd6a45994461d8104b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f217a7f43dc68e51a59c2447f3c3b882",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f217a7f43dc68e51a59c2447f3c3b882/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4e7eab5696978c9a54b105577e6153e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4e7eab5696978c9a54b105577e6153e9/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "OKRE IMÓVEIS COPACABANA",
+        "href": "/846171/okre-imoveis-copacabana/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 82m²",
+        "href": "/imovel/apartamento-3-quartos-tijuca-zona-norte-rio-de-janeiro-com-garagem-82m2-venda-RS450000-id-2755178691/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Conde de Bonfim",
+            "streetNumber": "1105",
+            "zone": "Zona Norte"
+        }
+    }
+}

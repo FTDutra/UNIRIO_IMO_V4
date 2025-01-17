@@ -1,0 +1,377 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "NUMBER_OF_FLOORS",
+            "HEATING",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "87"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua Pacheco Leão, no bairro Jardim Botânico em Rio de Janeiro. Este imóvel conta com área construída de 87m², oferecendo 3 quartos e 2 banheiros. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Três quartos no Jardim Botânico",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2745785414",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22460030",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.965,
+                "approximateLon": -43.222,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Pacheco Leão",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Jardim Botanico",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "poisList": [
+                "BS:Jardim Botânico",
+                "BS:Hospital da Lagoa",
+                "BS:Baixo Gávea",
+                "BS:409 Horto - Saens Peña",
+                "BS:Ponto Final: Horto",
+                "TS:Hospital da Lagoa",
+                "TS:Ponto Final: Horto",
+                "TS:Ponto Final: CIEP Nação Rubro Negra",
+                "TS:Nossa Senhora Auxiliadora",
+                "TS:Maria Angélica",
+                "CS:Panificação Século XX",
+                "CS:Toquinha da Globo",
+                "CS:La Bicyclette",
+                "CS:Bastarda",
+                "CS:Vitória Régia",
+                "PH:Ric",
+                "PH:Padrão"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "PUzxv1yi",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "87"
+        ],
+        "advertiserId": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2526",
+                "price": "970000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1100"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21988595427"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988595427",
+        "stamps": []
+    },
+    "account": {
+        "id": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "name": "Luccare Investimentos",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/356f29ff805ce9c2aedf37766016903e/{description}.webp",
+        "licenseNumber": "065358-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 79203,
+        "phones": {
+            "primary": "21988595427",
+            "mobile": "21988595427"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "2e22563e012239d1eb0a2046e9241275",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e22563e012239d1eb0a2046e9241275/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b75f050d2fb99218b42060e342151c08",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b75f050d2fb99218b42060e342151c08/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "14eb2212c3a72e0d8ccbb8f2dfe9fe77",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/14eb2212c3a72e0d8ccbb8f2dfe9fe77/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd33bf14551dfc53649c0e7828f9ca69",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd33bf14551dfc53649c0e7828f9ca69/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "062bed8cb182b79877c19e9f13633308",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/062bed8cb182b79877c19e9f13633308/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a6ddd0a83f943617e76905ca5f6e821",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a6ddd0a83f943617e76905ca5f6e821/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dcb520bd34ccd95900e92a529583d736",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dcb520bd34ccd95900e92a529583d736/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "17ea5dfa06c70a38fd06ce2254a0fb7e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/17ea5dfa06c70a38fd06ce2254a0fb7e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2324b4a39841ba95ea07a9c408e36383",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2324b4a39841ba95ea07a9c408e36383/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d61e6751d7af415ae953ae7eca25537d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d61e6751d7af415ae953ae7eca25537d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f654f72cbfaaa53658622b3fbdebb6d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f654f72cbfaaa53658622b3fbdebb6d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1fc825d0dfac96d794929375acc2a39c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1fc825d0dfac96d794929375acc2a39c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d0ac8fb7f66d2200fc8ed0767bb79ee7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d0ac8fb7f66d2200fc8ed0767bb79ee7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce782f4f284090192bf8c0a92572d5e4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce782f4f284090192bf8c0a92572d5e4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "896d1ab5b55a2e585a3f6d00665eed48",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/896d1ab5b55a2e585a3f6d00665eed48/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8eb1d5b4b363c7ac384dff438b570d15",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8eb1d5b4b363c7ac384dff438b570d15/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b7182d997ecfce4e9cfd54ecfefae3e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b7182d997ecfce4e9cfd54ecfefae3e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3efc6823e8bf07fac6cd00a561b96b40",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3efc6823e8bf07fac6cd00a561b96b40/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eae24db883227b520778e7944c292a7e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eae24db883227b520778e7944c292a7e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "12af106b0ce6043ab98a9c83e50b5595",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/12af106b0ce6043ab98a9c83e50b5595/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c0c17c4ea981d5cd826cad6c3e6a9feb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c0c17c4ea981d5cd826cad6c3e6a9feb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a821d4f773c94e36e6d131e3c977de6a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a821d4f773c94e36e6d131e3c977de6a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "197b796b4c6fd1204e79b37b84f7d6c9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/197b796b4c6fd1204e79b37b84f7d6c9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6d20e5a7c850720456e194f16dacc61a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6d20e5a7c850720456e194f16dacc61a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e743796a5772281985406a12d6a5a7d4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e743796a5772281985406a12d6a5a7d4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "44ae9c594d8ea7b7f947dc0c00d9a2ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/44ae9c594d8ea7b7f947dc0c00d9a2ed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "05195ff9f3b493f06e2095a1ce3d38ce",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/05195ff9f3b493f06e2095a1ce3d38ce/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6871227b7c07e01e6972b0f51ae08e4d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6871227b7c07e01e6972b0f51ae08e4d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1fd8369e7c83baceef7395b6ed41bbb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1fd8369e7c83baceef7395b6ed41bbb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "82e164ec263d66e19687e7f920e9a382",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82e164ec263d66e19687e7f920e9a382/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bf731dad58b6411813feac46e7586f4e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bf731dad58b6411813feac46e7586f4e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d97103a36203b37a24af75b73673f5c2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d97103a36203b37a24af75b73673f5c2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2a87584ab03e93d756e561e4b9fdbfe2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a87584ab03e93d756e561e4b9fdbfe2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65027531712d3d8ea4871522664c4ae7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65027531712d3d8ea4871522664c4ae7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a68b21897fcc272254486cafd27c709",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a68b21897fcc272254486cafd27c709/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8f92a59a56a9c75db467b0f2acd7220f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8f92a59a56a9c75db467b0f2acd7220f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8d07e6f1334d0f96fd9647dbe2402cdf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d07e6f1334d0f96fd9647dbe2402cdf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "47b52c7811bffb7fbd15e86f9b4229a1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/47b52c7811bffb7fbd15e86f9b4229a1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ecfb84787273d0b91b6239fbf35598f6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ecfb84787273d0b91b6239fbf35598f6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "01d3c3e328ae40c799046599d78fc99c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/01d3c3e328ae40c799046599d78fc99c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a999a33fc59bf0d1de18c86f4ed750a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a999a33fc59bf0d1de18c86f4ed750a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38c5051ba287b18eac454bef6d73f0a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38c5051ba287b18eac454bef6d73f0a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7d85c8a2133d6782526298fe3f631f73",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7d85c8a2133d6782526298fe3f631f73/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e3acab75b6a8a35dc6822cc23688548",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e3acab75b6a8a35dc6822cc23688548/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5c4cc9f16c6e846b4cbb83fc17e17c3a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5c4cc9f16c6e846b4cbb83fc17e17c3a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d0358aa6976097c50b3768e21523078e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d0358aa6976097c50b3768e21523078e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ccf362c1fb18f5f00e5e0f6ca2f95eb2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ccf362c1fb18f5f00e5e0f6ca2f95eb2/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Luccare Investimentos",
+        "href": "/79203/luccare-investimentos/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 87m²",
+        "href": "/imovel/apartamento-3-quartos-jardim-botanico-zona-sul-rio-de-janeiro-87m2-venda-RS970000-id-2745785414/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "state": "Rio de Janeiro",
+            "street": "Rua Pacheco Leão",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

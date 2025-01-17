@@ -1,0 +1,254 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "SERVICE_AREA",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "100"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento com 3 dormitórios à venda, 100 m² por R$630.000 - Botafogo - Rio de Janeiro/RJ<br>Oportunidade em Botafogo, o bairro em maior expansão no Rio de Janeiro, ao lado da Igreja da Matriz, condução na porta, cercado de todos os serviços que o bairro oferece, como bancos, farmácias, padarias, mercados, escolas hospitais s serviços médicos em geral, uma vasta rede de ótimos restaurantes dos chefs mais renomados e em cada esquina um barzinho diferente com suas propostas modernas.<br>Composto de salão, três quartos,, banheiro social, copa, cozinha, dep. completa e área de serviço.<br>OBS: NÃO TEM GARAGEM, MAS TEM FACILIDADE DE ALUGAR NO PRÉDIO. -",
+        "title": "Apartamento com 3 dormitórios à venda, 100 m² por R$ 630.000,00 - Botafogo - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2713066899",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22270010",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "266",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.191064,
+                "source": "GOOGLE",
+                "lat": -22.953654
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Voluntários da Pátria",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Botafogo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:BRS 3: Sorocaba",
+                "BS:Cobal do Humaitá",
+                "BS:Cobal",
+                "BS:Humaitá",
+                "BS:Integrada 9",
+                "TS:Cobal do Humaitá",
+                "TS:Cobal",
+                "TS:Acesso Mena Barreto",
+                "TS:Acesso Voluntários",
+                "TS:Acesso Voluntários/Nelson Mandela",
+                "CS:Casa Imperial",
+                "CS:TECNOMEDI BOTAFOGO",
+                "CS:Panificação Voluntários",
+                "CS:Naziras X",
+                "CS:Degustare",
+                "PH:Bio Mundo",
+                "PH:Caminhoá",
+                "PH:Ypiranga",
+                "PH:Minipreço",
+                "PH:Poubel"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP8793",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "100"
+        ],
+        "advertiserId": "01cd6cc4-a722-afc2-2bd7-227219d48053",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "232",
+                "price": "630000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1087"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2136200101"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "01cd6cc4-a722-afc2-2bd7-227219d48053",
+        "name": "AMIM IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e1921a1bbe28132a3fa80fee9c4ab37/{description}.webp",
+        "licenseNumber": "07306-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 123125,
+        "phones": {
+            "primary": "2136200101",
+            "mobile": "2136200101"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "4d2c1094f8fd133c2e916eb5a4b15d32",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4d2c1094f8fd133c2e916eb5a4b15d32/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "608555f87cf3d6e7777d1a4e6e82de84",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/608555f87cf3d6e7777d1a4e6e82de84/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81a3bc91951db63cdbad182752ec0999",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81a3bc91951db63cdbad182752ec0999/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8ee4fa8f9170bbef2921a1c12677bcd7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8ee4fa8f9170bbef2921a1c12677bcd7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d26478386f6dc49486f739da938a6c4a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d26478386f6dc49486f739da938a6c4a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c6979b001f1201dc4a5ed1bfc43b715b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c6979b001f1201dc4a5ed1bfc43b715b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3264a1a0e81ae444f50477026c476ca9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3264a1a0e81ae444f50477026c476ca9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a338eca8eb648a55598b13e82637e9fe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a338eca8eb648a55598b13e82637e9fe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f2aa22f865f62890224ea180b2d353d4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f2aa22f865f62890224ea180b2d353d4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f3dc2e362f757d5fcdbb80e6de3df1a7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f3dc2e362f757d5fcdbb80e6de3df1a7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c4ebffd0184f738dca276714b443f062",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c4ebffd0184f738dca276714b443f062/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1895506986b4213d13adcb98e7cae015",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1895506986b4213d13adcb98e7cae015/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "298300150c251f848a0d930668b4fbdd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/298300150c251f848a0d930668b4fbdd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5403426c2faa21a0db3723e52394795b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5403426c2faa21a0db3723e52394795b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d9f2238f7b2b9d6cbd7b841f83965fe9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d9f2238f7b2b9d6cbd7b841f83965fe9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f1ee885943cd8130e68ebf4c63dc205",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f1ee885943cd8130e68ebf4c63dc205/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f75b948d33f6958761d0a5951825737",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f75b948d33f6958761d0a5951825737/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "14b9fc20a07f092596be0ccf04f0898e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/14b9fc20a07f092596be0ccf04f0898e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3030f4fdd3350c6cbd5cdb69262e6710",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3030f4fdd3350c6cbd5cdb69262e6710/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d31adeaec8d012d371dd058b2aa2f960",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d31adeaec8d012d371dd058b2aa2f960/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "84d49caf0c750b2de64c55ee42ab06ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/84d49caf0c750b2de64c55ee42ab06ad/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "AMIM IMÓVEIS",
+        "href": "/123125/amim-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 100m²",
+        "href": "/imovel/apartamento-3-quartos-botafogo-zona-sul-rio-de-janeiro-100m2-venda-RS630000-id-2713066899/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Voluntários da Pátria",
+            "streetNumber": "266",
+            "zone": "Zona Sul"
+        }
+    }
+}

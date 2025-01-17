@@ -1,0 +1,381 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "BALCONY",
+            "PETS_ALLOWED",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "KITCHEN",
+            "INTERCOM",
+            "SAUNA",
+            "ADULT_GAME_ROOM",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "140"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Oportunidade única! Este incrível apartamento está localizado na frente do prédio, proporcionando uma luminosidade maravilhosa todas as manhãs. Com uma área total de 140 m², sendo todo esse espaço útil, este imóvel é perfeito para quem busca conforto e praticidade.<br><br> O apartamento oferece espaços amplos e bem distribuídos, garantindo privacidade e comodidade a toda a família. A sala de estar é aconchegante e convidativa, ideal para reunir amigos e familiares, enquanto a cozinha possui um layout funcional, facilitando as atividades do dia a dia.<br>-Cod:FLAP30203 -Rev.11Dez",
+        "title": "Oportunidade: Apartamento com 3 quartos sendo 1 suíte à venda no Humaitá",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2755182203",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22261001",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "355",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.203346,
+                "source": "GOOGLE",
+                "lat": -22.960323
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua do Humaitá",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Humaita",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Humaitá",
+            "poisList": [
+                "BS:Humaitá",
+                "BS:Maria Angélica",
+                "BS:Cobal do Humaitá",
+                "BS:Cobal",
+                "BS:Hospital da Lagoa",
+                "TS:Humaitá",
+                "TS:Maria Angélica",
+                "TS:Cobal do Humaitá",
+                "TS:Cobal",
+                "TS:Hospital da Lagoa",
+                "CS:Panificação Lagoa",
+                "CS:A Padaria - Café Et Marché",
+                "CS:Mercado Humaitá",
+                "CS:Farinha Pura",
+                "CS:Do Conde",
+                "PH:Minipreço",
+                "PH:Ypiranga",
+                "PH:Caminhoá",
+                "PH:Nash",
+                "PH:Padrão"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "FLAP30203",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "140"
+        ],
+        "advertiserId": "6e032c3d-ad3e-c60a-b153-647fccdaac8e",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "5419",
+                "price": "2450000",
+                "businessType": "SALE"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21991167127",
+                "21968634429"
+            ]
+        },
+        "videoTourLink": "https://midas360.imb.br/visita_virtual/visita.php?i=MTkwMDM&b=MjExMw&t=8121d0702dd859409a088643afce1661",
+        "whatsappNumber": "21968634429",
+        "stamps": []
+    },
+    "account": {
+        "id": "6e032c3d-ad3e-c60a-b153-647fccdaac8e",
+        "name": "OKRE IMÓVEIS COPACABANA",
+        "licenseNumber": "09927-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 846171,
+        "phones": {
+            "primary": "21991167127",
+            "mobile": "21968634429"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "e70816b45e4d0813d05e264ea531df6d",
+            "url": "https://youtu.be/ZS3wZlPaOtc",
+            "type": "VIDEO"
+        },
+        {
+            "id": "c1c8233699a2d83a6bd666c7b8b25b77",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c1c8233699a2d83a6bd666c7b8b25b77/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c7cb2902b76716d829e7a849658d71a8",
+            "url": "https://midas360.imb.br/visita_virtual/visita.php?i=MTkwMDM&b=MjExMw&t=8121d0702dd859409a088643afce1661",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "f698504b8664d020e9b9c1c0db572962",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f698504b8664d020e9b9c1c0db572962/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b700ecb73c1a2fac010e218b5ea1e0ce",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b700ecb73c1a2fac010e218b5ea1e0ce/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c74dd9c9021d98d1481679f9377cfc3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c74dd9c9021d98d1481679f9377cfc3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "35017ec623b14360e9f9f8a8e7f7da3b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/35017ec623b14360e9f9f8a8e7f7da3b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9966352a446ad24c95e685e8884aba6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9966352a446ad24c95e685e8884aba6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0393a21ddd324700d2068603275ea3a1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0393a21ddd324700d2068603275ea3a1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d505d462285f716bc276d1e76fd4e3da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d505d462285f716bc276d1e76fd4e3da/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a5846402ea9a230b795e1c041cc4dca9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a5846402ea9a230b795e1c041cc4dca9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "793b1bd9e97703fb1a5edc0386974843",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/793b1bd9e97703fb1a5edc0386974843/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c2ef1b59007185df54e217c28e521952",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2ef1b59007185df54e217c28e521952/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d4048dc109f3d5332337915c3282b7c9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d4048dc109f3d5332337915c3282b7c9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "489e8e0ff44657a36cd8ea32a1b25662",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/489e8e0ff44657a36cd8ea32a1b25662/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0cd56a88dddafa371b1ac41c693090be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0cd56a88dddafa371b1ac41c693090be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd40a481d52759b694423fdbdcb1a4d2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd40a481d52759b694423fdbdcb1a4d2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "000c8227ca8b7db0307d0a2bd354e589",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/000c8227ca8b7db0307d0a2bd354e589/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a7271e66feb4f790d8314d184556c8be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a7271e66feb4f790d8314d184556c8be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a45871d16fcbcaac58190bf1e2fe090a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a45871d16fcbcaac58190bf1e2fe090a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "52777f30cf2f6f57f9211760ffaec74d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52777f30cf2f6f57f9211760ffaec74d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ffeec5fa0dc5f280b6c328b5a242fdb8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ffeec5fa0dc5f280b6c328b5a242fdb8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5a95e3c0fb3c6d1f3231590a10c94e07",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5a95e3c0fb3c6d1f3231590a10c94e07/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ca1a584fda4591e60d23c81742cd3fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ca1a584fda4591e60d23c81742cd3fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "551c9cbd6abe35c59ef7ef7a7a60b94d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/551c9cbd6abe35c59ef7ef7a7a60b94d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa468d0b2e667f6f21f7ad63b3820e62",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa468d0b2e667f6f21f7ad63b3820e62/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d6ceffdcc19a6ebff09c327a3f6bb91",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d6ceffdcc19a6ebff09c327a3f6bb91/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "95feef9fbe2611a5d2335db46a0024d0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/95feef9fbe2611a5d2335db46a0024d0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4d6fcba98820bcb172812ea4633ac226",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4d6fcba98820bcb172812ea4633ac226/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "677d79868966bfeab3cc41c577dba748",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/677d79868966bfeab3cc41c577dba748/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aabfacaa86153b88b20925838d72b4f1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aabfacaa86153b88b20925838d72b4f1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6ceeafff357155f659e2244e6afe6834",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ceeafff357155f659e2244e6afe6834/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3feae44f3d083531dcfc7ac11cb5e752",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3feae44f3d083531dcfc7ac11cb5e752/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "19680235bd1ea32c1a83330437476c53",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/19680235bd1ea32c1a83330437476c53/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e5f9f4b2128590b3613f377a18b2872",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e5f9f4b2128590b3613f377a18b2872/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0389776fcc7d8362fe918a3f8eab48d4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0389776fcc7d8362fe918a3f8eab48d4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e777bafdc6ddac52161e1c1cd5543343",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e777bafdc6ddac52161e1c1cd5543343/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "61cfa5bb330729e3ef3d3ce0f7d72166",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/61cfa5bb330729e3ef3d3ce0f7d72166/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3772b752c92d73ba34a8ad56b4dfd02a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3772b752c92d73ba34a8ad56b4dfd02a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a5bb114d5c42003ba06c767c3a53b690",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a5bb114d5c42003ba06c767c3a53b690/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1fe3efb3eed474e00bc785e4d30aef68",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1fe3efb3eed474e00bc785e4d30aef68/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "30fb558c688ae6f8129e9ea789793beb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30fb558c688ae6f8129e9ea789793beb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "32ba598bf735b91f5dbb7eb969bf8f8e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/32ba598bf735b91f5dbb7eb969bf8f8e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca93db9e144df264a33699444e09e3ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca93db9e144df264a33699444e09e3ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "350806c1d685e4b933b5364c93e30d34",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/350806c1d685e4b933b5364c93e30d34/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "OKRE IMÓVEIS COPACABANA",
+        "href": "/846171/okre-imoveis-copacabana/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 140m²",
+        "href": "/imovel/apartamento-3-quartos-humaita-zona-sul-rio-de-janeiro-com-garagem-140m2-venda-RS2450000-id-2755182203/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Humaitá",
+            "state": "Rio de Janeiro",
+            "street": "Rua do Humaitá",
+            "streetNumber": "355",
+            "zone": "Zona Sul"
+        }
+    }
+}

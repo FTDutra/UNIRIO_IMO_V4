@@ -1,0 +1,242 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "41"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Quintal Carioca vende:<br>Apartamento em Ipanema, Rio de Janeiro. São 41m² de área privativa distribuídos em 1 quarto, 1 banheiro, sala em 2 ambientes, cozinha e 1 vaga de garagem na escritura.<br>Excelente oportunidade para investidor e para aluguel por temporada.<br>Excelente localização próximo a comércios e facilidades da região. Agende sua visita, encontramos o melhor lugar para você viver!",
+        "title": "Apartamento à venda em Ipanema, Rio de Janeiro.",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2740280534",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22411030",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.981,
+                "approximateLon": -43.199,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Alberto de Campos",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Ipanema",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "poisList": [
+                "BS:BRS 2 Farme de Amoedo",
+                "BS:Barra Expresso",
+                "BS:Ponto Final: General Osório :: Rua Teixeira de Melo",
+                "BS:Ponto Final: General Osório :: Rua Visconde de Pirajá",
+                "BS:Metrô na Superfície - General Osório",
+                "TS:Teixeira de Melo",
+                "TS:Lagoa",
+                "TS:BRS 2 Farme de Amoedo",
+                "TS:Estação Terminal General Osório",
+                "TS:General Osório / Ipanema",
+                "CS:Planeta Água",
+                "CS:Empório das Águas",
+                "CS:Chocolate Brasil Cacau",
+                "CS:Terra Mineira",
+                "CS:La Veronese",
+                "PH:Drogaria Pop",
+                "PH:Farmácia Central Posto 6",
+                "PH:Prontofarma",
+                "PH:Viva Mais",
+                "PH:Drogaria Galanti"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "1119661",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "41"
+        ],
+        "advertiserId": "7382192b-6a6f-e6a7-03fd-3173f08c8335",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "129",
+                "price": "798000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "800"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21998314382",
+                "21997907977"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21997907977",
+        "stamps": []
+    },
+    "account": {
+        "id": "7382192b-6a6f-e6a7-03fd-3173f08c8335",
+        "name": "Quintal Carioca",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4fa5edc6edc15d6f3ea89cc8a426014/{description}.webp",
+        "licenseNumber": "8906-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 635783,
+        "phones": {
+            "primary": "21998314382",
+            "mobile": "21997907977"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "bed9e56dd36de98482269fd1f126bc62",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bed9e56dd36de98482269fd1f126bc62/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b12c66fb4417483fce2a2e5090e09cd4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b12c66fb4417483fce2a2e5090e09cd4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7938d0dfa006a3040cff4eb32963712d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7938d0dfa006a3040cff4eb32963712d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2f091cff52250a3cb945a2211e68e483",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2f091cff52250a3cb945a2211e68e483/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4895808e17dd4ec4cc72418d452fc233",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4895808e17dd4ec4cc72418d452fc233/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "263643542cfdd7b3c4f7634af8b8df70",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/263643542cfdd7b3c4f7634af8b8df70/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e7d28f89ecb51ec68b28d89f87af904",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e7d28f89ecb51ec68b28d89f87af904/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "af49f07952147fefa73e4b4eea89c8d8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/af49f07952147fefa73e4b4eea89c8d8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e3ef23764be7db6bf43dcdbb7b48963",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e3ef23764be7db6bf43dcdbb7b48963/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a053f64e8f420c8bd96d2964c30687a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a053f64e8f420c8bd96d2964c30687a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9fbd78d691571b06981ad055f64be1b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9fbd78d691571b06981ad055f64be1b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fea53a3e494e8a8a689f16c6bf4ac6f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fea53a3e494e8a8a689f16c6bf4ac6f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "98810fd59575338a24c57808371ee8de",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98810fd59575338a24c57808371ee8de/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b2e0af3ead73f1d1d2079faf0029de4a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b2e0af3ead73f1d1d2079faf0029de4a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "348261657bcfdaf2ff0a66421e09630c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/348261657bcfdaf2ff0a66421e09630c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b07b516d96f56ac057ab4bc127defbb4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07b516d96f56ac057ab4bc127defbb4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd2c6b9c2f6d411cd3dcb8b84f91fe9b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd2c6b9c2f6d411cd3dcb8b84f91fe9b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d7d07324215bf83c04b136fcb9574963",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7d07324215bf83c04b136fcb9574963/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dc19f300f6fae9585170eddf7a82dd9a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc19f300f6fae9585170eddf7a82dd9a/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Quintal Carioca",
+        "href": "/635783/quintal-carioca/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 41m²",
+        "href": "/imovel/apartamento-1-quartos-ipanema-zona-sul-rio-de-janeiro-com-garagem-41m2-venda-RS798000-id-2740280534/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "state": "Rio de Janeiro",
+            "street": "Rua Alberto de Campos",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

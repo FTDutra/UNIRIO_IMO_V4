@@ -1,0 +1,303 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "SERVICE_AREA",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "120"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Prédio com portaria 24h, a duas quadras da praia do Leme. Apartamento de fundos, andar alto, 120m² e 2 vagas de garagem na escritura. Original 3 quartos, um dos quartos foi aberto para ampliar a sala, podendo facilmente ser revertido, atualmente possui 2 quartos (sendo um deles suíte), cozinha, banheiro social, área de serviço e quarto da dependência mantido. O imóvel necessita de modernização. O valor do IPTU é referente à parcela. Orla Rio, a sua imobiliária especialista em imóveis na zona sul, desde 2002 no mercado imobiliário. Apartamentos e Coberturas nos melhores bairros: Ipanema, Leblon, Copacabana, Leme, Botafogo e Flamengo. Seja qual for a sua necessidade, temos o imóvel ideal para você.<br>-Cod:OLAP30086 -Rev.11Dez",
+        "title": "Apartamento - Padrão / Residencial / Leme",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2591399466",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22010050",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.961,
+                "approximateLon": -43.168,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua General Ribeiro da Costa",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Leme",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Leme",
+            "poisList": [
+                "BS:Martim Afonso",
+                "BS:Ponto Final: Leme :: Linha 472",
+                "BS:Ponto Final: Leme :: Linhas 538 e 539",
+                "BS:Praça General Tibúrcio :: Ônibus de Turismo",
+                "BS:BRS 2 Belford Roxo",
+                "TS:Martim Afonso",
+                "TS:Ponto Final: Leme :: Linha 472",
+                "TS:Ponto Final: Leme :: Linhas 538 e 539",
+                "TS:Praia Vermelha",
+                "TS:Praça General Tibúrcio :: Ônibus de Turismo",
+                "CS:Copa Fish",
+                "CS:Panificadora e Confeitaria Atlântica",
+                "CS:Casa que doce",
+                "CS:Açai de gema",
+                "CS:Marina",
+                "PH:Farmácia do Leme",
+                "PH:Galícia",
+                "PH:Drogarias American",
+                "PH:Farmácia Iate Club",
+                "PH:Farma Nature"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "OLAP30086",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "120"
+        ],
+        "advertiserId": "007196ea-a471-b020-f5ce-147923acf789",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "331",
+                "price": "1350000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1600"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2138730044",
+                "21991953498"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21991953498",
+        "stamps": []
+    },
+    "account": {
+        "id": "007196ea-a471-b020-f5ce-147923acf789",
+        "name": "Orla Rio Imóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5831b7ecd2c747605508d6984c92c6dc/{description}.webp",
+        "licenseNumber": "005087-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 43558,
+        "phones": {
+            "primary": "2138730044",
+            "mobile": "21991953498"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "e8cb827d37ce8baa82ca52dd2aff0ad2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e8cb827d37ce8baa82ca52dd2aff0ad2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4781957c8d554fbe83c1cf2ad1214007",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4781957c8d554fbe83c1cf2ad1214007/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b01381ce0fdbd01781f87907ae9d6bf2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b01381ce0fdbd01781f87907ae9d6bf2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "956dea511a5f705d1f488569e5ceeb17",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/956dea511a5f705d1f488569e5ceeb17/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9351ad9d74b55c423e6ccdf852a5a8f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9351ad9d74b55c423e6ccdf852a5a8f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d7b3eaa28d9b14a522ce65a9f8b29508",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7b3eaa28d9b14a522ce65a9f8b29508/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9287366745f81b51acbe72755f1d7b5b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9287366745f81b51acbe72755f1d7b5b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f0eced68ffb63c71c9d7745edabb68b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f0eced68ffb63c71c9d7745edabb68b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "907137bdfb94b9286e2e0c03b5a0f4d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/907137bdfb94b9286e2e0c03b5a0f4d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ef487873d6bfb9d9756a9cf4891d48b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ef487873d6bfb9d9756a9cf4891d48b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36e74a0464e1030474bac9e9b54ff9ba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36e74a0464e1030474bac9e9b54ff9ba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "15c07e96cf98b242b788c8f399c97a48",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/15c07e96cf98b242b788c8f399c97a48/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f720b5ddf426e7b3cc6cf4aca64c924",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f720b5ddf426e7b3cc6cf4aca64c924/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5771edb5e3cb4852c380c961ab7d242b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5771edb5e3cb4852c380c961ab7d242b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6948e8d6106eaf80656b2a9a0b96ce76",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6948e8d6106eaf80656b2a9a0b96ce76/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "769da09612bbd62a615265ad46d2751e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/769da09612bbd62a615265ad46d2751e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c1c9cbaf1586eea1e0effae28de23983",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c1c9cbaf1586eea1e0effae28de23983/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "78935316f844d79e2526c89df141ae86",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/78935316f844d79e2526c89df141ae86/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "579e873e6c0fdc1672bf2a6482101f14",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/579e873e6c0fdc1672bf2a6482101f14/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "705798efe4f340e115477cca3f57d9a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/705798efe4f340e115477cca3f57d9a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4eae597d2082b08df65b66d94d0cd80",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4eae597d2082b08df65b66d94d0cd80/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6e46ac5e9bb8f1e9633b2119c290fb12",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6e46ac5e9bb8f1e9633b2119c290fb12/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "23f85fd3161023038d9ed18f8fffea5f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/23f85fd3161023038d9ed18f8fffea5f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5665dec75d17b181796376dd093daa63",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5665dec75d17b181796376dd093daa63/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb60123a4c5f9755d6b70e5cc7b96a44",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb60123a4c5f9755d6b70e5cc7b96a44/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b17b51280a4ee48acd8513be7095dc08",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b17b51280a4ee48acd8513be7095dc08/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38c5d498fd23781400ac277805800ba9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38c5d498fd23781400ac277805800ba9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "94ed5fae44326e65fb359dafb19e2f7d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/94ed5fae44326e65fb359dafb19e2f7d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "304a116025bb942d1569269eafb6a42a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/304a116025bb942d1569269eafb6a42a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f5effc8e5ed738a25890f4fb748847a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f5effc8e5ed738a25890f4fb748847a/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Orla Rio Imóveis",
+        "href": "/43558/orla-rio-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 120m²",
+        "href": "/imovel/apartamento-3-quartos-leme-zona-sul-rio-de-janeiro-com-garagem-120m2-venda-RS1350000-id-2591399466/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Leme",
+            "state": "Rio de Janeiro",
+            "street": "Rua General Ribeiro da Costa",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

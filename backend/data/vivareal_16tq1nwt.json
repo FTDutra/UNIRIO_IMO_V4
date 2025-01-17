@@ -1,0 +1,227 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "SERVICE_AREA",
+            "BUILTIN_WARDROBE",
+            "BEDROOM_WARDROBE",
+            "KITCHEN_CABINETS",
+            "BATHROOM_CABINETS",
+            "ELECTRONIC_GATE",
+            "DISABLED_ACCESS"
+        ],
+        "usableAreas": [
+            "55"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento de 2 quartos, excelente prédio, muito bem localizado, vista livre, claro, arejado, com sol da manhã, prédio com elevadores reformados e vaga.<br>Apartamento pronto para morar, sala ampla, dois quartos, escritório, banheiro social com blindex, cozinha com armários planejados, área de serviço separada. Armários planejados nos quartos, Banheiro com aquecedor à gás.<br>Aceito financiamento e aceita proposta!<br>Documentação ok.<br>Agende sua visita.",
+        "title": "Apartamento 2 quartos à venda São Francisco Xavier",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2749508178",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20950004",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "704",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.245841,
+                "source": "GOOGLE",
+                "lat": -22.903164
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Avenida Marechal Rondon",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Sao Francisco Xavier",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "São Francisco Xavier",
+            "poisList": [
+                "BS:Ponto Final: Triagem :: Linhas 471 e 472",
+                "BS:BRS 3 4 5 6 - Vitor Meireles",
+                "BS:Ponto Final: Maracanã :: Linha 464",
+                "BS:Ponto Final: Engenho Novo :: Linha 650",
+                "BS:BRS 2, 6, 7",
+                "TS:São Francisco Xavier",
+                "TS:Triagem",
+                "TS:Ponto Final: Triagem :: Linhas 471 e 472",
+                "TS:Mangueira / Jamelão",
+                "TS:Riachuelo",
+                "CS:Hortifruti Kilo Frut",
+                "CS:Nossa Padaria",
+                "CS:Padaria Principal",
+                "CS:Padaria Abaeté",
+                "CS:PADARIA E PANIFICAÇÃO 2 AMIGOS",
+                "PH:Drogaria MEP",
+                "PH:Farma Dez",
+                "PH:Drogaria Pedro Ernesto"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "kat2003318",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "55"
+        ],
+        "advertiserId": "95a51eb8-1d4e-9a03-b412-432459657afd",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "price": "199000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "900"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21998973707"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21998973707",
+        "stamps": []
+    },
+    "account": {
+        "id": "95a51eb8-1d4e-9a03-b412-432459657afd",
+        "name": "THE BROKER",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a8dd631f096aa5e02e77ef1bcb530764/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 757012,
+        "phones": {
+            "primary": "21998973707",
+            "mobile": "21998973707"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "648e0b839597bd141d0c90c11be067eb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/648e0b839597bd141d0c90c11be067eb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bcf84c4a5537e9b70d16af8298ab42e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bcf84c4a5537e9b70d16af8298ab42e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7d45a58b7f5971eb34d8dcbff0a81cb8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7d45a58b7f5971eb34d8dcbff0a81cb8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "efb81c856e1fcf5a49f7a099a6fa5185",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/efb81c856e1fcf5a49f7a099a6fa5185/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc4ff1c3d646e01906719146bfd79275",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc4ff1c3d646e01906719146bfd79275/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fc019080b5dca7cd7b38bc89e296b2a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fc019080b5dca7cd7b38bc89e296b2a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f96d8b5f37a1ba12af8661f928c9ea8d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f96d8b5f37a1ba12af8661f928c9ea8d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f2c874af25c31b1a3aed2a686255e0a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f2c874af25c31b1a3aed2a686255e0a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "93a1dc5e120311444aa38b8bc7e43845",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/93a1dc5e120311444aa38b8bc7e43845/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d7162fc238c6edaea950870af4f29d07",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7162fc238c6edaea950870af4f29d07/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bcc2bd7f4b7326a266b2d5bcdfa25ce8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bcc2bd7f4b7326a266b2d5bcdfa25ce8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ac810bc5e04ae4edf3916ae078ce0fe8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ac810bc5e04ae4edf3916ae078ce0fe8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "27478ae73eaaa8effbe4a46312bac4c9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/27478ae73eaaa8effbe4a46312bac4c9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0772652e7c943a6ae54f3024c1a8925a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0772652e7c943a6ae54f3024c1a8925a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a12d90cec14a0a42d386b514b6390ad4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a12d90cec14a0a42d386b514b6390ad4/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "THE BROKER",
+        "href": "/757012/the-broker/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 55m²",
+        "href": "/imovel/apartamento-2-quartos-sao-francisco-xavier-zona-norte-rio-de-janeiro-com-garagem-55m2-venda-RS199000-id-2749508178/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "São Francisco Xavier",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Marechal Rondon",
+            "streetNumber": "704",
+            "zone": "Zona Norte"
+        }
+    }
+}

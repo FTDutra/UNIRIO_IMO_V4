@@ -1,0 +1,298 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "GARDEN",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "CONCIERGE_24H",
+            "SAUNA",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "93"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O Edifício Casa das Varandas está localizado em um dos melhores pontos da Freguesia em Jacarepaguá, sendo um ponto estratégico próximo a amplo comércio, serviços, farmácias, bancos, ótimos colégios e condução diversificada.<br>O apartamento tem uma ótima planta, vista ampla e indevássavel, com sala, dois quartos (1 suíte com armários), banheiro social, cozinha planejada e dependências completas. 1 vaga na escritura. O prédio possui excelente infraestrutura, com piscina, sauna, churrasqueira, playground, salão de festas e segurança. Portaria 24 horas. Documentação regular.",
+        "title": "FREGUESIA - ÓTIMA LOCALIZAÇÃO",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2748198907",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22760070",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "161",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.340938,
+                "source": "GOOGLE",
+                "lat": -22.938199
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Xingu",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Freguesia- Jacarepagua",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Freguesia (Jacarepaguá)",
+            "poisList": [
+                "BS:Tirol",
+                "BS:Professora Camisão",
+                "TS:Tirol",
+                "TS:Professora Camisão",
+                "TS:José Roiz de Aragão",
+                "TS:Provedora Lygia Moreira Alves de Brito",
+                "CS:Kúffura",
+                "CS:TECNOMEDI FREGUESIA",
+                "SU:Escola Municipal Edgard Werneck",
+                "SU:Escola Municipal 25 de Abril",
+                "SU:Santa Mônica Centro Educacional",
+                "SU:Escola Municipal Menezes Cortes",
+                "SU:Classe em Cooperação Paroquial Nossa Senhora do Loreto"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "EDIFÍCIO CASA DAS VARANDAS",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "93"
+        ],
+        "advertiserId": "83458604-a903-7b32-1260-109a7319725c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "119",
+                "price": "500000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1250"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21986783704"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21986783704",
+        "stamps": []
+    },
+    "account": {
+        "id": "83458604-a903-7b32-1260-109a7319725c",
+        "name": "NANCY MOREIRA GARCIA",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 224632,
+        "phones": {
+            "primary": "21986783704",
+            "mobile": "21986783704"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "4e8e0deede4045166853ff884b64bdb1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4e8e0deede4045166853ff884b64bdb1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ae5c717755e5e2406d38e065ca04cf59",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae5c717755e5e2406d38e065ca04cf59/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b9b4edbcdbb04b1a1c1ecdb6f9d02867",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b9b4edbcdbb04b1a1c1ecdb6f9d02867/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0a6565df2ac624b5f800a1dd619fdc8f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0a6565df2ac624b5f800a1dd619fdc8f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7dc022be2701e8bf13d297b79343db85",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7dc022be2701e8bf13d297b79343db85/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "860cf061484a655243e2b3b55a6176e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/860cf061484a655243e2b3b55a6176e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c41784fc7a85f6a85b76c5c7a3978df3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c41784fc7a85f6a85b76c5c7a3978df3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0801b88e302d4be2cc543ef697f861e2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0801b88e302d4be2cc543ef697f861e2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "82f111eb6ea5630a25990fbe32cf258d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82f111eb6ea5630a25990fbe32cf258d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "308638f42d0346d1921359891b694c95",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/308638f42d0346d1921359891b694c95/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7fcf0ed695bfced0862ba858ff4c6c89",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7fcf0ed695bfced0862ba858ff4c6c89/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2aa8fa9b8658d2baffe78474e4310de8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2aa8fa9b8658d2baffe78474e4310de8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c8aeceed34cae7e7cb932dc42f445ae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c8aeceed34cae7e7cb932dc42f445ae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "debb038a1e2a471d4989ce2003073a88",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/debb038a1e2a471d4989ce2003073a88/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c78d0f0872a3fb69e62efcef52f686e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c78d0f0872a3fb69e62efcef52f686e3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4b36f534aec344692a0ec73367d9036a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b36f534aec344692a0ec73367d9036a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ac2f771b68c5ca64647fae3e01b06e0b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ac2f771b68c5ca64647fae3e01b06e0b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a79d5b37d1309c9984109267210ecc79",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a79d5b37d1309c9984109267210ecc79/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3fb4e771465fd8ddc1c4431d749ff623",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3fb4e771465fd8ddc1c4431d749ff623/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a93e76ed5d35516c7a6836efc9acf6fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a93e76ed5d35516c7a6836efc9acf6fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e10d57d84652ae3723a14310a3327f2c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e10d57d84652ae3723a14310a3327f2c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fba5b6a393d63a267fc1fab9d2b660b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fba5b6a393d63a267fc1fab9d2b660b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ae4bef7dbfbc42013459f1a1636add49",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae4bef7dbfbc42013459f1a1636add49/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2671ea6ede5d0ade864649fc9a44315a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2671ea6ede5d0ade864649fc9a44315a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b667b5ec39fe1f063dece7b451d59543",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b667b5ec39fe1f063dece7b451d59543/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "83d452f5e5a93e84f35175291dbd4bbb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/83d452f5e5a93e84f35175291dbd4bbb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e1beac9dbfa769a388ab7a27a77fd05d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e1beac9dbfa769a388ab7a27a77fd05d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "39292851b9c5bc4d730ec3891f0d45d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39292851b9c5bc4d730ec3891f0d45d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "994a2deab278301284a4bae667e7a46b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/994a2deab278301284a4bae667e7a46b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "70550de558cbf89a3ad605ce0aee9d86",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/70550de558cbf89a3ad605ce0aee9d86/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NANCY MOREIRA GARCIA",
+        "href": "/224632/nancy-moreira-garcia/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 93m²",
+        "href": "/imovel/apartamento-2-quartos-freguesia-jacarepagua-zona-oeste-rio-de-janeiro-com-garagem-93m2-venda-RS500000-id-2748198907/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Freguesia- Jacarepaguá",
+            "state": "Rio de Janeiro",
+            "street": "Rua Xingu",
+            "streetNumber": "161",
+            "zone": "Zona Oeste"
+        }
+    }
+}

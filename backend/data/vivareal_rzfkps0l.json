@@ -1,0 +1,183 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "ELEVATOR",
+            "BALCONY",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "BICYCLES_PLACE"
+        ],
+        "usableAreas": [
+            "83"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento em Ipanema, na melhor quadra, com 83m² e vista Cristo. Composto por sala de estar/jantar, varanda com cortina de vidro, 2 suítes, cozinha com armários planejados e área de serviço. 01 vaga de garagem.<br>Prédio com portaria 24h, bicicletário, piscina e playground.",
+        "title": "Apartamento para venda com 2 quartos, 83m² - Ipanema - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2692510656",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22420043",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.985,
+                "approximateLon": -43.206,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Prudente de Morais",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Ipanema",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "poisList": [
+                "BS:BRS 2: Joana Angélica",
+                "BS:BRS 2 Farme de Amoedo",
+                "BS:BRS 1/3 Teixeira de Melo",
+                "BS:Ponto Final: General Osório :: Rua Teixeira de Melo",
+                "BS:BRS 2: General Osório",
+                "TS:Nossa Senhora da Paz",
+                "TS:Nossa Senhora da Paz / Ipanema",
+                "TS:Maria Quitéria",
+                "TS:Joana Angélica",
+                "TS:BRS 2: Joana Angélica",
+                "CS:Confeitaria Ipanema",
+                "CS:Armazém do Café",
+                "CS:TECNOMEDI IPANEMA",
+                "CS:Chocolate Brasil Cacau",
+                "CS:Terra Mineira",
+                "PH:Drogaria Pop",
+                "PH:Farmácia Central Posto 6",
+                "PH:Viva Mais",
+                "PH:Drogasmil",
+                "PH:Prontofarma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "10526681",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "83"
+        ],
+        "advertiserId": "9bd63b41-6885-877d-ef16-b5eda50138f3",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "922",
+                "price": "2900000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "5694"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21971846438"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971846438",
+        "stamps": []
+    },
+    "account": {
+        "id": "9bd63b41-6885-877d-ef16-b5eda50138f3",
+        "name": "Judice & Araujo Ipanema",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/44e65d4cc83d1f5e05a6267f8e475ce2/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 664601,
+        "phones": {
+            "primary": "21971846438",
+            "mobile": "21971846438"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "1f9200d92975dcb888ed4917562c6a90",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1f9200d92975dcb888ed4917562c6a90/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "75751b19eb1fa709a72a0952218c172f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/75751b19eb1fa709a72a0952218c172f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ecd77fef289ec7f9b2308f8990248b3f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ecd77fef289ec7f9b2308f8990248b3f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "98b44ef780ab5c9ec5a608f285fda5f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98b44ef780ab5c9ec5a608f285fda5f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a6d002e7452ecc93ffb1e944527ffb58",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a6d002e7452ecc93ffb1e944527ffb58/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "66ac299c4e65cb381263c6d7da09a67b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/66ac299c4e65cb381263c6d7da09a67b/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Judice & Araujo Ipanema",
+        "href": "/664601/judice-araujo-ipanema/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 83m²",
+        "href": "/imovel/apartamento-2-quartos-ipanema-zona-sul-rio-de-janeiro-com-garagem-83m2-venda-RS2900000-id-2692510656/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "state": "Rio de Janeiro",
+            "street": "Rua Prudente de Morais",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

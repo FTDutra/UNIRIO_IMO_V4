@@ -1,0 +1,298 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "BALCONY",
+            "PETS_ALLOWED",
+            "SERVICE_AREA",
+            "KITCHEN",
+            "INTERCOM",
+            "HEATING"
+        ],
+        "usableAreas": [
+            "60"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Privilégio Imóveis vende: Prédio sem porteiro, com 2 portões de entrada/ por interfone. Apartamento à 3 andares abaixo do nível rua, com 120 m², porém, IPTU ainda antigo, com 60 m². Composto por amplo hall de entrada, com 2 quartos voltados para a frente/ nível abaixo/ rua, com acesso a área externa. Banheiro social entre ambos. com box e banheira, separados. Cozinha, tipo americana, entre os 2 quartos/ frontais e o 3º quarto, transformado em 2ª sala e escritório, em total harmonia com a sala original, em 2 ambientes, com acesso a agradável varanda, com vista panorâmica. Área de serviço com dependências completas.",
+        "title": "Varanda, sala em 2 ambientes, original 3 quartos, com dependências completas.",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2664213367",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20241263",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.927,
+                "approximateLon": -43.192,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Almirante Alexandrino",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Santa Teresa",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Santa Teresa",
+            "poisList": [
+                "BS:Rua Monte Alegre próximo ao 342",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "BS:Rua das Laranjeiras, 336",
+                "BS:Ponto da Rua do Catumbi",
+                "BS:Ponto Final: Cruz Vermelha",
+                "TS:Vista Alegre",
+                "TS:Largo do França",
+                "TS:Rua Monte Alegre próximo ao 342",
+                "TS:Largo dos Guimarães",
+                "TS:Largo do Guimarães",
+                "CS:Padaria da Chácara",
+                "CS:Mercearia Fuji",
+                "CS:Panificação Aliança",
+                "CS:Frigorífico Palácio",
+                "CS:Vossa Mercê Mercearia",
+                "PH:RIC",
+                "PH:Farmácia Pinheiro Machado",
+                "PH:Bioderme",
+                "PH:Viva Bem",
+                "PH:drogarias tambaú"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "62442",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "60"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "616",
+                "price": "549000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "950"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "d361f6e4c6c88aa81049a8c71131617d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d361f6e4c6c88aa81049a8c71131617d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5739431d05d0385625037cd88c5c5017",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5739431d05d0385625037cd88c5c5017/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f1a8e62313a7cf1b04496d8c054b6db4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f1a8e62313a7cf1b04496d8c054b6db4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "66c833485434cdedfedc779d4bff36b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/66c833485434cdedfedc779d4bff36b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "31d9386d6273ea04184e2f337e78ec06",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/31d9386d6273ea04184e2f337e78ec06/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3fe4600805088485d618804b51511eca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3fe4600805088485d618804b51511eca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9ffc6aba462dd5126582b79e24d02e37",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ffc6aba462dd5126582b79e24d02e37/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5bbc8ca9745d556dc77cee2000934d43",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5bbc8ca9745d556dc77cee2000934d43/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a81f882c02d2a90419e47fc27a5df521",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a81f882c02d2a90419e47fc27a5df521/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0675d2f9a97a127597595081ca1011c0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0675d2f9a97a127597595081ca1011c0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c0b9b14cc0704c112464e5b8da2acda",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c0b9b14cc0704c112464e5b8da2acda/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "23e20a551dc9a1b7f5fb59aa13f27576",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/23e20a551dc9a1b7f5fb59aa13f27576/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0cc22adb18acdfee02359025a5ea69d9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0cc22adb18acdfee02359025a5ea69d9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d7a8cc8371a9b8ed180dca90f234c48",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d7a8cc8371a9b8ed180dca90f234c48/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d7e3599de725fc88f35307a23348458e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7e3599de725fc88f35307a23348458e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e6d8741298b04acd728a101c66d5fcdb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e6d8741298b04acd728a101c66d5fcdb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5c3e858d58607b81bd38861e9f364335",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5c3e858d58607b81bd38861e9f364335/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d38c007ac15b107e49454e253d3bc03d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d38c007ac15b107e49454e253d3bc03d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a4ef9884da559902e13b89ad651b5959",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4ef9884da559902e13b89ad651b5959/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "89f236ec7e442a620bf0099b546a4bf5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/89f236ec7e442a620bf0099b546a4bf5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "537f68844630826b3c3260d2069c44ac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/537f68844630826b3c3260d2069c44ac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "417d9e004d38024b855423c4641e40c5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/417d9e004d38024b855423c4641e40c5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e58563a7fc20fbd11a2bc7bebd62c192",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e58563a7fc20fbd11a2bc7bebd62c192/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e8f3fe3cd9c561b5b882119a9e96249a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e8f3fe3cd9c561b5b882119a9e96249a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "58ba93b3ba5f5fae62d835c476493082",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/58ba93b3ba5f5fae62d835c476493082/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ecb570c5dd67864c077667bb7df64d41",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ecb570c5dd67864c077667bb7df64d41/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf59451eef91c8b6ca14e0b59d932c61",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf59451eef91c8b6ca14e0b59d932c61/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e28176f869179e9220a2889819279528",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e28176f869179e9220a2889819279528/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8c4c34b53af01266c6f437311ab7c016",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8c4c34b53af01266c6f437311ab7c016/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 60m²",
+        "href": "/imovel/apartamento-3-quartos-santa-teresa-zona-central-rio-de-janeiro-60m2-venda-RS549000-id-2664213367/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Santa Teresa",
+            "state": "Rio de Janeiro",
+            "street": "Rua Almirante Alexandrino",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

@@ -1,0 +1,299 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "KITCHEN",
+            "INTERCOM",
+            "ELEVATOR",
+            "PLAYGROUND",
+            "SERVICE_AREA"
+        ],
+        "usableAreas": [
+            "86"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento 86 m² localizado no centro do rio, perto do maior polo Bohemia do rio, composto de dois quartos grandes, todos com carpete, banheiro todo em piso frio, com área de serviço cabendo tudo, vista livre, andar alto, prédio com portaria 24 horas.",
+        "title": "Apartamento-À VENDA-Centro-Rio de Janeiro-RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2611975340",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20231016",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "70",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.186783,
+                "source": "GOOGLE",
+                "lat": -22.910979
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Rua Ubaldino do Amaral",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:P28",
+                "BS:BRS 1,2,4 Inválidos",
+                "BS:BRS 4",
+                "BS:BRS 4: Praça da República",
+                "BS:BRS 5: Praça da República",
+                "TS:P28",
+                "TS:BRS 1,2,4 Inválidos",
+                "TS:BRS 4: Praça da República",
+                "TS:BRS 5: Praça da República",
+                "TS:BRS 1,2: Praça da República",
+                "CS:Artes Integrais",
+                "CS:Mercearia Gabi",
+                "CS:Via Verde",
+                "CS:Fábrica de Bolo - vó Alzira",
+                "CS:Lojas Americanas - Express",
+                "PH:City Farma",
+                "PH:Drogaria Exata",
+                "PH:Drogaria Guanabara",
+                "PH:Exata",
+                "PH:Viva Bem"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "CTAP20725",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "86"
+        ],
+        "advertiserId": "d51aba14-eea5-902b-db95-5851efbecb3b",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "420000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "580"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2125267201",
+                "21970883789"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21970883789",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE",
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "d51aba14-eea5-902b-db95-5851efbecb3b",
+        "name": "ADAK IMÓVEIS CENTRO",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f197458fa84b046823c707c10299bded/{description}.webp",
+        "licenseNumber": "06535-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 123506,
+        "phones": {
+            "primary": "2125267201",
+            "mobile": "21970883789"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "9093b89228ba8a3fad9e57b43101b37e",
+            "url": "https://www.youtube.com/watch?v=gTXsqwWCeTs",
+            "type": "VIDEO"
+        },
+        {
+            "id": "2941ac5e7cff91892a13453da66f8581",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2941ac5e7cff91892a13453da66f8581/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd02aeb2442a94e483be793e4b9693aa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd02aeb2442a94e483be793e4b9693aa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "43a139e8d7ccf718d660541a75a4e08c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/43a139e8d7ccf718d660541a75a4e08c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b2d9dc2e20a687c9281fb679a1779e24",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b2d9dc2e20a687c9281fb679a1779e24/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8dd639791f758a136e2c0c58f8c17995",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8dd639791f758a136e2c0c58f8c17995/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f2daaabd8d2a803b8c6292b5596da7e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f2daaabd8d2a803b8c6292b5596da7e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "74fd8e37388275c1ce9895224b5b5a74",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/74fd8e37388275c1ce9895224b5b5a74/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf848c9bc2c1d5515c7ed089ae917b2d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf848c9bc2c1d5515c7ed089ae917b2d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "77d427ca30e1a27461a59e354fec18f7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/77d427ca30e1a27461a59e354fec18f7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "069573c43d684e81b6422d423c2d26a7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/069573c43d684e81b6422d423c2d26a7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "33e2e01203c1dd215a9ee256d0b0bfb9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/33e2e01203c1dd215a9ee256d0b0bfb9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "76c0d99076633867183042dbd7e57289",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/76c0d99076633867183042dbd7e57289/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "71ee3f029517b9cb5888625c2e292d7b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/71ee3f029517b9cb5888625c2e292d7b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "784b198573da83dca1c3f14f4d346f46",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/784b198573da83dca1c3f14f4d346f46/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e1799c99ff9e16b76499357fe66c91fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e1799c99ff9e16b76499357fe66c91fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "787e64c6bc1620edac9bd53efea6b551",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/787e64c6bc1620edac9bd53efea6b551/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bbb44f0f495eb0f38d4369d8b13192ab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bbb44f0f495eb0f38d4369d8b13192ab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e533831f01d269deff6cab8c4cfa1822",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e533831f01d269deff6cab8c4cfa1822/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca77c0a9d9f085f13a006f13e6c9d12a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca77c0a9d9f085f13a006f13e6c9d12a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe1106bd366294bf2ab8c973fbceaaee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe1106bd366294bf2ab8c973fbceaaee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a8708b7bf3be218a849be719275f906",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8a8708b7bf3be218a849be719275f906/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f72101bb7ccbb303df9d69998a62e82d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f72101bb7ccbb303df9d69998a62e82d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "829a52a63ad36bbacefbebcf70252585",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/829a52a63ad36bbacefbebcf70252585/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "740939ef5b3ab1d749351cfeddbbe4b7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/740939ef5b3ab1d749351cfeddbbe4b7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cae2882b791ba904b31339e62e5f4ac5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cae2882b791ba904b31339e62e5f4ac5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "545e39bc6be2e49b3def8aaab6f4e070",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/545e39bc6be2e49b3def8aaab6f4e070/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e1258ae85719841c8c5ff169d5a77a33",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e1258ae85719841c8c5ff169d5a77a33/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "90694e17f61fb71ebed7ed77a1ebb9a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/90694e17f61fb71ebed7ed77a1ebb9a3/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "ADAK IMÓVEIS CENTRO",
+        "href": "/123506/adak-imoveis-centro/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 86m²",
+        "href": "/imovel/apartamento-2-quartos-centro-zona-central-rio-de-janeiro-86m2-venda-RS420000-id-2611975340/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Rua Ubaldino do Amaral",
+            "streetNumber": "70",
+            "zone": "Zona Central"
+        }
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "BALCONY",
+            "GARAGE",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "HEATING",
+            "SAFETY_CIRCUIT",
+            "WATCHMAN"
+        ],
+        "usableAreas": [
+            "90"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Privilégio Imóveis Vende: Excelente apartamento 3 quartos no coração do Grajaú! Prédio centro de terreno, com play, salão de festas e uma vaga escriturada. Apartamento todo reformado, repleto de armários e split, fundos, silencioso, com varanda, sala em dois ambientes, original 3 quartos revertido para 2 quartos, porém de fácil retorno, sendo uma suíte com closet, cozinha planejada e dependência completa. Pronto para entrar e morar! O valor do imóvel poderá sofrer alteração sem aviso prévio.",
+        "title": "Apartamento à venda, 3 quartos, 1 suíte, 1 vaga, Grajaú - RIO DE JANEIRO/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2619480958",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20561014",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.919,
+                "approximateLon": -43.266,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Avenida Júlio Furtado",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Grajau",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Grajaú",
+            "poisList": [
+                "BS:Ponto final 703",
+                "BS:Ponto Final: Grajaú",
+                "BS:Ponto final 222",
+                "BS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "BS:Padre Roma",
+                "TS:Ponto final 703",
+                "TS:Ponto Final: Grajaú",
+                "TS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "TS:Padre Roma",
+                "TS:Ponto Final: Vila Isabel :: Linha 432",
+                "CS:Jóia do Grajaú",
+                "CS:Empório Maria Filó",
+                "CS:Fábrica de Bolo da Vó Alzira",
+                "CS:Padaria do Verdun",
+                "PH:Drograrias Guanabara"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "28134",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "90"
+        ],
+        "advertiserId": "47bfba65-4536-fdcd-02a0-7c94c59de885",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1376",
+                "price": "790000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "870"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2139883415",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_FEVEREIRO_2024"
+        ]
+    },
+    "account": {
+        "id": "47bfba65-4536-fdcd-02a0-7c94c59de885",
+        "name": "Privilégio Tijuca",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca0857f43658bddac6ef6c3da8d31f19/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 761981,
+        "phones": {
+            "primary": "2139883415",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "aa6cb5e9dac81510246cef8b532a100d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa6cb5e9dac81510246cef8b532a100d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8c697258e66e1392199c3b2a482f5df5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8c697258e66e1392199c3b2a482f5df5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "66f0270c7c5b46ba8edb392dd0b18f6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/66f0270c7c5b46ba8edb392dd0b18f6e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1b794016e2ba10dd0600723f482ded9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1b794016e2ba10dd0600723f482ded9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f6283bd1f7018fa05169e2295f06f930",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f6283bd1f7018fa05169e2295f06f930/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f32a85c1bea53b4bb822ffc3a0d0e4e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f32a85c1bea53b4bb822ffc3a0d0e4e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4d8c5a0daaf23b5eb8acaab349cb5e86",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4d8c5a0daaf23b5eb8acaab349cb5e86/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8d6a5f022c897b0346f7b8b53f2ca759",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d6a5f022c897b0346f7b8b53f2ca759/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e77e8f14b2957b18cbd3b880a299d545",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e77e8f14b2957b18cbd3b880a299d545/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "02017e2039ec70433f9ba1fabd14b9d1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/02017e2039ec70433f9ba1fabd14b9d1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42a0b16835d055e8806f8140baa3d4f3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42a0b16835d055e8806f8140baa3d4f3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2543c3d74db517794e167df6b2939429",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2543c3d74db517794e167df6b2939429/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "187e274f570d9938bd2d4fc1b5b6d60d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/187e274f570d9938bd2d4fc1b5b6d60d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5b02901062064c95cdb803bd86a61c4f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b02901062064c95cdb803bd86a61c4f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3655014c6958a955826339fc18393567",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3655014c6958a955826339fc18393567/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "98d806d8f231f7b8bab0e94ec753b3a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98d806d8f231f7b8bab0e94ec753b3a6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f514571df51bdf09fe374a6ff18fd82a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f514571df51bdf09fe374a6ff18fd82a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cc275e60d4642642a5195841f59d27ba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cc275e60d4642642a5195841f59d27ba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b42f12ecd319edba4b53f8a2dc2c5e49",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b42f12ecd319edba4b53f8a2dc2c5e49/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "387450900886e0b15fc2343121b59f69",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/387450900886e0b15fc2343121b59f69/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f1a00cbfadc4e5aabed1574beaf4015b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f1a00cbfadc4e5aabed1574beaf4015b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "20d08e56df41ca2a51c7a691f834bb7c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/20d08e56df41ca2a51c7a691f834bb7c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b2c48773d8e7727a71e3c2f05cd3f905",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b2c48773d8e7727a71e3c2f05cd3f905/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9abc1251930ac0bef2abc1c740b269dc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9abc1251930ac0bef2abc1c740b269dc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd9727358be02e4e10896cf33c4eaf40",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd9727358be02e4e10896cf33c4eaf40/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Tijuca",
+        "href": "/761981/privilegio-tijuca/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 90m²",
+        "href": "/imovel/apartamento-3-quartos-grajau-zona-norte-rio-de-janeiro-com-garagem-90m2-venda-RS790000-id-2619480958/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Grajaú",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Júlio Furtado",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

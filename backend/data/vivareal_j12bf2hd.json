@@ -1,0 +1,283 @@
+{
+    "listing": {
+        "displayAddressType": "NEIGHBORHOOD",
+        "amenities": [
+            "FURNISHED",
+            "ELEVATOR",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "KITCHEN",
+            "INTERCOM",
+            "ALARM_SYSTEM",
+            "CABLE_TV"
+        ],
+        "usableAreas": [
+            "79"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "AP0012 - \"VENDA\" TAQUARA, Apartamento andar alto, vista livre, varanda ampla, sala em 3 ambientes, 2 quartos com armários, banheiro social com box blindex e armários, copa cozinha com planejados, área de serviço com lavanderia e dependência completa. 01 vaga de garagem, playground com salão de festas, próximo a escolas, shopping, padaria, mercado, brt,...<br>Aceita financiamento e FGTS !!! -",
+        "title": "Apartamento com 2 dormitórios à venda, 79 m² por R$ 330.000,00 - Taquara - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2745638003",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22710266",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.929,
+                "approximateLon": -43.374,
+                "radius": 250
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Taquara",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Taquara",
+            "poisList": [
+                "BS:Terminal Bandeira Brasil (Taquara) :: Plat. Oeste",
+                "BS:Ponto do 861 - Via Rio das Pedras",
+                "BS:Ponto do 861 - Via Curicica",
+                "BS:Ponto Final: Pechincha :: Linha 2115",
+                "BS:Ponto Final: Taquara",
+                "TS:André Rocha",
+                "TS:Taquara (Expresso)",
+                "TS:Taquara (Parador)",
+                "TS:Terminal Bandeira Brasil (Taquara) :: Plat. Oeste",
+                "TS:Merck",
+                "CS:Padaria Quero Pão da Taquara",
+                "CS:Sweet Gula",
+                "PH:Farmácia (Rede Bandeirantes de Drogarias)",
+                "PH:Ennes Farma",
+                "PH:Drogaria Rede Economia",
+                "PH:Mega Expressa Drogaria"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0012",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "79"
+        ],
+        "advertiserId": "a9aa7747-5b08-5b21-bc89-68f131efe4f6",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "86",
+                "price": "330000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "859"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21971171975"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971171975",
+        "stamps": []
+    },
+    "account": {
+        "id": "a9aa7747-5b08-5b21-bc89-68f131efe4f6",
+        "name": "Felce Imóveis",
+        "licenseNumber": "96485-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 837402,
+        "phones": {
+            "primary": "21971171975",
+            "mobile": "21971171975"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "b855fb3b5c3cbfd5153f1ca614a52024",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b855fb3b5c3cbfd5153f1ca614a52024/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b0ce383ae292c158abc8f9ee5f6bad37",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b0ce383ae292c158abc8f9ee5f6bad37/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "53e5a2da1703f046f772332f115265f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/53e5a2da1703f046f772332f115265f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6987aa82504971ecf86ad26eba3ef3ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6987aa82504971ecf86ad26eba3ef3ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "31082d5257689357225975ea92113803",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/31082d5257689357225975ea92113803/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0917563f848ed7a329c787155fe28e4c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0917563f848ed7a329c787155fe28e4c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "60b36e48fbb1e9c99b9b4318f3f1dbdf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60b36e48fbb1e9c99b9b4318f3f1dbdf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4da7a8912d1c7bb9d0930b4cc9e986ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4da7a8912d1c7bb9d0930b4cc9e986ff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f53c1a12f21d5adf32cd5d56fcd449c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f53c1a12f21d5adf32cd5d56fcd449c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d081c046424064b382e4f83627910224",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d081c046424064b382e4f83627910224/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9cc121e4ec1da22d2f01417b9a3d814e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9cc121e4ec1da22d2f01417b9a3d814e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b0bdc6b85569138968096918bd827c8a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b0bdc6b85569138968096918bd827c8a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "83814f89e0b4ccf8e5d084462215cc21",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/83814f89e0b4ccf8e5d084462215cc21/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a83cdea216f03e27232a02789f4100d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a83cdea216f03e27232a02789f4100d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f0b0d54936f712d148a33d6c04176c51",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f0b0d54936f712d148a33d6c04176c51/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86ed9c761cfa8d694a797bd408b7d23d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86ed9c761cfa8d694a797bd408b7d23d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "83e5e02334d5fc28cc0de9620e105107",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/83e5e02334d5fc28cc0de9620e105107/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6f584a6b10a171c262e4cc49c248f413",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6f584a6b10a171c262e4cc49c248f413/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ac64a3befb356b41a5827aa03f8d2a74",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ac64a3befb356b41a5827aa03f8d2a74/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f391ac936cf585e11fff10c1f0c14547",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f391ac936cf585e11fff10c1f0c14547/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "015add4046736313d5453fb005362907",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/015add4046736313d5453fb005362907/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb02055a43534069723633aa2a7ec950",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb02055a43534069723633aa2a7ec950/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "63b2b5ba207669595d85c5af77ceab97",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/63b2b5ba207669595d85c5af77ceab97/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c07e959b4a7d5dee2889942ee2fcb02a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c07e959b4a7d5dee2889942ee2fcb02a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bbdf37c3585f424bdc7b3c69f1e621e2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bbdf37c3585f424bdc7b3c69f1e621e2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4dcaa93aaff205b2aec88e759c8275df",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4dcaa93aaff205b2aec88e759c8275df/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bfd12b24e64304bd2609ac2ecf7394b2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bfd12b24e64304bd2609ac2ecf7394b2/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Felce Imóveis",
+        "href": "/837402/felce-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 79m²",
+        "href": "/imovel/apartamento-2-quartos-taquara-zona-oeste-rio-de-janeiro-com-garagem-79m2-venda-RS330000-id-2745638003/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Taquara",
+            "state": "Rio de Janeiro",
+            "street": "",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

@@ -1,0 +1,309 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SERVICE_BATHROOM",
+            "LARGE_ROOM",
+            "BLINDEX_BOX",
+            "SAUNA",
+            "SERVICE_ROOM",
+            "NATURAL_VENTILATION",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "110"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "EXCELENTE LOCALIZAÇÃO, PERTO DE TUDO EM RUA ARBORIZADA, COMPOSTO DE 2 VAGAS. VARANDA, SALA, 3 QUARTOS SENDO 1 SUÍTE, SOCIAL COM PISO CERAMICA, TETO BOX BLINDEX. APARTAMENTO COM DIREITO A ÁREA..",
+        "title": "Apartamento para venda com 110 metros quadrados com 3 quartos em Tijuca - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2522704382",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20261120",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.922,
+                "approximateLon": -43.221,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Aguiar",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Ponto Final do 600 (Taquara)",
+                "BS:Ponto Final: Saens Peña :: Linha 601",
+                "BS:Club Municipal",
+                "BS:P9: Moraes e Silva",
+                "BS:P8: Barão de Mesquita",
+                "TS:São Francisco Xavier / Tijuca",
+                "TS:Ponto Final do 600 (Taquara)",
+                "TS:Ponto Final: Saens Peña :: Linha 601",
+                "TS:Club Municipal",
+                "TS:Afonso Pena / Tijuca",
+                "CS:Confeitaria Rita de Cássia",
+                "CS:Empório Mineiro Cheirin Bão",
+                "CS:Grão de Minas",
+                "CS:Império do Pão",
+                "CS:Empório Lamego",
+                "PH:Farmavita",
+                "PH:Drograria Venâncio",
+                "PH:Drogaria Pedro Ernesto"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "MBAP33452",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "110"
+        ],
+        "advertiserId": "389c32ae-d0fe-84f2-5fb6-bdb9645da201",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2134",
+                "price": "950000",
+                "businessType": "SALE"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122047000",
+                "21994033825"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21994033825",
+        "stamps": []
+    },
+    "account": {
+        "id": "389c32ae-d0fe-84f2-5fb6-bdb9645da201",
+        "name": "RJC IMOBILIÁRIA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82c4683131e146314b54c3710d313a85/{description}.webp",
+        "licenseNumber": "043388-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 232020,
+        "phones": {
+            "primary": "2122047000",
+            "mobile": "21994033825"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "67c6c5c98a2523ee42ef04b126c18709",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/67c6c5c98a2523ee42ef04b126c18709/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1dc7f486d9367e60f9c23f6c0fed080",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1dc7f486d9367e60f9c23f6c0fed080/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce65a603f46ff0c3b413568fa46de186",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce65a603f46ff0c3b413568fa46de186/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b02dddafc0242e41be6d1aeb534c2001",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b02dddafc0242e41be6d1aeb534c2001/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "545e542be0c4dcf44f63fae5644be9d2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/545e542be0c4dcf44f63fae5644be9d2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a459a7a67d672dc0b7cba14d3cb1ef8b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a459a7a67d672dc0b7cba14d3cb1ef8b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8514dac8fc1c3df077f039b9c8aeac24",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8514dac8fc1c3df077f039b9c8aeac24/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "159535ba26fd032ec5f9d437c27ad750",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/159535ba26fd032ec5f9d437c27ad750/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "094ae6dea8f5ab8f91a974071d83071a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/094ae6dea8f5ab8f91a974071d83071a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "79ecb90f2cbf27292bcc1905c0cb378b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/79ecb90f2cbf27292bcc1905c0cb378b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "de20138231dd932a5fbcfdda6aff0039",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/de20138231dd932a5fbcfdda6aff0039/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b283e141ad39cbe3fec056543d43ff28",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b283e141ad39cbe3fec056543d43ff28/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ae47632fc871c62f2f4ba842ea6cd7e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ae47632fc871c62f2f4ba842ea6cd7e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d5b0b778c43538eed4cc9ede9c53ac45",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d5b0b778c43538eed4cc9ede9c53ac45/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "05142c6aad0602b2dff9be6ff66b522c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/05142c6aad0602b2dff9be6ff66b522c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "226f1dc668848df4fdb2dbcc0bc544b8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/226f1dc668848df4fdb2dbcc0bc544b8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0940142dd4577ba9db22e18c1e1c0075",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0940142dd4577ba9db22e18c1e1c0075/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "33ea3a214ddbe34f6ee74ca92bd49474",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/33ea3a214ddbe34f6ee74ca92bd49474/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "72ffc2de36d443a7d90f0e749d74877c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/72ffc2de36d443a7d90f0e749d74877c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "967025c136abf4fe971bc738017abc9b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/967025c136abf4fe971bc738017abc9b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c476ec8c3f79ea3ef456519a0c088707",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c476ec8c3f79ea3ef456519a0c088707/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ffc462a696fde347b82d69379d86e00",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ffc462a696fde347b82d69379d86e00/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "be2a1733613f0d32c0faf7476ebb530a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/be2a1733613f0d32c0faf7476ebb530a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "47619647811cbf0ae3b3aee2e5505a0b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/47619647811cbf0ae3b3aee2e5505a0b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "75745a451a1be82379853ffa1d4d7640",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/75745a451a1be82379853ffa1d4d7640/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f345c53421532fef0b75b1d6fd02ffc2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f345c53421532fef0b75b1d6fd02ffc2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "68250c660fbc2a0ae742a87a7eca178d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/68250c660fbc2a0ae742a87a7eca178d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9458bf99e5f49d3cb82fbf964e081858",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9458bf99e5f49d3cb82fbf964e081858/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f1f238c045a8e8a212d4c21abe0a0906",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f1f238c045a8e8a212d4c21abe0a0906/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3316056b0922af3cdd3677ac848aa523",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3316056b0922af3cdd3677ac848aa523/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "RJC IMOBILIÁRIA",
+        "href": "/232020/rjc-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 110m²",
+        "href": "/imovel/apartamento-3-quartos-tijuca-zona-norte-rio-de-janeiro-com-garagem-110m2-venda-RS950000-id-2522704382/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Aguiar",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

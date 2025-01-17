@@ -1,0 +1,253 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "GARAGE",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "WATCHMAN"
+        ],
+        "usableAreas": [
+            "80"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento, de frente, em andar alto, com vista indevassada e bem iluminado.<br>Totalmente renovado: piso em porcelanato novo, elétrica e hidráulica novas, bancadas nos banheiros e cozinha.<br>Boa distribuição e aproveitamento, com sala, dois quartos (sendo uma suíte) e dependências, com porta social e de serviço.<br>Excelente localização, próximo de pequenos comércios, do Shopping Tijuca e outros locais movimentados, e servido por transporte público.<br>Rápido acesso ao Centro, Zona Sul (Tn. Rebouças) e Zona Oeste (Grajaú-Jacarepaguá)",
+        "title": "Apartamento à venda, 2 quartos, 1 suíte, 1 vaga, Vila Isabel - RIO DE JANEIRO/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2578850612",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20541050",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.92,
+                "approximateLon": -43.243,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Araújo Lima",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Vila Isabel",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "poisList": [
+                "BS:Barão de Mesquita 482c",
+                "BS:Doutor Aníbal Moreira",
+                "BS:BRS 2, 6, 7",
+                "BS:BRS 4, 5, I",
+                "BS:Ponto Final: Maracanã :: Linha 464",
+                "TS:BRS 2, 6, 7",
+                "TS:BRS 4, 5, I",
+                "TS:Ponto Final: Maracanã :: Linha 464",
+                "TS:Ponto Final 439",
+                "TS:Ponto Final 605",
+                "CS:Conveniência do Pão",
+                "CS:Padaria Arte & Pão",
+                "CS:Mei Sim",
+                "CS:Padaria Villas Garden",
+                "CS:Mercado de Carnes Coração da Vila",
+                "PH:Farma Dez",
+                "PH:Drograria Venâncio",
+                "PH:Drogaria Pedro Ernesto",
+                "PH:Drogaria Unidas",
+                "PH:Drogaria Venancio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "50757",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "80"
+        ],
+        "advertiserId": "47bfba65-4536-fdcd-02a0-7c94c59de885",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1100",
+                "price": "525000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "750"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2139883415",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "47bfba65-4536-fdcd-02a0-7c94c59de885",
+        "name": "Privilégio Tijuca",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca0857f43658bddac6ef6c3da8d31f19/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 761981,
+        "phones": {
+            "primary": "2139883415",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "1228b35bec6babedc59095971d5496c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1228b35bec6babedc59095971d5496c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc4345dbc086a79d8a53d58e8d0302f6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc4345dbc086a79d8a53d58e8d0302f6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "761c5690cb66424e5b5ead6181f902b6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/761c5690cb66424e5b5ead6181f902b6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "20c0f280e488cc5b2b33695bc967dc2a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/20c0f280e488cc5b2b33695bc967dc2a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "44c8a325878d99b00f5ad1ec94b2df66",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/44c8a325878d99b00f5ad1ec94b2df66/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "045de9f70a1d70d95733383c90389915",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/045de9f70a1d70d95733383c90389915/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "12c458c4dd28fedc0b04bfb6b6634b87",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/12c458c4dd28fedc0b04bfb6b6634b87/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "97301dbc58049ac79b234e5dde4bb73b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/97301dbc58049ac79b234e5dde4bb73b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a7dd1acdbf6a1d960f14db07235b5b80",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a7dd1acdbf6a1d960f14db07235b5b80/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2c44ad1070d4eb36ad3b50baa41ffb31",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c44ad1070d4eb36ad3b50baa41ffb31/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "317fb61c40d86f9db1977a5a225a6652",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/317fb61c40d86f9db1977a5a225a6652/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "940ad49e05839b0312b1d2ce3c3cc76f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/940ad49e05839b0312b1d2ce3c3cc76f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "02615cf86477dc10d5577d25f826f67c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/02615cf86477dc10d5577d25f826f67c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9216af0e7f58ddcc8135d0c7ea19690",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9216af0e7f58ddcc8135d0c7ea19690/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "283d58bfa0761f7136f145f43e0d1a76",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/283d58bfa0761f7136f145f43e0d1a76/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "41192a750cb85e497b0a75a5f09af937",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/41192a750cb85e497b0a75a5f09af937/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c3244657cb8eae588eacf86eff812464",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c3244657cb8eae588eacf86eff812464/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ef86323c6b428ab8c8b092dd12b1597",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ef86323c6b428ab8c8b092dd12b1597/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8365c723855118b1dac21063c5fa535a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8365c723855118b1dac21063c5fa535a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e4519ec92a95eec0d6a8af70bbc6e09",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9e4519ec92a95eec0d6a8af70bbc6e09/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Tijuca",
+        "href": "/761981/privilegio-tijuca/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 80m²",
+        "href": "/imovel/apartamento-2-quartos-vila-isabel-zona-norte-rio-de-janeiro-com-garagem-80m2-venda-RS525000-id-2578850612/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "state": "Rio de Janeiro",
+            "street": "Rua Araújo Lima",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

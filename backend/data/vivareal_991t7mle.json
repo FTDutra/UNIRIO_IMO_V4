@@ -1,0 +1,181 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "BALCONY",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "INTERNET_ACCESS",
+            "PORCELAIN",
+            "RECEPTION",
+            "ELECTRONIC_GATE",
+            "SERVICE_ENTRANCE",
+            "DISABLED_ACCESS"
+        ],
+        "usableAreas": [
+            "114"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "ÓTIMA LOCALIZAÇÃO: Apartamento 3 quartos (1 suíte), 114 metros quadrados, final de construção. Com 02 vagas de garagem.<br>Ficará pronto em Setembro de 2024.<br>Pode agendar visitas.",
+        "title": "Apartamento 3 quartos 114 metros quadrados, 1 suíte, EXCELENTE LOCALIZAÇÃO, 02 VAGAS. MARQUE VISITA",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2718663801",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790430",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "15",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.471793,
+                "source": "GOOGLE",
+                "lat": -23.01818
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Almirante Ary Rongel",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Gilka Machado",
+                "TS:Guiomar Novaes",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Recreio Shopping",
+                "CS:R2 Bolos",
+                "CS:Américas Pão",
+                "CS:Armazém do Recreio",
+                "CS:Panetteria Recreio",
+                "CS:Alfa Belle",
+                "PH:Botica do Rio",
+                "PH:Drogaria do Povo das Américas",
+                "PH:Foliare",
+                "PH:Economia de Drogarias",
+                "PH:Farmario"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "42T03T",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "114"
+        ],
+        "advertiserId": "d66ea7b7-5368-959d-b8e0-71b14aa0f473",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "750",
+                "price": "690000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1200"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21999856599"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21999856599",
+        "stamps": []
+    },
+    "account": {
+        "id": "d66ea7b7-5368-959d-b8e0-71b14aa0f473",
+        "name": "Lusa Imóveis",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 360323,
+        "phones": {
+            "primary": "21999856599",
+            "mobile": "21999856599"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "24acbbb8851be98482323a8dd944961d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/24acbbb8851be98482323a8dd944961d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d2bce644461284cd14b74fdb7bcdf28e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d2bce644461284cd14b74fdb7bcdf28e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ba9831838ab6931d460c1d80106a6f84",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ba9831838ab6931d460c1d80106a6f84/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4bc806144c4e76124c000b8ac95d106c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4bc806144c4e76124c000b8ac95d106c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe8e942fcd04abd3b4bf06823a6a4e11",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe8e942fcd04abd3b4bf06823a6a4e11/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "30b174b26f04def9247012baf6b983f7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30b174b26f04def9247012baf6b983f7/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Lusa Imóveis",
+        "href": "/360323/lusa-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 114m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-114m2-venda-RS690000-id-2718663801/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Almirante Ary Rongel",
+            "streetNumber": "15",
+            "zone": "Zona Oeste"
+        }
+    }
+}

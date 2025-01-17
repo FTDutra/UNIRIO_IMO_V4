@@ -1,0 +1,363 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "GARAGE",
+            "LARGE_KITCHEN",
+            "SERVICE_AREA",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "72"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Atenção,ótima oportunidade, localização impar,todo comércio e condução bem próximo ao centro do Méier, estação de trem, imóvel desocupado amplo e bem arejado composto da seguinte forma: Ótima sala, 2 dormitórios, cozinha bem ampla, área de serviço separada, dependência de empregada completa. O imóvel possui 2 vagas na escritur, portaria 24, salão de festas. O valor do imóvel pode ser alterado pelo proprietário sem qualquer aviso prévio ff44a",
+        "title": "Méier | Apartamento 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2761795557",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20735160",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.902,
+                "approximateLon": -43.284,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Venceslau",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Meier",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Méier",
+            "poisList": [
+                "BS:Constança Barbosa",
+                "BS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. B",
+                "BS:Terminal Arquiteto Gelton Paciello da Motta",
+                "BS:Agripino Grieco",
+                "BS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. A",
+                "TS:Constança Barbosa",
+                "TS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. B",
+                "TS:Agripino Grieco",
+                "TS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. A",
+                "TS:232 - Lins x Praça XV",
+                "CS:Dika do Méier",
+                "CS:TECNOMEDI MÉIER",
+                "CS:Rainha do Méier",
+                "CS:ortális",
+                "CS:Tuti Fruti",
+                "PH:Drogaria Mais Barato - Méier",
+                "PH:Drogaria Atração do Méier",
+                "PH:Drogaria Carioca",
+                "PH:Droh"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "ME2AP95733",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "72"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "756",
+                "price": "270000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1200"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "77502c96fd42fe808a38e26ddce5cd94",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/77502c96fd42fe808a38e26ddce5cd94/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1f35d0b83d237bbe814d15225fa1e811",
+            "url": "https://www.youtube.com/watch?v=GgTsyW5t5Yk",
+            "type": "VIDEO"
+        },
+        {
+            "id": "e795235cea43de93cb4709920929ac72",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e795235cea43de93cb4709920929ac72/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9525817b12ab36c95f46457a3d80b1f7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9525817b12ab36c95f46457a3d80b1f7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "51acf9258b92188241ca3a0197b428bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/51acf9258b92188241ca3a0197b428bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3fb8ad8f8b221f7530f678e0dec28d8d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3fb8ad8f8b221f7530f678e0dec28d8d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f0955f8b6d37f10109d2616318fa7832",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f0955f8b6d37f10109d2616318fa7832/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8670d9bce7d1b25652222b30c4b5886d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8670d9bce7d1b25652222b30c4b5886d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "487453a0dc726f4123c8c554e264b940",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/487453a0dc726f4123c8c554e264b940/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "07a694c01c44668941dc545cf586f68c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/07a694c01c44668941dc545cf586f68c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5a81f0f4ab9f21b4692765da38ed8138",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5a81f0f4ab9f21b4692765da38ed8138/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2c87753d9e7e5fbab2c9f6bca5402378",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c87753d9e7e5fbab2c9f6bca5402378/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d9e04b4be9eaef586422c9bf26cd929a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d9e04b4be9eaef586422c9bf26cd929a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a939bf37cd7dbd6b5c2a0aefaa0abe65",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a939bf37cd7dbd6b5c2a0aefaa0abe65/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "98bb2450b0b283e2e6299baed595d4d8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98bb2450b0b283e2e6299baed595d4d8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "25fe310dd827841b5d820b5487c9ba97",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/25fe310dd827841b5d820b5487c9ba97/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aff9e7ec2584d67ff8f5f5b89821a036",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aff9e7ec2584d67ff8f5f5b89821a036/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2f7b20ada25221c6c9a3491a414a3c0a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2f7b20ada25221c6c9a3491a414a3c0a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "318e3ca1d48b366f6bd573caf796b34e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/318e3ca1d48b366f6bd573caf796b34e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d3cb7478750ff7d2989936929ad4707b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d3cb7478750ff7d2989936929ad4707b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a2444ee1044d842bc54d80b4a4ced43",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a2444ee1044d842bc54d80b4a4ced43/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f6424ffb9732b3af4a45e6358170f9bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f6424ffb9732b3af4a45e6358170f9bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "115d0a1f27dfd6de91520d6282477595",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/115d0a1f27dfd6de91520d6282477595/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "321cbee445b81058a56525d3947e0380",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/321cbee445b81058a56525d3947e0380/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0dbe055690833532c74eb76791c5273d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0dbe055690833532c74eb76791c5273d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "37087836050f4c9c6c3d4f241f895d79",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/37087836050f4c9c6c3d4f241f895d79/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "26718c0b979a01f83bcc0164df4de889",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/26718c0b979a01f83bcc0164df4de889/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6b57def5e5c8b38c96eb3dfb22c3d327",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6b57def5e5c8b38c96eb3dfb22c3d327/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "da9aaa1a3b0bee360ad71453f075385f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/da9aaa1a3b0bee360ad71453f075385f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e034fcaa74568f9675fed578f5211297",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e034fcaa74568f9675fed578f5211297/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bfe6e17b5bd739b2b47d73b499a38bad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bfe6e17b5bd739b2b47d73b499a38bad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7566cdb13b48a5e019bc78f2fe69549c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7566cdb13b48a5e019bc78f2fe69549c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "035b32b7d67b54254f09ab4e7109223b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/035b32b7d67b54254f09ab4e7109223b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c0adb278aa2d7592624d7ec23e75c4aa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c0adb278aa2d7592624d7ec23e75c4aa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c25feb45a31b1567946b0efee63f821a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c25feb45a31b1567946b0efee63f821a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1799f9b868ec626916630c857ffa1676",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1799f9b868ec626916630c857ffa1676/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "140d3484fcbb7b2e9a97f7be29121183",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/140d3484fcbb7b2e9a97f7be29121183/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c82378a4b4a80a8259d027b6bc08ea9c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c82378a4b4a80a8259d027b6bc08ea9c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dfb0e82174b0bcf1a42e59811560d17a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dfb0e82174b0bcf1a42e59811560d17a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0ad8c97967acc24f40cbe15f755cade0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0ad8c97967acc24f40cbe15f755cade0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ea5eab1cd560036446cafcd58f4f081d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ea5eab1cd560036446cafcd58f4f081d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e8cc5df03c4da960cd245c877d805b49",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e8cc5df03c4da960cd245c877d805b49/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 72m²",
+        "href": "/imovel/apartamento-2-quartos-meier-zona-norte-rio-de-janeiro-com-garagem-72m2-venda-RS270000-id-2761795557/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Méier",
+            "state": "Rio de Janeiro",
+            "street": "Rua Venceslau",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

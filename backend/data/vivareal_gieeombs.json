@@ -1,0 +1,213 @@
+{
+    "listing": {
+        "displayAddressType": "NEIGHBORHOOD",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GOURMET_SPACE",
+            "SPORTS_COURT",
+            "CONCIERGE_24H",
+            "KITCHEN_CABINETS",
+            "LAUNDRY",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "90"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento localizado em área privilegiada no Recreio dos Bandeirantes, em condomínio renomado e completo. Apartamento com 3 quartos, sendo uma suíte, todos com armários e ar-condicionados, cozinha planejada, sala ampla também com ar-condicionado e varanda em fechando com cortina de vidro. <br><br>O apartamento está sendo locado mobiliado.<br><br>Localizado no Condomínio Sublime Max, em localização privilégiada, próximo há praias, supermercados, padarias e bancos. Além de uma localização incrível e privilegiada o condomínio tem uma área de lazer completa, com grandes piscinas infantil e adulto, academias, biblioteca e brinquedoteca para as crianças, churrasqueiras e quadras de esportes. Agende agora mesmo a sua visita com a FWB- NEGÓCIOS - IMOBILIÁRIOS<br><br>Fale conosco: -",
+        "title": "APARTAMENTO NO SUBLIME MAX",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2761801924",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790382",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.006,
+                "approximateLon": -43.457,
+                "radius": 250
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Salvador Allende (Expresso)",
+                "BS:Salvador Allende (Parador)",
+                "TS:Salvador Allende (Expresso)",
+                "TS:Salvador Allende (Parador)",
+                "TS:Terminal Recreio",
+                "CS:Pão Carioca",
+                "CS:Padaria Nobreza",
+                "CS:Padaria & Confeitaria A Lisboeta",
+                "CS:Armazém do Recreio",
+                "CS:Américas Pão",
+                "PH:Venâncio",
+                "PH:Drogaria do Povo das Américas",
+                "PH:Botica do Rio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "FWB130",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "90"
+        ],
+        "advertiserId": "8d70a90c-9cf4-279e-2961-4fc5a7120cce",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "rentalInfo": {
+                    "period": "MONTHLY",
+                    "warranties": [],
+                    "monthlyRentalTotalPrice": "8286"
+                },
+                "yearlyIptu": "190",
+                "price": "7000",
+                "businessType": "RENTAL",
+                "monthlyCondoFee": "1286"
+            },
+            {
+                "yearlyIptu": "190",
+                "price": "850000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1286"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2134392527",
+                "21996942527"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996942527",
+        "stamps": []
+    },
+    "account": {
+        "id": "8d70a90c-9cf4-279e-2961-4fc5a7120cce",
+        "name": "FWB NEGÓCIOS IMOBILIÁRIOS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3831778f1643ac5b09f6d162721f84aa/{description}.webp",
+        "licenseNumber": "32251-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 40698,
+        "phones": {
+            "primary": "2134392527",
+            "mobile": "21996942527"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "b6404b38531bb27e7005b3d725c2c72e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b6404b38531bb27e7005b3d725c2c72e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd73a05bf4ec5f2347335b3f8d9b2768",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd73a05bf4ec5f2347335b3f8d9b2768/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d7a39f693276a66f8bc76bc857e1dabe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7a39f693276a66f8bc76bc857e1dabe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a0d57cd735bec8a7d61ae277db0be6bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a0d57cd735bec8a7d61ae277db0be6bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a184df57a3f247c628917fbb7040498",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a184df57a3f247c628917fbb7040498/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ae92bd8c72e8bf4c0687dc645f2c3e4e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae92bd8c72e8bf4c0687dc645f2c3e4e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "254489f11358bc1ea064d1662116548d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/254489f11358bc1ea064d1662116548d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d181ed35b7032f17a84c6779284773b8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d181ed35b7032f17a84c6779284773b8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a02003d8c0afc1ea46aa4f12df83fbb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8a02003d8c0afc1ea46aa4f12df83fbb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "18739d9df8f0848d5751f71ede98f587",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/18739d9df8f0848d5751f71ede98f587/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6885fa9d074cc8cb4a8558fc55533f59",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6885fa9d074cc8cb4a8558fc55533f59/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "FWB NEGÓCIOS IMOBILIÁRIOS",
+        "href": "/40698/fwb-negocios-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos para venda ou aluguel, 90m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-90m2-venda-RS850000-id-2761801924/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

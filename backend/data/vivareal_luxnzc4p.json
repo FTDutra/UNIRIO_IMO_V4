@@ -1,0 +1,227 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "AIR_CONDITIONING",
+            "GARDEN",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "DISABLED_ACCESS",
+            "COWORKING",
+            "SAUNA",
+            "GAMES_ROOM",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "77"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento de 77m, com porcelanato em todos os cômodos e teto rebaixamento de gesso com projeto de iluminação. Planta original 3 quartos, transformado em 2 quartos, sendo 1 suíte + ampliação da sala (podendo reverter pro 3º quarto facilmente) e banheiro social. Andar baixo, vista interna pra piscina. Armários nos banheiros e nos quartos. Condomínio com infraestrutura de lazer completa e segurança 24hrs.",
+        "title": "Apartamento com 3 quartos, 1 suíte, Luar do Pontal, Recreio dos Bandeirantes",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2685480992",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790880",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "2021",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.512752,
+                "source": "GOOGLE",
+                "lat": -23.023842
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Luiz Carlos Sarolli",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Piabas :: Linha 554",
+                "TS:Ponto Final: Piabas :: Linha 554",
+                "PH:Drogaria Pontal",
+                "SU:Escola Municipal Professor Jurandir Paes Leme"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "LUAR DO PONTAL 3 DANI",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "77"
+        ],
+        "advertiserId": "8cab5278-4dc4-6e01-5f85-0233babbfb94",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1000",
+                "price": "560000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "850"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21976017620"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21976017620",
+        "stamps": []
+    },
+    "account": {
+        "id": "8cab5278-4dc4-6e01-5f85-0233babbfb94",
+        "name": "JANINE OLIVEIRA",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 364408,
+        "phones": {
+            "primary": "21976017620",
+            "mobile": "21976017620"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "64b34fe7e0caf7a1ba37ab049c70f3b3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/64b34fe7e0caf7a1ba37ab049c70f3b3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "84c7f7fce1b68f3343ed348d9c92de1e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/84c7f7fce1b68f3343ed348d9c92de1e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "996071581fa5fa4c74acff35b536db6a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/996071581fa5fa4c74acff35b536db6a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b2228a09a5863cba2294a603da3a9339",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b2228a09a5863cba2294a603da3a9339/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d981bee82ad181f4d7d724c9601c7295",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d981bee82ad181f4d7d724c9601c7295/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c56bf208f5fa2fda4cd728c118f9851",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c56bf208f5fa2fda4cd728c118f9851/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fad1de5a7c8276a47e357068266fa826",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fad1de5a7c8276a47e357068266fa826/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cc6e423bce023bcfcc745d112b166902",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cc6e423bce023bcfcc745d112b166902/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "76e6b9fa191a35edc810a4bbe870b403",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/76e6b9fa191a35edc810a4bbe870b403/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a63a849a7f83d87e843e90596937a8e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a63a849a7f83d87e843e90596937a8e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8d449e5727790b17cb5c45500780b360",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d449e5727790b17cb5c45500780b360/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ed8351fde5247c4fa59483183810fcd3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed8351fde5247c4fa59483183810fcd3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e17137292a1ae938830037370394078",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e17137292a1ae938830037370394078/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6bb223e233845546f898c8b233b35bfd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6bb223e233845546f898c8b233b35bfd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "723fecd513cd5f16b8fe66ddd34bd061",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/723fecd513cd5f16b8fe66ddd34bd061/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bdc51fedf670faed9e4933c8c86ca596",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bdc51fedf670faed9e4933c8c86ca596/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "JANINE OLIVEIRA",
+        "href": "/364408/janine-oliveira/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 77m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-77m2-venda-RS560000-id-2685480992/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Luiz Carlos Sarolli",
+            "streetNumber": "2021",
+            "zone": "Zona Oeste"
+        }
+    }
+}

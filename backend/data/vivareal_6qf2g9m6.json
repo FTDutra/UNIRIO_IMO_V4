@@ -1,0 +1,184 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "106"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Imóvel aconchegante à venda com 3 quartos, sendo 1 suíte, e 3 banheiros no total. Este imóvel está bem equipado, é ideal para quem procura conforto e comodidade. O condomínio fica localizado em Rua General Urquiza no bairro Leblon em Rio de Janeiro. Está bem localizado, próximo a pontos de interesse de Leblon, tais como Estação Antero de Quental, Praça Antero de Quental, Colégio Estadual Professor Antônio Maria Teixeira Filho, Praia do Leblon, Cotrauma e Escola Municipal Sergio Vieira de Mello.<br><br>Descrição do proprietário<br>São três quartos sendo uma suite, três banheiros completos, cozinha americana, lavandeira todo mobiliado e pronto para morar na melhor localização do Leblon na frente do metrô.<br><br>Itens disponíveis<br>Box<br><br>Armários no quarto<br><br>Armários nos banheiros<br><br>Armários na cozinha<br><br>Ar condicionado<br><br>Chuveiro a gás<br><br>Fogão incluso<br><br>Geladeira inclusa<br><br>Quartos e corredores com portas amplas<br><br>Área de serviço<br><br>- SOL DA MANHÃ <br>- FUNDOS",
+        "title": "Apartamento à venda com 106m², 3 quartos e 1 vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2759973797",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22431040",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.984,
+                "approximateLon": -43.224,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua General Urquiza",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Leblon",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "poisList": [
+                "BS:Ponto Final: Antero de Quental",
+                "BS:Ponto Final: Leblon :: Ônibus Executivos",
+                "BS:BRS 2,3 - Cupertino Durão",
+                "BS:BRS 1 - Rita Ludolf",
+                "BS:Metrô - Estação Alto Leblon",
+                "TS:Antero de Quental",
+                "TS:Antero de Quental / Leblon",
+                "TS:General Urquiza",
+                "TS:Metrô - Estação Antero de Quental",
+                "TS:Bartolomeu Mitre",
+                "CS:Talho Capixaba",
+                "CS:Rio Lisboa",
+                "CS:Patata",
+                "CS:am/pm",
+                "CS:Armazém do Café",
+                "PH:Drogasmil"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PU56lslw",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "106"
+        ],
+        "advertiserId": "7d4ec74e-2cb7-2cba-50cf-92ec88a74e8c",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "362",
+                "price": "3100000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1508"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2132176221",
+                "21964464440"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964464440",
+        "stamps": []
+    },
+    "account": {
+        "id": "7d4ec74e-2cb7-2cba-50cf-92ec88a74e8c",
+        "name": "B&A Imóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38a82296d8f09f9d275212109b82bc17/{description}.webp",
+        "licenseNumber": "07455-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 230106,
+        "phones": {
+            "primary": "2132176221",
+            "mobile": "21964464440"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "12447336144f2dfddd893b7d77a15a9d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/12447336144f2dfddd893b7d77a15a9d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a77e8b9dc2a74e136808f6a849edf7f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a77e8b9dc2a74e136808f6a849edf7f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "082abde9dc02aa4632730d8c84e6e4fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/082abde9dc02aa4632730d8c84e6e4fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "52e5392194e82505f690db47fabd8992",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52e5392194e82505f690db47fabd8992/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1c9056e8512d147e35af1631c28c08c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1c9056e8512d147e35af1631c28c08c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bfd7afbbff662000ee32b215d9d2fbd5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bfd7afbbff662000ee32b215d9d2fbd5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aaf6dfbf0cc7473f4f4a704d70ef6666",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aaf6dfbf0cc7473f4f4a704d70ef6666/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7fb510005e601c8c5e4ca30f1e6604e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7fb510005e601c8c5e4ca30f1e6604e8/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "B&A Imóveis",
+        "href": "/230106/b-a-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 106m²",
+        "href": "/imovel/apartamento-3-quartos-leblon-zona-sul-rio-de-janeiro-com-garagem-106m2-venda-RS3100000-id-2759973797/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "state": "Rio de Janeiro",
+            "street": "Rua General Urquiza",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

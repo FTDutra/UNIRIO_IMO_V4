@@ -1,0 +1,373 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "BALCONY",
+            "PETS_ALLOWED",
+            "SERVICE_AREA",
+            "SERVICE_BATHROOM",
+            "LARGE_WINDOW",
+            "BLINDEX_BOX",
+            "ALUMINUM_WINDOW",
+            "COLD_FLOOR"
+        ],
+        "usableAreas": [
+            "110"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apto de último andar com direito de uso da laje, onde, temos, um amplo terraço, no bairro Engenho Novo. Localizado próximo à rua Barão do Bom Retiro, altura do Colégio Pedro II. <br>Apto composto de varanda, sala em dois ambientes, 2 quartos, copa, cozinha e banheiro social. Tem um amplo terraço com piscina, chuveirão, espaço gourmet com churrasqueira e lavanderia. <br>Tem uma vaga de garagem na escritura. <br>Possibilidade de financiamento bancário.",
+        "title": "Engenho Novo - Apto com Terraço Piscina e Churrasqueira (Vende).",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2742337262",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20710290",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "27",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.27067,
+                "source": "GOOGLE",
+                "lat": -22.909563
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Verna Magalhães",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Engenho Novo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Engenho Novo",
+            "poisList": [
+                "BS:Padre Roma",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. A",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. B",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. C",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. D",
+                "TS:Padre Roma",
+                "TS:Engenho Novo",
+                "TS:Silva Freire",
+                "TS:Terminal Rodoviário Américo Ayres :: Plat. A",
+                "TS:Terminal Rodoviário Américo Ayres :: Plat. B",
+                "CS:Lecadô",
+                "CS:Magal",
+                "CS:Imperato",
+                "CS:Tuti Fruti",
+                "CS:Jóia do Grajaú",
+                "PH:Drogaria Mais Barato - Méier",
+                "PH:Drograrias Guanabara",
+                "PH:Drogaria MEP"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "SAPME5924",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "110"
+        ],
+        "advertiserId": "b33ea4d4-e100-5f48-20da-d3d45fbd6285",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "price": "279000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "350"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21986564770"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21986564770",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "b33ea4d4-e100-5f48-20da-d3d45fbd6285",
+        "name": "SHEILA ARAÚJO CORRETORA DE IMÓVEIS",
+        "licenseNumber": "62213-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 701330,
+        "phones": {
+            "primary": "21986564770",
+            "mobile": "21986564770"
+        },
+        "tier": ""
+    },
+    "medias": [
+        {
+            "id": "6de784a405c2e0438170ed707d4884cd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6de784a405c2e0438170ed707d4884cd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "143362937df97f9a7def5c40767b9348",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/143362937df97f9a7def5c40767b9348/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c817f55b1ebc015d4eff256a6e754c5f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c817f55b1ebc015d4eff256a6e754c5f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8c9e7b080792793fd2ddf4f4bc874c23",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8c9e7b080792793fd2ddf4f4bc874c23/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d7aa20717af2696e532a76a4e94f5461",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7aa20717af2696e532a76a4e94f5461/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ba1e3e481df7274cb89381e1541c60be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ba1e3e481df7274cb89381e1541c60be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3abb2e928c340e4eed4231278dec9be5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3abb2e928c340e4eed4231278dec9be5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe1d9ca7f48f1f0c4ceb7315257a4165",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe1d9ca7f48f1f0c4ceb7315257a4165/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1bd98d7a00c3b9d4f32b62294a2792e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1bd98d7a00c3b9d4f32b62294a2792e3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7653e15fab0dc8536ddda269317360e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7653e15fab0dc8536ddda269317360e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "76a161f93b9bc6ee28a58b9cf3843035",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/76a161f93b9bc6ee28a58b9cf3843035/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bcd5d19dcaf458ee36ee88e360bb7343",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bcd5d19dcaf458ee36ee88e360bb7343/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff8ec066887eca49222f4ce492c1ebca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff8ec066887eca49222f4ce492c1ebca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1ea9a10d6c40c189bb8d261620f789a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1ea9a10d6c40c189bb8d261620f789a4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa3a0391b9d1c592fc249bbbc038a61d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa3a0391b9d1c592fc249bbbc038a61d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "af27d2d24c4955ac6dd7f7e508b142ce",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/af27d2d24c4955ac6dd7f7e508b142ce/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4b0e4ed26689c0d9ef76b5dc7dad8c5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4b0e4ed26689c0d9ef76b5dc7dad8c5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "856f316accb85a9be30266cf2a4db35a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/856f316accb85a9be30266cf2a4db35a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4b3f965c8d81c36857616cdf952cca14",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b3f965c8d81c36857616cdf952cca14/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ba846f635d7eadb7d4a41746de3f2884",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ba846f635d7eadb7d4a41746de3f2884/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "44880c7b2abb518849a82467c5fd2a7b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/44880c7b2abb518849a82467c5fd2a7b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2068cb306edc118923d6862565037da9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2068cb306edc118923d6862565037da9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ece74bfed62851e34388c2d25ed8cdff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ece74bfed62851e34388c2d25ed8cdff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eae8866f0ea995e26a0723d615cf2417",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eae8866f0ea995e26a0723d615cf2417/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "548e7d7084545ba94a9effe97ba5d180",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/548e7d7084545ba94a9effe97ba5d180/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "31ef35beb4fc5044d2d392a68a9f9e9e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/31ef35beb4fc5044d2d392a68a9f9e9e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a16138e972e739116badffa462fb72ca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a16138e972e739116badffa462fb72ca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb90e5a2464a10cfdc7e0c833eae6d2f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb90e5a2464a10cfdc7e0c833eae6d2f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "22ae92514fb60b283eb24b53b60ff670",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/22ae92514fb60b283eb24b53b60ff670/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f5198b990efc0d6e8d2abba314bbd761",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f5198b990efc0d6e8d2abba314bbd761/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c6e59946f703f33530a8818a81d27e5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c6e59946f703f33530a8818a81d27e5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce2ed77e3b8ef4572f3982f85e48f58f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce2ed77e3b8ef4572f3982f85e48f58f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9f6407b06b2700e8a2d296bb547526be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9f6407b06b2700e8a2d296bb547526be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0e6f8eb9f3d274f60a5dbb61b1b1206f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0e6f8eb9f3d274f60a5dbb61b1b1206f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4345f592b11c4f2bf61128043da84530",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4345f592b11c4f2bf61128043da84530/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7eb026532ec40991f836864258a5b11e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7eb026532ec40991f836864258a5b11e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a833ef8636ca48a0707d6f7e6aaf8373",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a833ef8636ca48a0707d6f7e6aaf8373/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ae00294e7b4ee09d380f6712a5b1febf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae00294e7b4ee09d380f6712a5b1febf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a5ae8298b60dcf2eafaddbc84fe9278c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a5ae8298b60dcf2eafaddbc84fe9278c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9dc47b515b5dce51f59fbef11de3dc55",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9dc47b515b5dce51f59fbef11de3dc55/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8fdbe9880223071fa5ed36c8cf658fc7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8fdbe9880223071fa5ed36c8cf658fc7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5b4ad4ac03693a6dfd9ec9e38f91e30a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b4ad4ac03693a6dfd9ec9e38f91e30a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c266bce6c143feba28a1a4da146e9715",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c266bce6c143feba28a1a4da146e9715/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f171473dbb9a815d4f502bb8b98cf41",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f171473dbb9a815d4f502bb8b98cf41/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SHEILA ARAÚJO CORRETORA DE IMÓVEIS",
+        "href": "/701330/sheila-araujo-corretora-de-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 110m²",
+        "href": "/imovel/apartamento-2-quartos-engenho-novo-zona-norte-rio-de-janeiro-com-garagem-110m2-venda-RS279000-id-2742337262/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Engenho Novo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Verna Magalhães",
+            "streetNumber": "27",
+            "zone": "Zona Norte"
+        }
+    }
+}

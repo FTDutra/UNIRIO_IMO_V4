@@ -1,0 +1,240 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "PETS_ALLOWED",
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "97"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento de frente, transversal a Rua Almirante Alexandrino, uma das principais ruas do bairro, onde temos todo o transporte coletivo (bonde e ônibus). O local é um dos mais privilegiados de Santa Teresa, pois além do acesso rápido ao transporte e ao supermercado, é também vizinho do Castelo Valentim e da Rua Aprazível, que são pontos turísticos do bairro. Apartamento composto por ampla sala em 2 ambientes, 03 quartos, banheiro social, ampla cozinha, área de serviço e dependência completa. O apartamento possui 1 vaga na escritura. Os valores poderão sofrer alterações sem aviso prévio.",
+        "title": "Apartamento de 3 quartos com vaga em Santa Teresa",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2756621223",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20240090",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.924,
+                "approximateLon": -43.19,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Aarão Reis",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Santa Teresa",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Santa Teresa",
+            "poisList": [
+                "BS:Rua Monte Alegre próximo ao 342",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "BS:Ponto da Rua do Catumbi",
+                "BS:Rua das Laranjeiras, 336",
+                "BS:Ponto Final: Cruz Vermelha",
+                "TS:Rua Monte Alegre próximo ao 342",
+                "TS:Largo dos Guimarães",
+                "TS:Largo do Guimarães",
+                "TS:Vista Alegre",
+                "TS:Rua Paschoal Carlos Magno próximo ao 15",
+                "CS:Fábrica de Bolo Vó Alzira",
+                "CS:Padaria Vilar Pães",
+                "CS:Vossa Mercê Mercearia",
+                "CS:Padaria e Confeitaria Costa Bastos",
+                "CS:Seu Zé",
+                "PH:Viva Bem",
+                "PH:Farmácia Pinheiro Machado",
+                "PH:Drogaria Rey",
+                "PH:Exata",
+                "PH:Miliflora Farmácia de Manipulação"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "73718",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "97"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1555",
+                "price": "520000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "700"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "136979a420c0ecd832a5a9cbc562ba23",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/136979a420c0ecd832a5a9cbc562ba23/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a910069cbeef5cd6b85fd0509730b365",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a910069cbeef5cd6b85fd0509730b365/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c2907454f817866bd19969f100900083",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2907454f817866bd19969f100900083/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9cb9a8a872cbf88415e73bbad05c5b30",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9cb9a8a872cbf88415e73bbad05c5b30/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "811e3dee72c9b778235e5db089d6cba1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/811e3dee72c9b778235e5db089d6cba1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e08f08ed19649f1ce36b369c54d7e11b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e08f08ed19649f1ce36b369c54d7e11b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48cfac2968e1ef1ffe6d50c207940ad9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48cfac2968e1ef1ffe6d50c207940ad9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e5ce9c529cb50fdd1ceff77838da02d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e5ce9c529cb50fdd1ceff77838da02d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "50c87eb671c32309edb9a863c4ab8fcf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/50c87eb671c32309edb9a863c4ab8fcf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "beacbd187506c8fac372f01b686abe96",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/beacbd187506c8fac372f01b686abe96/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aad3c2e7650d3f7be1d37aa0727beb29",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aad3c2e7650d3f7be1d37aa0727beb29/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "663f8c58324d269db798f582f4a34cec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/663f8c58324d269db798f582f4a34cec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6b6a7cc2f2b6130e3f52df694d4d91fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6b6a7cc2f2b6130e3f52df694d4d91fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fca2299677afe6b84ad953e5e1b2d2ab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fca2299677afe6b84ad953e5e1b2d2ab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f0f908e47ed7e92e8a385395c31dbe53",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f0f908e47ed7e92e8a385395c31dbe53/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0beb54406d0acbb41c3abf7cd2bf815d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0beb54406d0acbb41c3abf7cd2bf815d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1be846dec5d64a9e7b6c4a03491f4be2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1be846dec5d64a9e7b6c4a03491f4be2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "108070b4912195c8dd462755845c04c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/108070b4912195c8dd462755845c04c7/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 97m²",
+        "href": "/imovel/apartamento-3-quartos-santa-teresa-zona-central-rio-de-janeiro-com-garagem-97m2-venda-RS520000-id-2756621223/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Santa Teresa",
+            "state": "Rio de Janeiro",
+            "street": "Rua Aarão Reis",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

@@ -1,0 +1,299 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "206"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento, de frente para a praça , com 206m2, à 500 metros da Lagoa e 600mts da praia, composto de salão, sala de jantar, lavabo, banheiro, social, , andar alto, 4 quartos com armários, dependências de empregada completa, cozinha ampla, despensa, área de serviço, reformado.<br> 2363d",
+        "title": "Copacabana | Apartamento 4 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2727380240",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22061040",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.976,
+                "approximateLon": -43.194,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Praça Eugênio Jardim",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 3 Miguel Lemos",
+                "BS:BRS 1 Xavier da Silveira",
+                "BS:BRS 2 Bolívar",
+                "BS:BRS 1 Miguel Lemos",
+                "BS:BRS 3 Bolivar",
+                "TS:Estação Cantagalo",
+                "TS:Estação Cantagalo / Copacabana",
+                "TS:Rua Miguel Lemos",
+                "TS:Cantagalo - sentido Uruguai",
+                "TS:Cantagalo / Copacabana - sentido Uruguai",
+                "CS:Sulimar",
+                "CS:Casa du bisçoito",
+                "CS:Empório das Águas",
+                "CS:Planeta Água",
+                "CS:Grão da terra",
+                "PH:Prontofarma",
+                "PH:Drogaria Pop",
+                "PH:Viva Mais",
+                "PH:Drogaria Galanti",
+                "PH:Farmácia Central Posto 6"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "BA423195",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "206"
+        ],
+        "advertiserId": "57568509-ca3c-6ee1-5fb0-0cf68d15dd91",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "8607",
+                "price": "2290000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2308"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2120426001",
+                "21985427833"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21985427833",
+        "stamps": []
+    },
+    "account": {
+        "id": "57568509-ca3c-6ee1-5fb0-0cf68d15dd91",
+        "name": "LOPES AMÉRICAS PRIME",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9773c5ef94e80d20bc01979ae1d42e1d/{description}.webp",
+        "licenseNumber": "48386-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 95548,
+        "phones": {
+            "primary": "2120426001",
+            "mobile": "21985427833"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "d7d0b368ad92914df1ef6de83fe5cc6a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7d0b368ad92914df1ef6de83fe5cc6a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9f9d069a82516876264547920bf72572",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9f9d069a82516876264547920bf72572/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3702ecfefa19df9c8d53b0513e6ffc88",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3702ecfefa19df9c8d53b0513e6ffc88/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4d5e7a8ab88f1611d417f6a78aa3a2ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4d5e7a8ab88f1611d417f6a78aa3a2ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f0c6e5ca859be48a5e978393d8c476ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f0c6e5ca859be48a5e978393d8c476ff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "622cf3f0d5f84cc38b63ca2b198c9b16",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/622cf3f0d5f84cc38b63ca2b198c9b16/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eafebbb525dc9e366f46b755e5f62aa0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eafebbb525dc9e366f46b755e5f62aa0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7abae8ef744d9dfea2f8ceeaf917dff8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7abae8ef744d9dfea2f8ceeaf917dff8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "502c50d136257511b1d17ff61f9c2615",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/502c50d136257511b1d17ff61f9c2615/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eff7ccd513797d0297036bfecd115888",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eff7ccd513797d0297036bfecd115888/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "44d74f44e0ee866ccb0ed2b5ea33c1a9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/44d74f44e0ee866ccb0ed2b5ea33c1a9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a5bc71d073025eebe0cd6f47f3f19a31",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a5bc71d073025eebe0cd6f47f3f19a31/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eccf961fc13c6ae413d6e451c83ac189",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eccf961fc13c6ae413d6e451c83ac189/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f0494a8ca34c3858da3733a52c62134",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f0494a8ca34c3858da3733a52c62134/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a3b2e69a09d1c66adeedc025bc70efaa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a3b2e69a09d1c66adeedc025bc70efaa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6d296fdcdbf162b0e869a06fabc2aaf5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6d296fdcdbf162b0e869a06fabc2aaf5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f774653298f16ec8ae4a3eedf837171c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f774653298f16ec8ae4a3eedf837171c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "738ca7fa4c941ff5d874ba3e98a85b73",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/738ca7fa4c941ff5d874ba3e98a85b73/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d792cf1ce9a7c6d12dafeeff3ad7f040",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d792cf1ce9a7c6d12dafeeff3ad7f040/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "763f58950712b58e6412bd997242e835",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/763f58950712b58e6412bd997242e835/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "490a0167eabe4328e0572b1667d09210",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/490a0167eabe4328e0572b1667d09210/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1017fc31b0e1da220331a96c708765f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1017fc31b0e1da220331a96c708765f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "483c4ba06c4b8f2890e919ad2cb1e754",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/483c4ba06c4b8f2890e919ad2cb1e754/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "979b6b8d776859b05c06eff207ac39ca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/979b6b8d776859b05c06eff207ac39ca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c0848a36f349c9d1c8eb067b6396ce8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c0848a36f349c9d1c8eb067b6396ce8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6bb4d436c3813878e2b7c93094e60898",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6bb4d436c3813878e2b7c93094e60898/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e97c146832055e182366d95552e0ce2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9e97c146832055e182366d95552e0ce2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b91968206bf3e1418dcb4c362fbc1e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b91968206bf3e1418dcb4c362fbc1e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "df12275654d32145a5b6ab745b444dcd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df12275654d32145a5b6ab745b444dcd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1816be6c0139a3080d88e0b95a6ee7a1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1816be6c0139a3080d88e0b95a6ee7a1/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "LOPES AMÉRICAS PRIME",
+        "href": "/95548/lopes-americas-prime/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 206m²",
+        "href": "/imovel/apartamento-4-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-206m2-venda-RS2290000-id-2727380240/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Praça Eugênio Jardim",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

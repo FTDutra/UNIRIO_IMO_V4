@@ -1,0 +1,330 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "PARKING",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "200"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "JARDIM OCEÂNICO - RETLA <br><br>Cobertura Dúplex reformado alto padrão de acabamento 200 m², 3 quartos / 1 suíte + dependência completa, móveis planejados, piso porcelanato e laminado, splits, aquecedor, varanda com cortina de vidro e terraço gourmet com churrasqueira e piscina de R$ 2.300.000 POR R$ 2.199.000.<br><br>O duplex no bairro Barra da Tijuca com 200 metros quadrados com 3 quartos sendo 1 suite e 4 banheiros<br>Vai lhe possibilitar todo o conforto do ar condicionado nos dias mais quentes.Elevador que garante o transporte das suas malas e compras.<br>Está em um condomínio protegido por grades.",
+        "title": "Cobertura Dúplex 3 quartos 3 vagas Barra da Tijuca",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [
+            "PENTHOUSE",
+            "DUPLEX"
+        ],
+        "id": "2733242191",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            3
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22620070",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "20",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.301627,
+                "source": "GOOGLE",
+                "lat": -23.012202
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Deodato de Morais",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:Avenida Vítor Konder próximo ao 225-243",
+                "TS:Passarela da Barra",
+                "TS:Avenida Vítor Konder próximo ao 225-243",
+                "TS:Cais da UNIMED",
+                "TS:Cais do Barra Private",
+                "TS:Cais Principal da Ilha da Gigoia",
+                "CS:O Boi Que Ri",
+                "CS:Concha Doce",
+                "CS:Amendoeira II",
+                "CS:Sabor da Bahia",
+                "CS:Mini Market Gigoia",
+                "PH:Drogas Rio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "COBERTURA JARDIM OCEÂNICO 2",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "200"
+        ],
+        "advertiserId": "e308745e-afb6-f0d7-247d-65b56c1e3b70",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "6350",
+                "price": "2199000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2300"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21991882255"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21991882255",
+        "stamps": []
+    },
+    "account": {
+        "id": "e308745e-afb6-f0d7-247d-65b56c1e3b70",
+        "name": "Luiz Rodrigo Moraes Dávila",
+        "licenseNumber": "64212-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 88001,
+        "phones": {
+            "primary": "21991882255",
+            "mobile": "21991882255"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "f728fa3a00a191050bba369283d0668f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f728fa3a00a191050bba369283d0668f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0dd4329f8907888444154e27ae75f03c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0dd4329f8907888444154e27ae75f03c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "abad9cf6a91a86114e9c6f3c4dfef62c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/abad9cf6a91a86114e9c6f3c4dfef62c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b7873575d391f2e694f54b90c6d4d9d4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b7873575d391f2e694f54b90c6d4d9d4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e021d0f657905228cde97c1ca4ac5152",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e021d0f657905228cde97c1ca4ac5152/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "68fe26677540df053e58f5e0def6f318",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/68fe26677540df053e58f5e0def6f318/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7327d0e35bc5317fea40ab7258e96d31",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7327d0e35bc5317fea40ab7258e96d31/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "68c6bb126522a5fb05ee64bdb2ebb422",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/68c6bb126522a5fb05ee64bdb2ebb422/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d4a33fcebe2cc362ffd13c9e9e106325",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d4a33fcebe2cc362ffd13c9e9e106325/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6065c8fad7cbe437f82891b2076cec85",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6065c8fad7cbe437f82891b2076cec85/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "131ad7e289c0d6ea48cbfd848892f189",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/131ad7e289c0d6ea48cbfd848892f189/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "903b700c71039e65eba7145494091634",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/903b700c71039e65eba7145494091634/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d4f507c2760c317b6ea80fa712f29bb6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d4f507c2760c317b6ea80fa712f29bb6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1f09d8d1b8ebad323972edcd3adb40db",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1f09d8d1b8ebad323972edcd3adb40db/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bfdfe7d340fca7d8e96728e58ef1e967",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bfdfe7d340fca7d8e96728e58ef1e967/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "434772c9a897b70c2ce6f67a55bc9f73",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/434772c9a897b70c2ce6f67a55bc9f73/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b710a66fc08b8b7131c50f1ee8d1764d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b710a66fc08b8b7131c50f1ee8d1764d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e855a83b9e4efaaba2de3bb69cb2adba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e855a83b9e4efaaba2de3bb69cb2adba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "225587308bed04f7e370ca9200530586",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/225587308bed04f7e370ca9200530586/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb6aab3dd8a80d338bbe9bfd48779074",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb6aab3dd8a80d338bbe9bfd48779074/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e43dbae0274f0b70074eb50cbbdd919",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9e43dbae0274f0b70074eb50cbbdd919/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "303502896634da8d60443f385e895aa6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/303502896634da8d60443f385e895aa6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "24bf117a4718760d72357dd43d0e0519",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/24bf117a4718760d72357dd43d0e0519/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "feda3fefcb0065cda584ef670f63d33f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/feda3fefcb0065cda584ef670f63d33f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ade27eb4223ccb2c8d766faf964d8604",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ade27eb4223ccb2c8d766faf964d8604/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "70f87e02034c29b56c4d397129a3e5b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/70f87e02034c29b56c4d397129a3e5b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a1dc09dc67e4265e4a2ac053c46c6498",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a1dc09dc67e4265e4a2ac053c46c6498/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb551922fb293326216768b64703469a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb551922fb293326216768b64703469a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e0a8532c0ab1a2a0d6fb27939bef46fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e0a8532c0ab1a2a0d6fb27939bef46fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a56e73fa23c2d4a550da928ae303a3ea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a56e73fa23c2d4a550da928ae303a3ea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c71704519b18a6b88082143ae89596ae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c71704519b18a6b88082143ae89596ae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d00a435819d9d3b682a7223eb81d9076",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d00a435819d9d3b682a7223eb81d9076/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ac1abfd1959733a1ea1c8525657a3a39",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ac1abfd1959733a1ea1c8525657a3a39/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c619918565037fdaacc9d030a790741e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c619918565037fdaacc9d030a790741e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0b604694a8ff1de255a806babfe750ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0b604694a8ff1de255a806babfe750ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e293ab2d0c5b96548c1860b6effe7f0b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e293ab2d0c5b96548c1860b6effe7f0b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd44b1a7e9bb87dddceea96aa63793ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd44b1a7e9bb87dddceea96aa63793ef/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Luiz Rodrigo Moraes Dávila",
+        "href": "/88001/luiz-rodrigo-moraes-davila/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Cobertura com 3 Quartos à venda, 200m²",
+        "href": "/imovel/cobertura-3-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-200m2-venda-RS2199000-id-2733242191/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Deodato de Morais",
+            "streetNumber": "20",
+            "zone": "Zona Oeste"
+        }
+    }
+}

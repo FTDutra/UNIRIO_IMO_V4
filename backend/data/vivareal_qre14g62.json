@@ -1,0 +1,309 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "FURNISHED",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "AIR_CONDITIONING",
+            "GARDEN",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "PARKING",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "GAMES_ROOM",
+            "ELECTRONIC_GATE",
+            "SPA",
+            "CINEMA",
+            "SAUNA",
+            "DISABLED_ACCESS",
+            "COWORKING"
+        ],
+        "usableAreas": [
+            "215"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Cobertura com 5 quartos no Recreio, condomínio Onda Carioca.<br>Possui academia, espaço gourmet, área verde de jardim, parquinho infantil, salão para festas e eventos.<br>Vai lhe possibilitar curtir os dias mais quentes na piscina, todo o conforto do ar condicionado nos dias mais quentes. Churrasqueira para você aproveitar nos momentos de descontração.<br>Elevador para mais praticidade no dia-a-dia.<br>Fica em um condomínio fechado.<br>Já tem os móveis incluídos.",
+        "title": "Cobertura com 5 quartos no Recreio, condomínio Onda Carioca.",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [
+            "PENTHOUSE",
+            "DUPLEX"
+        ],
+        "id": "2742622872",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            3
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790671",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "240",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.482159,
+                "source": "GOOGLE",
+                "lat": -23.005797
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Silvia Pozzano",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Gilka Machado",
+                "TS:Guiomar Novaes",
+                "TS:Recreio Shopping",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "CS:R2 Bolos",
+                "CS:Barra Bonita Padaria",
+                "CS:Armazém do Recreio",
+                "CS:Américas Pão",
+                "PH:Drogaria M. M. Júnior",
+                "PH:Prophylaxis",
+                "PH:Foliare"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            3
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "LS0363",
+        "bathrooms": [
+            5
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "215"
+        ],
+        "advertiserId": "8e5ae1f5-3467-1857-2a6f-0b902c09dd1c",
+        "bedrooms": [
+            5
+        ],
+        "pricingInfos": [
+            {
+                "rentalInfo": {
+                    "period": "MONTHLY",
+                    "warranties": [
+                        "SECURITY_DEPOSIT",
+                        "INSURANCE_GUARANTEE"
+                    ]
+                },
+                "yearlyIptu": "600",
+                "price": "1590000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2000"
+            },
+            {
+                "rentalInfo": {
+                    "period": "MONTHLY",
+                    "warranties": [
+                        "SECURITY_DEPOSIT",
+                        "INSURANCE_GUARANTEE"
+                    ],
+                    "monthlyRentalTotalPrice": "15000"
+                },
+                "yearlyIptu": "600",
+                "price": "13000",
+                "businessType": "RENTAL",
+                "monthlyCondoFee": "2000"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21979374507",
+                "21999715617"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21999715617",
+        "stamps": []
+    },
+    "account": {
+        "id": "8e5ae1f5-3467-1857-2a6f-0b902c09dd1c",
+        "name": "CLÁUDIO PESSOA CONSULTORIA IMOBILIÁRIA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3766e39b541a21edf0489747cd2b66c8/{description}.webp",
+        "licenseNumber": "063332-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 98091,
+        "phones": {
+            "primary": "21979374507",
+            "mobile": "21999715617"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "506177f0385df2b33b4237773f176be2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/506177f0385df2b33b4237773f176be2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "83ecb5c49a65449e4aa2ddd143194e14",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/83ecb5c49a65449e4aa2ddd143194e14/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c3e5f32e1e6916885134ddb3aae450e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c3e5f32e1e6916885134ddb3aae450e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2bc6c2283f3386b3c1e2bae66efb5a8b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2bc6c2283f3386b3c1e2bae66efb5a8b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8ebb9b584409a9023dd4f64107cf9f5a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8ebb9b584409a9023dd4f64107cf9f5a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8d7244d2ed7b876dc450724e0dddd0ab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d7244d2ed7b876dc450724e0dddd0ab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "53c7a0a929ddeb8c417a10e0a4674322",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/53c7a0a929ddeb8c417a10e0a4674322/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1e39997d01da3dae6441b9754c94c6f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1e39997d01da3dae6441b9754c94c6f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a400b01071dc63fe64f39a864ec151b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a400b01071dc63fe64f39a864ec151b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8dd6bd254c33bffa9f003fb4ee90dae9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8dd6bd254c33bffa9f003fb4ee90dae9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "17b700d0f297c27cd91d4a4cd89cb1c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/17b700d0f297c27cd91d4a4cd89cb1c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f228518af0020a300d6543e339336033",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f228518af0020a300d6543e339336033/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1ab392a85c754ae2c7b7f38f813505f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1ab392a85c754ae2c7b7f38f813505f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca15c9a0cafab27947f3518c964bf823",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca15c9a0cafab27947f3518c964bf823/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "79ce3039746e371b55cb4c57597bdbf1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/79ce3039746e371b55cb4c57597bdbf1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f9a5dafcf0db75ac69fc1ef93953867",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f9a5dafcf0db75ac69fc1ef93953867/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d515816246b1cf507ebb84d7d8390c8c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d515816246b1cf507ebb84d7d8390c8c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "008373eee6957b55d75a5e955e7c4beb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/008373eee6957b55d75a5e955e7c4beb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c3744f7ca709946aa2127214c573a9d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c3744f7ca709946aa2127214c573a9d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "196e2877265c2937194ac6c96fb98c31",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/196e2877265c2937194ac6c96fb98c31/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d18f4e9e182553eb3cb81af40f43ff46",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d18f4e9e182553eb3cb81af40f43ff46/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9970e659716c439ee2737567662a4cc4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9970e659716c439ee2737567662a4cc4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a3ba9f2f0c63a9e559ab86db223b48b7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a3ba9f2f0c63a9e559ab86db223b48b7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f6cdcd99c929b5dd9ed3df7e574c0116",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f6cdcd99c929b5dd9ed3df7e574c0116/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ee7afab98faa862c53f65ce5b2fcdfdd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ee7afab98faa862c53f65ce5b2fcdfdd/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "CLÁUDIO PESSOA CONSULTORIA IMOBILIÁRIA",
+        "href": "/98091/claudio-pessoa-consultoria-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Cobertura com 5 Quartos para venda ou aluguel, 215m²",
+        "href": "/imovel/cobertura-5-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-215m2-venda-RS1590000-id-2742622872/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Silvia Pozzano",
+            "streetNumber": "240",
+            "zone": "Zona Oeste"
+        }
+    }
+}

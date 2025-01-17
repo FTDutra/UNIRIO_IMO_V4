@@ -1,0 +1,286 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "ELEVATOR",
+            "BALCONY",
+            "SERVICE_AREA",
+            "KITCHEN",
+            "INTERCOM",
+            "PATROL",
+            "PAVED_STREET"
+        ],
+        "usableAreas": [
+            "134"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "COD CO33582 - Maravilhosa Cobertura Duplex com Vista Panorâmica para Área Verde 1 pavimento 2 Quartos Incluindo uma suíte espaçosa Sala de Estar Ampla e bem iluminada Cozinha Moderna e funcional Banheiro Social Área de Serviço Varanda Fechada com cortina de vidro proporcionando conforto e segurança Acabamento Todo o apartamento revestido em porcelanato de alta qualidade Segundo Pavimento Piscina com Deck Perfeita para relaxar e apreciar a vista Vista Excepcional Deslumbrante paisagem de uma vasta área verde Informações Adicionais Apartamnto Recém Construído Projeto contemporâneo e acabamento impecável 2 Vagas de Garagem Condomínio Portão Eletrônico Porteiro Disponível em horário comercial para segurança e comodidade - Informações Atualizadas em Doze de dezembro Dois Mil e Vinte e Quatro",
+        "title": "Cobertura Duplex no Recreio dos Bandeirantes",
+        "unitTypes": [
+            "PENTHOUSE"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2733029369",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22795077",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.021,
+                "approximateLon": -43.478,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Genaro de Carvalho",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Gilka Machado",
+                "TS:Guiomar Novaes",
+                "TS:Recreio Shopping",
+                "CS:R2 Bolos",
+                "CS:Barra Bonita Padaria",
+                "CS:Alfa Belle",
+                "CS:Padaria AlfaBelle",
+                "CS:Américas Pão",
+                "PH:Foliare",
+                "PH:Economia de Drogarias",
+                "PH:Drogaria M. M. Júnior",
+                "PH:Prophylaxis",
+                "PH:Dona Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "CO33582",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "134"
+        ],
+        "advertiserId": "fd248293-28cb-39b2-d124-996cc25738ce",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2531",
+                "price": "630000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1070"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135396100"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "fd248293-28cb-39b2-d124-996cc25738ce",
+        "name": "PATRIMÓVEL IMOBILIARIA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/229b89e5faeaf696d9716f664d00bbed/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 753997,
+        "phones": {
+            "primary": "2135396100",
+            "mobile": "2135396100"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "7ce30aa2922537d3e51c9bf66319e045",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7ce30aa2922537d3e51c9bf66319e045/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b991206c79d71395205d5e02c1c03dd8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b991206c79d71395205d5e02c1c03dd8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6361444a2948348ce2984e3afa4a6306",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6361444a2948348ce2984e3afa4a6306/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a2e4e54c623f3ee10802892b1247c0ca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a2e4e54c623f3ee10802892b1247c0ca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "821a95b0ff3165c778a07c2eda3c42e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/821a95b0ff3165c778a07c2eda3c42e3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5c0b23aced26a755b10be9e66f0ab4d4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5c0b23aced26a755b10be9e66f0ab4d4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b84b17d308e2056ebab7a1147ff1f732",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b84b17d308e2056ebab7a1147ff1f732/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a31a34a50ce2e9426ef240cf50eabbfc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a31a34a50ce2e9426ef240cf50eabbfc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aeb29de34971189933620d75372caad7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aeb29de34971189933620d75372caad7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "540236f82ae5c4fe4e547d51ec61436c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/540236f82ae5c4fe4e547d51ec61436c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f119fe79633d224f51de8c807f39d7ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f119fe79633d224f51de8c807f39d7ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3748d364a78a80601735a702e1eb9969",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3748d364a78a80601735a702e1eb9969/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "995525b0a426e55e0375387d8aa789a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/995525b0a426e55e0375387d8aa789a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d87b70662f8e59e3bc96930ca605ecab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d87b70662f8e59e3bc96930ca605ecab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1fd6bb5f49c09d828e80a82ec769838",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1fd6bb5f49c09d828e80a82ec769838/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "59ffe7bd577968e95f32e44dbc879e25",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/59ffe7bd577968e95f32e44dbc879e25/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb04033218debc79160fb72f1690d730",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb04033218debc79160fb72f1690d730/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8580465815d2d0fca21e91f0b2269104",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8580465815d2d0fca21e91f0b2269104/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0a8e3d16eafcff2b84c4dc97726aea79",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0a8e3d16eafcff2b84c4dc97726aea79/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b05603c2b69e5e8ac54ed4145b4f0114",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b05603c2b69e5e8ac54ed4145b4f0114/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bfc02984f48acdf076728304b9f9962f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bfc02984f48acdf076728304b9f9962f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9f4efa52148ae97cf77e2d7f4ea13eec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9f4efa52148ae97cf77e2d7f4ea13eec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8c8219a5d900a858b3e0ade3049b2777",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8c8219a5d900a858b3e0ade3049b2777/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cb02a434022e024f5f61e6f7010307cc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cb02a434022e024f5f61e6f7010307cc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa5d49fbfa3e5bb328933c589c710271",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa5d49fbfa3e5bb328933c589c710271/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8409086e4a57f652425eab64388b46b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8409086e4a57f652425eab64388b46b5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5ce610851a66e55ca1b2f606b44f65ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5ce610851a66e55ca1b2f606b44f65ff/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "PATRIMÓVEL IMOBILIARIA",
+        "href": "/753997/patrimovel-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Cobertura com 3 Quartos à venda, 134m²",
+        "href": "/imovel/cobertura-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-134m2-venda-RS630000-id-2733029369/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Genaro de Carvalho",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

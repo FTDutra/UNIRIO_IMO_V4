@@ -1,0 +1,459 @@
+{
+    "listing": {
+        "contractType": "REAL_ESTATE",
+        "sourceId": "ca6b0bf5-7395-3c29-8698-a2aef1d66938",
+        "displayAddressType": "ALL",
+        "amenities": [
+            "GARDEN",
+            "ELEVATOR",
+            "BICYCLES_PLACE",
+            "PETS_ALLOWED",
+            "POOL",
+            "BARBECUE_GRILL",
+            "GAMES_ROOM",
+            "GOURMET_BALCONY",
+            "GOURMET_SPACE",
+            "GYM",
+            "SAUNA",
+            "COWORKING",
+            "PARTY_HALL",
+            "SPA"
+        ],
+        "usableAreas": [
+            58
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Seu Apê novinho, direto com a construtora. <br><br>Apartamento 2 quartos com suíte e varanda!<br> lazer completo no rooftop. <br><br>Valores a partir de R$ 399mil. <br>Use seu FGTS na Entrada.<br><br>Localizado na rua Alcides Lima, 87 - Freguesia(Jacarepaguá).<br><br>Agende uma visita!<br><br>Fale agora!",
+        "title": "Apartamento Novo Freguesia",
+        "stamps": [],
+        "createdAt": "2024-12-08T13:21:46.721+00:00",
+        "floors": [],
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "providerId": "",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "unitsOnTheFloor": 0,
+        "legacyId": "",
+        "id": "2762440946",
+        "portal": "GRUPOZAP",
+        "unitFloor": 0,
+        "parkingSpaces": [
+            1
+        ],
+        "updatedAt": "2024-12-12T02:59:39.985+00:00",
+        "address": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jacarepaguá",
+            "street": "Rua Alcides Lima",
+            "streetNumber": "87",
+            "point": {
+                "lat": -22.945352,
+                "lon": -43.337076,
+                "source": "GOOGLE"
+            },
+            "stateAcronym": "RJ"
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "MCip01024",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            72
+        ],
+        "advertiserId": "41685bf8-d53e-b198-926e-25afb3112980",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21977379717"
+            ]
+        },
+        "whatsappNumber": "21977379717",
+        "bedrooms": [
+            2
+        ],
+        "acceptExchange": false,
+        "pricingInfos": [
+            {
+                "businessType": "SALE",
+                "price": 399000
+            }
+        ],
+        "showPrice": true,
+        "resale": false,
+        "buildings": 0,
+        "capacityLimit": [],
+        "status": "ACTIVE"
+    },
+    "account": {
+        "id": "41685bf8-d53e-b198-926e-25afb3112980",
+        "name": "DANIEL BRITO IMÓVEIS",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 387238,
+        "legacyZapId": 2175508,
+        "createdDate": "2018-08-30T06:41:04Z",
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "a2b4c11543cc7fb6d6d98a1d8599f5c5",
+            "url": "https://www.youtube.com/watch?v=-NBbOEoWIxg",
+            "type": "VIDEO"
+        },
+        {
+            "id": "ef55c794d2d97765326871c7f0d709c8",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/ef55c794d2d97765326871c7f0d709c8.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "63f8902b778d8ad70646908d1524fb47",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/63f8902b778d8ad70646908d1524fb47.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "afdca391f00fed8a4286b0f33946a9e7",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/afdca391f00fed8a4286b0f33946a9e7.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2db451f85a34f48ee2c0a710f6997bea",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/2db451f85a34f48ee2c0a710f6997bea.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c38b46c0b851b301f9ceff0ec8d37625",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/c38b46c0b851b301f9ceff0ec8d37625.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "582eefba23bbef7b859360a92b1838d4",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/582eefba23bbef7b859360a92b1838d4.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a7b6e6dd60e3a38997a54e2800ad68e6",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/a7b6e6dd60e3a38997a54e2800ad68e6.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fc385e0efc3c56b6acb4f0034ae4a1cd",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/fc385e0efc3c56b6acb4f0034ae4a1cd.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "90e8bf2ae0f642889d384ea325302a98",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/90e8bf2ae0f642889d384ea325302a98.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a3d7e1abae52094fa755a851b7da8dc1",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/a3d7e1abae52094fa755a851b7da8dc1.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5d2ef96eb8a6237c6cda6d2f26965c48",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/5d2ef96eb8a6237c6cda6d2f26965c48.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "51cda236aa10e3993950ef2376275b14",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/51cda236aa10e3993950ef2376275b14.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1ce82b4d278dad22f9038d670e0f48b3",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/1ce82b4d278dad22f9038d670e0f48b3.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6ecf90812400f0ab150de4cedc289482",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/6ecf90812400f0ab150de4cedc289482.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2d428c023e3f27d527c8a99176ad3c3c",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/2d428c023e3f27d527c8a99176ad3c3c.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "913838d5f321455dd80f71646f48ea94",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/913838d5f321455dd80f71646f48ea94.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e60d32c8cc70d0c3b280f7c0b249319",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/2e60d32c8cc70d0c3b280f7c0b249319.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0e84f4fded4eeb162195aaa43fd706bf",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/0e84f4fded4eeb162195aaa43fd706bf.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a49224fe9fbf7c1ce24fca5a718baeb",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/6a49224fe9fbf7c1ce24fca5a718baeb.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bda9bfdd4902a9cadede5d30897bdb49",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/bda9bfdd4902a9cadede5d30897bdb49.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9a49272388cffdbe703298d6564c8b05",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/9a49272388cffdbe703298d6564c8b05.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "00d0b0545a73286fd134828ded4db1fe",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/00d0b0545a73286fd134828ded4db1fe.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "829c143094e19cf215d7cc6738003823",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/829c143094e19cf215d7cc6738003823.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4e9cf86f0d4c074e0a2ea5fef0de7d0a",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/4e9cf86f0d4c074e0a2ea5fef0de7d0a.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e9ffca1b36595a3a0dd0d7d9dc982fe",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/2e9ffca1b36595a3a0dd0d7d9dc982fe.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6cc1501688bdff543356fc34b4280272",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/6cc1501688bdff543356fc34b4280272.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f6538d0ab9e4905e9ea9909911d9d9fc",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/f6538d0ab9e4905e9ea9909911d9d9fc.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2f1911af42a6041a20c4baccd4c67fcf",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/2f1911af42a6041a20c4baccd4c67fcf.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "76cab64d11cbd9a300f51f0755cfe399",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/76cab64d11cbd9a300f51f0755cfe399.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a934dec365473dacdbca8093d57dc2e",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/4a934dec365473dacdbca8093d57dc2e.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c4be671bfd1f8042007a7a8828b8a51",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/4c4be671bfd1f8042007a7a8828b8a51.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b155d2d5a7d592c307f54eee1de805a",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/7b155d2d5a7d592c307f54eee1de805a.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d37e2a9bae4935f9b4b8220677e27107",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/d37e2a9bae4935f9b4b8220677e27107.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "172d9310c0c7ad73ec7f5c2493b0b773",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/172d9310c0c7ad73ec7f5c2493b0b773.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8d64973e71b6707b1462993058dc9773",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/8d64973e71b6707b1462993058dc9773.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e53b35945d91fde4ab4e6211eb7ac2e",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/9e53b35945d91fde4ab4e6211eb7ac2e.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fc21afefab062e66cc5480437063a560",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/fc21afefab062e66cc5480437063a560.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36cbedddd542d7877e0e930dd2a1b716",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/36cbedddd542d7877e0e930dd2a1b716.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd6733c41b12395ed0457d733d6bcf94",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/cd6733c41b12395ed0457d733d6bcf94.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "67ef6f873a81ce2b5779f9bd95e28950",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/67ef6f873a81ce2b5779f9bd95e28950.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d97ce13204755c833b4670bb3596ca0c",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/d97ce13204755c833b4670bb3596ca0c.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d25594ef16fb3525b4243b7c9b75ca93",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/d25594ef16fb3525b4243b7c9b75ca93.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8724b8f01fef307ba3145e1257a78c08",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/8724b8f01fef307ba3145e1257a78c08.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca906b23eb9a4dbb7752f74f88bcc65c",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/ca906b23eb9a4dbb7752f74f88bcc65c.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c21bbf09f6fcc8cc2d6c1653b879a80e",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/c21bbf09f6fcc8cc2d6c1653b879a80e.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "64fa765f43b369a8101a291f03285294",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/64fa765f43b369a8101a291f03285294.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0dff82ef78d038d17938edc9a6e9f602",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/0dff82ef78d038d17938edc9a6e9f602.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "798c2aa9a33cf2c7bb813d00df4630cf",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/798c2aa9a33cf2c7bb813d00df4630cf.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42a253b80d0b95bf4602e997fca9ffb0",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/42a253b80d0b95bf4602e997fca9ffb0.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "31472dba839506ad6d8b8e5575c48ab8",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/31472dba839506ad6d8b8e5575c48ab8.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0cb12ca70eb26d9703a45ea00ade1a1c",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/0cb12ca70eb26d9703a45ea00ade1a1c.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "80143107b1f4e4fc861d712e93bd06c5",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/80143107b1f4e4fc861d712e93bd06c5.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5c275b948e574b1257e30dc1eec9ecb2",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/5c275b948e574b1257e30dc1eec9ecb2.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c324c62806ef31611e4e4e8aff06a6e8",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/c324c62806ef31611e4e4e8aff06a6e8.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "548a5dcbbce641d534d3d7aa1dd69011",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/548a5dcbbce641d534d3d7aa1dd69011.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ea69fd012c46ef386a2089929769d0c7",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/ea69fd012c46ef386a2089929769d0c7.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f2770c3355a21107ebe6a67233bbbd17",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/f2770c3355a21107ebe6a67233bbbd17.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3be298bf3055889dc6a20c3b26b18b19",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/3be298bf3055889dc6a20c3b26b18b19.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1830a7bc31efe51fcb96bb037425513",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/b1830a7bc31efe51fcb96bb037425513.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eaa702a00b35b153d1913cd767ee0ca7",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/eaa702a00b35b153d1913cd767ee0ca7.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bddf1df2980222bca5e8a55cfb624c35",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/bddf1df2980222bca5e8a55cfb624c35.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd3dcd95e8e9b05fa43e266166ec75b8",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/fd3dcd95e8e9b05fa43e266166ec75b8.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a69dacce78f3453ed35ec81fa5b41ac2",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/a69dacce78f3453ed35ec81fa5b41ac2.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d4e676ec82f0df70114ef82b31af11de",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/d4e676ec82f0df70114ef82b31af11de.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "23c89fd10ce5eca9b1aa52bf259557e9",
+            "url": "https://resizedimgs.zapimoveis.com.br/crop/614x297/vr.images.sp/23c89fd10ce5eca9b1aa52bf259557e9.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "DANIEL BRITO IMÓVEIS",
+        "href": "/imobiliaria/387238/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 58m²",
+        "href": "/imovel/venda-apartamento-2-quartos-com-piscina-jacarepagua-rio-de-janeiro-58m2-id-2762440946/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jacarepaguá",
+            "state": "",
+            "street": "Rua Alcides Lima",
+            "streetNumber": "87",
+            "zone": ""
+        }
+    }
+}

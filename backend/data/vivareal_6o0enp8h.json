@@ -1,0 +1,250 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "CONCIERGE_24H",
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "26"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento na melhor localização no centro do Rio de janeiro,conjugado bem dividido , posição frente,poucas unidades por andar . portaria 24hs, amplo salão, cozinha cabe fogão , geladeira, instalação para maquina de lavar, banheiro com box blindex.Prédio residencial , com possibilidade de garagem, farta condução para toda zona sul, bares ,restaurantes, farmácias,bancos , oportunidade ,confira já, aceita financiamento.",
+        "title": "Conjugado no melhor localização do centro",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2757762245",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "20240000",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.915,
+                "approximateLon": -43.188,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Praça Almirante Jaceguai",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:Ponto Final: Cruz Vermelha",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "BS:P28",
+                "BS:BRS 1,2,4 Inválidos",
+                "BS:Rua Monte Alegre próximo ao 342",
+                "TS:Ponto Final: Cruz Vermelha",
+                "TS:Rua Paschoal Carlos Magno próximo ao 15",
+                "TS:P28",
+                "TS:BRS 1,2,4 Inválidos",
+                "TS:Rua Monte Alegre próximo ao 342",
+                "CS:Padaria e Confeitaria Costa Bastos",
+                "CS:Padaria Vilar Pães",
+                "CS:Fábrica de Bolo Vó Alzira",
+                "CS:ArmaZen",
+                "CS:Seu Zé",
+                "PH:Viva Bem",
+                "PH:Exata",
+                "PH:Drogaria Rey",
+                "PH:Drogaria Exata",
+                "PH:City Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "759",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "26"
+        ],
+        "advertiserId": "72fce28c-5a73-b3d1-6dad-53c36dbc0398",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "20",
+                "price": "220000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "607"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122222830"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "72fce28c-5a73-b3d1-6dad-53c36dbc0398",
+        "name": "LOPA IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/202d8893d7e089e71a25940555fbec88/{description}.webp",
+        "licenseNumber": "028259-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 40823,
+        "phones": {
+            "primary": "2122222830",
+            "mobile": "2122222830"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "8abb72dcf2cd0a3eebb01e3a924745f6",
+            "url": "https://www.youtube.com/watch?v=FeSLY9fnqKk",
+            "type": "VIDEO"
+        },
+        {
+            "id": "7f0d2cad2a2a5ca3bc14d9c39d767fb9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f0d2cad2a2a5ca3bc14d9c39d767fb9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0d7dcf368211b2f8bd7864a4049df9df",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0d7dcf368211b2f8bd7864a4049df9df/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b0c669ebc3a91f64373ca26729a78bf1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b0c669ebc3a91f64373ca26729a78bf1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "49172e20400e296f4148666cae68effc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/49172e20400e296f4148666cae68effc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e8b1fa7ca5428b89497a986b94b93f06",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e8b1fa7ca5428b89497a986b94b93f06/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "53dfd283b74209b0b392078a478f125c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/53dfd283b74209b0b392078a478f125c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca966f16e922224675d7ea9864ee834d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca966f16e922224675d7ea9864ee834d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce6e4540f547f6f39cfe9e191e60af69",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce6e4540f547f6f39cfe9e191e60af69/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3e64392037616157ea98a258fc7a8622",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3e64392037616157ea98a258fc7a8622/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "252719a14784cd6025481686e9f1d2f6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/252719a14784cd6025481686e9f1d2f6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "570b5f0ca8fe0ecd5995e6b2c33128d4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/570b5f0ca8fe0ecd5995e6b2c33128d4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "828cc9e9b0ccf3e159a99b7bd8466e82",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/828cc9e9b0ccf3e159a99b7bd8466e82/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "511c2b4b44ba6113a9ea0a9625eb0fec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/511c2b4b44ba6113a9ea0a9625eb0fec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f13573df154b207664baa833b8a3938e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f13573df154b207664baa833b8a3938e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f8b2b715819b6296071923e4fcab12be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f8b2b715819b6296071923e4fcab12be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9d956587688d00c706581fdf2821ccab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9d956587688d00c706581fdf2821ccab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "07dff0b57051c9da53797f07484a9c99",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/07dff0b57051c9da53797f07484a9c99/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "71027d339dbe5c033a4ad6789ab45c3b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/71027d339dbe5c033a4ad6789ab45c3b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e502b5e8c9401d029b1ee9e0e56a5eab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e502b5e8c9401d029b1ee9e0e56a5eab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "68507ce246ba9051501a52a6938bb55a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/68507ce246ba9051501a52a6938bb55a/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "LOPA IMOVEIS",
+        "href": "/40823/lopa-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 26m²",
+        "href": "/imovel/apartamento-1-quartos-centro-zona-central-rio-de-janeiro-26m2-venda-RS220000-id-2757762245/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Praça Almirante Jaceguai",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

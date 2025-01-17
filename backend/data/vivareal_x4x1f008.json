@@ -1,0 +1,277 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "FURNISHED",
+            "ELEVATOR",
+            "BALCONY",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "WATCHMAN",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "30"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Privilégio Imóveis Vende: Conjugado dividido em saleta quarto, reformado e mobiliado na Av. Atlântica em Copacabana junto ao Posto 6. Prédio com portaria e porteiro 24h, Apartamento em andar alto, claro e arejado, silencioso, conjugado totalmente reformado e modernizado, piso em porcelanato, hidráulica e elétrica novas, janelas novas, pronto para entrar e morar ou investir. O valor do imóvel poderá sofrer alteração sem aviso prévio. Ligue e agende uma visita! Para agilizar seu atendimento, forneça o código 66466.",
+        "title": "Conjugado reformado na Av Atlântica em Copacabana!",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [
+            "KITNET"
+        ],
+        "id": "2732584632",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22070001",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.982,
+                "approximateLon": -43.19,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Atlântica",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 2: Francisco Sá",
+                "BS:BRS 1 Sá Ferreira",
+                "BS:BRS 2: Rainha Elizabeth",
+                "BS:BRS 1",
+                "BS:BRS 2 Djalma Ulrich",
+                "TS:BRS 2: Francisco Sá",
+                "TS:BRS 1 Sá Ferreira",
+                "TS:BRS 2: Rainha Elizabeth",
+                "TS:BRS 1",
+                "TS:BRS 2 Djalma Ulrich",
+                "CS:Lopes",
+                "CS:Casa du bisçoito",
+                "CS:Peixaria Z13",
+                "CS:Colônia dos Pescadores",
+                "CS:Nema",
+                "PH:Viva Mais",
+                "PH:Farmácia Central Posto 6",
+                "PH:Prontofarma",
+                "PH:Drogaria Pop",
+                "PH:Drogaria Galanti"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "66466",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "30"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1394",
+                "price": "680000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "682"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "c34f34ba31dfdf7100e4d43d388a476a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c34f34ba31dfdf7100e4d43d388a476a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce8b5e2be9a5f85e80177e8227863f82",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce8b5e2be9a5f85e80177e8227863f82/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "191a3a0da0919e832c2f4c34348555a7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/191a3a0da0919e832c2f4c34348555a7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "597da0a27a5f94d027c57f2e5614ff82",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/597da0a27a5f94d027c57f2e5614ff82/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c4d3047bd29a23a75092f83b335ad3d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c4d3047bd29a23a75092f83b335ad3d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff4e0f4fc859c7a094a7820e3cb361cd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff4e0f4fc859c7a094a7820e3cb361cd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0a7cd73a4bcabab419022f67d7e35e2b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0a7cd73a4bcabab419022f67d7e35e2b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "755e5cf902cf6ea413f97dad3605782a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/755e5cf902cf6ea413f97dad3605782a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "777394381fe501ed48d39ffe85c7a820",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/777394381fe501ed48d39ffe85c7a820/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c961e49032d0223e87efb2fb3065ce2c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c961e49032d0223e87efb2fb3065ce2c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0587cb335e4b5a3df107bff61c1c1e70",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0587cb335e4b5a3df107bff61c1c1e70/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "14e1e457321b749f1ffc009e76b92f43",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/14e1e457321b749f1ffc009e76b92f43/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b76240a5ac0ef16a28b8043c307cc504",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b76240a5ac0ef16a28b8043c307cc504/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2fc0131f12400be511ba2b72c9e8a5f5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2fc0131f12400be511ba2b72c9e8a5f5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7d003b1f044db07a53596bc6bd86804b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7d003b1f044db07a53596bc6bd86804b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a95b58b6bd42cf3a1ad33de1db7127bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a95b58b6bd42cf3a1ad33de1db7127bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f951a006eb1ce57df6a5faea1f70ba0e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f951a006eb1ce57df6a5faea1f70ba0e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "72dfa3349a91a298b5c9520c5b0f17f6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/72dfa3349a91a298b5c9520c5b0f17f6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "41efada84b7a69f22067b333e371980a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/41efada84b7a69f22067b333e371980a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "02fb07a61e23157a7c155892f66d3aa7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/02fb07a61e23157a7c155892f66d3aa7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7028092190211febfd83343487903d5c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7028092190211febfd83343487903d5c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "64810e55e341612b8b6dc711a3b32798",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/64810e55e341612b8b6dc711a3b32798/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fa35bdcc780ad201378ab367823a8320",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa35bdcc780ad201378ab367823a8320/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0a29561f9dbcc21b17dd39db56cde37e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0a29561f9dbcc21b17dd39db56cde37e/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Kitnet com 1 Quarto à venda, 30m²",
+        "href": "/imovel/kitnet-1-quartos-copacabana-zona-sul-rio-de-janeiro-30m2-venda-RS680000-id-2732584632/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Atlântica",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

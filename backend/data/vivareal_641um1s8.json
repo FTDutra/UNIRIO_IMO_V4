@@ -1,0 +1,295 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "INTERCOM",
+            "SERVICE_AREA"
+        ],
+        "usableAreas": [
+            "52"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente imóvel em localização privilegiada no Méier. São dois quartos, sala,cozinha, banheiro e área de serviço em bom estado de conservação.<br><br> <br><br> <br><br> DDZ IMOBILIÁRIA. COMPRA, VENDA, LOCAÇÃO, ADMINISTRAÇÃO, AVALIAÇÃO e LEGALIZAÇÃO de BENS RESIDENCIAIS OU COMERCIAIS EM TODO RJ.<br>-Cod:DZAP20057 -Rev.11Dez",
+        "title": "Apartamento - / Residencial / Méier",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2687442230",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "20725232",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.906,
+                "approximateLon": -43.289,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Pedro de Carvalho",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Meier",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Méier",
+            "poisList": [
+                "BS:Ponto Final: Méier :: Linha 679",
+                "BS:679 - Méier x Grotão",
+                "BS:232 - Lins x Praça XV",
+                "BS:Ponto Final: Linha 232",
+                "BS:Constança Barbosa",
+                "TS:Ponto Final: Méier :: Linha 679",
+                "TS:232 - Lins x Praça XV",
+                "TS:Ponto Final: Linha 232",
+                "TS:Constança Barbosa",
+                "TS:Agripino Grieco",
+                "CS:Panificadora Aquidabã",
+                "CS:TECNOMEDI MÉIER",
+                "CS:Rainha do Méier",
+                "CS:Dika do Méier",
+                "CS:ortális",
+                "PH:Drogaria Atração do Méier",
+                "PH:Drogaria Mais Barato - Méier",
+                "PH:Drogaria Carioca"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "DZAP20057",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "52"
+        ],
+        "advertiserId": "650fee1d-5fc2-bfa6-c721-a6109f6e1626",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "76",
+                "price": "290000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "576"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21969783400"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21969783400",
+        "stamps": []
+    },
+    "account": {
+        "id": "650fee1d-5fc2-bfa6-c721-a6109f6e1626",
+        "name": "DDZ Imobiliária",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fce95ebebabe2679379087a7cec6bd3b/{description}.webp",
+        "licenseNumber": "24897-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 400464,
+        "phones": {
+            "primary": "21969783400",
+            "mobile": "21969783400"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "1e0670e34953fafa949c801b03863625",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e0670e34953fafa949c801b03863625/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "62967cbfaf311e675f4a56e75bad7bdb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/62967cbfaf311e675f4a56e75bad7bdb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "252c146bae1500840b20943c5d5b359c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/252c146bae1500840b20943c5d5b359c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ab5d6eb21ca13ab6db5b23ed341348e4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ab5d6eb21ca13ab6db5b23ed341348e4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d3760caae6cd03609954e6ba82c18cb7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d3760caae6cd03609954e6ba82c18cb7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36b43123e218e8fd78224322bfdcc6f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36b43123e218e8fd78224322bfdcc6f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fc2e054a276f46f1f9c451be21e7c075",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fc2e054a276f46f1f9c451be21e7c075/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f2244221ed0e28a84a81e2c84ed48832",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f2244221ed0e28a84a81e2c84ed48832/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "367c7821b717848febb6c1f76819e66a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/367c7821b717848febb6c1f76819e66a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dc1936c1aaca0c4637eb67ef4ee36b94",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc1936c1aaca0c4637eb67ef4ee36b94/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a81532060562a3eaff39b0cd3ed027e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8a81532060562a3eaff39b0cd3ed027e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d932076ea139c14560243adecd2edaa5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d932076ea139c14560243adecd2edaa5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f131351c699e3a6926e4703925201863",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f131351c699e3a6926e4703925201863/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ecdbd77f2bfa3f4f7e61234b6e6aaba5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ecdbd77f2bfa3f4f7e61234b6e6aaba5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a628fe42393717d48d943db68f73baad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a628fe42393717d48d943db68f73baad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e88f7897a7fd6b8408acc373518c61d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e88f7897a7fd6b8408acc373518c61d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3befbe92b4681d1702c37d74ca1af1ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3befbe92b4681d1702c37d74ca1af1ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b85e39cee799554b1856d75628670903",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b85e39cee799554b1856d75628670903/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf9d755fd813626cd3c7b5a99a0c1351",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf9d755fd813626cd3c7b5a99a0c1351/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0cc196f78b5cf9f6f54911f8c3dee6b6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0cc196f78b5cf9f6f54911f8c3dee6b6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0d719dadf0d36ff3336595d69e2719ae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0d719dadf0d36ff3336595d69e2719ae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "641ad7180d8f62997d9d7f7d51d77d32",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/641ad7180d8f62997d9d7f7d51d77d32/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e552c3ac533164854ef9c327ec1396e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e552c3ac533164854ef9c327ec1396e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c53165bc744099540d0799c4004cb726",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c53165bc744099540d0799c4004cb726/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "06324e1702b028c81908e19922644d72",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/06324e1702b028c81908e19922644d72/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a873e09cdcc9bf2edbaf7500610622aa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a873e09cdcc9bf2edbaf7500610622aa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2fca0e12319e210d078a70c0edb1e6c6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2fca0e12319e210d078a70c0edb1e6c6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e1da1ac2a8920149a133cbf82809714",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e1da1ac2a8920149a133cbf82809714/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1269edc1a25bf6f1d6741ae9c32da3a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1269edc1a25bf6f1d6741ae9c32da3a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ccac1af1058d10c0e408abc3a064428",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ccac1af1058d10c0e408abc3a064428/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "DDZ Imobiliária",
+        "href": "/400464/ddz-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 52m²",
+        "href": "/imovel/apartamento-2-quartos-meier-zona-norte-rio-de-janeiro-52m2-venda-RS290000-id-2687442230/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Méier",
+            "state": "Rio de Janeiro",
+            "street": "Rua Pedro de Carvalho",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

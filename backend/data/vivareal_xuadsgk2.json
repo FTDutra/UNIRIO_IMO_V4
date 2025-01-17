@@ -1,0 +1,243 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "FURNISHED",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "AIR_CONDITIONING",
+            "GARDEN",
+            "SERVICE_AREA",
+            "GOURMET_BALCONY",
+            "SPORTS_COURT",
+            "HOME_OFFICE",
+            "KITCHEN",
+            "INTERCOM",
+            "LAUNDRY",
+            "ALARM_SYSTEM",
+            "CABLE_TV",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "93"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "EXCELENTE APARTAMENTO DE 3 QTOS SALA COM 2 AMBIENTES, VARANDA COM VISTA LIVRE, PISO FRIO, ARMÁRIOS NOS QUARTOS E COZINHA COM ARMARIOS, SUITE COM BOX BLINDEX E ARMÁRIOS, BANHEIRO SOCIAL COM ARAMRIOS E BOX, PREDIO COM TOTAL INFRASTRUTURA. -",
+        "title": "Apartamento com 3 dormitórios à venda, 93 m² por R$ 698.000 - Recreio dos Bandeirantes - Rio de Jane",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2738204802",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790671",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "3003",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.484445,
+                "source": "GOOGLE",
+                "lat": -23.006713
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Silvia Pozzano",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Guiomar Novaes",
+                "TS:Gilka Machado",
+                "TS:Recreio Shopping",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "CS:Barra Bonita Padaria",
+                "CS:R2 Bolos",
+                "CS:Américas Pão",
+                "CS:Armazém do Recreio",
+                "PH:Drogaria M. M. Júnior",
+                "PH:Prophylaxis",
+                "PH:Foliare"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0235",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "93"
+        ],
+        "advertiserId": "1af19c83-cc9c-e76a-3681-334c4dd65ff5",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3000",
+                "price": "698000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1600"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21976402229"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21976402229",
+        "stamps": []
+    },
+    "account": {
+        "id": "1af19c83-cc9c-e76a-3681-334c4dd65ff5",
+        "name": "imopar imóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/661ae7659452686e472d3c31bd0bd28a/{description}.webp",
+        "licenseNumber": "5353-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 174876,
+        "phones": {
+            "primary": "21976402229",
+            "mobile": "21976402229"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "86c9e0f237e8fc69108dc6576fd896bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86c9e0f237e8fc69108dc6576fd896bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "82ba30bb84383652fda529eb4df1fd49",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82ba30bb84383652fda529eb4df1fd49/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "40bad83ad1ce90728a261c458adee952",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40bad83ad1ce90728a261c458adee952/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d8a6a0c400824d33623edd5edc329b0d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8a6a0c400824d33623edd5edc329b0d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "276f810d27708bc8afdd5b5636ec6cc2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/276f810d27708bc8afdd5b5636ec6cc2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "440546be9b3d418840b59cdd08ac56bb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/440546be9b3d418840b59cdd08ac56bb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "895f14c623638283a6f3b40d7c9c19f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/895f14c623638283a6f3b40d7c9c19f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5bcbd103e7493a4971a86c10d912d0d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5bcbd103e7493a4971a86c10d912d0d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f8c2067521f0ce56e4d8f3c1a905874",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f8c2067521f0ce56e4d8f3c1a905874/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1cfd96720d437a98ac35d1b4da8695a9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1cfd96720d437a98ac35d1b4da8695a9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dac5bff07039387b2f9c9b8441838b2b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dac5bff07039387b2f9c9b8441838b2b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c5e08144bda05c6bdafcb070643d9b71",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c5e08144bda05c6bdafcb070643d9b71/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1d3c2ce4ef93f63e499591c29eec6f5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1d3c2ce4ef93f63e499591c29eec6f5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a8109dac859c223367de01f1d1bd5ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a8109dac859c223367de01f1d1bd5ed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "14ea3827b6ac015d69f05441635d309c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/14ea3827b6ac015d69f05441635d309c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b7eb2bd771832ee663e2828e5e76edf5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b7eb2bd771832ee663e2828e5e76edf5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a9ae347020c6866fdef72484606be48",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a9ae347020c6866fdef72484606be48/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a2f43e08668bee13668db8b6027d3560",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a2f43e08668bee13668db8b6027d3560/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "imopar imóveis",
+        "href": "/174876/imopar-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 93m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-93m2-venda-RS698000-id-2738204802/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Silvia Pozzano",
+            "streetNumber": "3003",
+            "zone": "Zona Oeste"
+        }
+    }
+}

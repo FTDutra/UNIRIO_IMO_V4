@@ -1,0 +1,266 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "ELEVATOR",
+            "BALCONY",
+            "GYM",
+            "GOURMET_SPACE",
+            "GARAGE",
+            "AIR_CONDITIONING",
+            "GARDEN",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "LAUNDRY",
+            "HEATING",
+            "WATCHMAN",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "45"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Privilégio Imoveis vende: Este apartamento lindo e com PORTEIRA FECHADA, composto por um quarto sala em dois ambientes, banheiro e cozinha fica no Condomínio Cores da Lapa, aqui você reside em um lugar que reflete o espírito vibrante de Rio de Janeiro. Situado na R. Riachuelo, ele oferece uma ampla variedade de recursos para enriquecer a vida cotidiana.<br><br>Com portaria 24 horas, academia, piscina, salão de festas, gás encanado, churrasqueira, playground, sauna, brinquedoteca, lavanderia no prédio e espaço gourmet na área comum, o Condomínio Cores da Lapa é ideal para quem busca conforto e entretenimento.<br>Próximo ao Centro de Pesquisas do Instituto Nacional do Câncer (INCa), Creche Municipal Aldeia dos Curumins, Morro do Curvelo, Escola Municipal Orlando Villas Boas, Escola Nacional de Ciências Estatísticas e Escola Municipal Machado de Assis adiciona praticidade é o que define essa experiência.",
+        "title": "Belíssimo apartamento em uma localização privilegiada no Rio de Janeiro é só entrar e morar",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2673655375",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20230012",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.915,
+                "approximateLon": -43.186,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Rua Riachuelo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:Ponto Final: Cruz Vermelha",
+                "BS:BRS 1,2,4 Inválidos",
+                "BS:P28",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "BS:BRS 5: Praça da República",
+                "TS:Ponto Final: Cruz Vermelha",
+                "TS:BRS 1,2,4 Inválidos",
+                "TS:P28",
+                "TS:Francisco Muratori",
+                "TS:Rua Paschoal Carlos Magno próximo ao 15",
+                "CS:Seu Zé",
+                "CS:Café Bakery",
+                "CS:ArmaZen",
+                "CS:Padaria Vilar Pães",
+                "CS:Fábrica de Bolo Vó Alzira",
+                "PH:Viva Bem",
+                "PH:Exata",
+                "PH:Drogaria Rey",
+                "PH:Drogaria Guanabara",
+                "PH:City Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "63900",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "45"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1210",
+                "price": "500000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "600"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "96bdd706a9e78168612d8bf4c1652c91",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/96bdd706a9e78168612d8bf4c1652c91/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f712af91aa733063e2360ff2903030c5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f712af91aa733063e2360ff2903030c5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb459e504d0ef67f7ea0b7908b9d0fd8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb459e504d0ef67f7ea0b7908b9d0fd8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a3820053b096bd0950a305c4876cdd3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a3820053b096bd0950a305c4876cdd3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c00592805bca81d46d46c1422dcd60f1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c00592805bca81d46d46c1422dcd60f1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c34adc599f4bc192bd8228ac3d04195a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c34adc599f4bc192bd8228ac3d04195a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6afe956e0e760c0e03f984794ab36c1a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6afe956e0e760c0e03f984794ab36c1a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "af262f412b06928ac40acc812d636e01",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/af262f412b06928ac40acc812d636e01/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "97cda34192bd080d06a0843d0c87dd4f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/97cda34192bd080d06a0843d0c87dd4f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0ccc07651e5af25c24171d9f2f55c01b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0ccc07651e5af25c24171d9f2f55c01b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ef9c2995ff46d9791ab026af913c5c29",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ef9c2995ff46d9791ab026af913c5c29/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bedec9c7d10fda1d8a011c82758d1de2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bedec9c7d10fda1d8a011c82758d1de2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7200a0cfcad1cb90087e8c30c5cb6a69",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7200a0cfcad1cb90087e8c30c5cb6a69/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21e4f3d4a1f50fbce19a4835b0ca422b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21e4f3d4a1f50fbce19a4835b0ca422b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "643503d93b652b7ec2aa79e17ff47ae7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/643503d93b652b7ec2aa79e17ff47ae7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a221541c1206a35e32360cf89cb252ae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a221541c1206a35e32360cf89cb252ae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2254e37ecb77c9b95675aec50c357209",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2254e37ecb77c9b95675aec50c357209/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5dcc333b76b8cdf915e6ed7ab87b9944",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5dcc333b76b8cdf915e6ed7ab87b9944/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fbbd5b83ef304a8f46b4693f64d97f5a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fbbd5b83ef304a8f46b4693f64d97f5a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "933366df2a3bd61a79b316f0416e3b4c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/933366df2a3bd61a79b316f0416e3b4c/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 45m²",
+        "href": "/imovel/apartamento-1-quartos-centro-zona-central-rio-de-janeiro-com-garagem-45m2-venda-RS500000-id-2673655375/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Rua Riachuelo",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

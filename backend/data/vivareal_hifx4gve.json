@@ -1,0 +1,265 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "BALCONY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "SERVICE_AREA",
+            "PARTY_HALL",
+            "HOME_OFFICE",
+            "KITCHEN",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "81"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Double suítes a venda em Ipanema, Lançamento a poucos passos da praia, prédio com infraestrutura de lazer e condições imperdíveis de pagamento 1784",
+        "title": "Apartamento com 02 suítes a venda em Ipanema - Rio de Janeiro RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2751197917",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22071110",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "40",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.196806,
+                "source": "GOOGLE",
+                "lat": -22.985995
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Gomes Carneiro",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Ipanema",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "poisList": [
+                "BS:Ponto Final: General Osório :: Rua Prudente de Morais",
+                "BS:BRS 2: General Osório",
+                "BS:Metrô na Superfície - General Osório",
+                "BS:Ponto Final: General Osório :: Rua Visconde de Pirajá",
+                "BS:Barra Expresso",
+                "TS:Ponto Final: General Osório :: Rua Prudente de Morais",
+                "TS:General Osório",
+                "TS:BRS 2: General Osório",
+                "TS:Metrô na Superfície - General Osório",
+                "TS:Ponto Final: General Osório :: Rua Visconde de Pirajá",
+                "CS:La Veronese",
+                "CS:Terra Mineira",
+                "CS:Empório das Águas",
+                "CS:Planeta Água",
+                "CS:Chocolate Brasil Cacau",
+                "PH:Drogaria Pop",
+                "PH:Farmácia Central Posto 6",
+                "PH:Viva Mais",
+                "PH:Prontofarma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "1784",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "81"
+        ],
+        "advertiserId": "eeb08206-dc33-2360-7127-bb09eb4a3c07",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "200",
+                "price": "2830000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "100"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21964648018"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964648018",
+        "stamps": []
+    },
+    "account": {
+        "id": "eeb08206-dc33-2360-7127-bb09eb4a3c07",
+        "name": "House Imoveis RJ",
+        "licenseNumber": "68036-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 621717,
+        "phones": {
+            "primary": "21964648018",
+            "mobile": "21964648018"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "1c2dd22484ff5ce1c46ed9e8e5c54168",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c2dd22484ff5ce1c46ed9e8e5c54168/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e400648049588a0d840eb4eefc46858",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e400648049588a0d840eb4eefc46858/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "25ad10d5ec6f0c4c877736ccec8b0187",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/25ad10d5ec6f0c4c877736ccec8b0187/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "06e9ab7d70c8b68f7a07fd7f81f297c2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/06e9ab7d70c8b68f7a07fd7f81f297c2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5e7a30369d5388d9e9ec24a40daa7e81",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5e7a30369d5388d9e9ec24a40daa7e81/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bf0c5c834f98fc0678a2f8b982ab0591",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bf0c5c834f98fc0678a2f8b982ab0591/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e3e0b4af817daa097fb2423478685432",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e3e0b4af817daa097fb2423478685432/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "876b52932cadecc5e416fc0496bbe909",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/876b52932cadecc5e416fc0496bbe909/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "94746ae317a6e40ab5d24e4ccd3a4c93",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/94746ae317a6e40ab5d24e4ccd3a4c93/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cca78e8a7984247b72e334a669ae7d9f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cca78e8a7984247b72e334a669ae7d9f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7561bb3db8edd713da38019fbf4a6075",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7561bb3db8edd713da38019fbf4a6075/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ccf03529b19d2ca066e057a5e4fe12d9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ccf03529b19d2ca066e057a5e4fe12d9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e8ee5bc681c98fcb9d92ddb54edcac1b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e8ee5bc681c98fcb9d92ddb54edcac1b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "868aecd2737545096623522a386b0a8f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/868aecd2737545096623522a386b0a8f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "de4021d8d3b045411576da2e61889733",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/de4021d8d3b045411576da2e61889733/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4384187cec863ecaaa6c536eb6eb69b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4384187cec863ecaaa6c536eb6eb69b0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ba365395d9223b89d8795a9e8c0c3462",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ba365395d9223b89d8795a9e8c0c3462/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e939f5dc8ba9260cbf7867966037cc5c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e939f5dc8ba9260cbf7867966037cc5c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "62df76deda61f06e4ba251ec9941efa3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/62df76deda61f06e4ba251ec9941efa3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0af80af4846048dadc8a6374295c10b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0af80af4846048dadc8a6374295c10b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "543155fd2bda8e95a2a71472ece59fc0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/543155fd2bda8e95a2a71472ece59fc0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d9fb322f179cb8dd03ce1f79c540f1e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d9fb322f179cb8dd03ce1f79c540f1e0/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "House Imoveis RJ",
+        "href": "/621717/house-imoveis-rj/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 81m²",
+        "href": "/imovel/apartamento-2-quartos-ipanema-zona-sul-rio-de-janeiro-com-garagem-81m2-venda-RS2830000-id-2751197917/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "state": "Rio de Janeiro",
+            "street": "Rua Gomes Carneiro",
+            "streetNumber": "40",
+            "zone": "Zona Sul"
+        }
+    }
+}

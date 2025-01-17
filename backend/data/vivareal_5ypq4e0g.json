@@ -1,0 +1,341 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "BACKYARD",
+            "GARAGE",
+            "GARDEN",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "HEATING",
+            "NUMBER_OF_FLOORS"
+        ],
+        "usableAreas": [
+            "80"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua Humberto de Campos, no bairro Leblon em Rio de Janeiro.<br><br> Este imóvel conta com área construída de 80m², oferecendo 3 quartos, 3 banheiros e 1 vaga de garagem. <br><br>Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apartamento à venda em Leblon com 80 m², 3 quartos, 1 vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2724160268",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22430190",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "410",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.219285,
+                "source": "GOOGLE",
+                "lat": -22.981564
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Humberto de Campos",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Leblon",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "poisList": [
+                "BS:Humberto de Campos",
+                "BS:Ponto Final: Afrânio de Melo Franco I",
+                "BS:BRS 2,3 - Cupertino Durão",
+                "BS:Ponto Final: CIEP Nação Rubro Negra",
+                "BS:Nossa Senhora Auxiliadora",
+                "TS:Humberto de Campos",
+                "TS:Ponto Final: Afrânio de Melo Franco I",
+                "TS:Almirante Pereira Guimarães",
+                "TS:Jardim de Alah / Leblon",
+                "TS:Jardim de Alah",
+                "CS:Patata",
+                "CS:Talho Capixaba",
+                "CS:Rio Lisboa",
+                "CS:am/pm",
+                "CS:Armazém do Café",
+                "PH:Drogasmil",
+                "PH:Padrão",
+                "PH:Ric",
+                "PH:Drogaria Pop"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "PU1eikzo7",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "80"
+        ],
+        "advertiserId": "14848ac6-70cb-9e82-4530-dbeb734d8a40",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3689",
+                "price": "1895000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1260"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2138280882",
+                "21966501603"
+            ]
+        },
+        "videoTourLink": "http://v.imo.bi/ZW8Jj8Vihn6cw5",
+        "whatsappNumber": "21966501603",
+        "stamps": []
+    },
+    "account": {
+        "id": "14848ac6-70cb-9e82-4530-dbeb734d8a40",
+        "name": "BS Imobiliária e Adm Condomínios.",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5594e935c1ca3b85b392d52dbc6140b0/{description}.webp",
+        "licenseNumber": "9763-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 756868,
+        "phones": {
+            "primary": "2138280882",
+            "mobile": "21966501603"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "0b6cd9682d55e38d72883ee152653c0e",
+            "url": "https://www.youtube.com/watch?v=HByzhYS9XQo",
+            "type": "VIDEO"
+        },
+        {
+            "id": "698233e8faf999c3a12d1c39d1868a68",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/698233e8faf999c3a12d1c39d1868a68/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c8b2f6723eac189b43ec293dade214f2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c8b2f6723eac189b43ec293dade214f2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6eaf560f730bd20b9e198749b7002dce",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6eaf560f730bd20b9e198749b7002dce/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "be861120f4176190a19be2f2d14fe979",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/be861120f4176190a19be2f2d14fe979/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "546bd4afd804314f8a6bde79b844ddff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/546bd4afd804314f8a6bde79b844ddff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "001d316a89f11405c267c8e32fcaccb0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/001d316a89f11405c267c8e32fcaccb0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4df4a6da1a3cc67f68dc20f11b7ff800",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4df4a6da1a3cc67f68dc20f11b7ff800/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "68434d80de51801c1f86a912710227a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/68434d80de51801c1f86a912710227a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b0b22e1f5f33393798544900975ac4ac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b0b22e1f5f33393798544900975ac4ac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5ecd7e600defd52647a43544ea0e1db8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5ecd7e600defd52647a43544ea0e1db8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "67d313f9587bda98ae4995c18451a4af",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/67d313f9587bda98ae4995c18451a4af/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "80193a507d7f3f5b382b4df235f45909",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/80193a507d7f3f5b382b4df235f45909/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2a945f97cc6d270a67651a96cf806fc4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a945f97cc6d270a67651a96cf806fc4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3008072aa389217bd3979256e86a80de",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3008072aa389217bd3979256e86a80de/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ae5119d080c092b2da1a75e6076bc4a7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae5119d080c092b2da1a75e6076bc4a7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2c2e4fb73487931ddc2effe6bb093f47",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c2e4fb73487931ddc2effe6bb093f47/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2c1b7dce7003b0ab28036698a071641d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c1b7dce7003b0ab28036698a071641d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ff199906bd0f9b8cee47284f77567d0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ff199906bd0f9b8cee47284f77567d0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "def2d4f6e8ebaa5ef0dcbeeb29b1e0ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/def2d4f6e8ebaa5ef0dcbeeb29b1e0ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f84895483bd9e9c3cd2b07bb18375983",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f84895483bd9e9c3cd2b07bb18375983/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4b94009c2d7f433b1c8de1c7693560d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4b94009c2d7f433b1c8de1c7693560d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b0cf458431d2ce80618921edecf58b21",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b0cf458431d2ce80618921edecf58b21/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a02ac79d43a9e9d4d03aee752c0c7f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a02ac79d43a9e9d4d03aee752c0c7f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1271066577abb2855832bbde0dd41ebd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1271066577abb2855832bbde0dd41ebd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e450d352a667c8e4bd1ec45b4485e128",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e450d352a667c8e4bd1ec45b4485e128/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "24e182c743361c538238073d3b197a7f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/24e182c743361c538238073d3b197a7f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7dc29cd25f815177569988a4460f27b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7dc29cd25f815177569988a4460f27b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d77095700e63ba1d9170fa8640088d10",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d77095700e63ba1d9170fa8640088d10/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c6bb480e4c979ba1af1dbfbf107137c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c6bb480e4c979ba1af1dbfbf107137c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a6fc039772e02a334a25d6a9f4e20d5b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a6fc039772e02a334a25d6a9f4e20d5b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "77a61b69e1918d0f37801728c9e3b26f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/77a61b69e1918d0f37801728c9e3b26f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e74eb859a57dace01387fada9a9280ec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e74eb859a57dace01387fada9a9280ec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8521560a44942afa4152c11a2d4cf664",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8521560a44942afa4152c11a2d4cf664/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a4ffa848f461b38b6221bea408571971",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4ffa848f461b38b6221bea408571971/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "28f226e3672477222b6d355d71178680",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/28f226e3672477222b6d355d71178680/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff719cc2c86f7733258b41694352c5c8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff719cc2c86f7733258b41694352c5c8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "19bb5e48a0ae1393ef28ced0384b87c8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/19bb5e48a0ae1393ef28ced0384b87c8/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "BS Imobiliária e Adm Condomínios.",
+        "href": "/756868/bs-imobiliaria-e-adm-condominios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 80m²",
+        "href": "/imovel/apartamento-3-quartos-leblon-zona-sul-rio-de-janeiro-com-garagem-80m2-venda-RS1895000-id-2724160268/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "state": "Rio de Janeiro",
+            "street": "Rua Humberto de Campos",
+            "streetNumber": "410",
+            "zone": "Zona Sul"
+        }
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "58"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento, 2 quartos, sala, cozinha, banheiro, dependência completa e área de serviço. Primeiro andar de frente. Ótima localização, próximo a Rua Riachuelo, disponível para venda na Privilégio Imóveis. <br>O valor do imóvel poderá sofrer alteração sem aviso prévio. Fale conosco: .",
+        "title": "Apartamento à venda, 2 quartos, Santa Teresa - RIO DE JANEIRO/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2664221704",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20230080",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.915,
+                "approximateLon": -43.182,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Francisco Muratori",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Santa Teresa",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Santa Teresa",
+            "poisList": [
+                "BS:BRS 1,2,4 Inválidos",
+                "BS:P28",
+                "BS:Passeio :: Linha 517",
+                "BS:Ponto Regulador: Linha 247",
+                "BS:Ponto Final: Terminal Jamil Amiden: Ônibus Executivos :: Zona Oeste",
+                "TS:Francisco Muratori",
+                "TS:Portinha",
+                "TS:Largo do Curvelo",
+                "TS:BRS 1,2,4 Inválidos",
+                "TS:P28",
+                "CS:Mercearia Rainha da Pipoca",
+                "CS:Seu Zé",
+                "CS:Mercearia Gabi",
+                "CS:Café Bakery",
+                "CS:Fábrica de Bolo - vó Alzira",
+                "PH:DrogaLife",
+                "PH:Drogaria Brilhante",
+                "PH:Drogaria Guanabara",
+                "PH:City Farma",
+                "PH:Exata"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "837",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "58"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "597",
+                "price": "370000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "410"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "6ba96d3978cefe8728aff23d7c5413ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ba96d3978cefe8728aff23d7c5413ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1358328a3412918cf0edc8dd23184336",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1358328a3412918cf0edc8dd23184336/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "62ce58beac3ad26f3be580bc501d5067",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/62ce58beac3ad26f3be580bc501d5067/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0bca62376c46cdf3a206bef5545bb8f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0bca62376c46cdf3a206bef5545bb8f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b08a9bc8b6579038b609aeac8f0a5c18",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b08a9bc8b6579038b609aeac8f0a5c18/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8dc22b9de57c561064e5eaddca97770e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8dc22b9de57c561064e5eaddca97770e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d37d530c1facd6f14ec462fec8a783b2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d37d530c1facd6f14ec462fec8a783b2/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 58m²",
+        "href": "/imovel/apartamento-2-quartos-santa-teresa-zona-central-rio-de-janeiro-58m2-venda-RS370000-id-2664221704/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Santa Teresa",
+            "state": "Rio de Janeiro",
+            "street": "Rua Francisco Muratori",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

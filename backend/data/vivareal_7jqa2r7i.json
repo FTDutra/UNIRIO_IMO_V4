@@ -1,0 +1,242 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "SERVICE_AREA",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "129"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Privilégio Imóveis vende: Excelente apartamento com 3 quartos, sendo 1 suíte, sala ampla com corrente de ar, próximo ao comércio, 5 minutos do metrô do Largo do Machado, 5 minutos do bairro do Flamengo, localizado no bairro mais charmoso da Zona Sul, próximo do Palácio Guanabara e do Clube do Fluminense.",
+        "title": "Apartamento à venda, 3 quartos, 1 suíte, Laranjeiras - RIO DE JANEIRO/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2664217353",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22231120",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.933,
+                "approximateLon": -43.182,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Ipiranga",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Laranjeiras",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Laranjeiras",
+            "poisList": [
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Largo do Machado",
+                "BS:Rua das Laranjeiras, 336",
+                "BS:Rua Monte Alegre próximo ao 342",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "TS:Acesso Largo do Machado",
+                "TS:Acesso Catete",
+                "TS:Ponto Final: Largo do Machado :: Linha 497",
+                "TS:Largo do Machado",
+                "TS:Flamengo",
+                "CS:Frigorífico Palácio",
+                "CS:Mercado São José das Artes",
+                "CS:Confeitaria Itajaí",
+                "CS:Vossa Mercê Mercearia",
+                "CS:Casa de Carnes Alentejo",
+                "PH:Farmácia Pinheiro Machado",
+                "PH:drogarias tambaú",
+                "PH:Bioderme",
+                "PH:Cristal",
+                "PH:Quintessência"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "58614",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "129"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "305",
+                "price": "1000000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1300"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "e2c2dd9ea8a3d8d4ceb8f61e0ddcb91f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e2c2dd9ea8a3d8d4ceb8f61e0ddcb91f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c3f1583e79659c52a57865f9f79e9763",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c3f1583e79659c52a57865f9f79e9763/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9b51de67433dbd6ea0e2f7eb36b89173",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9b51de67433dbd6ea0e2f7eb36b89173/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2b978985bcc9db28f420acd1b0164cd5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b978985bcc9db28f420acd1b0164cd5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ed0640502f4a6b9542f0152a3bb25864",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed0640502f4a6b9542f0152a3bb25864/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "50e67cb282fbaebe51c4ed89faaa9343",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/50e67cb282fbaebe51c4ed89faaa9343/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ea4fc130fb6c3f051d79a219a0e34fd6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ea4fc130fb6c3f051d79a219a0e34fd6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "faf16283ea0c28d1441eb873b2268311",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/faf16283ea0c28d1441eb873b2268311/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b2daf96484495d61a9dc86e0adc4733a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b2daf96484495d61a9dc86e0adc4733a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5045f0a79a54d8c8a0d04b6d7d9fc0d5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5045f0a79a54d8c8a0d04b6d7d9fc0d5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8bd87c325e25adc31dfa996e03e5df2c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8bd87c325e25adc31dfa996e03e5df2c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "80b676a26ec655c641e6a9f53ae3e9d2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/80b676a26ec655c641e6a9f53ae3e9d2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf9a310559c65d28b6d1fe03f9886616",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf9a310559c65d28b6d1fe03f9886616/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3fe5f26ff5509e9a6f5065e9ee610af3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3fe5f26ff5509e9a6f5065e9ee610af3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b51eee9f122e4e4e68aa38ddc65f714f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b51eee9f122e4e4e68aa38ddc65f714f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2583804886c7dfbcdded54f29a42c69c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2583804886c7dfbcdded54f29a42c69c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a8f2a6963c05d7076a1e7bdbd4c08bf5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a8f2a6963c05d7076a1e7bdbd4c08bf5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca45ab6c985c1a22a0ce912fca40d2b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca45ab6c985c1a22a0ce912fca40d2b0/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 129m²",
+        "href": "/imovel/apartamento-3-quartos-laranjeiras-zona-sul-rio-de-janeiro-129m2-venda-RS1000000-id-2664217353/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Laranjeiras",
+            "state": "Rio de Janeiro",
+            "street": "Rua Ipiranga",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

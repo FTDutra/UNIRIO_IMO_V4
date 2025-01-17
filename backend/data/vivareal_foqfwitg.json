@@ -1,0 +1,221 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "SERVICE_AREA",
+            "ELEVATOR",
+            "DINNER_ROOM"
+        ],
+        "usableAreas": [
+            "150"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Vendo apartamento na rua Santa Clara em Copacabana, posto 3, próximo ao metrô, Supermercados, escolas, farmácias e demais comércios para sua comodidade.<br><br>Apartamento composto por 4 quartos sendo 1 suíte, sala com cozinha americana, banheiro social e área de serviço.<br><br>Agende sua visita!",
+        "title": "RIO DE JANEIRO - Apartamento Padrão - Copacabana",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2752744888",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22041012",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "0432",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.193098,
+                "source": "GOOGLE",
+                "lat": -22.964387
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Santa Clara",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:Ponto Regulador: Metrô Siqueira Campos",
+                "BS:Humaitá",
+                "BS:BRS 1 Figueiredo Magalhães",
+                "BS:BRS 3 Siqueira Campos",
+                "BS:Cobal do Humaitá",
+                "TS:Figueiredo Magalhães",
+                "TS:Siqueira Campos / Copacabana",
+                "TS:Siqueira Campos - Sentido Gen. Osório / Jd. Ocêanico",
+                "TS:Siqueira Campos / Copacabana - Sentido Gen. Osório / Jd. Ocêanico",
+                "TS:Ponto Regulador: Metrô Siqueira Campos",
+                "CS:Do Conde",
+                "CS:Mercado Humaitá",
+                "CS:The Bakers",
+                "CS:Grão da terra",
+                "CS:TECNOMEDI BOTAFOGO",
+                "PH:Nash",
+                "PH:Caminhoá",
+                "PH:Drogaria Galanti",
+                "PH:Minipreço",
+                "PH:Ypiranga"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "3370",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "150"
+        ],
+        "advertiserId": "d851df98-c49d-4a43-d0a3-d7d1d7e074f8",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "4800",
+                "price": "1920000",
+                "businessType": "SALE"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2130421948",
+                "21967602096"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21967602096",
+        "stamps": []
+    },
+    "account": {
+        "id": "d851df98-c49d-4a43-d0a3-d7d1d7e074f8",
+        "name": "Copa Azul Imobiliária Digital",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ab216bb9a068c06c3a0f4db277d6a6cb/{description}.webp",
+        "licenseNumber": "008549-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 638506,
+        "phones": {
+            "primary": "2130421948",
+            "mobile": "21967602096"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "72be4b5bd1cee515e3c743f3366dec44",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/72be4b5bd1cee515e3c743f3366dec44/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a5c5e703b583095cef4c64a80526ca9a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a5c5e703b583095cef4c64a80526ca9a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1965ebb030ebbb082f8ba1c853a9aa4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1965ebb030ebbb082f8ba1c853a9aa4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1f56ea7549cfffe703849f09eff6f23f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1f56ea7549cfffe703849f09eff6f23f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bfb23694d486f00a37c05b39def27e0c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bfb23694d486f00a37c05b39def27e0c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "56b330cb718e35742f4a330b9a2a0015",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56b330cb718e35742f4a330b9a2a0015/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f614cac1c29d94fa29631999d9e793ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f614cac1c29d94fa29631999d9e793ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "af7f42bdf1ff880e90ad6c0d299c08f1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/af7f42bdf1ff880e90ad6c0d299c08f1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2b802886361a1759dec1081ad0c62e00",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b802886361a1759dec1081ad0c62e00/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "28422a72ae587823e0d43f2b4b40fc4c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/28422a72ae587823e0d43f2b4b40fc4c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86510f7e1f50cfe397cb1b50918455be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86510f7e1f50cfe397cb1b50918455be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e4871265e79fdfa9ca80d5f13dcfd7d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e4871265e79fdfa9ca80d5f13dcfd7d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6dc7aa94c9c17c71f2b20a3bf1a4575f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6dc7aa94c9c17c71f2b20a3bf1a4575f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c5a3faa0be007e19e2f23c8997ec2ea2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c5a3faa0be007e19e2f23c8997ec2ea2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3fd6f63723613c342c4bac84d3639c21",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3fd6f63723613c342c4bac84d3639c21/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Copa Azul Imobiliária Digital",
+        "href": "/638506/copa-azul-imobiliaria-digital/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 150m²",
+        "href": "/imovel/apartamento-4-quartos-copacabana-zona-sul-rio-de-janeiro-150m2-venda-RS1920000-id-2752744888/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Santa Clara",
+            "streetNumber": "0432",
+            "zone": "Zona Sul"
+        }
+    }
+}

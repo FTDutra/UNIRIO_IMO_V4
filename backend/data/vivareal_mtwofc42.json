@@ -1,0 +1,300 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "BALCONY",
+            "PETS_ALLOWED",
+            "GARAGE",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "ALARM_SYSTEM",
+            "ADULT_GAME_ROOM",
+            "WATCHMAN"
+        ],
+        "usableAreas": [
+            "136"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento composto de:<br>-3 quartos;<br>-1 sala em dois ambientes;<br>-1 varanda com possibilidade de fazer gourmet;<br>-1 suíte; <br>-armários e ar-condicionados splits nos cômodos principais;<br>-dependência completa;<br>-cozinha espaçosa;<br>-área de serviço;<br>-2 vagas na escritura;<br>-portaria 24 horas;<br>-piscina;<br>-play;<br>-salão de jogos;",
+        "title": "Apartamento 3 quartos, suíte e 2 vagas de garagem na Tijuca",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2718985464",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20530580",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.933,
+                "approximateLon": -43.248,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Gurindiba",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Muda (Ponto Final)",
+                "BS:Ponto Final: Andaraí :: Linha 217",
+                "BS:Ponto Final - 134B (Nova Iguaçu - Vila Isabel)",
+                "BS:Jose Higino 148",
+                "BS:Doutor Aníbal Moreira",
+                "TS:Muda (Ponto Final)",
+                "TS:Ponto Final: Andaraí :: Linha 217",
+                "TS:Ponto Final - 134B (Nova Iguaçu - Vila Isabel)",
+                "TS:Uruguai",
+                "TS:Uruguai / Tijuca",
+                "CS:Confeitaria Thaís",
+                "CS:La Panetteria",
+                "CS:Queijeiro da Muda",
+                "CS:Erbon",
+                "CS:Jiv's",
+                "PH:Drogarias Mundial",
+                "PH:Mundial",
+                "PH:FarmaDez",
+                "PH:Drogaria Unidas",
+                "PH:Drogaria Venancio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "68749",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "136"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1976",
+                "price": "650000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1400"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "54653425073dd5fcc4915dc8c8618c1a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/54653425073dd5fcc4915dc8c8618c1a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "110c4420aa40af71ed4119c1abfb412e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/110c4420aa40af71ed4119c1abfb412e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ad5874ce902ddc43fff03e6e58a56107",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ad5874ce902ddc43fff03e6e58a56107/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ae6531a62511cacff2189808f2f409ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae6531a62511cacff2189808f2f409ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "438208f1e2ee69967b9d650bd2792396",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/438208f1e2ee69967b9d650bd2792396/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "01b509048c7d2464fda1d7af7f6716fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/01b509048c7d2464fda1d7af7f6716fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "25cecaf2f6d8007f4900b06e491fa7af",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/25cecaf2f6d8007f4900b06e491fa7af/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4b189daf8df9198b2efc82d62673d500",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b189daf8df9198b2efc82d62673d500/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "548ac6b490bd16f55bc1d2f83b08277f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/548ac6b490bd16f55bc1d2f83b08277f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "011e9977acb4dbcbe70eb9a04211275c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/011e9977acb4dbcbe70eb9a04211275c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b61391200465478119e0b1e783fb8c29",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b61391200465478119e0b1e783fb8c29/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c4623fda6236906b73e0eb03f01a46a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c4623fda6236906b73e0eb03f01a46a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "98dca4065c645ee140ea8b9674d8d9a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98dca4065c645ee140ea8b9674d8d9a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "959cfb43fc32c1d5cbab3b901ce3da18",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/959cfb43fc32c1d5cbab3b901ce3da18/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7ad8308d56c26d7ada464e9a3c2df8ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7ad8308d56c26d7ada464e9a3c2df8ff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a75284d9f4bbcde9df2f63f6fe0324b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a75284d9f4bbcde9df2f63f6fe0324b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "242b485fb65b1c5ef5a0cac9acefdf0b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/242b485fb65b1c5ef5a0cac9acefdf0b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eff98a1a3fd0a05aaa8f025072d677f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eff98a1a3fd0a05aaa8f025072d677f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e372201f16722598b2ea94f59414d6d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e372201f16722598b2ea94f59414d6d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d18e4895e7f6b90edfb753b62dc12937",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d18e4895e7f6b90edfb753b62dc12937/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9f1a4b356713554aa8bf0555f35837e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9f1a4b356713554aa8bf0555f35837e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48f9d71f67080c90c3b79bacd38f8e35",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48f9d71f67080c90c3b79bacd38f8e35/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "134d302478d0c91997005e7b0daf24f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/134d302478d0c91997005e7b0daf24f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f9a9e830e4c04d9bfb7bc41ecb66058",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f9a9e830e4c04d9bfb7bc41ecb66058/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f5c34368348a17c303b6a1ebd8416a5a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f5c34368348a17c303b6a1ebd8416a5a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c286ae1d233f2fb974ad34fd0e217b69",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c286ae1d233f2fb974ad34fd0e217b69/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c5565af533c99a4144aaab2bb63d700d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c5565af533c99a4144aaab2bb63d700d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e036b65b094277ea6f042df4300f94f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9e036b65b094277ea6f042df4300f94f/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 136m²",
+        "href": "/imovel/apartamento-3-quartos-tijuca-zona-norte-rio-de-janeiro-com-garagem-136m2-venda-RS650000-id-2718985464/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Gurindiba",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

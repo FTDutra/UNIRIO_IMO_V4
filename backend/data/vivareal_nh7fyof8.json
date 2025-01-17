@@ -1,0 +1,236 @@
+{
+    "listing": {
+        "displayAddressType": "NEIGHBORHOOD",
+        "amenities": [],
+        "usableAreas": [
+            "175"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Charmoso apartamento na quadra da praia, com 3 quartos(suítes), salão, lavabo, cozinha com armários, área de serviço, varandão, dependência de empregada completa, 3(três) vagas na garagem. <br>R$1.300.000,00",
+        "title": "Rio de Janeiro - Apartamento Padrão - Recreio dos Bandeirantes",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2563232743",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            3
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22795080",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.024,
+                "approximateLon": -43.457,
+                "radius": 250
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "CS:Panetteria Recreio",
+                "CS:Padaria Nobreza",
+                "CS:Padaria e Confeitaria Rei do Recreio",
+                "CS:Padaria AlfaBelle",
+                "CS:Alfa Belle",
+                "PH:Botica do Rio",
+                "PH:Drogaria do Povo das Américas",
+                "PH:Venâncio",
+                "PH:Farmario",
+                "PH:Dona Farma",
+                "SU:Colégio Recanto",
+                "SU:Recreio Christian School",
+                "SU:Colégio e Vestibular de A a Z",
+                "SU:Colégio Alfa CEM Bilíngue",
+                "SU:Colégio QI",
+                "CH:rto Ortopedia",
+                "CH:Primer",
+                "CH:Espaço Salud",
+                "CH:Oftalmo Recreio Clínica dos Olhos",
+                "CH:Instituto Angelica Mendes"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            3
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "WELL00307",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "175"
+        ],
+        "advertiserId": "d85543c8-a05d-5449-6881-d0c894be9a49",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "597",
+                "price": "1300000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1434"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2124372524",
+                "21999795759"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21999795759",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "d85543c8-a05d-5449-6881-d0c894be9a49",
+        "name": "Wellington Euclydes de Souza Adv Assossiados",
+        "licenseNumber": "006060-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 136122,
+        "phones": {
+            "primary": "2124372524",
+            "mobile": "21999795759"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "aff7323d207f772781298ab956ff2717",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aff7323d207f772781298ab956ff2717/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5fa84c5dde534dbf33591acb644d05ba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5fa84c5dde534dbf33591acb644d05ba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2db9d69aa931df4e4a094ab0e1e28097",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2db9d69aa931df4e4a094ab0e1e28097/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "59a0135b7844f0aac28dc7eca96f399b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/59a0135b7844f0aac28dc7eca96f399b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "54e9df3c1893c3e2b652366797461781",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/54e9df3c1893c3e2b652366797461781/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "15e987bdf8f07fc32f2023bcc89067b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/15e987bdf8f07fc32f2023bcc89067b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a29fcea34e4df241760f8f9442034e27",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a29fcea34e4df241760f8f9442034e27/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6bd9a93243598c1ecfd2aa03de049e9e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6bd9a93243598c1ecfd2aa03de049e9e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "db5e00f23c5d9ccb4203d7555d405c7c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/db5e00f23c5d9ccb4203d7555d405c7c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "79048faeecd77ed508808b596b900adc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/79048faeecd77ed508808b596b900adc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d482c9ee80afe5fd4bb1854f7c72de61",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d482c9ee80afe5fd4bb1854f7c72de61/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "efd40f83bf49e8d95297efc1099e21d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/efd40f83bf49e8d95297efc1099e21d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2d02424424eb8ffc5b0d5939183aa192",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2d02424424eb8ffc5b0d5939183aa192/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2b616a72b58247470decd1b5718a018e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b616a72b58247470decd1b5718a018e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e45679a171ba485aad1b98f168893bd0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e45679a171ba485aad1b98f168893bd0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c5966af937ffc898b3eaf061124ca3d5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c5966af937ffc898b3eaf061124ca3d5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e95a954e5a054087bc11e02a47942552",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e95a954e5a054087bc11e02a47942552/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c26bd368bd7ec837f2c2686f9976034",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c26bd368bd7ec837f2c2686f9976034/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Wellington Euclydes de Souza Adv Assossiados",
+        "href": "/136122/wellington-euclydes-de-souza-adv-assossiados/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 175m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-175m2-venda-RS1300000-id-2563232743/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

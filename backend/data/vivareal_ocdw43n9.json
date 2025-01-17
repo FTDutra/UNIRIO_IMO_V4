@@ -1,0 +1,256 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "HEATING",
+            "NUMBER_OF_FLOORS",
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "133"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua Voluntários da Pátria, no bairro Botafogo em Rio de Janeiro. Este imóvel conta com área construída de 133m², oferecendo 3 quartos, sendo 1 suíte, 3 banheiros e 1 vaga de garagem. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apto 2 Qts todo Reformado Botafogo com uma Vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2759976436",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22270000",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.951,
+                "approximateLon": -43.185,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Voluntários da Pátria",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Botafogo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:BRS 3: Sorocaba",
+                "BS:Integrada 9",
+                "BS:Ponto Final: Rio Sul :: Barra, Recreio e Vargem Grande",
+                "BS:Integrada 8",
+                "BS:Integrada 2",
+                "TS:Acesso Mena Barreto",
+                "TS:Acesso Voluntários",
+                "TS:Acesso Voluntários/Nelson Mandela",
+                "TS:Botafogo",
+                "TS:Botafogo / Coca-Cola",
+                "CS:Le Dépanneur Delicatessen",
+                "CS:Americanas Local",
+                "CS:The Slow Bakery",
+                "CS:Naziras X",
+                "CS:Panificação Voluntários",
+                "PH:Poubel",
+                "PH:Farmacopa",
+                "PH:Farma Nature",
+                "PH:Bio Mundo",
+                "PH:Farmácia Assunção"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PU11z00gu",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "133"
+        ],
+        "advertiserId": "7d4ec74e-2cb7-2cba-50cf-92ec88a74e8c",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3780",
+                "price": "1500000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2000"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2132176221",
+                "21964464440"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964464440",
+        "stamps": []
+    },
+    "account": {
+        "id": "7d4ec74e-2cb7-2cba-50cf-92ec88a74e8c",
+        "name": "B&A Imóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38a82296d8f09f9d275212109b82bc17/{description}.webp",
+        "licenseNumber": "07455-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 230106,
+        "phones": {
+            "primary": "2132176221",
+            "mobile": "21964464440"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "69537ebbdfab732999ae3a2ddf3cdefc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/69537ebbdfab732999ae3a2ddf3cdefc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "315a74df9c144161194c213adc710efc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/315a74df9c144161194c213adc710efc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c2824cca963c4194917f9bd41c9bfb3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c2824cca963c4194917f9bd41c9bfb3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7812b0b2f064a675535ae244ef497ee5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7812b0b2f064a675535ae244ef497ee5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "57706a4c2b2018bb5765981105e199af",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/57706a4c2b2018bb5765981105e199af/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e38e980fe8d6680621f9de28d80350bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e38e980fe8d6680621f9de28d80350bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "779ead11f21d0b84db0185ce9cd5f320",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/779ead11f21d0b84db0185ce9cd5f320/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "01f17a3ff09291552217f78138e7d453",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/01f17a3ff09291552217f78138e7d453/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f217d3a323e93de31953e97f40b1d7a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f217d3a323e93de31953e97f40b1d7a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "427a3b14e836ef162105dce67ece2428",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/427a3b14e836ef162105dce67ece2428/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e2ea37cb8b11f67026b7e0e94890b8b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e2ea37cb8b11f67026b7e0e94890b8b5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "197688c8f95e3510c153774ae5b06fb7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/197688c8f95e3510c153774ae5b06fb7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "beb688b68da07352762f176074dc30e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/beb688b68da07352762f176074dc30e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9bde6872da52760202a6211ae6902569",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9bde6872da52760202a6211ae6902569/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f3eec650c302157409d11b2f03ecc7a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f3eec650c302157409d11b2f03ecc7a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e8f6688819c36f9fa1add17f8b9f90c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e8f6688819c36f9fa1add17f8b9f90c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "971e48cb5b05d67a6cad2ddd199d2291",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/971e48cb5b05d67a6cad2ddd199d2291/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b61b103151ba8e7adac897b790bf2497",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b61b103151ba8e7adac897b790bf2497/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "45c2d284fa36cd74c825952ba8dcd7a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/45c2d284fa36cd74c825952ba8dcd7a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "84728991234004222a316c6cf7720e03",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/84728991234004222a316c6cf7720e03/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bda2a31dfa19576fe69d66a4ec97325b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bda2a31dfa19576fe69d66a4ec97325b/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "B&A Imóveis",
+        "href": "/230106/b-a-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 133m²",
+        "href": "/imovel/apartamento-3-quartos-botafogo-zona-sul-rio-de-janeiro-com-garagem-133m2-venda-RS1500000-id-2759976436/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Voluntários da Pátria",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

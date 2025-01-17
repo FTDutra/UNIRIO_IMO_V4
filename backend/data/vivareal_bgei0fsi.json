@@ -1,0 +1,213 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "81"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento de fundos com 2 quartos, sala, cozinha, banheiro, dependencia completa de empregada, vaga de garagem, sem elevador.<br>Próximo a comércios e escola<br><br>Fale conosco: -",
+        "title": "VENDA - APTº 2 QUARTOS - TAUA - ILHA DO GOVERNADOR - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2559756570",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21920240",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.797,
+                "approximateLon": -43.193,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Jaime Perdigão",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Taua",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Jardim Carioca",
+            "poisList": [
+                "BS:321",
+                "BS:326",
+                "BS:329",
+                "BS:492",
+                "BS:2344",
+                "TS:321",
+                "TS:326",
+                "TS:329",
+                "TS:492",
+                "TS:Colina",
+                "CS:AM&PM",
+                "CS:Pan Du Riz",
+                "CS:Stop Shop",
+                "PH:Drogaria Mundial",
+                "PH:Dograrias Mais Barato",
+                "PH:Drogarias Mais Barato",
+                "PH:Droga New"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "AP00130",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "81"
+        ],
+        "advertiserId": "14b5c1f4-18ec-1c73-782a-a65f5693576e",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "72",
+                "price": "395000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "400"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2138027640",
+                "21999774801"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21999774801",
+        "stamps": []
+    },
+    "account": {
+        "id": "14b5c1f4-18ec-1c73-782a-a65f5693576e",
+        "name": "LC VARANDA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ea4fcf223fc887ef89b5eec0d9ff8bd9/{description}.webp",
+        "licenseNumber": "48168-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 57719,
+        "phones": {
+            "primary": "2138027640",
+            "mobile": "21999774801"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "38b6be88bfeea19d635856b7a659d475",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38b6be88bfeea19d635856b7a659d475/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8bf91de37a6813ae9e495ccc224de680",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8bf91de37a6813ae9e495ccc224de680/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "800c8e12e5324c9080ea5d0ee2909075",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/800c8e12e5324c9080ea5d0ee2909075/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7175dccc62c975409500353a484c8a00",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7175dccc62c975409500353a484c8a00/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "047326e9bbf0b2705f4d4ea526896876",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/047326e9bbf0b2705f4d4ea526896876/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2d414b489b506cdb4a73ba523de5914a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2d414b489b506cdb4a73ba523de5914a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "15089d9a7c2f3546a5f46956edb63d95",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/15089d9a7c2f3546a5f46956edb63d95/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ac1f724b06458f9f0128d9bc3a5cc22",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ac1f724b06458f9f0128d9bc3a5cc22/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "24d7c2c52736ece3a011a38e3a59bada",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/24d7c2c52736ece3a011a38e3a59bada/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "23fe605be22cd840eb28dc2552ed0017",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/23fe605be22cd840eb28dc2552ed0017/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4c6d0c7cec416a11ba90b06f8461a81",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4c6d0c7cec416a11ba90b06f8461a81/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "858c0a2cf8e8ac5706d017817043c523",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/858c0a2cf8e8ac5706d017817043c523/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9df39ee6aa4052d0c37a984fad391c2c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9df39ee6aa4052d0c37a984fad391c2c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dd42d23968989fa565fdc0d30834a691",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd42d23968989fa565fdc0d30834a691/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "LC VARANDA IMÓVEIS",
+        "href": "/57719/lc-varanda-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 81m²",
+        "href": "/imovel/apartamento-2-quartos-taua-zona-norte-rio-de-janeiro-com-garagem-81m2-venda-RS395000-id-2559756570/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tauá",
+            "state": "Rio de Janeiro",
+            "street": "Rua Jaime Perdigão",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

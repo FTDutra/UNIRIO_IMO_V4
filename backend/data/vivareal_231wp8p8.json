@@ -1,0 +1,210 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GYM",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "45"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento a venda com 2 quartos em Jacarepaguá/Camorim próximo ao Costa Azul<br>Entrada Super Facilitada. Melhore seu estilo de vida no melhor ponto da Estrada dos Bandeirantes. Próximo as principais vias da Barra, suas praias e shoppings.<br>Faça uma visita e aprove seu crédito dentro das melhores condições de mercado. 108",
+        "title": "Apartamento a venda com 2 quartos em Jacarepaguá Camorim próximo ao Costa Azul",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2725024658",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22780081",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "7277",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.409591,
+                "source": "GOOGLE",
+                "lat": -22.965962
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Estrada dos Bandeirantes",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Jacarepagua",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Jacarepaguá",
+            "poisList": [
+                "BS:Estrada dos Bandeirantes",
+                "BS:Ponto Final: Curicica :: Linhas para Centro",
+                "BS:Ponto Final: Curicica :: Linha 861",
+                "TS:Morro do Outeiro",
+                "TS:Terminal Centro Olímpico",
+                "TS:Minha Praia",
+                "TS:Riocentro",
+                "TS:Asa Branca",
+                "CS:Lilo's Café",
+                "CS:Panificadora e Mercearia São Jorge",
+                "CS:Deli Delícia",
+                "CS:La Fabrica dell Pane",
+                "PH:Drogarias MEP",
+                "PH:Cruz Souza Xavier"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "108",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "45"
+        ],
+        "advertiserId": "eeb08206-dc33-2360-7127-bb09eb4a3c07",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "10",
+                "price": "289000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "280"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21964648018"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964648018",
+        "stamps": []
+    },
+    "account": {
+        "id": "eeb08206-dc33-2360-7127-bb09eb4a3c07",
+        "name": "House Imoveis RJ",
+        "licenseNumber": "68036-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 621717,
+        "phones": {
+            "primary": "21964648018",
+            "mobile": "21964648018"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "43c30830df8b1cecde7ccdb395a197f1",
+            "url": "https://www.youtube.com/watch?v=euxmnmINK0g&pp=ygUKY2Ftb3JpbSByag%3D%3D",
+            "type": "VIDEO"
+        },
+        {
+            "id": "8e3f298a1c0be3b06ec099a6985b10c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e3f298a1c0be3b06ec099a6985b10c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e826c8ac032c41e910032fbcff492467",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e826c8ac032c41e910032fbcff492467/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9a6090229c88ab35129d723a598ce60f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9a6090229c88ab35129d723a598ce60f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c799687306297cd2616298e56f4f9132",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c799687306297cd2616298e56f4f9132/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eec407d969dc87a2ea25645a067aa227",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eec407d969dc87a2ea25645a067aa227/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "400e6846d64ad8bf7de3abe528a0d821",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/400e6846d64ad8bf7de3abe528a0d821/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d9d306b608ad9e9b5a7d73d8b4e1cd56",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d9d306b608ad9e9b5a7d73d8b4e1cd56/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "211028c5991633ef847fdcda2fde8865",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/211028c5991633ef847fdcda2fde8865/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fcea56cd016594e70740c8426ece94d0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fcea56cd016594e70740c8426ece94d0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eaae821663c06c715aa69157de5f3f75",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eaae821663c06c715aa69157de5f3f75/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6f675b0f7beab16a1be8dfb713edb31b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6f675b0f7beab16a1be8dfb713edb31b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f7bf89f0bd58976987fb2d3ae95f083",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f7bf89f0bd58976987fb2d3ae95f083/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "House Imoveis RJ",
+        "href": "/621717/house-imoveis-rj/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 45m²",
+        "href": "/imovel/apartamento-2-quartos-jacarepagua-zona-oeste-rio-de-janeiro-45m2-venda-RS289000-id-2725024658/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jacarepaguá",
+            "state": "Rio de Janeiro",
+            "street": "Estrada dos Bandeirantes",
+            "streetNumber": "7277",
+            "zone": "Zona Oeste"
+        }
+    }
+}

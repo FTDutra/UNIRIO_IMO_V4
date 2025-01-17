@@ -1,0 +1,143 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [],
+        "usableAreas": [
+            "182"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "COB 2507 - Vendemos cobertura reformada no Recreio dos Bandeirantes com 182 m², com 2 quartos (1 suíte), sala ampla com 2 ambientes, varanda, cozinha planejada e área de serviço. 4 vagas de garagem.<br>Localização excelente, duas quadras da praia e próximo de mercados, farmácias, bancos e vários restaurantes.<br>Condomínio com infraestrutura: churrasqueira, salão de jogos, área verde, etc.<br><br>OBSERVAÇÃO: Daremos retorno somente as chamadas que deixem telefone de contato, não responderemos e-mail. <br>Disponibilidade e informações podem sofrer alterações e devem ser confirmados junto ao anunciante.<br><br>Fale conosco: -",
+        "title": "VENDEMOS COBERTURA NO RECREIO DOS BANDEIRANTES COM 2 QUARTOS",
+        "unitTypes": [
+            "PENTHOUSE"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2663362354",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            4
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790072",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "900",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.454344,
+                "source": "GOOGLE",
+                "lat": -23.015139
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Genaro de Carvalho",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Salvador Allende (Expresso)",
+                "BS:Salvador Allende (Parador)",
+                "TS:Salvador Allende (Expresso)",
+                "TS:Salvador Allende (Parador)",
+                "TS:Terminal Recreio",
+                "CS:Pão Carioca",
+                "CS:Padaria Nobreza",
+                "CS:Padaria e Confeitaria Rei do Recreio",
+                "CS:Panetteria Recreio",
+                "CS:Padaria & Confeitaria A Lisboeta",
+                "PH:Venâncio",
+                "PH:Drogaria do Povo das Américas",
+                "PH:Botica do Rio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "0002507",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "182"
+        ],
+        "advertiserId": "ca5aebe9-1968-4e6b-01a9-7b40e77ae50e",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "600",
+                "price": "1050000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "450"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2131791290",
+                "21976392352"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21976392352",
+        "stamps": []
+    },
+    "account": {
+        "id": "ca5aebe9-1968-4e6b-01a9-7b40e77ae50e",
+        "name": "CITY VIEW",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/89f6ed1d16962f5bacaa9f5b6986bb83/{description}.webp",
+        "licenseNumber": "010276-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 229212,
+        "phones": {
+            "primary": "2131791290",
+            "mobile": "21976392352"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "5a7e34f2488647e29b9b1d534ba7e2a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5a7e34f2488647e29b9b1d534ba7e2a2/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "CITY VIEW",
+        "href": "/229212/city-view/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Cobertura com 2 Quartos à venda, 182m²",
+        "href": "/imovel/cobertura-2-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-182m2-venda-RS1050000-id-2663362354/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Genaro de Carvalho",
+            "streetNumber": "900",
+            "zone": "Zona Oeste"
+        }
+    }
+}

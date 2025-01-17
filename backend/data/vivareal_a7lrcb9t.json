@@ -1,0 +1,282 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "KITCHEN",
+            "POOL",
+            "BARBECUE_GRILL",
+            "INTERCOM",
+            "CABLE_TV"
+        ],
+        "usableAreas": [
+            "42"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "OPORTUNIDADE!!<br>Apartamento padrão composto de 2 quartos, sala arejada e vista livre, cozinha em conceito aberto, banheiro com condomínio completo com segurança e playground, área verde, churrasqueira e salão de festa!<br><br>Agende já uma visita com um de nossos corretores!<br><br>Mansou Imóveis - Realizando Sonhos! -",
+        "title": "Apartamento 3 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2708388533",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "23075247",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "4355",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.585267,
+                "source": "GOOGLE",
+                "lat": -22.868346
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Estrada Rio-São Paulo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Campo Grande",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Campo Grande",
+            "poisList": [
+                "SU:Escola Municipal Luiz Edmundo",
+                "SU:Creche Municipal Padre Valter da Costa Santos",
+                "SU:Escola Municipal Professora Jurema Peçanha Giraud",
+                "CH:Clínica da Família Medalhista Olimpico Bruno Schmidt",
+                "SC:Campo grande",
+                "BR:Crepe Suiço da Ruiva"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP2276",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "42"
+        ],
+        "advertiserId": "be67d2df-d051-04cd-4800-e75001ccfcc6",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "163000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "440"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2134026560",
+                "21991907705"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21991907705",
+        "stamps": []
+    },
+    "account": {
+        "id": "be67d2df-d051-04cd-4800-e75001ccfcc6",
+        "name": "MANSOU IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6948873f8dbef4d1f5422360599cd346/{description}.webp",
+        "licenseNumber": "007861-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 233552,
+        "phones": {
+            "primary": "2134026560",
+            "mobile": "21991907705"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "462368fcc70635f2620ce3a6bb4fb444",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/462368fcc70635f2620ce3a6bb4fb444/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a675c338261c0e5296bc361f7ccf193",
+            "url": "https://youtu.be/02P8x3lYLMI",
+            "type": "VIDEO"
+        },
+        {
+            "id": "44a84cbb119dd73e5499a2726abb61ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/44a84cbb119dd73e5499a2726abb61ff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7939c1ce1c2fcb1a739f0d664fab441",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7939c1ce1c2fcb1a739f0d664fab441/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cbf27832a333404dfd1ae82cdd1a4b9f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cbf27832a333404dfd1ae82cdd1a4b9f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "93890a8af6ff08442e81c267dd01c32e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/93890a8af6ff08442e81c267dd01c32e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "58664d3964c08321de865bf9bd6f5fb6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/58664d3964c08321de865bf9bd6f5fb6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd3da51d359a53e6c240feb47428bb66",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd3da51d359a53e6c240feb47428bb66/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7470f3922220e73eff5ab059386f0885",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7470f3922220e73eff5ab059386f0885/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b48752897011ecdd38a3fb078017d1e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b48752897011ecdd38a3fb078017d1e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81d81ac640eeb256fee68cd540b9bb1f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81d81ac640eeb256fee68cd540b9bb1f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dbc781b049a12d0a3507086723956b80",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dbc781b049a12d0a3507086723956b80/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "87022c136dfb71ae1c04f495e9fe7c57",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/87022c136dfb71ae1c04f495e9fe7c57/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa97e0265987280258c13540673809d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa97e0265987280258c13540673809d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "60d1a1267114b6adb96dde4a0390b33f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60d1a1267114b6adb96dde4a0390b33f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1ff11a1fb67961d55d203c1755727f4e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1ff11a1fb67961d55d203c1755727f4e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e95ecdf3338baf50f8392d3622aa9f13",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e95ecdf3338baf50f8392d3622aa9f13/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4b3906cada0cd7e8240625b23bb9cd13",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b3906cada0cd7e8240625b23bb9cd13/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5270b5747dfebb121289779c7cb30344",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5270b5747dfebb121289779c7cb30344/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d5828612850d87a94ff519dd6488a532",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d5828612850d87a94ff519dd6488a532/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "31794b541816ca4cf1ce8fbb2d1f4cf2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/31794b541816ca4cf1ce8fbb2d1f4cf2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "10f49a2b6b0df12fad8f250d4ea295d5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/10f49a2b6b0df12fad8f250d4ea295d5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "52c492c93ce325c5e0eb4f03ad13cb6b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52c492c93ce325c5e0eb4f03ad13cb6b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9b6f4a954cba408ada1d69373d1344ba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9b6f4a954cba408ada1d69373d1344ba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "707996670f6474563d930aa82a29bf36",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/707996670f6474563d930aa82a29bf36/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ae977d594559e33ebea0ff7841b8d564",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae977d594559e33ebea0ff7841b8d564/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b0449fee54473074e1403298d581b1e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b0449fee54473074e1403298d581b1e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c982ef4e8c127a515afd52da3a702780",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c982ef4e8c127a515afd52da3a702780/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd7ce040ab55bd52cc76fd4b517cb7fc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd7ce040ab55bd52cc76fd4b517cb7fc/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "MANSOU IMÓVEIS",
+        "href": "/233552/mansou-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 42m²",
+        "href": "/imovel/apartamento-2-quartos-campo-grande-zona-oeste-rio-de-janeiro-com-garagem-42m2-venda-RS163000-id-2708388533/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Campo Grande",
+            "state": "Rio de Janeiro",
+            "street": "Estrada Rio-São Paulo",
+            "streetNumber": "4355",
+            "zone": "Zona Oeste"
+        }
+    }
+}

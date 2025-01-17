@@ -1,0 +1,258 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "KITCHEN",
+            "BATHTUB",
+            "KITCHEN_CABINETS",
+            "SERVICE_AREA"
+        ],
+        "usableAreas": [
+            "94"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento com 2 dormitórios à venda, 94 m² por R$ 480.000 - Vila Valqueire - Rio de Janeiro/RJ<br>Condomínio Nova Valqueire<br>Sala 2 quartos 1 Banheiro Varanda Copa Cozinha Área de serviço Quarto de empregada Banheiro de empregada <br>Lugar tranquilo próximo a Praça Do CIEP. <br>Documentação oK, Sol da Manhã 2 vagas de Garagem<br>www.geraldopaesimoveis.com.br",
+        "title": "Apartamento à venda Vila Valqueire - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2700071577",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21330290",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "316",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.373057,
+                "source": "GOOGLE",
+                "lat": -22.884662
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Porto Santana",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte> Vila Valqueire",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Vila Valqueire",
+            "poisList": [
+                "BS:Modestino Kanto",
+                "BS:Eduardo Mendes Gonçalves",
+                "BS:Olímpio de Castro",
+                "BS:Pacífico Pereira",
+                "TS:Modestino Kanto",
+                "TS:Eduardo Mendes Gonçalves",
+                "TS:Olímpio de Castro",
+                "TS:Pacífico Pereira",
+                "SU:Escola Municipal Campo dos Afonsos",
+                "SU:Escola Municipal Debret",
+                "SU:Escola Municipal Carlos de Laet",
+                "SU:Centro Integrado de Educação Pública Aracy de Almeida (cantora)",
+                "SU:Escola Municipal Maria da Silva França",
+                "VP:Sulapet Petshop"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "AP1116",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "94"
+        ],
+        "advertiserId": "874cf9f1-b470-f17c-0b6e-a1cbfb4303a0",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1236",
+                "price": "480000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "300"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2124894023",
+                "21981554031"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21981554031",
+        "stamps": []
+    },
+    "account": {
+        "id": "874cf9f1-b470-f17c-0b6e-a1cbfb4303a0",
+        "name": "GERALDO PAES IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6fdea9850fba5f1a289a39302c30565c/{description}.webp",
+        "licenseNumber": "05659-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 40004,
+        "phones": {
+            "primary": "2124894023",
+            "mobile": "21981554031"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "15b58e0f88812a659560643fd4b9b76f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/15b58e0f88812a659560643fd4b9b76f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a87bcedb353e9bcc4e96f620d34e8f6a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a87bcedb353e9bcc4e96f620d34e8f6a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f42dbd5f5a55396d61d3b11228c47e9e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f42dbd5f5a55396d61d3b11228c47e9e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e98bd02293fd1cac8a17f47e1da0da3e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e98bd02293fd1cac8a17f47e1da0da3e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8bedcfeef7dc7470bfa42164887e221f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8bedcfeef7dc7470bfa42164887e221f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a0890995508ea381ec14a7dea952fa18",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a0890995508ea381ec14a7dea952fa18/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5976360c8f763c2d033a887624a6f134",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5976360c8f763c2d033a887624a6f134/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "06b98b7686730127c91469112d290591",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/06b98b7686730127c91469112d290591/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ad80d1a161e6d0b53cc01ac2b89b9de2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ad80d1a161e6d0b53cc01ac2b89b9de2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "95b0d9c2927c01ec58a83231f6dbcb31",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/95b0d9c2927c01ec58a83231f6dbcb31/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c63d57351bcd13c6362a0781ae5dfaca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c63d57351bcd13c6362a0781ae5dfaca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0832b205ac633a78c5a557f0c898297b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0832b205ac633a78c5a557f0c898297b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f469108bb2d85f1e165b4ca69519114a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f469108bb2d85f1e165b4ca69519114a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "89f83249966a37b26b8bc9e5cd693e93",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/89f83249966a37b26b8bc9e5cd693e93/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "84ff88b05da86b7f9c6b2f9f21fcca8b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/84ff88b05da86b7f9c6b2f9f21fcca8b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42803d54efee08982b5bddc837702d74",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42803d54efee08982b5bddc837702d74/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "37c9905b5a93f368d8c1b54971532b7b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/37c9905b5a93f368d8c1b54971532b7b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9342e457b80433aea3b7022b6a29dcb2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9342e457b80433aea3b7022b6a29dcb2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f0122238e561b46a445149cd01aed9a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f0122238e561b46a445149cd01aed9a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1b030372379d5fc10d742a9f8fd5229b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1b030372379d5fc10d742a9f8fd5229b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0a3547dbad6f029a3c58219e8bee69e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0a3547dbad6f029a3c58219e8bee69e3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c10fa7549dd7ba0657784ec4c104d1be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c10fa7549dd7ba0657784ec4c104d1be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aefd132832c5c49f998c74e96727daee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aefd132832c5c49f998c74e96727daee/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "GERALDO PAES IMOVEIS",
+        "href": "/40004/geraldo-paes-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 94m²",
+        "href": "/imovel/apartamento-2-quartos-vila-valqueire-zona-norte-rio-de-janeiro-com-garagem-94m2-venda-RS480000-id-2700071577/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": " Vila Valqueire",
+            "state": "Rio de Janeiro",
+            "street": "Rua Porto Santana",
+            "streetNumber": "316",
+            "zone": "Zona Norte"
+        }
+    }
+}

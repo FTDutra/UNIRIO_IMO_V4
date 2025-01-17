@@ -1,0 +1,254 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "GARDEN",
+            "PLAYGROUND",
+            "GOURMET_BALCONY",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "BICYCLES_PLACE",
+            "CLOSET",
+            "AMERICAN_KITCHEN",
+            "LAUNDRY",
+            "GAMES_ROOM",
+            "SQUASH",
+            "SAUNA",
+            "COWORKING",
+            "DISABLED_ACCESS"
+        ],
+        "usableAreas": [
+            "170"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "CONDOMINIO SUMMER DREM<br> apartamento está localizado no bairro Barra da Tijuca possui 170 metros quadrados com 4 quartos sendo 1 suite e 4 banheiros<br>Possui área de fitness, jardim, parquinho infantil, espaço gourmet, espaço para festas.Churrasqueira para você aproveitar nos momentos de descontração.<br>Elevador que garante o transporte das suas malas e compras.<br>Fica em um condomínio fechado.",
+        "title": "Apartamento para venda tem 170 metros quadrados com 4 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2704898557",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22630010",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "3204",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.327498,
+                "source": "GOOGLE",
+                "lat": -23.01112
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Lúcio Costa",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "TS:Bosque Marapendi",
+                "TS:Bosque Marapendi (Expresso)",
+                "TS:Bosque Marapendi (Parador)",
+                "TS:Caís do Downtown",
+                "TS:Afrânio Costa",
+                "CS:Padaria Belle Barra",
+                "CS:Amendoeira II",
+                "SU:Escola Municipal Golda Meir",
+                "SU:Britannia English School",
+                "SU:IDOMED",
+                "SU:Escola Municipal República da Colômbia",
+                "SU:Creche Municipal Carmen Miranda",
+                "CH:Dra. Daniela Botti Meodentista",
+                "CH:Quiropraxia Elisa Dallegravs"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "11628",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [],
+        "advertiserId": "4fd5d0ba-75ea-933d-fa37-a02287e7e020",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1300",
+                "price": "2790000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "3385"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "11933112412",
+                "21981323221"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21981323221",
+        "stamps": []
+    },
+    "account": {
+        "id": "4fd5d0ba-75ea-933d-fa37-a02287e7e020",
+        "name": "JC IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c4896ae5564331b72a19a0588bc97529/{description}.webp",
+        "licenseNumber": "050557-F-SP",
+        "showAddress": true,
+        "legacyVivarealId": 67657,
+        "phones": {
+            "primary": "11933112412",
+            "mobile": "21981323221"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "c9dab5a76d8b3c41ae37ed9dcb0f9a4f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c9dab5a76d8b3c41ae37ed9dcb0f9a4f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "776e7029db00a9f7563342f32e55b4b6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/776e7029db00a9f7563342f32e55b4b6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0c1d5b3302acf0fa6e90d4c604c58dea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0c1d5b3302acf0fa6e90d4c604c58dea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "825d7c5a004db587f6bb62266807e836",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/825d7c5a004db587f6bb62266807e836/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "244eaac51eb73b8fddd44aaf33c5b33d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/244eaac51eb73b8fddd44aaf33c5b33d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b3c34237cf6c991eaad405754f7a1fb3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b3c34237cf6c991eaad405754f7a1fb3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7c460063361d81bceaeb0dd6e20f32a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7c460063361d81bceaeb0dd6e20f32a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a698903286590c36b2b878313fcccfa1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a698903286590c36b2b878313fcccfa1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "abffd18713ef50512151cd6f31fe4c20",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/abffd18713ef50512151cd6f31fe4c20/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ed59317b3301926e006e6895e85b25ae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed59317b3301926e006e6895e85b25ae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "833ae9d155c0a6bffd6529066073c933",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/833ae9d155c0a6bffd6529066073c933/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4996f93deb781c9f327b85ab88fd3399",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4996f93deb781c9f327b85ab88fd3399/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ba3d71b277183973df814818d72cb893",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ba3d71b277183973df814818d72cb893/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "992d3fde10c0b8c555b831aac8c72f33",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/992d3fde10c0b8c555b831aac8c72f33/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "142e78fe3fab2264a2eea23c86d27b89",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/142e78fe3fab2264a2eea23c86d27b89/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5289538ba7bc5a3e68c76c7d5154899f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5289538ba7bc5a3e68c76c7d5154899f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7bfd2e1a56a6491bd21d8a5c31c7b8eb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7bfd2e1a56a6491bd21d8a5c31c7b8eb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "642b3db6e1f73b4b2c9f9a859022bb08",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/642b3db6e1f73b4b2c9f9a859022bb08/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "11063a2b48a5aa5d88c55fc459ba69b8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/11063a2b48a5aa5d88c55fc459ba69b8/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "JC IMOVEIS",
+        "href": "/67657/jc-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 170m²",
+        "href": "/imovel/apartamento-4-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-170m2-venda-RS2790000-id-2704898557/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Lúcio Costa",
+            "streetNumber": "3204",
+            "zone": "Zona Oeste"
+        }
+    }
+}

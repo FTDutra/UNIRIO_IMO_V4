@@ -1,0 +1,201 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [],
+        "usableAreas": [
+            "65"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Imóvel aconchegante à venda com 2 quartos, sendo 1 suíte, e 2 banheiros no total. O condomínio é bem equipado com diversas instalações, apropriado para quem busca lazer sem sair de casa e fica localizado em Rua Marlo da Costa E Souza no bairro Barra da Tijuca em Rio de Janeiro. Está bem localizado, próximo a pontos de interesse de Barra da Tijuca, tais como Universidade Castello Branco, Escola Municipal Vice Almirante Alvaro Alberto da Motta e Silva, Escola Municipal Vice Almirante Paulo Castro Moreira da Silva, Universidade Estácio de Sá - Campus Recreio dos Bandeirantes, Shopping Barra World e Escola Municipal Frederico Trotta.<br><br>Descrição do proprietário<br>Apartamento aconchegante em condomínio com estrutura completa. Balsa para praia, ônibus para centro/zona sul/tijuca e circular Barra da Tijuca.",
+        "title": "Apartamento à venda com 65m², 2 quartos e 2 vagas",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2751598636",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790735",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "1",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.437669,
+                "source": "GOOGLE",
+                "lat": -23.010014
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Marlo da Costa e Souza",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:Salvador Allende (Parador)",
+                "BS:Salvador Allende (Expresso)",
+                "BS:Ponto Final: Barra Sul :: Linha 553 SP",
+                "BS:pedra de itauna stop",
+                "TS:Terminal Recreio",
+                "TS:Salvador Allende (Parador)",
+                "TS:Salvador Allende (Expresso)",
+                "TS:Ponto Final: Barra Sul :: Linha 553 SP",
+                "TS:Catedral do Recreio",
+                "CS:Fábrica de Bolo",
+                "CS:Santa Therezinha",
+                "CS:Padaria & Confeitaria A Lisboeta",
+                "CS:Padaria e Confeitaria Rei do Recreio",
+                "CS:Pão Carioca",
+                "PH:Drogasmil",
+                "PH:Venâncio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP56223RJ",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "65"
+        ],
+        "advertiserId": "ed990fdd-eb37-4b08-3451-008ac8e02f71",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "234",
+                "price": "550000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1243"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21966487878"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21966487878",
+        "stamps": []
+    },
+    "account": {
+        "id": "ed990fdd-eb37-4b08-3451-008ac8e02f71",
+        "name": "LUCCARE",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca9ec6fda5cc292e32c3ed26afcc5ceb/{description}.webp",
+        "licenseNumber": "65358-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 823968,
+        "phones": {
+            "primary": "21966487878",
+            "mobile": "21966487878"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "44346d822a192b2fdf01756f7a944aad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/44346d822a192b2fdf01756f7a944aad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c53c178c3a9366b988db9e2e32746c6f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c53c178c3a9366b988db9e2e32746c6f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a7807386ab5717839f2496935d7cd13",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8a7807386ab5717839f2496935d7cd13/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c4b96ed287791cc48cb826cf9bcde7f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c4b96ed287791cc48cb826cf9bcde7f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca2f7aaa889fa9eb6883d03402b89f8c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca2f7aaa889fa9eb6883d03402b89f8c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6e8cbcbff4ee6ce82227c298dfb01f2e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6e8cbcbff4ee6ce82227c298dfb01f2e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "30fec326b0f8c70d3357cc20cfdcc006",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30fec326b0f8c70d3357cc20cfdcc006/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c9e025318ab81967fe659565355566f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c9e025318ab81967fe659565355566f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b9168c99c2fe48c1ff88c9eda9dcff8d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b9168c99c2fe48c1ff88c9eda9dcff8d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c63d4e37a63ccd405513d6ab40e5bbda",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c63d4e37a63ccd405513d6ab40e5bbda/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4be03130054e7ee1d5124382aa506c6a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4be03130054e7ee1d5124382aa506c6a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fa37bad61f1a47dd4e17842dc67a27c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa37bad61f1a47dd4e17842dc67a27c7/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "LUCCARE",
+        "href": "/823968/luccare/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 65m²",
+        "href": "/imovel/apartamento-2-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-65m2-venda-RS550000-id-2751598636/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Marlo da Costa e Souza",
+            "streetNumber": "1",
+            "zone": "Zona Oeste"
+        }
+    }
+}

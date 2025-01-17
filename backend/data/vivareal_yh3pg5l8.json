@@ -1,0 +1,214 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "FURNISHED",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "AIR_CONDITIONING",
+            "GARDEN",
+            "PLAYGROUND",
+            "GOURMET_BALCONY",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "SQUASH",
+            "CINEMA",
+            "SPA",
+            "DISABLED_ACCESS",
+            "COWORKING",
+            "SAUNA",
+            "GAMES_ROOM",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "80"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Condomínio Alphaland Residence Club<br><br>Apartamento composto por sala em dois ambientes, varanda gourmet com fechamento em vidro, lavabo, cozinha planejada, área de serviço e 2 quartos, sendo 2 suítes.",
+        "title": "Condomínio Alphaland Residence Club",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2760004926",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22793237",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "101",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.403197,
+                "source": "GOOGLE",
+                "lat": -22.993209
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Paulo Moura",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "TS:Riomar",
+                "TS:Santa Mônica Jardins",
+                "TS:Golfe Olímpico",
+                "TS:Olof Palme",
+                "TS:Ilha Pura",
+                "PH:Homeonatus Farmácia Homeopática",
+                "SU:Escola Carolina Patrício",
+                "SU:Colégio Bahiense",
+                "SC:Loja de Flores",
+                "SC:INN Store",
+                "SC:Mercado Mundo Novo",
+                "SC:Laundromat - MapBarra",
+                "SC:Map Barra"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "HPBFSILVPT03",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [],
+        "advertiserId": "3db5bdd2-f97d-8de7-aeb2-38866c63599e",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3350",
+                "price": "890000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1150"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21987370721"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21987370721",
+        "stamps": []
+    },
+    "account": {
+        "id": "3db5bdd2-f97d-8de7-aeb2-38866c63599e",
+        "name": "H PREMIUM IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52c4d4a4f35c309aadb62d8b49b9f60e/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 593456,
+        "phones": {
+            "primary": "21987370721",
+            "mobile": "21987370721"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "edf207c936a56d56c4b880a28a33c597",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/edf207c936a56d56c4b880a28a33c597/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "35a85c4054854a506b5beb55782b56d5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/35a85c4054854a506b5beb55782b56d5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "99635380ba2cc8bd6fc2ca6439fa7eae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/99635380ba2cc8bd6fc2ca6439fa7eae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7cbc0f7e252b06abdab14644aca1503b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7cbc0f7e252b06abdab14644aca1503b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d90fd5d47831b1d9b86fb42c0ee94339",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d90fd5d47831b1d9b86fb42c0ee94339/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a23c9e326f8be58035864b8b3da4f452",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a23c9e326f8be58035864b8b3da4f452/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a89ee1225f06a7a1b2411a7338df4125",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a89ee1225f06a7a1b2411a7338df4125/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "99cdc9cd0685f2ba3caf0fb7b11dc2e5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/99cdc9cd0685f2ba3caf0fb7b11dc2e5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6469b1e6660cad40224709dec05735fe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6469b1e6660cad40224709dec05735fe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65b4c413f80378a95f20b91ea4edee52",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65b4c413f80378a95f20b91ea4edee52/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8078e2ac0c655ff7a44979138b14f065",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8078e2ac0c655ff7a44979138b14f065/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "H PREMIUM IMÓVEIS",
+        "href": "/593456/h-premium-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 80m²",
+        "href": "/imovel/apartamento-2-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-80m2-venda-RS890000-id-2760004926/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Paulo Moura",
+            "streetNumber": "101",
+            "zone": "Zona Oeste"
+        }
+    }
+}

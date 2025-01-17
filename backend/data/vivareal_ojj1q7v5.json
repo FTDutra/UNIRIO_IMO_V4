@@ -1,0 +1,254 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "NEAR_ACCESS_ROADS",
+            "NEAR_SCHOOL",
+            "NEAR_HOSPITAL",
+            "NEAR_SHOPPING_CENTER",
+            "BICYCLES_PLACE",
+            "BUILTIN_WARDROBE",
+            "KITCHEN_CABINETS",
+            "KITCHEN",
+            "SAFETY_CIRCUIT",
+            "NEAR_PUBLIC_TRANSPORT",
+            "PAVED_STREET"
+        ],
+        "usableAreas": [
+            "70"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "2 quartos com dependencias completas, vista livre, claríssimo e arejado, vista lateral mar, andar alto, desocupado, portaria 24h,ótima planta, sala ampla, 2 ambs, 2 quartos com armários, banheiro amplo, cozinha, área ampla e dependencias completas, aceita financiamento, vaga de garagem em fila de espera c3a8e",
+        "title": "Copacabana | Apartamento 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2729705919",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22060002",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.98,
+                "approximateLon": -43.191,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Nossa Senhora de Copacabana",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 1 Sá Ferreira",
+                "BS:BRS 2 Djalma Ulrich",
+                "BS:BRS 1 Miguel Lemos",
+                "BS:BRS 2: Francisco Sá",
+                "BS:BRS 3 Miguel Lemos",
+                "TS:BRS 1 Sá Ferreira",
+                "TS:BRS 2 Djalma Ulrich",
+                "TS:BRS 1 Miguel Lemos",
+                "TS:Estação 2",
+                "TS:Estação 3",
+                "CS:Casa du bisçoito",
+                "CS:Lopes",
+                "CS:Sulimar",
+                "CS:Peixaria Z13",
+                "CS:Colônia dos Pescadores",
+                "PH:Prontofarma",
+                "PH:Viva Mais",
+                "PH:Farmácia Central Posto 6",
+                "PH:Drogaria Pop",
+                "PH:Drogaria Galanti"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "CO2AP92895",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "80"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2351",
+                "price": "670000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1000"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "cb957c5b131191423ad22c29578bfbf6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cb957c5b131191423ad22c29578bfbf6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c524220b16e3bde2c6f0d9cc68059046",
+            "url": "https://www.youtube.com/watch?v=KyH6se6BJ68",
+            "type": "VIDEO"
+        },
+        {
+            "id": "b1efc976a87efc44126ba370a2fa045e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1efc976a87efc44126ba370a2fa045e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4912cddb660fb68d89eac7ed42bf3c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4912cddb660fb68d89eac7ed42bf3c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c0d93924b2d295abf4e6c06c61bfda8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c0d93924b2d295abf4e6c06c61bfda8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c1cc212d2c00f38cf2b84484e7e2ec00",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c1cc212d2c00f38cf2b84484e7e2ec00/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "218fb59ad5c29fe22c8957cbd562a714",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/218fb59ad5c29fe22c8957cbd562a714/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3d21d02bced0ce279e41d50d651767f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3d21d02bced0ce279e41d50d651767f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "97132cf5c865d5207beb719eac6cf6aa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/97132cf5c865d5207beb719eac6cf6aa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f941df4889dc63abdc2f1917309d7abb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f941df4889dc63abdc2f1917309d7abb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e21b534aac91939051a8850fbe35801",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e21b534aac91939051a8850fbe35801/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c9af88a8b07d4ba61814e0d71743a17f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c9af88a8b07d4ba61814e0d71743a17f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3867c8a4ad2f23d8221c7b01974f6a41",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3867c8a4ad2f23d8221c7b01974f6a41/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8826d02381b0b9f504550764eef1c39e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8826d02381b0b9f504550764eef1c39e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2a599ebfa1c092ac8c23d3de41ce1676",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a599ebfa1c092ac8c23d3de41ce1676/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8aa88a57bdad538708cad7254994d0e2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8aa88a57bdad538708cad7254994d0e2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "18e99b0cb379a3a1f85357f8a276b5c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/18e99b0cb379a3a1f85357f8a276b5c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd2d81fa615adb246ca79fd3284f38a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd2d81fa615adb246ca79fd3284f38a2/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 70m²",
+        "href": "/imovel/apartamento-2-quartos-copacabana-zona-sul-rio-de-janeiro-70m2-venda-RS670000-id-2729705919/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Nossa Senhora de Copacabana",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

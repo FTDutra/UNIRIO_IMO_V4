@@ -1,0 +1,287 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "BALCONY",
+            "PETS_ALLOWED",
+            "PLAYGROUND",
+            "KITCHEN",
+            "INTERCOM",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "83"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Código: 3060 Apartamento à venda em Vila Isabel. Localizado na Rua Silva Pinto nº 153 entre as ruas Senador Furtado e Conselheiro Otaviano, este apartamento se encontra a apenas 10 minutos da Avenida 28 de Setembro, em uma região com excelente comércio e fácil acesso à mobilidade urbana.<br><br>Trata-se de um apartamento frontal, com a luminosidade do sol da manhã, oferecendo uma vista livre que abrange parte da comunidade. O imóvel conta com uma varanda, uma sala ampla que comporta dois ambientes, 2 quartos, banheiro social, cozinha, área de serviço, além de um banheiro de serviço. A dependência foi revertida para o 3º quarto, ampliando as opções de uso do espaço. O apartamento também possui uma vaga de garagem.<br><br>O prédio tem uma boa apresentação, conta com elevadores, acessibilidade, câmeras de segurança, playground e garagem.<br><br>Não perca a oportunidade de conhecer este imóvel! Ligue e agende sua visita com um dos nossos consultores.<br> -Rev.11Dez",
+        "title": "Apartamento - Padrão / Residencial / Vila Isabel",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2754893093",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20551190",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.912,
+                "approximateLon": -43.248,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Silva Pinto",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Vila Isabel",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "poisList": [
+                "BS:BRS 2, 6, 7",
+                "BS:BRS 4, 5, I",
+                "BS:Ponto Final 438",
+                "BS:Ponto Final 433",
+                "BS:Ponto Final 439",
+                "TS:BRS 4, 5, I",
+                "TS:Ponto Final 438",
+                "TS:Ponto Final 433",
+                "TS:Ponto Final 439",
+                "TS:Ponto Final 605",
+                "CS:Padaria Abaeté",
+                "CS:Mercado de Carnes Coração da Vila",
+                "CS:Padaria Villas Garden",
+                "CS:PADARIA E PANIFICAÇÃO 2 AMIGOS",
+                "CS:Nossa Padaria",
+                "PH:Farma Dez",
+                "PH:Drogaria Pedro Ernesto",
+                "PH:Drogaria MEP",
+                "PH:Drograria Venâncio",
+                "PH:Drograrias Guanabara"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "3060",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "83"
+        ],
+        "advertiserId": "67b1a4ca-d2dd-63db-7cd5-932d64ddbe74",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "price": "300000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "570"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21970472968"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21970472968",
+        "stamps": []
+    },
+    "account": {
+        "id": "67b1a4ca-d2dd-63db-7cd5-932d64ddbe74",
+        "name": "AM IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/97028143efcbaa9c67173c1a6548f2f2/{description}.webp",
+        "licenseNumber": "008170-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 637205,
+        "phones": {
+            "primary": "21970472968",
+            "mobile": "21970472968"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "d656df44b9db6cc651c3c90bba2bb705",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d656df44b9db6cc651c3c90bba2bb705/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "74417dac85a71815ebca5a5b94e5f5b6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/74417dac85a71815ebca5a5b94e5f5b6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe12c4726fd7fa66cc63ee9fc4ca3851",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe12c4726fd7fa66cc63ee9fc4ca3851/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "26e41e9c8da3c34edf55df5201dc235a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/26e41e9c8da3c34edf55df5201dc235a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "928b1d6a6a6735cbd292a68f75ba6939",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/928b1d6a6a6735cbd292a68f75ba6939/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6ecc9375a21c8f156635d1a2991901b7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ecc9375a21c8f156635d1a2991901b7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ebf58851719167c0977ebf1cf88ea06c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ebf58851719167c0977ebf1cf88ea06c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "145348aa70e0c4549e33068a5ab55be3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/145348aa70e0c4549e33068a5ab55be3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8112476a55fe693b1e84028441931fc5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8112476a55fe693b1e84028441931fc5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "910761cf87d4c4b9fe19c01330721904",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/910761cf87d4c4b9fe19c01330721904/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d2e1ab10d5fd23dd14d4fc107b776cd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d2e1ab10d5fd23dd14d4fc107b776cd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38f439d9f8947cb3544da292c80ca6f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38f439d9f8947cb3544da292c80ca6f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6f908f1d5fb09726cd00b42c2df26ddf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6f908f1d5fb09726cd00b42c2df26ddf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5ee7fcff66eb9cfba17a1b9c9ad4d1ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5ee7fcff66eb9cfba17a1b9c9ad4d1ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5b586210ac2282b9acafcf46ade63131",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b586210ac2282b9acafcf46ade63131/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8ab5913e3efdd297b921f7807a22a254",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8ab5913e3efdd297b921f7807a22a254/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ea281ed4556ccc5b072fb837f851511b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ea281ed4556ccc5b072fb837f851511b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a75e616821bc305ea55bf96db6f2fac1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a75e616821bc305ea55bf96db6f2fac1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6b3fbaea5f1f6e30546169848cb92165",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6b3fbaea5f1f6e30546169848cb92165/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "87e9764fec1e18e99a2697bd300bce6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/87e9764fec1e18e99a2697bd300bce6e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c6950b3f5fcd9730d98a96861e5d3365",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c6950b3f5fcd9730d98a96861e5d3365/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a63ada86032516406107b4fe0aa92535",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a63ada86032516406107b4fe0aa92535/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21373ad1c027a217b032bd6bc1b37f69",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21373ad1c027a217b032bd6bc1b37f69/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "865b66457d805956e232a99f051e0912",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/865b66457d805956e232a99f051e0912/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "658a68e79947c97ef301f5eed5d03fb4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/658a68e79947c97ef301f5eed5d03fb4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9f583c1f81336384f15cd4caba0c916d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9f583c1f81336384f15cd4caba0c916d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "27b9e2597a7f4bd79058f9a8a44aac47",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/27b9e2597a7f4bd79058f9a8a44aac47/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "AM IMÓVEIS",
+        "href": "/637205/am-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 83m²",
+        "href": "/imovel/apartamento-2-quartos-vila-isabel-zona-norte-rio-de-janeiro-com-garagem-83m2-venda-RS300000-id-2754893093/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "state": "Rio de Janeiro",
+            "street": "Rua Silva Pinto",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

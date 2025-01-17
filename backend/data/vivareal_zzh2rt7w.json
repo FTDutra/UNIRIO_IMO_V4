@@ -1,0 +1,311 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "CONCIERGE_24H",
+            "BEDROOM_WARDROBE",
+            "SERVICE_BATHROOM",
+            "GAS_SHOWER",
+            "INTERCOM",
+            "LARGE_WINDOW",
+            "EMPLOYEE_DEPENDENCY",
+            "ALUMINUM_WINDOW",
+            "WOOD_FLOOR",
+            "NATURAL_VENTILATION"
+        ],
+        "usableAreas": [
+            "70"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Localização prática, farto comércio e condução, 8 minutos andando para os metrôs São Francisco Xavier e Sãens Pena. <br>Apartamento de frente, claro e arejado, 70m² bem distribuídos, composto por sala, 2 quartos, banheiro, cozinha e dependências completas.<br>O prédio possui, elevador, play, salão de festas.<br><br>CRECI/J: 5795",
+        "title": "Apartamento para venda com 70 metros quadrados com 2 quartos em Tijuca - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2596565870",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20550045",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "5",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.226831,
+                "source": "GOOGLE",
+                "lat": -22.924298
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Carmela Dutra",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Ponto Final do 600 (Taquara)",
+                "BS:Ponto Final: Saens Peña :: Linha 601",
+                "BS:Saens Peña :: Integração Metrô",
+                "BS:Ponto Final: Saens Peña :: Linha 665",
+                "BS:Ponto Final: Saens Peña",
+                "TS:Ponto Final do 600 (Taquara)",
+                "TS:Ponto Final: Saens Peña :: Linha 601",
+                "TS:Heitor Beltrão",
+                "TS:São Francisco Xavier / Tijuca",
+                "TS:Saens Peña :: Integração Metrô",
+                "CS:Empório Lamego",
+                "CS:Confeitaria Rita de Cássia",
+                "CS:Lojas Bandeirantes",
+                "CS:TECNOMEDI TIJUCA",
+                "CS:Flor da Tijuca",
+                "PH:Drograria Venâncio",
+                "PH:Drogaria Venancio",
+                "PH:Drogaria Pedro Ernesto",
+                "PH:Drogaria Unidas",
+                "PH:Farmavita"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "RuaCarmelaDutra5",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "70"
+        ],
+        "advertiserId": "d3a74396-26be-2bf3-2691-b884796a99a9",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1259",
+                "price": "400000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "736"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122637770",
+                "21964184212"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964184212",
+        "stamps": []
+    },
+    "account": {
+        "id": "d3a74396-26be-2bf3-2691-b884796a99a9",
+        "name": "ADNOVA IMOBILIÁRIA PLUS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2e833a2f92b198d27e3a3e6c3874542/{description}.webp",
+        "licenseNumber": "5795-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 765685,
+        "phones": {
+            "primary": "2122637770",
+            "mobile": "21964184212"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "f820eb60b67f6870c0dac333195dc3d4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f820eb60b67f6870c0dac333195dc3d4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "94df390f3e6f0729993154f57f83f00f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/94df390f3e6f0729993154f57f83f00f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0b15bb64253c17bf150731f6a53a8eda",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0b15bb64253c17bf150731f6a53a8eda/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff6a7bb6ec477e551fd785e86e76cc3e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff6a7bb6ec477e551fd785e86e76cc3e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2388eb5153d68a1443631c4878cc4a56",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2388eb5153d68a1443631c4878cc4a56/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0d08eaf0a91e82815478b78bac25abac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0d08eaf0a91e82815478b78bac25abac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "545ecb7023842a1756f992e12c94548e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/545ecb7023842a1756f992e12c94548e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cad78da70f9e7055e428bc8dfa93edb7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cad78da70f9e7055e428bc8dfa93edb7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "16594239c68615befcc5b176359a06a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/16594239c68615befcc5b176359a06a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4b400dba84837cb748acbca266da0e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4b400dba84837cb748acbca266da0e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7d8808ce973e5d5166c41e75302bddf4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7d8808ce973e5d5166c41e75302bddf4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b08fc61df1ce1145022574cce74e6fba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b08fc61df1ce1145022574cce74e6fba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c19d0e33173fd4aaf20e0c861090ef5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c19d0e33173fd4aaf20e0c861090ef5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "02dd9aaa969233999f54dd5e55ac0d28",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/02dd9aaa969233999f54dd5e55ac0d28/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb2af2bf29f927156d32d6efb343745c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb2af2bf29f927156d32d6efb343745c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8469ca1a780673e4a89500cb5a640025",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8469ca1a780673e4a89500cb5a640025/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9938069f145fc006fad7e6a8e952cd36",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9938069f145fc006fad7e6a8e952cd36/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a0113a2fd82b0cc188edf9fc4b32add4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a0113a2fd82b0cc188edf9fc4b32add4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "11323bec4dae592f82efef0d5b6a0a28",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/11323bec4dae592f82efef0d5b6a0a28/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5e0caff3e9557e6acaa502c4e3bd08c0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5e0caff3e9557e6acaa502c4e3bd08c0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e6e0edea8a01276a8b01af240c11fc18",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e6e0edea8a01276a8b01af240c11fc18/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5d26f37defa4f4c910c3654a6d9bcb68",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5d26f37defa4f4c910c3654a6d9bcb68/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "82239c3b7a63a75e6bb51cc035d89bd0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82239c3b7a63a75e6bb51cc035d89bd0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "215e16607ff9f3c0496b4098fb773763",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/215e16607ff9f3c0496b4098fb773763/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb1f48e811d23e9cd5c44417e04714f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb1f48e811d23e9cd5c44417e04714f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a8ca64c1aa96289aaa4b1a70e5a36ab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a8ca64c1aa96289aaa4b1a70e5a36ab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e999bb7ec16b280324ecd6003827938",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9e999bb7ec16b280324ecd6003827938/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "01dcd969ced1b494203b800f743226c0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/01dcd969ced1b494203b800f743226c0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f56c2ff05c97a579c21c2fd751ab7e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f56c2ff05c97a579c21c2fd751ab7e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a860cfa2f8d8ed423acc5372408722c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a860cfa2f8d8ed423acc5372408722c/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "ADNOVA IMOBILIÁRIA PLUS",
+        "href": "/765685/adnova-imobiliaria-plus/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 70m²",
+        "href": "/imovel/apartamento-2-quartos-tijuca-zona-norte-rio-de-janeiro-70m2-venda-RS400000-id-2596565870/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Carmela Dutra",
+            "streetNumber": "5",
+            "zone": "Zona Norte"
+        }
+    }
+}

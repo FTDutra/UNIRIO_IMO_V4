@@ -1,0 +1,255 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "BALCONY",
+            "PETS_ALLOWED",
+            "GARDEN",
+            "PARTY_HALL",
+            "CONCIERGE_24H",
+            "KITCHEN_CABINETS",
+            "LARGE_ROOM",
+            "ELECTRONIC_GATE",
+            "BLINDEX_BOX",
+            "EMPLOYEE_DEPENDENCY",
+            "DISABLED_ACCESS"
+        ],
+        "usableAreas": [
+            "80"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento 2 quartos na Praça Seca, Jacarepaguá. <br><br>Apartamento de 80 m² com varanda, piso clássico em tábua corrida, sol da manhã e dependência completa. Localizado longe de comunidade. Vaga de garagem. ACEITA FINANCIAMENTO E FGTS.",
+        "title": "Apartamento á venda - Praça Seca - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2717192582",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21321052",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "955",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.355638,
+                "source": "GOOGLE",
+                "lat": -22.898854
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Florianópolis",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Praca Seca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Praça Seca",
+            "poisList": [
+                "BS:Doutor Bernardino",
+                "BS:Praça Seca :: Linhas para o Castelo",
+                "BS:Rua Marangá 912",
+                "BS:Ponto Final: Praça Seca :: Linha 371",
+                "BS:Ponto Final: Praça Seca :: Ônibus Executivo",
+                "TS:Praça Seca (Expresso)",
+                "TS:Praça Seca (Parador)",
+                "TS:Ipase",
+                "TS:Doutor Bernardino",
+                "TS:Praça Seca :: Linhas para o Castelo",
+                "CS:Açougue Barão Ltda.",
+                "CS:3 Marias",
+                "CS:Gula Gula",
+                "CS:Auto Posto Bittig",
+                "PH:Imediata"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "FRAP22019",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "80"
+        ],
+        "advertiserId": "b7093ce2-d9f6-7345-3aef-ec311a13ff57",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2",
+                "price": "199000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1050"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21970126361"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21970126361",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "b7093ce2-d9f6-7345-3aef-ec311a13ff57",
+        "name": "UNIRIO IMOBILIÁRIA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d3815352e10f36f089b8ff8eda9f7dc/{description}.webp",
+        "licenseNumber": "07672-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 113570,
+        "phones": {
+            "primary": "21970126361",
+            "mobile": "21970126361"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "6a9378efff327246c3b830d53b176186",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a9378efff327246c3b830d53b176186/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9859dc435a75b97191643e39e4bfb359",
+            "url": "https://youtu.be/MpIBA7n21B8",
+            "type": "VIDEO"
+        },
+        {
+            "id": "61969f0d0b818b7c0d91882a57fd8876",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/61969f0d0b818b7c0d91882a57fd8876/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c5a93acf58805d424814859e59b28f0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c5a93acf58805d424814859e59b28f0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d36fdfed6e8cd99fc19859ef1b14eb7f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d36fdfed6e8cd99fc19859ef1b14eb7f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8192432ce5c1247f33de5dcbcedd7a18",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8192432ce5c1247f33de5dcbcedd7a18/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e0a7c1a5dd4083f8a1918761d8ddb0a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e0a7c1a5dd4083f8a1918761d8ddb0a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8eeac940bee16f71282f4547ee90459a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8eeac940bee16f71282f4547ee90459a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2b92c8a0c02848b8d68f87bbd33a31eb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b92c8a0c02848b8d68f87bbd33a31eb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1bcb1f8b0738da43fe360c851476f88e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1bcb1f8b0738da43fe360c851476f88e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a532f6599bb262e6aaae1d1c47c2ed17",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a532f6599bb262e6aaae1d1c47c2ed17/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "031856b88aba41f9b4124603aa585360",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/031856b88aba41f9b4124603aa585360/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0fc60aadc894b9780bb618aba720cfa4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0fc60aadc894b9780bb618aba720cfa4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "30cf2c72452954b6026e87c61105d8c4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30cf2c72452954b6026e87c61105d8c4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dfa5004d4442565355404664fc014646",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dfa5004d4442565355404664fc014646/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b5a9fad6bfcef337b995ef9e5f71be3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b5a9fad6bfcef337b995ef9e5f71be3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a5f7ab7d347cc05673bb0f075e2328d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8a5f7ab7d347cc05673bb0f075e2328d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c1669a01345fe432bace5339df6e9b0a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c1669a01345fe432bace5339df6e9b0a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "74ad31d4a4f8abbfaa6dd464acc52d1c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/74ad31d4a4f8abbfaa6dd464acc52d1c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a005639d0336079c403fd171370b4d0a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a005639d0336079c403fd171370b4d0a/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "UNIRIO IMOBILIÁRIA",
+        "href": "/113570/unirio-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 80m²",
+        "href": "/imovel/apartamento-2-quartos-praca-seca-zona-oeste-rio-de-janeiro-com-garagem-80m2-venda-RS199000-id-2717192582/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Praça Seca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Florianópolis",
+            "streetNumber": "955",
+            "zone": "Zona Oeste"
+        }
+    }
+}

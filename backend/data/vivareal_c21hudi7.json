@@ -1,0 +1,255 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [],
+        "usableAreas": [
+            "96"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento em ótima localização próximo ao comercio( Largo Verdun) e Shopping! Composto de salão em 2 ambientes com piso frio, 2 amplos quartos bem arejados, 2 banheiros sociais com piso em cerâmica, box em acrílico, cozinha planejada com boa área de serviço, hidráulica e elétrica toda nova. Tres lances de escadas. Entrar e Morar!... 82108",
+        "title": "Vila Isabel | Apartamento 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2641504054",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20560070",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.919,
+                "approximateLon": -43.256,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Viana Drumond",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Vila Isabel",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "poisList": [
+                "BS:Ponto Final: Vila Isabel :: Linha 432",
+                "BS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "BS:Ponto final 222",
+                "BS:Ponto Final: Grajaú",
+                "BS:Ponto Final 433",
+                "TS:Ponto Final: Vila Isabel :: Linha 432",
+                "TS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "TS:Ponto Final: Grajaú",
+                "TS:Ponto Final 433",
+                "TS:Ponto final 703",
+                "CS:Padaria do Verdun",
+                "CS:Fábrica de Bolo da Vó Alzira",
+                "CS:Empório Maria Filó",
+                "CS:Jóia do Grajaú",
+                "CS:Mercado de Carnes Coração da Vila",
+                "PH:Drograrias Guanabara",
+                "PH:Farma Dez",
+                "PH:Drogaria MEP",
+                "PH:Drogaria Unidas"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "GR2AP42652",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "96"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "490",
+                "price": "350000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "480"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": []
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "8577820b7b28e1f5788cd9a9609c0fd7",
+            "url": "https://www.youtube.com/watch?v=HPc5SIUbx34",
+            "type": "VIDEO"
+        },
+        {
+            "id": "63546725045c7cc66d026201aefea3a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/63546725045c7cc66d026201aefea3a6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9a70ff7f39f354dff4100f94ec3c4425",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9a70ff7f39f354dff4100f94ec3c4425/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "caf42a4c0e5377e21f719e4a87d21ffb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/caf42a4c0e5377e21f719e4a87d21ffb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21f36c6b077f80968f08f610a235207f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21f36c6b077f80968f08f610a235207f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0564fe24ae4c88cc7d1093054e24548d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0564fe24ae4c88cc7d1093054e24548d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b82a3380e69f3d1eb611edf9efb6a508",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b82a3380e69f3d1eb611edf9efb6a508/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9bf1a8c571101969a9c1de70bafe05b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9bf1a8c571101969a9c1de70bafe05b0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a6e37fd96ada3d36b64da65d6cbf3c07",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a6e37fd96ada3d36b64da65d6cbf3c07/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9da93c342201599048381deb7f3996a9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9da93c342201599048381deb7f3996a9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c9ef2da1ddb9988a76978f93377a6765",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c9ef2da1ddb9988a76978f93377a6765/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1fbd42d6c587ae9e7aefa38eb4757af0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1fbd42d6c587ae9e7aefa38eb4757af0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d6d5bf16a54557019bbfb6b81c9ceaa2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d6d5bf16a54557019bbfb6b81c9ceaa2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd807226e4a0d148dda05f50f23f9c81",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd807226e4a0d148dda05f50f23f9c81/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c1b1fb46fcf00dc4d5302655d56d4dc6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c1b1fb46fcf00dc4d5302655d56d4dc6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dcb256876491abbbe72beea075dcbe5b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dcb256876491abbbe72beea075dcbe5b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "932f8fa360787c2e21f5820182c55610",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/932f8fa360787c2e21f5820182c55610/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "23997774e1e18820dbf0bff91258db4f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/23997774e1e18820dbf0bff91258db4f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b5c6b5735adaef1f82995e7ddcb6668d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b5c6b5735adaef1f82995e7ddcb6668d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c5c153a348368ed1b28721e80193ec5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c5c153a348368ed1b28721e80193ec5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b06600dd849ed50eb554816889762fe7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b06600dd849ed50eb554816889762fe7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3cc0da4bcdd519303664a8ed1cf4af73",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3cc0da4bcdd519303664a8ed1cf4af73/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 96m²",
+        "href": "/imovel/apartamento-2-quartos-vila-isabel-zona-norte-rio-de-janeiro-96m2-venda-RS350000-id-2641504054/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "state": "Rio de Janeiro",
+            "street": "Rua Viana Drumond",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

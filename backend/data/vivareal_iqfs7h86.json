@@ -1,0 +1,255 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "GARDEN",
+            "ELEVATOR",
+            "CONCIERGE_24H",
+            "ELECTRONIC_GATE",
+            "AMERICAN_KITCHEN"
+        ],
+        "usableAreas": [
+            "30"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Imóvel todo reformado em primeira locação! Silencioso e indevassável com vista para arvores do fundo do terreno! O piso todo em porcelanato, a cozinha gourmet com a bancada em granito, o banheiro tem amplo box com blindex! O prédio excelente com apenas 6 unidades por andar! Na mesma quadra da Estação de Metrô General Osório, acesso da rua Sá Ferreira! Maravilhoso! IPTU isento! Atualizado",
+        "title": "Kitnet/conjugado para venda com 30 metros quadrados com 1 quarto em Copacabana - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2650464541",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22071100",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "144",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.193537,
+                "source": "GOOGLE",
+                "lat": -22.981314
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Sá Ferreira",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 2: Francisco Sá",
+                "BS:BRS 1 Sá Ferreira",
+                "BS:BRS 2 Djalma Ulrich",
+                "BS:BRS 1 Miguel Lemos",
+                "BS:BRS 3 Miguel Lemos",
+                "TS:Estação 2",
+                "TS:Estação 3",
+                "TS:Estação 4",
+                "TS:Estação 5",
+                "TS:Copacabana",
+                "CS:Casa du bisçoito",
+                "CS:Lopes",
+                "CS:La Veronese",
+                "CS:Empório das Águas",
+                "CS:Planeta Água",
+                "PH:Viva Mais",
+                "PH:Farmácia Central Posto 6",
+                "PH:Prontofarma",
+                "PH:Drogaria Pop",
+                "PH:Drogaria Galanti"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "POKI10070",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "30"
+        ],
+        "advertiserId": "1c064def-36b3-1e27-2609-00b77141dd87",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "450000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "743"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2130820009"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "1c064def-36b3-1e27-2609-00b77141dd87",
+        "name": "SOIMOVEIS IMOBILIARIA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60c28213bfaee032f8b000d7046ab03c/{description}.webp",
+        "licenseNumber": "02437-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 228880,
+        "phones": {
+            "primary": "2130820009",
+            "mobile": "2130820009"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "334c2281c9c04f0c0f490534c0f0f69b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/334c2281c9c04f0c0f490534c0f0f69b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "29c91311f08a66c4f4b5cf64dc822abd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/29c91311f08a66c4f4b5cf64dc822abd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36828e2c9c4bee49e36bb4c54d137c5e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36828e2c9c4bee49e36bb4c54d137c5e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "571e166242d8468500c8f388184500ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/571e166242d8468500c8f388184500ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c801777f487a3f2e401816927d1286ba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c801777f487a3f2e401816927d1286ba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "875ac3e750eb39090d3a5b330924c18f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/875ac3e750eb39090d3a5b330924c18f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "03a6dc3a22330b9b9b93ee5b8c0086b3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/03a6dc3a22330b9b9b93ee5b8c0086b3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f1c2a89b97d2610ab075c64cd9375d5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f1c2a89b97d2610ab075c64cd9375d5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e2a958f932a208ab666b9fbcb7afb96c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e2a958f932a208ab666b9fbcb7afb96c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "634fe643e9f51bdaf3f0e1a5d26d9e1b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/634fe643e9f51bdaf3f0e1a5d26d9e1b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0b57ff3815ce698ad8981f83fd1ef034",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0b57ff3815ce698ad8981f83fd1ef034/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ebe966e5276aa0e1059b244655a5c1c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ebe966e5276aa0e1059b244655a5c1c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "15a45add1a5e13a34032060eecd6f6a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/15a45add1a5e13a34032060eecd6f6a6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "74124e28198b81710bfb24d9c904e6ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/74124e28198b81710bfb24d9c904e6ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "253387bdcdcf2e1ad916707eee931241",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/253387bdcdcf2e1ad916707eee931241/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "83fb1dabf04dccb7159977f83f058492",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/83fb1dabf04dccb7159977f83f058492/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a3bff77fdb9430be67693703e64e02b2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a3bff77fdb9430be67693703e64e02b2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b2ee578fb7ddfe55d777e26c23bb502c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b2ee578fb7ddfe55d777e26c23bb502c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1f749bbbe0e45f66f508d54c548cbf5d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1f749bbbe0e45f66f508d54c548cbf5d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6d49160eddd0aa62bcf81dce673a4ae1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6d49160eddd0aa62bcf81dce673a4ae1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "02c5d8ee3c01d3e5ea8b3c601a011e85",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/02c5d8ee3c01d3e5ea8b3c601a011e85/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SOIMOVEIS IMOBILIARIA",
+        "href": "/228880/soimoveis-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 30m²",
+        "href": "/imovel/apartamento-1-quartos-copacabana-zona-sul-rio-de-janeiro-30m2-venda-RS450000-id-2650464541/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Sá Ferreira",
+            "streetNumber": "144",
+            "zone": "Zona Sul"
+        }
+    }
+}

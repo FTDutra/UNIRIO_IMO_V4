@@ -1,0 +1,221 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "INTERCOM",
+            "SAFETY_CIRCUIT",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "30"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Anunciamos um encantador apartamento residencial de 30m² de área útil, localizado nos fundos de um prédio de fachada em argamassa, com posição que proporciona agradável iluminação matinal. Este imóvel compacto, porém aconchegante, dispõe de 1 sala e 1 dormitório, ideais para quem busca praticidade e conforto.<br><br> O condomínio oferece infraestrutura básica, com interfone, portaria, câmeras de vigilância e porteiro 24 horas, garantindo segurança e tranquilidade aos moradores. Com padrão simples, o prédio é perfeito para quem valoriza a praticidade no dia a dia.<br>-Cod:QRAP10057 -Rev.11Dez",
+        "title": "Apartamento - Padrão / Residencial / Flamengo",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2761781324",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22221000",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.925,
+                "approximateLon": -43.178,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Silveira Martins",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Flamengo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "poisList": [
+                "BS:Largo do Machado",
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "BS:Rua Monte Alegre próximo ao 342",
+                "BS:Passeio :: Linha 517",
+                "TS:Catete",
+                "TS:Silveira Martins",
+                "TS:Palácio",
+                "TS:Outeiro da Glória",
+                "TS:Russel",
+                "CS:Padaria Nova Viriato",
+                "CS:Pão Francês",
+                "CS:Padaria Catete",
+                "CS:Confeitaria Santo Amaro",
+                "CS:Sorvetes Itália",
+                "PH:Drogaria RioFarma",
+                "PH:Miliflora Farmácia de Manipulação",
+                "PH:Rio Farma",
+                "PH:Drogaria Norte e Sul",
+                "PH:Norte e Sul"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "QRAP10057",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "30"
+        ],
+        "advertiserId": "0d28c684-2d0b-a0e8-b950-f7d66e718bcb",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "price": "300000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "750"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21997173834"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21997173834",
+        "stamps": []
+    },
+    "account": {
+        "id": "0d28c684-2d0b-a0e8-b950-f7d66e718bcb",
+        "name": "Quartier Imóveis",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 847797,
+        "phones": {
+            "primary": "21997173834",
+            "mobile": "21997173834"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "3fb4f715a942e3130ad260f1d1b566c9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3fb4f715a942e3130ad260f1d1b566c9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8b3db53b0ccabf2e9a16b6f001badef8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8b3db53b0ccabf2e9a16b6f001badef8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c668f1bc7520ecc21b6028ea092c4d5e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c668f1bc7520ecc21b6028ea092c4d5e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "915ee7e8a86c67e935e1111a28fef94a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/915ee7e8a86c67e935e1111a28fef94a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d93927014616da59ea19576609bd2169",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d93927014616da59ea19576609bd2169/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fa3faeb8a793f644e6ab15e3fae87ea3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa3faeb8a793f644e6ab15e3fae87ea3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4792e811c0bfd11653dec1f01f38a181",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4792e811c0bfd11653dec1f01f38a181/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "13cc49408fd7c682684e000ec9b5f113",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/13cc49408fd7c682684e000ec9b5f113/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "409f02d3b02ac57141fbd403ea21ffa3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/409f02d3b02ac57141fbd403ea21ffa3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c2b4a7a11453273d09ccab8f13f7cad1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2b4a7a11453273d09ccab8f13f7cad1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8b4508b39976be14c493eb8a4e5aa00e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8b4508b39976be14c493eb8a4e5aa00e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f292aed86e541caba728c11e570e421",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f292aed86e541caba728c11e570e421/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e12757b63a7386e933cce300a10247ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e12757b63a7386e933cce300a10247ed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "11acc5bd4e0c6ffdcc6f4e3eabb5e9ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/11acc5bd4e0c6ffdcc6f4e3eabb5e9ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca78435505fa60d48dc78e419ee0717f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca78435505fa60d48dc78e419ee0717f/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Quartier Imóveis",
+        "href": "/847797/quartier-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 30m²",
+        "href": "/imovel/apartamento-1-quartos-flamengo-zona-sul-rio-de-janeiro-30m2-venda-RS300000-id-2761781324/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Silveira Martins",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

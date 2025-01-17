@@ -1,0 +1,210 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "SERVICE_AREA",
+            "CONCIERGE_24H",
+            "LARGE_ROOM",
+            "COPA",
+            "EMPLOYEE_DEPENDENCY"
+        ],
+        "usableAreas": [
+            "110"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apto em ponto nobre do bairro proximo ao metro, praia e todo comercio do bairro, rua silenciosa, todo virado para alfredo russel, todo claro e arejado, salão amplo em 2 ambientes, banheiro social, 3 otimos quartos sendo 1 com suite, copa cozinha, área de serviço e a dependência revertida para um outro quarto ultilizando um deles como escritorio, fácil retorno, 1 vaga na escritura e portaria 24 hrs!",
+        "title": "Apartamento para venda possui 110 m² com 3 quartos em Leblon - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2570451275",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22431003",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "1",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.223255,
+                "source": "GOOGLE",
+                "lat": -22.984655
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Bartolomeu Mitre",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Leblon",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "poisList": [
+                "BS:Ponto Final: Antero de Quental",
+                "BS:BRS 2,3 - Cupertino Durão",
+                "BS:Ponto Final: Leblon :: Ônibus Executivos",
+                "BS:BRS 1 - Rita Ludolf",
+                "BS:Metrô - Estação Alto Leblon",
+                "TS:Bartolomeu Mitre",
+                "TS:Metrô - Estação Antero de Quental",
+                "TS:Antero de Quental",
+                "TS:General Urquiza",
+                "TS:Ponto Final: Antero de Quental",
+                "CS:Talho Capixaba",
+                "CS:Rio Lisboa",
+                "CS:Patata",
+                "CS:am/pm",
+                "CS:Armazém do Café",
+                "SU:DeRose Method - Leblon",
+                "SU:Colégio Estadual Professor Antônio Maria Teixeira Filho",
+                "SU:Escola Municipal Sergio Vieira de Mello",
+                "SU:Escola Municipal George Pfisterer",
+                "SU:Classe em Cooperação Santos Anjos"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "MIAP31135",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "120"
+        ],
+        "advertiserId": "2c8bf2ad-a6ee-0863-6bc9-213974fb8196",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3996",
+                "price": "1850000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1890"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21970211619"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21970211619",
+        "stamps": []
+    },
+    "account": {
+        "id": "2c8bf2ad-a6ee-0863-6bc9-213974fb8196",
+        "name": "Meu Lar Imobiliária",
+        "licenseNumber": "58406-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 97860,
+        "phones": {
+            "primary": "21970211619",
+            "mobile": "21970211619"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "30889d8fa019a0e795644b1993b0a57f",
+            "url": "https://youtu.be/IiSl4gIaY1s?si=_dyDS88GqEH4Eg5i",
+            "type": "VIDEO"
+        },
+        {
+            "id": "85012ec9bd8eea04138ccc62d4363657",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/85012ec9bd8eea04138ccc62d4363657/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c3930fe2ec6f48780c65a3fce1a37057",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c3930fe2ec6f48780c65a3fce1a37057/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb23c1301c54a3fe8fe8aac966a79747",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb23c1301c54a3fe8fe8aac966a79747/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1bb0e360f9228d3e9bd82678ac9a51e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1bb0e360f9228d3e9bd82678ac9a51e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2a3a62fe29b5a0ce977170a6cd09e381",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a3a62fe29b5a0ce977170a6cd09e381/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fdda49c356bb1767d767e952bcbf86ba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fdda49c356bb1767d767e952bcbf86ba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ef676e5597aadb6eb1595829fe99cc8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ef676e5597aadb6eb1595829fe99cc8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8c3dc8870bc2b0e4b9bf822c85eca248",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8c3dc8870bc2b0e4b9bf822c85eca248/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9608f606a371d83928628bbab6406f64",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9608f606a371d83928628bbab6406f64/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e4f5d5091097124952ac8eabdf24a60",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e4f5d5091097124952ac8eabdf24a60/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "577002702f5e588efd68f4ae8b3dc8ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/577002702f5e588efd68f4ae8b3dc8ed/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Meu Lar Imobiliária",
+        "href": "/97860/meu-lar-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 110m²",
+        "href": "/imovel/apartamento-3-quartos-leblon-zona-sul-rio-de-janeiro-com-garagem-110m2-venda-RS1850000-id-2570451275/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Bartolomeu Mitre",
+            "streetNumber": "1",
+            "zone": "Zona Sul"
+        }
+    }
+}

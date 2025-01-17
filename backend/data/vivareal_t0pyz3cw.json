@@ -1,0 +1,226 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "INTERCOM",
+            "SAFETY_CIRCUIT",
+            "NUMBER_OF_FLOORS",
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "113"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua Barata Ribeiro, no bairro Copacabana em Rio de Janeiro. Este imóvel conta com área construída de 113m², oferecendo 3 quartos, sendo 1 suíte, 2 banheiros e 1 vaga de garagem. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apartamento 3 quartos com vaga com vista verde!",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2744968999",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22051002",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.962,
+                "approximateLon": -43.177,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Barata Ribeiro",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:Ronald de Carvalho",
+                "BS:Belfort Roxo",
+                "BS:Duvivier",
+                "BS:BRS 2 Belford Roxo",
+                "BS:Rodolfo Dantas",
+                "TS:Ronald de Carvalho",
+                "TS:Belfort Roxo",
+                "TS:Duvivier",
+                "TS:BRS 2 Belford Roxo",
+                "TS:Rodolfo Dantas",
+                "CS:Açai de gema",
+                "CS:Panificadora e Confeitaria Atlântica",
+                "CS:Copa Fish",
+                "CS:Marina",
+                "CS:Paõ & Companhia",
+                "PH:Galícia",
+                "PH:Farmácia do Leme",
+                "PH:Drogarias American",
+                "PH:Drogaria Galanti",
+                "PH:Nash"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PU4ynf5d",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "113"
+        ],
+        "advertiserId": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3376",
+                "price": "1400000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1500"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21988595427"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988595427",
+        "stamps": []
+    },
+    "account": {
+        "id": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "name": "Luccare Investimentos",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/356f29ff805ce9c2aedf37766016903e/{description}.webp",
+        "licenseNumber": "065358-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 79203,
+        "phones": {
+            "primary": "21988595427",
+            "mobile": "21988595427"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "629115193a5e0e4f4d04d22f1134f9cd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/629115193a5e0e4f4d04d22f1134f9cd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "04f2a72230c650b383876a1508a7fa12",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/04f2a72230c650b383876a1508a7fa12/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f96d7ef86aa1e13b20f220d0f4c92f03",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f96d7ef86aa1e13b20f220d0f4c92f03/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f8eab006291c9cf53adfd513925a105c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f8eab006291c9cf53adfd513925a105c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "62cc38a3832a238829f98f94c37e6501",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/62cc38a3832a238829f98f94c37e6501/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0ad5177151f9291b2fe25a628a4f37fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0ad5177151f9291b2fe25a628a4f37fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3cdf3a4b4be4bf4505129c8f30b26874",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3cdf3a4b4be4bf4505129c8f30b26874/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f24f60fa4e8601ccbc58a7bc27d469e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f24f60fa4e8601ccbc58a7bc27d469e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b8cfb11cfb7818ebf5a52f5748cf0173",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b8cfb11cfb7818ebf5a52f5748cf0173/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "293d62f4f240c31a85b16f2b50523758",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/293d62f4f240c31a85b16f2b50523758/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0b5ce707bdc10af2ac22e861d7eeb57a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0b5ce707bdc10af2ac22e861d7eeb57a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "081e7c6bca24f32d160d8a8feee245b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/081e7c6bca24f32d160d8a8feee245b5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "838e3054c65851f6e944f8e8dc901a0b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/838e3054c65851f6e944f8e8dc901a0b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c1aef2a584733a30827ac779d8497796",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c1aef2a584733a30827ac779d8497796/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "24addb4f1de4038ff3dbe6d4d836aee4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/24addb4f1de4038ff3dbe6d4d836aee4/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Luccare Investimentos",
+        "href": "/79203/luccare-investimentos/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 113m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-113m2-venda-RS1400000-id-2744968999/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Barata Ribeiro",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

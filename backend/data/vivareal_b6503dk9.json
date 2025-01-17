@@ -1,0 +1,321 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "LARGE_KITCHEN",
+            "KITCHEN_CABINETS",
+            "SERVICE_AREA",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "74"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "EXCLUSIVIDADE! Poder morar em Santa Teresa é um privilégio, lugar sossegado, bucólico, próximo ao Bairro de Fátima e Rua do Riachuelo. Fácil acesso para vasto comércio e transporte público.<br>Prédio simples com zelador em horário comercial em rua tranquila e residencial.<br>Apartamento em Santa Teresa, elétrica refeita em 2018, claro, arejado, desocupado, com 74m², composto por sala em 02 ambientes, 02 quartos, banheiro social com ventilação direta e blindex, ampla copa cozinha com armários, área de serviço separada e dependência completa.<br> f7aa2",
+        "title": "Santa Teresa | Apartamento 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2748102217",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20240012",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.917,
+                "approximateLon": -43.189,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Cardeal Dom Sebastião Leme",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Santa Teresa",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Santa Teresa",
+            "poisList": [
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "BS:Rua Monte Alegre próximo ao 342",
+                "BS:Ponto Final: Cruz Vermelha",
+                "BS:Ponto da Rua do Catumbi",
+                "BS:P28",
+                "TS:Rua Paschoal Carlos Magno próximo ao 15",
+                "TS:Rua Monte Alegre próximo ao 342",
+                "TS:Ponto Final: Cruz Vermelha",
+                "TS:Largo do Guimarães",
+                "TS:Largo dos Guimarães",
+                "CS:Fábrica de Bolo Vó Alzira",
+                "CS:Padaria Vilar Pães",
+                "CS:Padaria e Confeitaria Costa Bastos",
+                "CS:Seu Zé",
+                "CS:Cris",
+                "PH:Viva Bem",
+                "PH:Exata",
+                "PH:Drogaria Rey",
+                "PH:Drogaria Exata",
+                "PH:Drogaria Guanabara"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "SP2AP94877",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "74"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "734",
+                "price": "390000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "613"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": []
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "ab42160620105f54b1b2b1d7b47a0d02",
+            "url": "https://www.youtube.com/watch?v=2mJ3S6Baqdc",
+            "type": "VIDEO"
+        },
+        {
+            "id": "36f046d2b8e2bcd17989b4d8c0dad823",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36f046d2b8e2bcd17989b4d8c0dad823/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ea4f469d26bce19ccb4b59b4dbdf3467",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ea4f469d26bce19ccb4b59b4dbdf3467/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc1d416cb1f74d313817285b267ca502",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc1d416cb1f74d313817285b267ca502/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e6f0ff02a64bdd890025bc8d94f04f0b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e6f0ff02a64bdd890025bc8d94f04f0b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2caf5eb4d24c221f466f47feb71651ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2caf5eb4d24c221f466f47feb71651ff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "129e7643976eec5e56b3619a2dd8a35f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/129e7643976eec5e56b3619a2dd8a35f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "266fd8a92cee7c5a498861bf21be7858",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/266fd8a92cee7c5a498861bf21be7858/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e53c923b0ab90a341b69592f1bb83ebc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e53c923b0ab90a341b69592f1bb83ebc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "58171c47999eb5b36c32e28b1ed1ecfa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/58171c47999eb5b36c32e28b1ed1ecfa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5c2c6d445d0351a628fbdd9076c32f36",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5c2c6d445d0351a628fbdd9076c32f36/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e9a5f1903635fb519ed94c0a8bcd1141",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e9a5f1903635fb519ed94c0a8bcd1141/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2cca10ab982ab809db0339b645bb1fb0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2cca10ab982ab809db0339b645bb1fb0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "55e38a1b9811bf1bad5615323924414b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/55e38a1b9811bf1bad5615323924414b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a24afc05da9853a2630cea839b310bdd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a24afc05da9853a2630cea839b310bdd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "35a5f58a446b1f9b3e26f046a088c3c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/35a5f58a446b1f9b3e26f046a088c3c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cc3b4ce33053a02e4e86818c046ec3df",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cc3b4ce33053a02e4e86818c046ec3df/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb934d21dfa75407194ddd121e76017e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb934d21dfa75407194ddd121e76017e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "772e414a63886ba6eefcac42df349864",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/772e414a63886ba6eefcac42df349864/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb1f1001837951ce95cd6a1e0e0c891e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb1f1001837951ce95cd6a1e0e0c891e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8826bb94440513613e86ce4e7900bedc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8826bb94440513613e86ce4e7900bedc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1b1781d5d58140449072bd2c5ab3c068",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1b1781d5d58140449072bd2c5ab3c068/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "102f95eda40d3b9d7e24ea696eb2bf6c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/102f95eda40d3b9d7e24ea696eb2bf6c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f3de821e8c32f397a4fb70010dacdade",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f3de821e8c32f397a4fb70010dacdade/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6cefe522f3a7148129123a5468ac9a1f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6cefe522f3a7148129123a5468ac9a1f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "834d9ba7a8425b46027cf815050f68b6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/834d9ba7a8425b46027cf815050f68b6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f5f3d0cf4919b14d4961b5dd3fc2e594",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f5f3d0cf4919b14d4961b5dd3fc2e594/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "69ae9e0b3f2c140656038ad2370dd7f0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/69ae9e0b3f2c140656038ad2370dd7f0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0d2d3c6d81afc26f9a47b06ee31bdf99",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0d2d3c6d81afc26f9a47b06ee31bdf99/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9211459327a864346190cc57651687ac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9211459327a864346190cc57651687ac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e2510660629f5a6afd566c659d29e7a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e2510660629f5a6afd566c659d29e7a4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ec8cb61814df98a658ce78a4adb1c531",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ec8cb61814df98a658ce78a4adb1c531/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f8cce985638321d7326e6bde717e3b96",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f8cce985638321d7326e6bde717e3b96/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ddced5f2cbf998b49fea0a8b82513373",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ddced5f2cbf998b49fea0a8b82513373/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 74m²",
+        "href": "/imovel/apartamento-2-quartos-santa-teresa-zona-central-rio-de-janeiro-74m2-venda-RS390000-id-2748102217/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Santa Teresa",
+            "state": "Rio de Janeiro",
+            "street": "Rua Cardeal Dom Sebastião Leme",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

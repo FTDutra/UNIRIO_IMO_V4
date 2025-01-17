@@ -1,0 +1,249 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "BALCONY",
+            "GARAGE",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "HEATING",
+            "WATCHMAN",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "110"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Vendo apartamento de 110m2, são 3 quartos (1 suite) na Tijuca, próximo ao Largo da segunda-feira, próximo metro São Francisco Xavier, farto comércio, bancos, mercados, lojas e colégios.<br>São 3 quartos (1 suite) com armários planejados em 2, 2 banheiros, 2 varandas, dependência empregada com banheiro, sala em L com piso laminado, 2 vagas de garagem escrituradas e no térreo. Todas as janelas são em alumínio.<br>Condomínio com playground com brinquedos e salão de festas. <br>Portaria 24hs.",
+        "title": "Vendo apartamento com 3 quartos (1 suite), 110 m², dependências e 2 vagas de garagem na escritura.",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2724936745",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20261130",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.926,
+                "approximateLon": -43.222,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Valparaíso",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Ponto Final do 600 (Taquara)",
+                "BS:Ponto Final: Saens Peña :: Linha 601",
+                "BS:Club Municipal",
+                "BS:Saens Peña :: Integração Metrô",
+                "BS:Ponto Final: Saens Peña :: Linha 665",
+                "TS:São Francisco Xavier / Tijuca",
+                "TS:Ponto Final do 600 (Taquara)",
+                "TS:Ponto Final: Saens Peña :: Linha 601",
+                "TS:Club Municipal",
+                "TS:Afonso Pena / Tijuca",
+                "CS:Confeitaria Rita de Cássia",
+                "CS:Empório Lamego",
+                "CS:Grão de Minas",
+                "CS:Empório Mineiro Cheirin Bão",
+                "CS:Império do Pão",
+                "PH:Drograria Venâncio",
+                "PH:Farmavita",
+                "PH:Drogaria Venancio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "69367",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "110"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1210",
+                "price": "420000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1000"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "6c0d77448d573e9fb75da6e66c8be257",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c0d77448d573e9fb75da6e66c8be257/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c0fd744e4d0544f0b927a5486d591d1f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c0fd744e4d0544f0b927a5486d591d1f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4fd56664b6e5f303c0c4730b07dca9db",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4fd56664b6e5f303c0c4730b07dca9db/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5652459dcce0de9408b9d7078c1b0e8d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5652459dcce0de9408b9d7078c1b0e8d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5a1e4bee8db4ed42be1b75412b897cdc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5a1e4bee8db4ed42be1b75412b897cdc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3cd986bc45ee3cace7704647f933a10e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3cd986bc45ee3cace7704647f933a10e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a6e527d4ed3361134e682eb76a690a03",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a6e527d4ed3361134e682eb76a690a03/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "825e0d443db926d919ed108634d32707",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/825e0d443db926d919ed108634d32707/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d9050864b728801940d9e513fc8448c5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d9050864b728801940d9e513fc8448c5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "592c990812e0df13b61d015a13b87731",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/592c990812e0df13b61d015a13b87731/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "debe15789549cdd6f84c67e74350c86b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/debe15789549cdd6f84c67e74350c86b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "688efc1291a7b2ae5b3ab86c89755850",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/688efc1291a7b2ae5b3ab86c89755850/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "70b0fb61b11f17844d35f321c85d3466",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/70b0fb61b11f17844d35f321c85d3466/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cbaf85833fdbf8070361e657b8f012ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cbaf85833fdbf8070361e657b8f012ed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "39a5af97a5b105efc55a6973a7da683b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39a5af97a5b105efc55a6973a7da683b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2a3d6a5005e3b12284de3f5b0e3d2894",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a3d6a5005e3b12284de3f5b0e3d2894/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3626a0ae0e7c9daa118b8a79adf31069",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3626a0ae0e7c9daa118b8a79adf31069/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "294a996b7e7de40a6903e7b576aaffc3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/294a996b7e7de40a6903e7b576aaffc3/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 110m²",
+        "href": "/imovel/apartamento-3-quartos-tijuca-zona-norte-rio-de-janeiro-com-garagem-110m2-venda-RS420000-id-2724936745/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Valparaíso",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

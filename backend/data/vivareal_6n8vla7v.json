@@ -1,0 +1,221 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "NEAR_SCHOOL",
+            "NEAR_PUBLIC_TRANSPORT"
+        ],
+        "usableAreas": [
+            "71"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "<b>Apartamento de frente muito bem localizado.</b><br> <br>Esse apartamento recém reformado, está todo modernizado, piso em porcelanato, portas novas, possui amplos espaços com iluminação natural, boa ventilação e pé direito alto. Possui um ótima divisão, sala em dois ambientes com janelas amplas, dois quartos com uma suíte, cozinha e area de serviço com espaço único de prisma. Você estará a poucos metros de amplo parque, opções variadas de comércio e transportes.<br> <br>Os moradores tem acesso a amplo terraço com ótimo espaço para festas e convivência social.<br> <br>Não perca essa oportunidade. Documentação regular, aceitando financiamento bancário.<br> <br>Facilitamos o processo e realizamos assessoria e simulação. Agende uma visita. <br> <br>",
+        "title": "Venda Apartamento 2 quartos Cocotá Rio de Janeiro",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2669905494",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21910300",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.801,
+                "approximateLon": -43.18,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Pajuçara",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Cocota",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Cocotá",
+            "poisList": [
+                "BS:492",
+                "BS:329",
+                "BS:2344",
+                "BS:321",
+                "BS:326",
+                "TS:Cocotá",
+                "TS:492",
+                "TS:329",
+                "TS:321",
+                "TS:326",
+                "CS:Padaria X",
+                "CS:padaria",
+                "CS:AM&PM",
+                "CS:Pan Du Riz",
+                "PH:Dograrias Mais Barato",
+                "PH:Drogarias Mais Barato",
+                "PH:Drogaria Mundial"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "984892",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "71"
+        ],
+        "advertiserId": "e13f7cef-5bf6-8cfe-7f1c-983f6f1ccd47",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "81",
+                "price": "350000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "340"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2133637030",
+                "21995957030"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21995957030",
+        "stamps": []
+    },
+    "account": {
+        "id": "e13f7cef-5bf6-8cfe-7f1c-983f6f1ccd47",
+        "name": "Márcia Reis Netimóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/09f6495cbe6410de0c7718f87f8c2598/{description}.webp",
+        "licenseNumber": "007828-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 500240,
+        "phones": {
+            "primary": "2133637030",
+            "mobile": "21995957030"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "2733e2415eeb0d2e089a722a8a92e210",
+            "url": "https://www.youtube.com/watch?v=AFp8RLzWJRY",
+            "type": "VIDEO"
+        },
+        {
+            "id": "3bbc1a6fc4e38746f76f5ba6f3b648af",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3bbc1a6fc4e38746f76f5ba6f3b648af/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b79ca7d43908c869211b77cffa7eedca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b79ca7d43908c869211b77cffa7eedca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38bde9df1abe1e21017729243a7c2d9a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38bde9df1abe1e21017729243a7c2d9a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd0d51a699f21577a8d55b899b3041fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd0d51a699f21577a8d55b899b3041fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ced41e61b490af41abee18d6974aac1b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ced41e61b490af41abee18d6974aac1b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65c68281c39cd7f7eec4b81cc3fdc5fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65c68281c39cd7f7eec4b81cc3fdc5fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4bccac3ee141fcef241375e21a322e9d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4bccac3ee141fcef241375e21a322e9d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36eb2f50189e8d253dc604d8f9260887",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36eb2f50189e8d253dc604d8f9260887/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e5496cdf29d53b649a4624b590d35b5c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e5496cdf29d53b649a4624b590d35b5c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0172892986e559701d9727640e5f167d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0172892986e559701d9727640e5f167d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86a684423f088f66939dbc3ae02c9642",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86a684423f088f66939dbc3ae02c9642/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "df3cbb3648c2c1158bb5a5eda1918693",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df3cbb3648c2c1158bb5a5eda1918693/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2b1fa89e2ead75dcb4659b61734414a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b1fa89e2ead75dcb4659b61734414a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ed49cd72290f18d2e242e66635bedf3e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed49cd72290f18d2e242e66635bedf3e/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Márcia Reis Netimóveis",
+        "href": "/500240/marcia-reis-netimoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 71m²",
+        "href": "/imovel/apartamento-2-quartos-cocota-zona-norte-rio-de-janeiro-com-garagem-71m2-venda-RS350000-id-2669905494/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Cocotá",
+            "state": "Rio de Janeiro",
+            "street": "Rua Pajuçara",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

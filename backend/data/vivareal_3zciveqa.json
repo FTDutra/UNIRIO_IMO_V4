@@ -1,0 +1,230 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELECTRONIC_GATE",
+            "ELEVATOR",
+            "AIR_CONDITIONING",
+            "PETS_ALLOWED",
+            "GATED_COMMUNITY"
+        ],
+        "usableAreas": [
+            "69"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento lindo composto, 2 quartos, sala, cozinha, área externa (jardim de inverno) e banheiro. Todo reformado com janelas anti-ruído. Porcelanato no chão e nas paredes, Teto rebaixado. Banheiro em porcelanato no piso e nas paredes, a pia em mármore prime, box blindex. Em um dos quartos armário de vidro. Cozinha toda reformada com armários planejados e o armário da pia com fechamento de vidro. Todas as dobradiças novas. Porta nova. Todas as janelas foram trocadas.<br>OBS: NÚMERO DE ENDEREÇO APROXIMADO.",
+        "title": "Apartamento para venda possui 69 metros quadrados com 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2721422870",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20261243",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "392",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.2101,
+                "source": "GOOGLE",
+                "lat": -22.92113
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Paulo de Frontin",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Rio Comprido",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Rio Comprido",
+            "poisList": [
+                "BS:Club Municipal",
+                "BS:Ponto Final: Praça da Bandeira :: Linha 624",
+                "BS:Ponto Final do 600 (Taquara)",
+                "BS:Ponto Final: Saens Peña :: Linha 601",
+                "BS:Laura de Araújo",
+                "TS:Ponto de Mototáxi",
+                "TS:Club Municipal",
+                "TS:Afonso Pena / Tijuca",
+                "TS:Afonso Pena",
+                "TS:Estácio",
+                "CS:Grão de Minas",
+                "CS:Empório Mineiro Cheirin Bão",
+                "CS:Império do Pão",
+                "CS:Americanas Express",
+                "CS:Confeitaria Rita de Cássia",
+                "PH:Farmavita"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "MBAP27836",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "69"
+        ],
+        "advertiserId": "389c32ae-d0fe-84f2-5fb6-bdb9645da201",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "425000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "680"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122047000",
+                "21994033825"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21994033825",
+        "stamps": []
+    },
+    "account": {
+        "id": "389c32ae-d0fe-84f2-5fb6-bdb9645da201",
+        "name": "RJC IMOBILIÁRIA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82c4683131e146314b54c3710d313a85/{description}.webp",
+        "licenseNumber": "043388-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 232020,
+        "phones": {
+            "primary": "2122047000",
+            "mobile": "21994033825"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "bbd9dc567b9d9fab1978b51c52d190d2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bbd9dc567b9d9fab1978b51c52d190d2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3be9c408e6fb5329a94dc7aac20e829b",
+            "url": "https://youtu.be/71SXcuv3hjM",
+            "type": "VIDEO"
+        },
+        {
+            "id": "3a74c4525f3bc2ed2f91d686549616b7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a74c4525f3bc2ed2f91d686549616b7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4da2895ba6c53778c6f6ac643cce0d85",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4da2895ba6c53778c6f6ac643cce0d85/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "40f47a3c9986c3ab94b00b79d25c632f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40f47a3c9986c3ab94b00b79d25c632f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1ab854b96627e2d74b6cb9edcb5946f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1ab854b96627e2d74b6cb9edcb5946f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e024f08786264bd08faf760628e67780",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e024f08786264bd08faf760628e67780/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "157096d230a0d81832c1425fbdbb3a7f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/157096d230a0d81832c1425fbdbb3a7f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc6d4aea89c038c7bbafda6a39a73df9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc6d4aea89c038c7bbafda6a39a73df9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6084c3883939a92d49711a92b814e3bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6084c3883939a92d49711a92b814e3bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5d31e8c2d1ff8081e0a84aaa18c6f56a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5d31e8c2d1ff8081e0a84aaa18c6f56a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f6bc6ee433647d802910f2c7826c8af8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f6bc6ee433647d802910f2c7826c8af8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1fd9d9786454cf365dad70360100f2a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1fd9d9786454cf365dad70360100f2a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5fa91218985355561f8f1ab6726c6354",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5fa91218985355561f8f1ab6726c6354/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ee51d571cd63d3d6776287ee4d00bc49",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ee51d571cd63d3d6776287ee4d00bc49/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2c524f9e5fb3ec19fa0201637512074f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c524f9e5fb3ec19fa0201637512074f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eacfb9c6a38a61494cbc2d3d68b67a0c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eacfb9c6a38a61494cbc2d3d68b67a0c/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "RJC IMOBILIÁRIA",
+        "href": "/232020/rjc-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 69m²",
+        "href": "/imovel/apartamento-2-quartos-rio-comprido-zona-central-rio-de-janeiro-com-garagem-69m2-venda-RS425000-id-2721422870/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Rio Comprido",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Paulo de Frontin",
+            "streetNumber": "392",
+            "zone": "Zona Central"
+        }
+    }
+}

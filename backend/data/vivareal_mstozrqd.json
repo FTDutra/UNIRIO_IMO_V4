@@ -1,0 +1,195 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "GARAGE",
+            "GARDEN",
+            "KITCHEN",
+            "INTERCOM",
+            "HEATING"
+        ],
+        "usableAreas": [
+            "100"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Privilégio Imóveis vende:",
+        "title": "Sala, 2 quartos, dependências completas, 1 vaga na escritura",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2664216469",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20241264",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.933,
+                "approximateLon": -43.198,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Almirante Alexandrino",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Santa Teresa",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Santa Teresa",
+            "poisList": [
+                "BS:Rua Cosme Velho, 433",
+                "BS:Rua das Laranjeiras, 336",
+                "BS:Rua Monte Alegre próximo ao 342",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "BS:Ponto da Rua do Catumbi",
+                "TS:Largo do França",
+                "TS:Vista Alegre",
+                "TS:Rua Cosme Velho, 433",
+                "TS:Funicular RioArte",
+                "TS:Cosme Velho",
+                "CS:Cereal",
+                "CS:Padaria da Chácara",
+                "CS:Padaria do Raphael",
+                "CS:Conflor",
+                "CS:Panificação Aliança",
+                "PH:RIC",
+                "PH:Farmácia Pinheiro Machado",
+                "PH:Farmácia Assunção",
+                "PH:drogarias tambaú",
+                "PH:Bioderme"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "59621",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "100"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1130",
+                "price": "690000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1200"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "cca4a207cd1115d239bdf1cbc13265ec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cca4a207cd1115d239bdf1cbc13265ec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a30ebc468c1328be2feb59e90cacca54",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a30ebc468c1328be2feb59e90cacca54/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "74a9c0bd28e4d5ed65bd3af79bc275c1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/74a9c0bd28e4d5ed65bd3af79bc275c1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8da5a1f7b55c883c5930e164b8f41ebe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8da5a1f7b55c883c5930e164b8f41ebe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "640add250004d068297ab89e21f57b2d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/640add250004d068297ab89e21f57b2d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7156079ed62a4bdc3371800b8fbf8aa4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7156079ed62a4bdc3371800b8fbf8aa4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd03599edf54e4b1c8e1f346d6853367",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd03599edf54e4b1c8e1f346d6853367/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8ee0f1c94126f94edbefbaf3ca99d945",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8ee0f1c94126f94edbefbaf3ca99d945/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 100m²",
+        "href": "/imovel/apartamento-2-quartos-santa-teresa-zona-central-rio-de-janeiro-com-garagem-100m2-venda-RS690000-id-2664216469/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Santa Teresa",
+            "state": "Rio de Janeiro",
+            "street": "Rua Almirante Alexandrino",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

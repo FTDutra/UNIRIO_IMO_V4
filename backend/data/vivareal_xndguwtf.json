@@ -1,0 +1,205 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "INTERCOM",
+            "PARTY_HALL",
+            "BARBECUE_GRILL",
+            "SAFETY_CIRCUIT",
+            "PETS_ALLOWED"
+        ],
+        "usableAreas": [
+            "43"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento SEMINOVO no condomínio Recanto do Pontal, Pontal Oceãnico, no Recreio dos Bandeirantes conta com:<br><br> 3º andar (2 lances de escada) 2 quartos Sala integrada com cozinha Banheiro com box blindex Piso laminado<br><br> 1 vaga - rotativo (vagas limitadas)<br><br> Condomínio conta com:<br><br> Portaria 24 horas Salão de festas e churrasqueira Área kids O prédio não conta com elevador<br>-Cod:RJAP20621 -Rev.11Dez",
+        "title": "Apartamento - Padrão / Residencial / Vargem Grande",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2737380915",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790883",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.019,
+                "approximateLon": -43.512,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Teixeira Heizer",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Piabas :: Linha 554",
+                "TS:Ponto Final: Piabas :: Linha 554",
+                "PH:Drogaria Pontal",
+                "SU:Escola Municipal Professor Jurandir Paes Leme"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "RJAP20621",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "43"
+        ],
+        "advertiserId": "d770068f-1369-e5c5-3383-4ec98c9e204d",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "967",
+                "price": "360000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "317"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21981151999"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21981151999",
+        "stamps": []
+    },
+    "account": {
+        "id": "d770068f-1369-e5c5-3383-4ec98c9e204d",
+        "name": "Berge & Brokers Imobiliária",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/07539192ee9f56ac82a5084506f9446d/{description}.webp",
+        "licenseNumber": "08597-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 437439,
+        "phones": {
+            "primary": "21981151999",
+            "mobile": "21981151999"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "cad5c0e689022d9d5df8902f7ace815e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cad5c0e689022d9d5df8902f7ace815e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2a25c5c40fc5ac2ac6f8bc76ac517a3c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a25c5c40fc5ac2ac6f8bc76ac517a3c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cc01c355015f3e56ae67d9a8958f76ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cc01c355015f3e56ae67d9a8958f76ff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d46e41e90d9c52c408c506164078bb8d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d46e41e90d9c52c408c506164078bb8d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9fa2ede900266ec40431ab975a4c2ba4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9fa2ede900266ec40431ab975a4c2ba4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "673d81289be47741c121512baa407466",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/673d81289be47741c121512baa407466/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7c17820f6948d848edf8d7c9e3baef5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7c17820f6948d848edf8d7c9e3baef5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "272a79445d1edf5a038e5c29b2cb1b81",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/272a79445d1edf5a038e5c29b2cb1b81/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0b67bee02a2941de2001ec1951054a3a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0b67bee02a2941de2001ec1951054a3a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe78857ad9d9659eb9e81325d4f93392",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe78857ad9d9659eb9e81325d4f93392/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8c25da4678b7023865204e945de02d6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8c25da4678b7023865204e945de02d6e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e3f55235b11330af930650f648bdc6b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e3f55235b11330af930650f648bdc6b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "593c12a998583e64f8087b03b06136ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/593c12a998583e64f8087b03b06136ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "412554007093f5b14a74be791892005a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/412554007093f5b14a74be791892005a/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Berge & Brokers Imobiliária",
+        "href": "/437439/berge-brokers-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 43m²",
+        "href": "/imovel/apartamento-2-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-43m2-venda-RS360000-id-2737380915/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Teixeira Heizer",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

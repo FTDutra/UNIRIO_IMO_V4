@@ -1,0 +1,233 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR"
+        ],
+        "usableAreas": [
+            "93"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento com varanda em rua tranquila no Humaitá. Se divide em sala em dois ambientes integrada a varanda, dois quartos sendo uma suíte, banheiro social, copa-cozinha e área de serviço com dependência completa. Prédio com infraestrutura de lazer, circuito interno de TV e uma vaga na escritura.<br> (Atualizado em: . Veja outros imóveis em nosso site: farinelli.com.br)",
+        "title": "Apartamento com varanda em rua tranquila no Humaitá.",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2684192046",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22271080",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.958,
+                "approximateLon": -43.198,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Macedo Sobrinho",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Humaita",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Humaitá",
+            "poisList": [
+                "BS:Humaitá",
+                "BS:Cobal do Humaitá",
+                "BS:Cobal",
+                "BS:Maria Angélica",
+                "BS:BRS 3: Sorocaba",
+                "TS:Humaitá",
+                "TS:Cobal do Humaitá",
+                "TS:Cobal",
+                "TS:Maria Angélica",
+                "TS:Morro do Inglês",
+                "CS:Mercado Humaitá",
+                "CS:Do Conde",
+                "CS:Farinha Pura",
+                "CS:TECNOMEDI BOTAFOGO",
+                "CS:Casa Imperial",
+                "PH:Minipreço",
+                "PH:Ypiranga",
+                "PH:Caminhoá",
+                "PH:Bio Mundo",
+                "PH:Nash"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "10944",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "93"
+        ],
+        "advertiserId": "7c67123f-4f53-936a-04fc-9ea3e3a2bb09",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "403",
+                "price": "1175000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1500"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2121430303",
+                "21964648447"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964648447",
+        "stamps": []
+    },
+    "account": {
+        "id": "7c67123f-4f53-936a-04fc-9ea3e3a2bb09",
+        "name": "Farinelli Imobiliária Boutique",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fee7904892fcdc4f41836b1e361a0603/{description}.webp",
+        "licenseNumber": "06716-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 103641,
+        "phones": {
+            "primary": "2121430303",
+            "mobile": "21964648447"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "21b67244c789ee31b45e83ba2de17249",
+            "url": "https://www.youtube.com/watch?v=E3ZayQfAVs0",
+            "type": "VIDEO"
+        },
+        {
+            "id": "ed92fabef0932bcad73d55d4facc610a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed92fabef0932bcad73d55d4facc610a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "692efbe81b3a61877dd65dca15c27c30",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/692efbe81b3a61877dd65dca15c27c30/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bf47bdf7b0030094309c44479923e95a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bf47bdf7b0030094309c44479923e95a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "139a00b29fb6f8688462e278ed6f77a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/139a00b29fb6f8688462e278ed6f77a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9d5f6ede9e87d2c31162113b9ba50023",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9d5f6ede9e87d2c31162113b9ba50023/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bbe6de2de438bc93ef5e7e286a069fd6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bbe6de2de438bc93ef5e7e286a069fd6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b306f7895091ef2610415b0b1daf4dc4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b306f7895091ef2610415b0b1daf4dc4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "78207f5f2e7f6e6e8c3f9ab098a77592",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/78207f5f2e7f6e6e8c3f9ab098a77592/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a304da83062635ba60d6c1f596d43785",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a304da83062635ba60d6c1f596d43785/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2c2f05991e7784a41c958b986680eb1d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c2f05991e7784a41c958b986680eb1d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fc4cddea3bbd3dd6a3801373fbac5f01",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fc4cddea3bbd3dd6a3801373fbac5f01/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bab451b53116339630dbcc685acfec6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bab451b53116339630dbcc685acfec6e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "504a509753a568433382cbe9c8ed3821",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/504a509753a568433382cbe9c8ed3821/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "63060fcd1a33e87245820c26624aa3de",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/63060fcd1a33e87245820c26624aa3de/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "876f647bec8bad452d886948bc6fc2ce",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/876f647bec8bad452d886948bc6fc2ce/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "27f66e460c13c0ee00aca658d99f39a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/27f66e460c13c0ee00aca658d99f39a6/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Farinelli Imobiliária Boutique",
+        "href": "/103641/farinelli-imobiliaria-boutique/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 93m²",
+        "href": "/imovel/apartamento-2-quartos-humaita-zona-sul-rio-de-janeiro-com-garagem-93m2-venda-RS1175000-id-2684192046/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Humaitá",
+            "state": "Rio de Janeiro",
+            "street": "Rua Macedo Sobrinho",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

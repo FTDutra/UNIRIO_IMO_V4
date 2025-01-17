@@ -1,0 +1,196 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "INTERCOM",
+            "SERVICE_AREA",
+            "ELEVATOR",
+            "CABLE_TV",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "47"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Localizado no coração de Rocha Miranda, este apartamento no 2º andar com elevador é a opção perfeita para você que busca conforto e praticidade!<br><br>Preço: R$ 179.999,00<br><br>Características do imóvel:<br><br>2 Quartos espaçosos<br>Cozinha com armários, arejada e funcional<br>Sala ampla para o seu conforto<br>Banheiro moderno e bem distribuído<br>Primeira locação, pronto para morar!<br>Agende sua visita e garanta já o seu novo lar!<br><br>Não perca essa chance única de morar em um imóvel novo por um preço super acessível. Entre em contato para mais informações! -",
+        "title": "Localizado no coração de Rocha Miranda, este apartamento no 2º andar com elevador é a opção perfeita",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2760932314",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21540500",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "484",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.345891,
+                "source": "GOOGLE",
+                "lat": -22.851263
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Estrada do Barro Vermelho",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Rocha Miranda",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Rocha Miranda",
+            "poisList": [
+                "BS:Linha 277 Rocha Miranda >> Praça XV",
+                "BS:Ponto Final da linha: 711 - Rocha Miranda x Rio Comprido",
+                "BS:BRT de Vaz Lobo",
+                "BS:Vaz Lobo",
+                "BS:Ponto de Onibus da Vila Nova",
+                "TS:Rocha Miranda",
+                "TS:Honório Gurgel",
+                "TS:Linha 277 Rocha Miranda >> Praça XV",
+                "TS:Estrada do Barro Vermelho",
+                "TS:Ponto Final da linha: 711 - Rocha Miranda x Rio Comprido",
+                "CS:Mercearia Lageado",
+                "CS:Padaria do Bené",
+                "CS:Cestão da Economia",
+                "CS:Bom Preço",
+                "PH:Drogaria My Farma | Farmácia Online - RJ",
+                "PH:Ofertão"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0312",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "47"
+        ],
+        "advertiserId": "47d91198-998f-32c4-c76c-8a72031a45e5",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "190000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21979616169"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21979616169",
+        "stamps": []
+    },
+    "account": {
+        "id": "47d91198-998f-32c4-c76c-8a72031a45e5",
+        "name": "CARVALHO TORRES CONSULTORIA E NEGOCIOS IMOBILIARIOS LTDA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39c4d63c7fc886250e715a72b0eb4979/{description}.webp",
+        "licenseNumber": "008323-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 96144,
+        "phones": {
+            "primary": "21979616169",
+            "mobile": "21979616169"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "c2faf1157577cd9ea8c2ee0ee087ba94",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2faf1157577cd9ea8c2ee0ee087ba94/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b180e551b6ee0780665228d390f60edf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b180e551b6ee0780665228d390f60edf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c5bb87e5d94a98acfd47a444c06f684",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c5bb87e5d94a98acfd47a444c06f684/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "083972e3ef3dc1897cb4293bded7b977",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/083972e3ef3dc1897cb4293bded7b977/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "23d36848de8ee902c6836bae6a4402a7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/23d36848de8ee902c6836bae6a4402a7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fa64d8e93cabe747db1c67002f18217c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa64d8e93cabe747db1c67002f18217c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "63621b950102f8aa0a4ab4a4acdca04c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/63621b950102f8aa0a4ab4a4acdca04c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6e29806def89f89af83fc54651606bbd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6e29806def89f89af83fc54651606bbd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "af1a97c40319d9dd94b50730a9c687d2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/af1a97c40319d9dd94b50730a9c687d2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e98ee699baf444cec74d274498d8bd8b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e98ee699baf444cec74d274498d8bd8b/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "CARVALHO TORRES CONSULTORIA E NEGOCIOS IMOBILIARIOS LTDA",
+        "href": "/96144/carvalho-torres-consultoria-e-negocios-imobiliarios-ltda/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 47m²",
+        "href": "/imovel/apartamento-2-quartos-rocha-miranda-zona-norte-rio-de-janeiro-com-garagem-47m2-venda-RS190000-id-2760932314/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Rocha Miranda",
+            "state": "Rio de Janeiro",
+            "street": "Estrada do Barro Vermelho",
+            "streetNumber": "484",
+            "zone": "Zona Norte"
+        }
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "listing": {
+        "displayAddressType": "NEIGHBORHOOD",
+        "amenities": [],
+        "usableAreas": [
+            "62"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Grajaú 5 minutos a pé do Shopping Rua N. S. de Lourdes. <br> Excelente apartamento de sala e quarto. Piso taco com sinteco novo e pintura nova. <br> Ótima sala com 2 ambientes e uma ampla cozinha. <br> Dependência revertida. Não tem vaga de garagem. <br> Tem bicicletário. <br> Apartamento desocupado. Pronto para morar. Aceita se financiamento bancário. <br> Venda R$ 289.000,00 Condomínio R$ 372,00 IPTU R$ 63,70 Os preços e taxas podem sofrer alteração sem aviso prévio <br>",
+        "title": "Apartamento em Grajau - Rio de Janeiro",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2759424159",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20540370",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.921,
+                "approximateLon": -43.255,
+                "radius": 250
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Grajau",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Grajaú",
+            "poisList": [
+                "BS:Ponto Final: Vila Isabel :: Linha 432",
+                "BS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "BS:Ponto final 222",
+                "BS:Ponto Final 605",
+                "BS:Ponto Final: Grajaú",
+                "TS:Ponto Final: Vila Isabel :: Linha 432",
+                "TS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "TS:Ponto Final 605",
+                "TS:Ponto Final: Grajaú",
+                "TS:Ponto Final 433",
+                "CS:Padaria do Verdun",
+                "CS:Fábrica de Bolo da Vó Alzira",
+                "CS:Empório Maria Filó",
+                "CS:Afagá Confeitaria Brasileira",
+                "CS:Mercado de Carnes Coração da Vila",
+                "PH:Drograrias Guanabara",
+                "PH:Farma Dez",
+                "PH:Drogaria Unidas",
+                "PH:FarmaDez",
+                "PH:Drogarias Mundial"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "49",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "62"
+        ],
+        "advertiserId": "6cf519df-ae8f-92a2-1f50-5f16be72960b",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "63",
+                "price": "289000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "372"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21995463679",
+                "21995409741"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21995409741",
+        "stamps": []
+    },
+    "account": {
+        "id": "6cf519df-ae8f-92a2-1f50-5f16be72960b",
+        "name": "ADMINISTRADORA SION LTDA-ME",
+        "licenseNumber": "00328-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 228860,
+        "phones": {
+            "primary": "21995463679",
+            "mobile": "21995409741"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "f8684cec585af7ec7eff14d5e8c0b270",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f8684cec585af7ec7eff14d5e8c0b270/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bbf0bfa0a26e31ba5640393850c67be0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bbf0bfa0a26e31ba5640393850c67be0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1ec47e69e3a77355b8cbbb423a2d51b2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1ec47e69e3a77355b8cbbb423a2d51b2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "88e427fbbb40f36d67d763b2029b6afe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/88e427fbbb40f36d67d763b2029b6afe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "015f6af038f6fe1d9e3f2a5a3d8c0e6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/015f6af038f6fe1d9e3f2a5a3d8c0e6e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c7225dca1c937b4c79ffa1d97930a2b2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c7225dca1c937b4c79ffa1d97930a2b2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f378ba3e6b743e39e21354e7b276960",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f378ba3e6b743e39e21354e7b276960/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6621d49ea1535d979696409b67c63f26",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6621d49ea1535d979696409b67c63f26/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "093bd94b6986cc33cde5f60fa1cf4922",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/093bd94b6986cc33cde5f60fa1cf4922/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cff59dfb7a7139ba8f0b2cdbc33841d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cff59dfb7a7139ba8f0b2cdbc33841d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "43ec447fc394fa674ec1515c5515402f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/43ec447fc394fa674ec1515c5515402f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4106d1dfd3b319338ddb4a8d1b62aebb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4106d1dfd3b319338ddb4a8d1b62aebb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f4e461f7bfc54295ad87891880fa07f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f4e461f7bfc54295ad87891880fa07f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "acc1a3db40a94099e4f66d72a4fc9809",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/acc1a3db40a94099e4f66d72a4fc9809/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "ADMINISTRADORA SION LTDA-ME",
+        "href": "/228860/administradora-sion-ltda-me/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 62m²",
+        "href": "/imovel/apartamento-1-quartos-grajau-zona-norte-rio-de-janeiro-62m2-venda-RS289000-id-2759424159/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Grajaú",
+            "state": "Rio de Janeiro",
+            "street": "",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

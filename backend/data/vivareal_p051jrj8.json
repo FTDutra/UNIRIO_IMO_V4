@@ -1,0 +1,299 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "INTERCOM",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "50"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "DNA Imóveis vende: Apartamento de 1 quarto a venda no Humaitá. Ótima oportunidade de adquirir um apartamento bem localizado e totalmente renovado, com um design de interiores feito por um arquiteto. Este imóvel está pronto para morar, desfrutando de uma vista desobstruída e ensolarada durante a manhã. A espaçosa sala oferece uma vista agradável para áreas verdes, proporcionando muita luminosidade e ventilação natural. O banheiro também passou por uma reforma completa e inclui um box de vidro temperado. A cozinha é ampla e possui armários planejados, enquanto a área de serviço é igualmente espaçosa. O quarto é muito generoso em tamanho. O prédio é bem administrado, conta com elevadores espaçosos e segurança 24 horas na portaria.<br>-Cod:NBAP11022-NBHT -Rev.11Dez",
+        "title": "Apartamento - Padrão / Residencial / Humaitá",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2758367021",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22260210",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.953,
+                "approximateLon": -43.197,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Largo dos Leões",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Humaita",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Humaitá",
+            "poisList": [
+                "BS:Cobal",
+                "BS:Cobal do Humaitá",
+                "BS:BRS 3: Sorocaba",
+                "BS:Humaitá",
+                "BS:Maria Angélica",
+                "TS:Cobal",
+                "TS:Cobal do Humaitá",
+                "TS:Humaitá",
+                "TS:Morro do Inglês",
+                "TS:Maria Angélica",
+                "CS:Farinha Pura",
+                "CS:TECNOMEDI BOTAFOGO",
+                "CS:Mercado Humaitá",
+                "CS:Casa Imperial",
+                "CS:Do Conde",
+                "PH:Ypiranga",
+                "PH:Minipreço",
+                "PH:Caminhoá",
+                "PH:Bio Mundo",
+                "PH:Poubel"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "SUPER_PREMIUM",
+        "externalId": "NBAP11022-NBHT",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "50"
+        ],
+        "advertiserId": "bb2c8fc3-812d-4f47-6d73-aa18def86426",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1200",
+                "price": "650000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "950"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21992817455"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21992817455",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "bb2c8fc3-812d-4f47-6d73-aa18def86426",
+        "name": "DNA IMOVEIS HUMAITÁ",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ccc5f40f2e44a358b1b386ea7da16c9d/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 848241,
+        "phones": {
+            "primary": "21992817455",
+            "mobile": "21992817455"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "453a1481bbb3522e5a54f4353c352279",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/453a1481bbb3522e5a54f4353c352279/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b64433b583027bc0811cd1a8bebde2c2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b64433b583027bc0811cd1a8bebde2c2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a3f52c81f10ddbcfc7a919a1ad71e0c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a3f52c81f10ddbcfc7a919a1ad71e0c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2b963ae34ea22082aaa48e292ba09bc3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b963ae34ea22082aaa48e292ba09bc3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b790fd2ae5e9d21abb47179a72cf4bb0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b790fd2ae5e9d21abb47179a72cf4bb0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1edcfdea1be4ec9edb7e3193d17421a9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1edcfdea1be4ec9edb7e3193d17421a9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9a60a32bc1ac19060ad24abdeb65906",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9a60a32bc1ac19060ad24abdeb65906/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e4687234329c3e3770657ec0addace3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e4687234329c3e3770657ec0addace3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e75ccff06af42321fb3719a9084b0dc1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e75ccff06af42321fb3719a9084b0dc1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "06fdc58631eccff9770a52d7d11d843f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/06fdc58631eccff9770a52d7d11d843f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f915a223bfcba784548ce3a751705068",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f915a223bfcba784548ce3a751705068/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "05ff41c1042abf3fb6860b3d771c3f57",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/05ff41c1042abf3fb6860b3d771c3f57/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7fc3dcb3b96d586f4fb581b4fa642ebf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7fc3dcb3b96d586f4fb581b4fa642ebf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf309e3c04dcf7299373f68a0d5de0b3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf309e3c04dcf7299373f68a0d5de0b3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "abd8a34d0f8450f7f9905b03e3bcb1d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/abd8a34d0f8450f7f9905b03e3bcb1d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8b6348bb0d12c8ac9ac3fc9159d49e91",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8b6348bb0d12c8ac9ac3fc9159d49e91/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3b8ecceac4307c5bcc9d420fd35e6da0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b8ecceac4307c5bcc9d420fd35e6da0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "428e1cd812edb32f7d75f78df53cf214",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/428e1cd812edb32f7d75f78df53cf214/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a943b2254211e23deacfcbf148740191",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a943b2254211e23deacfcbf148740191/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "468c8984fcb9a18964949383074ae350",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/468c8984fcb9a18964949383074ae350/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa34cfad3d929f5837f2765973d26b3d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa34cfad3d929f5837f2765973d26b3d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3fb291cae9b4ede9f600dbc94d580fc8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3fb291cae9b4ede9f600dbc94d580fc8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8eaed177360c6746cfa1913e44641b3b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8eaed177360c6746cfa1913e44641b3b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e98e938366ea189600deba0982823f1a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e98e938366ea189600deba0982823f1a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f7b4287cf9b0f9227412a92abdfc748",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f7b4287cf9b0f9227412a92abdfc748/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a8b444f52d18160dba7139f127c5e3ab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a8b444f52d18160dba7139f127c5e3ab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c37a59f7b6b0ec586089c34a80296d34",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c37a59f7b6b0ec586089c34a80296d34/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "64f4b22980f8e0102a62f2cea6251f2a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/64f4b22980f8e0102a62f2cea6251f2a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1be857a08a0ee82fff887e3cb8e66dbb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1be857a08a0ee82fff887e3cb8e66dbb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "54ff361234f144ffd10bf0073c0d6d02",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/54ff361234f144ffd10bf0073c0d6d02/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "DNA IMOVEIS HUMAITÁ",
+        "href": "/848241/dna-imoveis-humaita/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 50m²",
+        "href": "/imovel/apartamento-1-quartos-humaita-zona-sul-rio-de-janeiro-50m2-venda-RS650000-id-2758367021/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Humaitá",
+            "state": "Rio de Janeiro",
+            "street": "Largo dos Leões",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

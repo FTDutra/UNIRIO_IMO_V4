@@ -1,0 +1,237 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "SERVICE_AREA",
+            "KITCHEN",
+            "BUILTIN_WARDROBE",
+            "KITCHEN_CABINETS",
+            "ELEVATOR"
+        ],
+        "usableAreas": [
+            "106"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "APARTAMENTO 3 QUARTOS Á VENDA - EXCELENTE IMÒVEL, ORIGINAL TRÊS QUARTOS TRANSFORMADO EM DOIS QUARTOS, LOCALIZAÇÃO PRIVILEGIADA, BUCÓLICA, JUNTO AO PARQUE LAGE, CLUBE MILITAR, LAGOA RODRIGO DE FREITAS E A HIPICA. EXCELENTE APARTAMENTO ORIGINAL DE TRÊS QURTOS TRANSFORMADO EM DOIS QUARTOS, POSSIBILIDADE DO USO DA LAGE PRA AMPLIAR O IMÓVEL TRANSFORMANDO-O EM COBERTURA DE 212M², HOJE COMPOSTO DE SALÃO, DOIS QUARTOS COM POSSIBILIDADE DE SUÍTE E ARMÁRIO EMBUTIDO, BANHEIRO SOCIAL, COZINHA COM ARMÁRIOS, ÁREA DE SERVIÇO E DEPENDÊNCIAS COMPLETAS DE EMPREGADOS. 843e0",
+        "title": "Jardim Botânico | Apartamento 3 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2758624220",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22461000",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.961,
+                "approximateLon": -43.213,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Jardim Botânico",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Jardim Botanico",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "poisList": [
+                "BS:Hospital da Lagoa",
+                "BS:Jardim Botânico",
+                "BS:Maria Angélica",
+                "BS:Humaitá",
+                "BS:Baixo Gávea",
+                "TS:Hospital da Lagoa",
+                "TS:Maria Angélica",
+                "TS:Humaitá",
+                "TS:Paineiras",
+                "TS:Cobal do Humaitá",
+                "CS:Vitória Régia",
+                "CS:A Padaria - Café Et Marché",
+                "CS:Panificação Lagoa",
+                "CS:La Bicyclette",
+                "CS:Bastarda",
+                "PH:Padrão",
+                "PH:Ric",
+                "PH:Minipreço"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "IP3AP104199",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "106"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3629",
+                "price": "1100000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "430"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "aa4887c7b9537b81a080bf3ca4f7ca8b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa4887c7b9537b81a080bf3ca4f7ca8b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c524220b16e3bde2c6f0d9cc68059046",
+            "url": "https://www.youtube.com/watch?v=KyH6se6BJ68",
+            "type": "VIDEO"
+        },
+        {
+            "id": "af6f6c603e6409dfe555582e47cb6c7d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/af6f6c603e6409dfe555582e47cb6c7d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "df1d69887d211969384b34065fda2dc7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df1d69887d211969384b34065fda2dc7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b32c1f1397bf8b5718568cc3d336f3e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b32c1f1397bf8b5718568cc3d336f3e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d28c8256e6567bb897f26303e758575b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d28c8256e6567bb897f26303e758575b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3183317f10286797466e97b2d08ed392",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3183317f10286797466e97b2d08ed392/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36bab5a5684e059fb6648cfc1d3157ec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36bab5a5684e059fb6648cfc1d3157ec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "189f14dd1d65faa5257291ec750cb25b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/189f14dd1d65faa5257291ec750cb25b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d2845aa1d0bc2d2e9a46dff871571cee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d2845aa1d0bc2d2e9a46dff871571cee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc114d63bd61c7c2e4b8db1756e814e2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc114d63bd61c7c2e4b8db1756e814e2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e4c8a9368c4cce44f96d9bbfcabdf371",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e4c8a9368c4cce44f96d9bbfcabdf371/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "03e9456637686297d16d107a5f1d2dbc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/03e9456637686297d16d107a5f1d2dbc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e9dbca3127e5c935d56d148e0e172bef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e9dbca3127e5c935d56d148e0e172bef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42ca1ac3c4a2e98ca77bf01e8a71a67f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42ca1ac3c4a2e98ca77bf01e8a71a67f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a1035ad5cb234a98ec02b40d8481543a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a1035ad5cb234a98ec02b40d8481543a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc032b3901bfbe710ed8a783f02b56b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc032b3901bfbe710ed8a783f02b56b4/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 106m²",
+        "href": "/imovel/apartamento-3-quartos-jardim-botanico-zona-sul-rio-de-janeiro-106m2-venda-RS1100000-id-2758624220/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "state": "Rio de Janeiro",
+            "street": "Rua Jardim Botânico",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

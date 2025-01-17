@@ -1,0 +1,270 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "FURNISHED",
+            "GARAGE",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "KITCHEN",
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "70"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Ótimo apartamento de dois quartos, pronto para morar, em prédio residencial e familiar, próximo do Largo Verdun, no tradicional bairro do Grajaú. Nada a fazer. Constituído de boa sala com iluminação indireta, hall de circulação, dois quartos com ar condicionado splitz, banheiro com box blindex,, chuveiro a gás e azulejado até o teto, cozinha repleta de armários embutidos, bancada de granito, exaustor e azulejos até o teto, ampla área de serviço com tanque, instalação para máquina de lavar e armários embutidos. Sol: manhã. Poucos apartamentos por andar. Vaga de garagem. Doc.: perfeita.",
+        "title": "Ótimo apartamento de dois quartos, pronto para morar, com vaga de garagem, no tradicional bairro do",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2685724847",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20561240",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.924,
+                "approximateLon": -43.256,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Uberaba",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Grajau",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Grajaú",
+            "poisList": [
+                "BS:Ponto Final: Vila Isabel :: Linha 432",
+                "BS:Ponto final 222",
+                "BS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "BS:Ponto Final: Andaraí :: Linha 217",
+                "BS:Ponto Final: Grajaú",
+                "TS:Ponto Final: Vila Isabel :: Linha 432",
+                "TS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "TS:Ponto Final: Andaraí :: Linha 217",
+                "TS:Ponto Final: Grajaú",
+                "TS:Ponto Final - 134B (Nova Iguaçu - Vila Isabel)",
+                "CS:Padaria do Verdun",
+                "CS:Fábrica de Bolo da Vó Alzira",
+                "CS:Empório Maria Filó",
+                "CS:Afagá Confeitaria Brasileira",
+                "CS:Jóia do Grajaú",
+                "PH:Drograrias Guanabara",
+                "PH:Farma Dez",
+                "PH:Drogaria Unidas",
+                "PH:Drogarias Mundial",
+                "PH:Mundial"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "64919",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "70"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "856",
+                "price": "475000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "549"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_FEVEREIRO_2024"
+        ]
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "6584a7e073328fdeeca6594fdf4d2f4e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6584a7e073328fdeeca6594fdf4d2f4e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c893a72ef98adbf31e28cff417219c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c893a72ef98adbf31e28cff417219c7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "83f6211d9a7e1f8a8c2395fea9873f96",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/83f6211d9a7e1f8a8c2395fea9873f96/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "166121f470839d1652919cd094ac13d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/166121f470839d1652919cd094ac13d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21729bc847e6ede965af513e7869379f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21729bc847e6ede965af513e7869379f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ef2f86ce18bbe4e62ee4dd7b5192cb82",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ef2f86ce18bbe4e62ee4dd7b5192cb82/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce06ef13a01f21d72a1d563223999831",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce06ef13a01f21d72a1d563223999831/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4fbbd19bfdf667e896f213c3952a4264",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4fbbd19bfdf667e896f213c3952a4264/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "78182abcdcee12d1375d49d2dae9c529",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/78182abcdcee12d1375d49d2dae9c529/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "159072139dd4c0b8a077a12c93ee317e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/159072139dd4c0b8a077a12c93ee317e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9a475945d600325fa74ce0628c52b1ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9a475945d600325fa74ce0628c52b1ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d8b1f220dcddfddeee31bff3e790f47e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8b1f220dcddfddeee31bff3e790f47e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e62cc77c77a88d6e96ba89012062464d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e62cc77c77a88d6e96ba89012062464d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f63c9fb2948e05edaec449e70ddf7e89",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f63c9fb2948e05edaec449e70ddf7e89/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c8b20c124cc7ac32fda118a74ee3ceb0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c8b20c124cc7ac32fda118a74ee3ceb0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5d4e98d21315917e9b1d18bb3165b368",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5d4e98d21315917e9b1d18bb3165b368/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6ed3b57fdabaefb70a811224cf21602e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ed3b57fdabaefb70a811224cf21602e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "da0c737ebd1ca738fdf54f294a25ba61",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/da0c737ebd1ca738fdf54f294a25ba61/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb9ff1d7903e5a56bf45ada0a964a386",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb9ff1d7903e5a56bf45ada0a964a386/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6ed7cbdfa6f1579e64ffbc4fc8cdd991",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ed7cbdfa6f1579e64ffbc4fc8cdd991/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a6f85174b3fe656cfa9f9b41c985b1e4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a6f85174b3fe656cfa9f9b41c985b1e4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd31a4235034046c305b72737bfd1535",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd31a4235034046c305b72737bfd1535/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "314ebdcb0c838e3f9ca4fb6dedf7b515",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/314ebdcb0c838e3f9ca4fb6dedf7b515/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 70m²",
+        "href": "/imovel/apartamento-2-quartos-grajau-zona-norte-rio-de-janeiro-com-garagem-70m2-venda-RS475000-id-2685724847/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Grajaú",
+            "state": "Rio de Janeiro",
+            "street": "Rua Uberaba",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

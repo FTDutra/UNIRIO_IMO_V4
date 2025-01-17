@@ -1,0 +1,244 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "BALCONY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "SERVICE_AREA",
+            "PARTY_HALL",
+            "KITCHEN",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "70"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O residencial Cora é um lançamento situado em excelente região da Gávea, composto por 18 apartamentos tipo de 70 m² a 119 m², em plantas que exibem 2 e 3 quartos, todos com metragens amplas e cômodos bem distribuídos. O residencial conta com sistema de segurança, lazer completo e 1 vaga de garagem por imóvel. 532",
+        "title": "Apartamento a venda com 2 quartos na Gávea, Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2725025334",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22451010",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "52",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.227218,
+                "source": "GOOGLE",
+                "lat": -22.97665
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua General Rabelo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Gavea",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Gávea",
+            "poisList": [
+                "BS:Marquês de São Vicente",
+                "BS:Baixo Gávea",
+                "BS:Terminal da PUC :: Plataforma A",
+                "BS:Ponto Final: Metrô na Superfície :: PUC",
+                "BS:Terminal da PUC :: Plataforma B",
+                "TS:Terminal da PUC :: Plataforma A",
+                "TS:Ponto Final: Metrô na Superfície :: PUC",
+                "TS:Terminal da PUC :: Plataforma B",
+                "TS:Nossa Senhora Auxiliadora",
+                "TS:Ponto Final: CIEP Nação Rubro Negra",
+                "CS:am/pm",
+                "CS:Talho Capixaba",
+                "CS:Rio Lisboa",
+                "CS:Mini Mercado Pacheco Leão",
+                "CS:Panificação Século XX",
+                "PH:Drogasmil",
+                "PH:Ric",
+                "PH:Padrão"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "532",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "70"
+        ],
+        "advertiserId": "eeb08206-dc33-2360-7127-bb09eb4a3c07",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "20",
+                "price": "1499000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "20"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21964648018"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964648018",
+        "stamps": []
+    },
+    "account": {
+        "id": "eeb08206-dc33-2360-7127-bb09eb4a3c07",
+        "name": "House Imoveis RJ",
+        "licenseNumber": "68036-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 621717,
+        "phones": {
+            "primary": "21964648018",
+            "mobile": "21964648018"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "773148954977eee484ec851bb1b04d8e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/773148954977eee484ec851bb1b04d8e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eacdb980d6767b959e84c3b9189235e2",
+            "url": "https://www.youtube.com/watch?v=QyD-0i0tmgg&pp=ygUJZ2F2ZWEgIFJK",
+            "type": "VIDEO"
+        },
+        {
+            "id": "c55bc6e731ce8ae62bc56d7bcd5cf88b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c55bc6e731ce8ae62bc56d7bcd5cf88b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa389e4f44fb9ea5de743cd5d9ad370b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa389e4f44fb9ea5de743cd5d9ad370b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9f8db1c8d9c807ed0ae114149f908e38",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9f8db1c8d9c807ed0ae114149f908e38/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f4d8f661d80c5dfb4df739726f8322fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f4d8f661d80c5dfb4df739726f8322fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bba9fe4f1c4ed9a1ef8a34cc792f9fc8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bba9fe4f1c4ed9a1ef8a34cc792f9fc8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36e791d03c46d2b53485837986730ac4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36e791d03c46d2b53485837986730ac4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3595d6580fa38f30e0ffd34c5c9b633c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3595d6580fa38f30e0ffd34c5c9b633c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "03be0cef92af6e1876baaed88db5133e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/03be0cef92af6e1876baaed88db5133e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8542337b86bef8da5f19fad37d6c0069",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8542337b86bef8da5f19fad37d6c0069/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b780549646501f4161771d610a24dfa8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b780549646501f4161771d610a24dfa8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9d1dafcf193159a843459ab98b74eb81",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9d1dafcf193159a843459ab98b74eb81/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "12b0e537c3610c7b82b74b40d8a3ccd4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/12b0e537c3610c7b82b74b40d8a3ccd4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6ec1f35ff86dc37979ed142b268fe641",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ec1f35ff86dc37979ed142b268fe641/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c14d875341a070e13ddae24ba02044fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c14d875341a070e13ddae24ba02044fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "819938ff60978a02e97e8aa8260d0d4e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/819938ff60978a02e97e8aa8260d0d4e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "55fb7b37bd839fe661df682397850a6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/55fb7b37bd839fe661df682397850a6e/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "House Imoveis RJ",
+        "href": "/621717/house-imoveis-rj/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 70m²",
+        "href": "/imovel/apartamento-1-quartos-gavea-zona-sul-rio-de-janeiro-com-garagem-70m2-venda-RS1499000-id-2725025334/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Gávea",
+            "state": "Rio de Janeiro",
+            "street": "Rua General Rabelo",
+            "streetNumber": "52",
+            "zone": "Zona Sul"
+        }
+    }
+}

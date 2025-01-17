@@ -1,0 +1,196 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "BALCONY",
+            "GYM",
+            "GOURMET_SPACE",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "KITCHEN",
+            "INTERCOM",
+            "SAFETY_CIRCUIT",
+            "ADULT_GAME_ROOM"
+        ],
+        "usableAreas": [
+            "91"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento, 1 locação. 3 dormitorios , sendo uma suite, 1 banho social, 1 banho de serviço, cozinha ampla, unidade de frente, com varanda, 1 vaga de garagem na escritura. agende uma visita.-Cod:NCAP30992 -Rev.11Dez",
+        "title": "Apartamento-À VENDA-Recreio dos Bandeirantes-Rio de Janeiro-RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2600744158",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22795305",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.005,
+                "approximateLon": -43.443,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Doze",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Salvador Allende (Parador)",
+                "BS:Salvador Allende (Expresso)",
+                "BS:Ponto Final: Barra Sul :: Linha 553 SP",
+                "TS:Salvador Allende (Parador)",
+                "TS:Salvador Allende (Expresso)",
+                "TS:Terminal Recreio",
+                "TS:Catedral do Recreio",
+                "TS:Ponto Final: Barra Sul :: Linha 553 SP",
+                "CS:Santa Therezinha",
+                "CS:Fábrica de Bolo",
+                "CS:Padaria & Confeitaria A Lisboeta",
+                "CS:Pão Carioca",
+                "CS:Café & Cia",
+                "PH:Venâncio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "NCAP30992",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "91"
+        ],
+        "advertiserId": "9c7ddc4d-9472-9240-9605-f6dc01d8f7c7",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "795231",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2132696030",
+                "21992754824"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21992754824",
+        "stamps": []
+    },
+    "account": {
+        "id": "9c7ddc4d-9472-9240-9605-f6dc01d8f7c7",
+        "name": "DNA IMÓVEIS COPACABANA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f20b4c60f38ca049afd4a27692f117ee/{description}.webp",
+        "licenseNumber": "009793-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 787914,
+        "phones": {
+            "primary": "2132696030",
+            "mobile": "21992754824"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "de41ba45462404f48b1f5967df36f1c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/de41ba45462404f48b1f5967df36f1c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8b3e21915bc0a2aceba8905842113788",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8b3e21915bc0a2aceba8905842113788/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb2c999d39bfb3aecd36db043d0697a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb2c999d39bfb3aecd36db043d0697a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8987dcce1cb9fa9f2a100d045373ad90",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8987dcce1cb9fa9f2a100d045373ad90/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e8d47d8f8652871e5e6747f29bc16a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e8d47d8f8652871e5e6747f29bc16a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2cf51484e3368824012ffa236f816e56",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2cf51484e3368824012ffa236f816e56/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e53e47671f763df4f7120ae4380c7f2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e53e47671f763df4f7120ae4380c7f2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8929b5bea9cdfee55b00d87c4f5ae8d1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8929b5bea9cdfee55b00d87c4f5ae8d1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9cb85cac613997dbc16b5e99e8636799",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9cb85cac613997dbc16b5e99e8636799/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "DNA IMÓVEIS COPACABANA",
+        "href": "/787914/dna-imoveis-copacabana/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 91m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-91m2-venda-RS795231-id-2600744158/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Doze",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

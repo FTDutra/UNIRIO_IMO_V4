@@ -1,0 +1,226 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "FURNISHED",
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "BUILTIN_WARDROBE",
+            "KITCHEN_CABINETS",
+            "KITCHEN",
+            "INTERCOM",
+            "RECEPTION"
+        ],
+        "usableAreas": [
+            "110"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "COD AP45207 - - Informações Atualizadas em Doze de dezembro Dois Mil e Vinte e Quatro",
+        "title": "LUXUOSO APARTAMENTO NO MELHOR PONTO DE COPACABANA, QUADRA DA PRAIA",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2733754065",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22050012",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.971,
+                "approximateLon": -43.186,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Domingos Ferreira",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 1 Figueiredo Magalhães",
+                "BS:BRS 1,3 - Avenida Nossa Senhora de Copacabana",
+                "BS:2018",
+                "BS:BRS 2 Santa Clara",
+                "BS:BRS 3 Siqueira Campos",
+                "TS:BRS 1 Figueiredo Magalhães",
+                "TS:BRS 1,3 - Avenida Nossa Senhora de Copacabana",
+                "TS:2018",
+                "TS:BRS 2 Santa Clara",
+                "TS:BRS 3 Siqueira Campos",
+                "CS:Grão da terra",
+                "CS:The Bakers",
+                "CS:La Copa",
+                "CS:Multifruti",
+                "CS:Suíça",
+                "PH:Drogaria Galanti",
+                "PH:Prontofarma",
+                "PH:Nash",
+                "PH:Farmácia do Leme",
+                "PH:Galícia"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP45207",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "110"
+        ],
+        "advertiserId": "2aee38bd-a7d0-95a3-0d70-8084e50e5807",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "4020",
+                "price": "1690000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1176"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21967279878"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21967279878",
+        "stamps": []
+    },
+    "account": {
+        "id": "2aee38bd-a7d0-95a3-0d70-8084e50e5807",
+        "name": "PATRIMÓVEL TIJUCA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40e93f6dd449e21563e955efb9abc8b0/{description}.webp",
+        "licenseNumber": "31041-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 55721,
+        "phones": {
+            "primary": "21967279878",
+            "mobile": "21967279878"
+        },
+        "tier": ""
+    },
+    "medias": [
+        {
+            "id": "26a2384c28cfbd219ec9ac0ff2882244",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/26a2384c28cfbd219ec9ac0ff2882244/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "60d5d0c3c452db6c7aea94c43f120916",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60d5d0c3c452db6c7aea94c43f120916/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6b3632713d964078217be35ee80e5abc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6b3632713d964078217be35ee80e5abc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a11bf39d1a103330a631a3d89fb8487d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a11bf39d1a103330a631a3d89fb8487d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0fa7d54b7cdd1b36b6c7c6bee4b7c3d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0fa7d54b7cdd1b36b6c7c6bee4b7c3d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b54fe7cc8c6524c2219adb3080b8bfc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b54fe7cc8c6524c2219adb3080b8bfc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d7e0511f0e0cad89b866c9a252f508c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d7e0511f0e0cad89b866c9a252f508c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "24d0050093e26f62db9c5a2e4bb2088f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/24d0050093e26f62db9c5a2e4bb2088f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4542db07696c3d363cf34996b3bc2608",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4542db07696c3d363cf34996b3bc2608/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "76b19687afc97eb5d3a797137c26cbf3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/76b19687afc97eb5d3a797137c26cbf3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e3335b6915ad6495588d8b2217acb712",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e3335b6915ad6495588d8b2217acb712/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "22c81de6475743119064546e6e910963",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/22c81de6475743119064546e6e910963/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c931aceae9c2ea20f46da7cec38688f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c931aceae9c2ea20f46da7cec38688f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b5f79795e3f8046e81f3708985fabbbf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b5f79795e3f8046e81f3708985fabbbf/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "PATRIMÓVEL TIJUCA",
+        "href": "/55721/patrimovel-tijuca/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 110m²",
+        "href": "/imovel/apartamento-4-quartos-copacabana-zona-sul-rio-de-janeiro-110m2-venda-RS1690000-id-2733754065/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Domingos Ferreira",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

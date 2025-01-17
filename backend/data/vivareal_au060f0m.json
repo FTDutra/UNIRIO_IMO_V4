@@ -1,0 +1,230 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "INTERCOM",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "42"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "B&A Vende Excelente sala e quarto no posto 6, a um passo da praia de Copacabana, e poucos metros da praia do Arpoador e de Ipanema, tem todo tipo de comercio, transporte e metro pertinho. O apartamento possui 42m² dividido em 1 quarto, sala com cachimbo, banheiro social e cozinha. Portaria 24 horas. Venha Agendar sua Visita!",
+        "title": "B&amp;A Vende Apartamento Quarto e Sala Copacabana",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2744964587",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22080002",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.983,
+                "approximateLon": -43.191,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Raul Pompéia",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 2: Francisco Sá",
+                "BS:BRS 1",
+                "BS:BRS 2: Rainha Elizabeth",
+                "BS:BRS 1 Sá Ferreira",
+                "BS:Ponto Final: Copacabana :: Linha 455",
+                "TS:BRS 2: Francisco Sá",
+                "TS:BRS 1",
+                "TS:BRS 2: Rainha Elizabeth",
+                "TS:BRS 1 Sá Ferreira",
+                "TS:Copacabana",
+                "CS:Lopes",
+                "CS:Casa du bisçoito",
+                "CS:Peixaria Z13",
+                "CS:Nema",
+                "CS:Colônia dos Pescadores",
+                "PH:Viva Mais",
+                "PH:Farmácia Central Posto 6",
+                "PH:Prontofarma",
+                "PH:Drogaria Pop",
+                "PH:Drogaria Galanti"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "PU1tcsa4y",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "42"
+        ],
+        "advertiserId": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "110",
+                "price": "580000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "600"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21988595427"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988595427",
+        "stamps": []
+    },
+    "account": {
+        "id": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "name": "Luccare Investimentos",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/356f29ff805ce9c2aedf37766016903e/{description}.webp",
+        "licenseNumber": "065358-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 79203,
+        "phones": {
+            "primary": "21988595427",
+            "mobile": "21988595427"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "0f0eb060857352417c34586fda12ecec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f0eb060857352417c34586fda12ecec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bf39cb1fdfb4d0fe986dcd3ff2771eb7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bf39cb1fdfb4d0fe986dcd3ff2771eb7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21cf0872e918a477a4e4c9e3156ea637",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21cf0872e918a477a4e4c9e3156ea637/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9ca6f854c7feea64fcb1130eb68d9a6f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ca6f854c7feea64fcb1130eb68d9a6f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5a235576a7c20640e5c39217110aecf4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5a235576a7c20640e5c39217110aecf4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7d3e424c1c2c6dd7f01d1fcda9d1efee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7d3e424c1c2c6dd7f01d1fcda9d1efee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "faf08ed7f43f582f328f0c425f1ed1a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/faf08ed7f43f582f328f0c425f1ed1a6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "59eaa5dd5fe8b4d59bcecf1df3d94a99",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/59eaa5dd5fe8b4d59bcecf1df3d94a99/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "35780a731c31e9966ab9a827dd196c28",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/35780a731c31e9966ab9a827dd196c28/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "714768aa7d8f9d8b47de6af6b06bed57",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/714768aa7d8f9d8b47de6af6b06bed57/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "30b66e9ffe59dd112e2c8a3a9f4e2d35",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30b66e9ffe59dd112e2c8a3a9f4e2d35/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fcaaf7f5aa0b307eaddab17a73516bf3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fcaaf7f5aa0b307eaddab17a73516bf3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e74fef227c4330c874664425e196ca6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e74fef227c4330c874664425e196ca6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f02a14695b752b42be2b645316de4fee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f02a14695b752b42be2b645316de4fee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2871a53dcabe388ad7e87263b3db8c8a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2871a53dcabe388ad7e87263b3db8c8a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "edf46bd14e8892e4cbbfb4aa0a65c438",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/edf46bd14e8892e4cbbfb4aa0a65c438/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "591014610d73307f657ed4d86706c9c6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/591014610d73307f657ed4d86706c9c6/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Luccare Investimentos",
+        "href": "/79203/luccare-investimentos/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 42m²",
+        "href": "/imovel/apartamento-1-quartos-copacabana-zona-sul-rio-de-janeiro-42m2-venda-RS580000-id-2744964587/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Raul Pompéia",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

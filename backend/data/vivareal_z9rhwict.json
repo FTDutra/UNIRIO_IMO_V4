@@ -1,0 +1,252 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "AIR_CONDITIONING",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "220"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Imóvel amplo à venda com 4 quartos, sendo 2 suítes, e 2 banheiros. Este imóvel está bem equipado, é ideal para quem procura conforto e comodidade. O condomínio fica localizado em Avenida Belisário Leite de Andrade Neto no bairro Barra da Tijuca em Rio de Janeiro. Está bem localizado, próximo a pontos de interesse de Barra da Tijuca, tais como Praça Professor José Bernardino, Praia do Pepê, Creche Peter Pan, Escola Municipal Almeida Garret, Escola Municipal Rodrigues Alves e Estação Metro Jardim Oceanico.",
+        "title": "Apartamento 4 quartos, 220m² e 4 vagas - Barra da Tijuca - Rio de Janeiro | RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2751606327",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            4
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22621270",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "1",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.306378,
+                "source": "GOOGLE",
+                "lat": -23.015106
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Belisário Leite de Andrade Neto",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:Avenida Vítor Konder próximo ao 225-243",
+                "TS:Passarela da Barra",
+                "TS:Jardim Oceânico - Acesso Mar",
+                "TS:Jardim Oceânico / Barra da Tijuca",
+                "TS:Jardim Oceânico",
+                "TS:Jardim Oceânico - Acesso Lagoa",
+                "CS:O Boi Que Ri",
+                "CS:Concha Doce",
+                "CS:Amendoeira II",
+                "CS:Mini Market Gigoia",
+                "CS:Sabor da Bahia",
+                "PH:Drogas Rio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP5232RJ",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "220"
+        ],
+        "advertiserId": "ed990fdd-eb37-4b08-3451-008ac8e02f71",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "333",
+                "price": "2000000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1800"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21966487878"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21966487878",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "ed990fdd-eb37-4b08-3451-008ac8e02f71",
+        "name": "LUCCARE",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca9ec6fda5cc292e32c3ed26afcc5ceb/{description}.webp",
+        "licenseNumber": "65358-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 823968,
+        "phones": {
+            "primary": "21966487878",
+            "mobile": "21966487878"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "edb12aa39afb404d2ebe309908fd8209",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/edb12aa39afb404d2ebe309908fd8209/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb9eaea70ad2ad01f84f985ad8e6e5e2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb9eaea70ad2ad01f84f985ad8e6e5e2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a6386ee317a5a8f3762ef1fc498cf522",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a6386ee317a5a8f3762ef1fc498cf522/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "71691ea6c8c814a27b163fca020ecc59",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/71691ea6c8c814a27b163fca020ecc59/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d38c3c4849d00569729f15d14d32feaf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d38c3c4849d00569729f15d14d32feaf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6f3d7125dbee1c30009c25a9a429b7f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6f3d7125dbee1c30009c25a9a429b7f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c7e5539aed2926d20ffa2f7370a8a3bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c7e5539aed2926d20ffa2f7370a8a3bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2268ee4d6174625e10faf9f22a7d4064",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2268ee4d6174625e10faf9f22a7d4064/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "88f76640f5dfa456c2034ed0f747bee1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/88f76640f5dfa456c2034ed0f747bee1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "95390c228d164283f604e6bc313c7c46",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/95390c228d164283f604e6bc313c7c46/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ec43c9e47d03ccf9b046fbfef2da485b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ec43c9e47d03ccf9b046fbfef2da485b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e84f6078361512ed5148e541531f4dbf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e84f6078361512ed5148e541531f4dbf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0537a7e6fbe726a7e374084f4dc2a983",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0537a7e6fbe726a7e374084f4dc2a983/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d4f2dbe7b886b31be6a08cc83d015753",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d4f2dbe7b886b31be6a08cc83d015753/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f2594cf0afef75f539a66567f1ea083",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f2594cf0afef75f539a66567f1ea083/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "df63fce5c3d5cb893e88f43c32d9bdf7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df63fce5c3d5cb893e88f43c32d9bdf7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6bd25775d1de9fabd9bbaf7001187cb9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6bd25775d1de9fabd9bbaf7001187cb9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f28d0bda5bb5851424907b4858efac74",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f28d0bda5bb5851424907b4858efac74/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f0fce55f33f98e1091766816955e019",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f0fce55f33f98e1091766816955e019/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6d2036a9e776b27899de56fa38d6465e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6d2036a9e776b27899de56fa38d6465e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5ba2d79db078d48a4bf51e79fe136c65",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5ba2d79db078d48a4bf51e79fe136c65/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe6682d053186d34514e231b73c73d3e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe6682d053186d34514e231b73c73d3e/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "LUCCARE",
+        "href": "/823968/luccare/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 220m²",
+        "href": "/imovel/apartamento-4-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-220m2-venda-RS2000000-id-2751606327/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Belisário Leite de Andrade Neto",
+            "streetNumber": "1",
+            "zone": "Zona Oeste"
+        }
+    }
+}

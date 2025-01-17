@@ -1,0 +1,232 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "SERVICE_AREA",
+            "GATED_COMMUNITY",
+            "SPORTS_COURT",
+            "CONCIERGE_24H"
+        ],
+        "usableAreas": [
+            "46"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Ótimo Apartamento em Campo Grande. Composto por Sala, 2 quartos, cozinha, área (lavanderia), banheiro blindex. Todo reformado (entrar e morar).<br><br>Condomínio com portaria 24h (segurança para toda família). Condomínio arborizado, proporcionado um ambiente Super agradável. Doc. Aceitando financiamento;<br><br>Localização com comércio e transporte fácil. Contrato da C.E.F está quitado, já deu entrada para pegar RGI. - Fazemos sua simulação sem compromisso e aprovamos seu crédito em tempo rápido, trabalhamos com todos os Bancos. - Venha ser VIP! -Agende sua visita! -",
+        "title": "Apartamento Residencial à venda, Senador Vasconcelos, Rio de Janeiro - AP1411.",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2650626981",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "23012120",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "180",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.529621,
+                "source": "GOOGLE",
+                "lat": -22.891131
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Joaquim Magalhães",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Senador Vasconcelos",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Senador Vasconcelos",
+            "poisList": [
+                "BS:Joaquim Magalhães",
+                "BS:Jardim Oriental",
+                "BS:Senador Vasconcelos",
+                "BS:Nova Esperança",
+                "TS:Joaquim Magalhães",
+                "TS:Jardim Oriental",
+                "TS:Augusto Vasconcelos",
+                "TS:Senador Vasconcelos",
+                "TS:Nova Esperança",
+                "SU:Ciep Herivelto Martins",
+                "SU:Ciep Francisco Cavalcante Pontes de Miranda",
+                "SU:Creche Municipal Raul Cortez",
+                "SU:Elite Rede de Ensino - Campo Grande 2",
+                "SU:Escola Municipal Rio Grande do Norte",
+                "CH:Clínica da Família Everton de Souza Santos",
+                "CH:Clínica da Família Maria Jose Papera de Azevedo",
+                "CH:Creche Municipal Professora Flora Santina Ferrari Braz"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "AP1411",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "46"
+        ],
+        "advertiserId": "35294e77-4344-0f3a-7bb4-077c7f2d1403",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "140000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "169"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2134961990",
+                "21996652055"
+            ]
+        },
+        "videoTourLink": "https://www.tourvirtual.com.br",
+        "whatsappNumber": "21996652055",
+        "stamps": []
+    },
+    "account": {
+        "id": "35294e77-4344-0f3a-7bb4-077c7f2d1403",
+        "name": "VIP IMOBILIÁRIA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d88d3dba2ef96a617dca723041f01fab/{description}.webp",
+        "licenseNumber": "6961-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 254818,
+        "phones": {
+            "primary": "2134961990",
+            "mobile": "21996652055"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "f0ec5f4f42c65d6117f055cfd9da0fba",
+            "url": "https://www.youtube.com/watch?v=BQX4pGPq39U",
+            "type": "VIDEO"
+        },
+        {
+            "id": "2dd7d86bf7db3249c52cba7d96a7fa9f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2dd7d86bf7db3249c52cba7d96a7fa9f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5b7f1e297de82d35bc1af5458ddcec6f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b7f1e297de82d35bc1af5458ddcec6f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e218aca1ef94eefa6571c8a6f3c39b6d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e218aca1ef94eefa6571c8a6f3c39b6d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce48babcfee0a513befec3c3f6b7d36c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce48babcfee0a513befec3c3f6b7d36c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "06b9e75b84f8cc08c0eadbad526ba878",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/06b9e75b84f8cc08c0eadbad526ba878/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "322032896154b6a13ed977b1f378795b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/322032896154b6a13ed977b1f378795b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a2ba6851f37564548e60486e5e65f1a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a2ba6851f37564548e60486e5e65f1a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "90231b0a476ab04a33623a349b51cedc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/90231b0a476ab04a33623a349b51cedc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d11b1184523513927d920fc2c74e458d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d11b1184523513927d920fc2c74e458d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "78ebb959a3847ef66aa8fbf66ae527a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/78ebb959a3847ef66aa8fbf66ae527a6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c5c0bba2cf5342b426dab2fde26d631f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c5c0bba2cf5342b426dab2fde26d631f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6194df09e2fa21fce75a121ba7f05179",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6194df09e2fa21fce75a121ba7f05179/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f409fc5970d820ea649e3c4f4994467b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f409fc5970d820ea649e3c4f4994467b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e909a3032165081c4cd4a7215d0e51ac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e909a3032165081c4cd4a7215d0e51ac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "06d0b008bba82d36cd2cd10f2f034a4b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/06d0b008bba82d36cd2cd10f2f034a4b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dadf40c5bcf6d2b86939c1d8985b41b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dadf40c5bcf6d2b86939c1d8985b41b0/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "VIP IMOBILIÁRIA",
+        "href": "/254818/vip-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 46m²",
+        "href": "/imovel/apartamento-2-quartos-senador-vasconcelos-zona-oeste-rio-de-janeiro-com-garagem-46m2-venda-RS140000-id-2650626981/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Senador Vasconcelos",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Joaquim Magalhães",
+            "streetNumber": "180",
+            "zone": "Zona Oeste"
+        }
+    }
+}

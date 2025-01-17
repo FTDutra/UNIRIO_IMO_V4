@@ -1,0 +1,224 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "INTERCOM",
+            "CONCIERGE_24H",
+            "ELEVATOR",
+            "WATCHMAN"
+        ],
+        "usableAreas": [
+            "33"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Privilégio Imóveis Vende: Excelente apartamento de saleta quarto Amplo todo reformado com uma cozinha na saleta com uma ótima bancada e espaço para fogão, geladeira e mesa - banheiro espaçoso com lugar para máquina de lava além de Box em blindex e todo conforto para o seu dia a dia - Quarto bem amplo que poderá ser dividido em 02 ambientes. Frente com muita iluminação e ventilação num prédio familiar muito próximo ao comércio, tais como o supermercado Extra e Mundial, transporte, academias de musculação e várias outras atividades necessárias no seu dia a dia.",
+        "title": "Apartamento à venda, 1 quarto, Centro - RIO DE JANEIRO/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2732564501",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20230050",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.914,
+                "approximateLon": -43.188,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Rua Tadeu Kosciusko",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:Ponto Final: Cruz Vermelha",
+                "BS:P28",
+                "BS:BRS 1,2,4 Inválidos",
+                "BS:BRS 1,2 e 4",
+                "BS:BRS 5: Praça da República",
+                "TS:Ponto Final: Cruz Vermelha",
+                "TS:P28",
+                "TS:BRS 1,2,4 Inválidos",
+                "TS:BRS 1,2 e 4",
+                "TS:Francisco Muratori",
+                "CS:ArmaZen",
+                "CS:Café Bakery",
+                "CS:Padaria e Confeitaria Costa Bastos",
+                "CS:Cris",
+                "CS:Seu Zé",
+                "PH:Exata",
+                "PH:Viva Bem",
+                "PH:Drogaria Rey",
+                "PH:Drogaria Exata",
+                "PH:City Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "59385",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "33"
+        ],
+        "advertiserId": "b0827a40-699c-3726-0538-b517dc051edc",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "225000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "538"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2120519004",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "b0827a40-699c-3726-0538-b517dc051edc",
+        "name": "PRIVILÉGIO ARPOADOR",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ee9b57f2973015df718bf1dd0eadaacd/{description}.webp",
+        "licenseNumber": "06645-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 229600,
+        "phones": {
+            "primary": "2120519004",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "9ca12ca1a8add00414704457813a9f11",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ca12ca1a8add00414704457813a9f11/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2098e7c5ab7b5115d0c072b648ca51a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2098e7c5ab7b5115d0c072b648ca51a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "209143cc9f236e65946e6fbd10dc9a4d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/209143cc9f236e65946e6fbd10dc9a4d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1b7be1056bb4e196142b98a261af4439",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1b7be1056bb4e196142b98a261af4439/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d992b2a0a5cb5cdd92d88b9315016234",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d992b2a0a5cb5cdd92d88b9315016234/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6f2d44d52f6ca3095fde245510f51560",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6f2d44d52f6ca3095fde245510f51560/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a8734962a42762511629607982e5ca2a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a8734962a42762511629607982e5ca2a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a9647eb09e6398aa9f8112d2d746e34",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8a9647eb09e6398aa9f8112d2d746e34/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "510b5feffc918e2522e701c1cf140119",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/510b5feffc918e2522e701c1cf140119/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f05a6f860f73a23a735d19920c80eb0e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f05a6f860f73a23a735d19920c80eb0e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5a2ae2c18de05b7f041a4cb5328eb947",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5a2ae2c18de05b7f041a4cb5328eb947/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "60e2d06b4f2d7c519bc5a2f66f5c4166",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60e2d06b4f2d7c519bc5a2f66f5c4166/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a3796adc9e8099053e57678ac5f3bf27",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a3796adc9e8099053e57678ac5f3bf27/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a95f9ab2cf502cece94957b5acfae7eb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a95f9ab2cf502cece94957b5acfae7eb/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "PRIVILÉGIO ARPOADOR",
+        "href": "/229600/privilegio-arpoador/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 33m²",
+        "href": "/imovel/apartamento-1-quartos-centro-zona-central-rio-de-janeiro-33m2-venda-RS225000-id-2732564501/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Rua Tadeu Kosciusko",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

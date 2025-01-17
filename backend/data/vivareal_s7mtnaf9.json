@@ -1,0 +1,261 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "SERVICE_AREA",
+            "AIR_CONDITIONING",
+            "KITCHEN_CABINETS",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "80"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "COD 1003712 - Excelente apartamento em predio centro de terreno, ultimo andar, vista livre, com salao em L, 3 quartos(1 dependencia revertida), banheiro com azulejo decorado ao teto e box aluminio, cozinha ampla com azulejo decorado ao teto e armario, area de servicp mesmo padrao e banheiro de empregada, predio com play e salao de festas. - Informações Atualizadas em Doze de dezembro Dois Mil e Vinte e Quatro",
+        "title": "CONDOMINIO DO EDIFICIO ARAGUARI - Apartamento 3 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2714784051",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20710180",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.91,
+                "approximateLon": -43.274,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Caiapó",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Engenho Novo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Engenho Novo",
+            "poisList": [
+                "BS:Padre Roma",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. A",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. B",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. C",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. D",
+                "TS:Padre Roma",
+                "TS:Silva Freire",
+                "TS:Engenho Novo",
+                "TS:Terminal Rodoviário Américo Ayres :: Plat. A",
+                "TS:Terminal Rodoviário Américo Ayres :: Plat. B",
+                "CS:Lecadô",
+                "CS:Magal",
+                "CS:Imperato",
+                "CS:Rainha do Méier",
+                "CS:Tuti Fruti",
+                "PH:Drogaria Mais Barato - Méier",
+                "PH:Drograrias Guanabara",
+                "PH:Drogaria Atração do Méier"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "1003712",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "80"
+        ],
+        "advertiserId": "f3111726-5852-0f6a-68d1-81b913ec50ec",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "604",
+                "price": "230000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "892"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2121120500",
+                "21981679488"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21981679488",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "f3111726-5852-0f6a-68d1-81b913ec50ec",
+        "name": "Brasil Brokers Consultoria Imobiliária - Méier",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f95028514bf340f497b104eba8a7e8f2/{description}.webp",
+        "licenseNumber": "5431-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 233864,
+        "phones": {
+            "primary": "2121120500",
+            "mobile": "21981679488"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "6594c21713fef234dbe8aa1f440d94da",
+            "url": "https://www.youtube.com/watch?v=ZAzabXwrtFQ",
+            "type": "VIDEO"
+        },
+        {
+            "id": "168cd251cbec081d39c61516b76c65d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/168cd251cbec081d39c61516b76c65d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "74d6fdb6218fbd6b01c75fd2632cc5dd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/74d6fdb6218fbd6b01c75fd2632cc5dd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb0578d89e287c981462e017135b8b2f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb0578d89e287c981462e017135b8b2f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c025ea608b638bc5af7706c4d10414c4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c025ea608b638bc5af7706c4d10414c4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e508891d932b923bea12adc3bfe1c3e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e508891d932b923bea12adc3bfe1c3e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2717cc4daf48f896a54faa417254ac40",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2717cc4daf48f896a54faa417254ac40/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd7d85924ec105b4cf38b27304b23384",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd7d85924ec105b4cf38b27304b23384/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "18942ac3afa7e33174d0d25068cc87cd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/18942ac3afa7e33174d0d25068cc87cd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "31b62e642ad81e8a4936b8b5289e4b83",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/31b62e642ad81e8a4936b8b5289e4b83/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "671ba1b0b4864e423ffae63d87a9d302",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/671ba1b0b4864e423ffae63d87a9d302/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2c3d97131b57aa9ab38f1848f3f60b60",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c3d97131b57aa9ab38f1848f3f60b60/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "91de823416394c978d692c9eac5019b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/91de823416394c978d692c9eac5019b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f75ee92016ef6e96e1dcc478db3f1efd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f75ee92016ef6e96e1dcc478db3f1efd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d2b32f840af76f43445b0cdc9c3c66b7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d2b32f840af76f43445b0cdc9c3c66b7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd447db70377a08313c90efc6661333d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd447db70377a08313c90efc6661333d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ea92284b05104819ce7721e0796bdb64",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ea92284b05104819ce7721e0796bdb64/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "429b51bf80edebf851c390c302338961",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/429b51bf80edebf851c390c302338961/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "72fb8f7bd66e3ad699246dff098e62e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/72fb8f7bd66e3ad699246dff098e62e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2ebbb14df272f6cdc151bcdad139fbc5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2ebbb14df272f6cdc151bcdad139fbc5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7ca16ed2101fa7240644fc4a7a6d2b33",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7ca16ed2101fa7240644fc4a7a6d2b33/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "69c53f19c36a1d13f8e0fc372d04ef05",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/69c53f19c36a1d13f8e0fc372d04ef05/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Brasil Brokers Consultoria Imobiliária - Méier",
+        "href": "/233864/brasil-brokers-consultoria-imobiliaria-meier/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 80m²",
+        "href": "/imovel/apartamento-3-quartos-engenho-novo-zona-norte-rio-de-janeiro-com-garagem-80m2-venda-RS230000-id-2714784051/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Engenho Novo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Caiapó",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

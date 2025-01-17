@@ -1,0 +1,217 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "110"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento pronto pra morar, sala com dois ambiente, 2 quartos suítes com armários, lavabo,(3 quarto e banheiro social original) cozinha planejado, área de serviços e dependência completas, 2 vagas na escrituras, porteiro 24hrs, playground. Localização Nobre.OBS:2 por andar.",
+        "title": "Apartamento com 2 dormitórios à venda, 110 m² por R$ 1.140.000,00 - Laranjeiras - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2744965387",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22231110",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.935,
+                "approximateLon": -43.181,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Coelho Neto",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Laranjeiras",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Laranjeiras",
+            "poisList": [
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Largo do Machado",
+                "BS:Rua das Laranjeiras, 336",
+                "BS:Rua Cosme Velho, 433",
+                "BS:Rua Monte Alegre próximo ao 342",
+                "TS:Flamengo",
+                "TS:Acesso Catete",
+                "TS:Ponto Final: Largo do Machado :: Linha 497",
+                "TS:Acesso Largo do Machado",
+                "TS:Largo do Machado",
+                "CS:Panificação Paissandú",
+                "CS:Frigorífico Palácio",
+                "CS:Mercado São José das Artes",
+                "CS:Confeitaria Itajaí",
+                "CS:Ravelle",
+                "PH:drogarias tambaú",
+                "PH:Bioderme",
+                "PH:Farmácia Pinheiro Machado",
+                "PH:Quintessência",
+                "PH:Cristal"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PU5743uy",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "110"
+        ],
+        "advertiserId": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3000",
+                "price": "1140000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2400"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21988595427"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988595427",
+        "stamps": []
+    },
+    "account": {
+        "id": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "name": "Luccare Investimentos",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/356f29ff805ce9c2aedf37766016903e/{description}.webp",
+        "licenseNumber": "065358-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 79203,
+        "phones": {
+            "primary": "21988595427",
+            "mobile": "21988595427"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "3aa2e8e909e7446f31a097a01686c3a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3aa2e8e909e7446f31a097a01686c3a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "07297b8a3509528d287f000255c3fce7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/07297b8a3509528d287f000255c3fce7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "950b36a21de625d3c1752959e7134231",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/950b36a21de625d3c1752959e7134231/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8138895dcbe486a61ea3250e0b72da00",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8138895dcbe486a61ea3250e0b72da00/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "225b0ea9bf4c7bd396c33c6ee77d5908",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/225b0ea9bf4c7bd396c33c6ee77d5908/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2046f877a81f7534e983554140068fd3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2046f877a81f7534e983554140068fd3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "58b6f283c38fe78ab47ea7a3bcda9d31",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/58b6f283c38fe78ab47ea7a3bcda9d31/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d3124b1e405a9dff080b5c6853fb7e91",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d3124b1e405a9dff080b5c6853fb7e91/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c21d658db9660db6f674cc367fe57682",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c21d658db9660db6f674cc367fe57682/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "16b14e6d6e7ff82d236f1cdff1167837",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/16b14e6d6e7ff82d236f1cdff1167837/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5d972c8714188fc8d43ae3cbbcaba50b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5d972c8714188fc8d43ae3cbbcaba50b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb9c5769229bbe6ae3686205c5e8cc4f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb9c5769229bbe6ae3686205c5e8cc4f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "184a8085e3d31d2d8c7b540b1a3da4d0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/184a8085e3d31d2d8c7b540b1a3da4d0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "facc3f7e1df8c62831facef8de40d495",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/facc3f7e1df8c62831facef8de40d495/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Luccare Investimentos",
+        "href": "/79203/luccare-investimentos/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 110m²",
+        "href": "/imovel/apartamento-2-quartos-laranjeiras-zona-sul-rio-de-janeiro-com-garagem-110m2-venda-RS1140000-id-2744965387/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Laranjeiras",
+            "state": "Rio de Janeiro",
+            "street": "Rua Coelho Neto",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

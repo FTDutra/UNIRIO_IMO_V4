@@ -1,0 +1,266 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "PETS_ALLOWED",
+            "SERVICE_AREA",
+            "LARGE_KITCHEN",
+            "INTERCOM",
+            "LARGE_WINDOW",
+            "LARGE_ROOM",
+            "ALUMINUM_WINDOW",
+            "NATURAL_VENTILATION",
+            "BLINDEX_BOX"
+        ],
+        "usableAreas": [
+            "64"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento com 2 quartos: sala arejada com janelas grandes, quartos bem amplos, banheiro social com blindex, cozinha com área de serviço. Um lance de escada, com condomínio barato! Não perca essa oportunidade.Corretora Adriana 9914-253-20.Creci 083751.",
+        "title": "Imóvel para venda com 64 metros quadrados com 2 quartos em Maria da Graça - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2737877664",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20785360",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "1111",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.270541,
+                "source": "GOOGLE",
+                "lat": -22.886324
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Luís de Brito",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Maria da Graca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Maria da Graça",
+            "poisList": [
+                "BS:Ponto final 611, 612, 613, 614",
+                "BS:Ponto Final: Shopping Nova América :: Linhas Barra e Jacarepaguá",
+                "BS:Ponto Final: Praça Avaí :: Linha 254 SP",
+                "BS:Antônio de Freitas",
+                "BS:Silva Rosa",
+                "TS:Del Castilho",
+                "TS:Nova América / Del Castilho",
+                "TS:Ponto final 611, 612, 613, 614",
+                "TS:Ponto Final: Shopping Nova América :: Linhas Barra e Jacarepaguá",
+                "TS:Ponto Final: Praça Avaí :: Linha 254 SP",
+                "CS:Panificação Recreio do Cruzeiro",
+                "CS:Marcopão",
+                "CS:LOTERIA - TIO PATINHAS",
+                "CS:Onitneva Padaria e Confeitaria",
+                "CS:Sabor do Méier",
+                "PH:Droh",
+                "PH:Drogaria Carioca",
+                "PH:Drogaria Mais Barato - Méier"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "4365",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "64"
+        ],
+        "advertiserId": "b471c960-e2cf-bf14-ecd7-b71daea9785d",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1",
+                "price": "165000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "300"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21991425320"
+            ]
+        },
+        "videoTourLink": "https://ws.hvr360.net/tourvirtual/embed/abc111/111111",
+        "whatsappNumber": "21991425320",
+        "stamps": []
+    },
+    "account": {
+        "id": "b471c960-e2cf-bf14-ecd7-b71daea9785d",
+        "name": "ADRIANA PAIVA CORRETORA DE IMÓVEIS",
+        "licenseNumber": "83751-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 834765,
+        "phones": {
+            "primary": "21991425320",
+            "mobile": "21991425320"
+        },
+        "tier": ""
+    },
+    "medias": [
+        {
+            "id": "7edf0d2375ffe6ae8489704c703c5f9f",
+            "url": "https://youtu.be/DwhGjrnIBXs?si=lFvoRzyhAoFQ4VwM",
+            "type": "VIDEO"
+        },
+        {
+            "id": "1daa6713941f57204e6028cdc0f348d8",
+            "url": "https://ws.hvr360.net/tourvirtual/embed/abc111/111111",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "46bef82ececb8007900f1cb854c1ee53",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/46bef82ececb8007900f1cb854c1ee53/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a016c7c6ab76589e2940048852828e5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a016c7c6ab76589e2940048852828e5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "509f915823b8573954cf9457cd288994",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/509f915823b8573954cf9457cd288994/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b2394ab33869b883269be02cfb6316c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b2394ab33869b883269be02cfb6316c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "da55d4f466b3c3dfd059397cab8eb455",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/da55d4f466b3c3dfd059397cab8eb455/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "20217cd6367868086c4990568c405493",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/20217cd6367868086c4990568c405493/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6ce051166c190dfe401fdd397ed3d9a9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ce051166c190dfe401fdd397ed3d9a9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eee388cdb98c1e2bdc873f645479d2e2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eee388cdb98c1e2bdc873f645479d2e2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a28dbd77f1d5ace0e1af6de884eec972",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a28dbd77f1d5ace0e1af6de884eec972/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5186e767940c74bec0dabf7f867c0ecb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5186e767940c74bec0dabf7f867c0ecb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "98a196fd91f2b14e37dd246b0d4f82f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98a196fd91f2b14e37dd246b0d4f82f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86ba06d861d0a51b85fbb5481c32c303",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86ba06d861d0a51b85fbb5481c32c303/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ecff7c26766ed2060c678cb402da1c75",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ecff7c26766ed2060c678cb402da1c75/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f4dc0e79fd409fc88b95980d71f67d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f4dc0e79fd409fc88b95980d71f67d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1cf96fbd5532a41caf107c3082a1dd3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1cf96fbd5532a41caf107c3082a1dd3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0e3ebc6d6b0c1f1a93932335b3c151cc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0e3ebc6d6b0c1f1a93932335b3c151cc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "050d0528dc51dcf4416a1dcd33d1369f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/050d0528dc51dcf4416a1dcd33d1369f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f99c638c1219bd580a9cabb62f264d44",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f99c638c1219bd580a9cabb62f264d44/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c91dbe8affa5461ad526d739a0f9e1b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c91dbe8affa5461ad526d739a0f9e1b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b8cd36afcf2e2b060fa043bb8952702",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b8cd36afcf2e2b060fa043bb8952702/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8bea9f42ce602846897ab22d79eed651",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8bea9f42ce602846897ab22d79eed651/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "ADRIANA PAIVA CORRETORA DE IMÓVEIS",
+        "href": "/834765/adriana-paiva-corretora-de-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 64m²",
+        "href": "/imovel/apartamento-2-quartos-maria-da-graca-zona-norte-rio-de-janeiro-64m2-venda-RS165000-id-2737877664/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Maria da Graça",
+            "state": "Rio de Janeiro",
+            "street": "Rua Luís de Brito",
+            "streetNumber": "1111",
+            "zone": "Zona Norte"
+        }
+    }
+}

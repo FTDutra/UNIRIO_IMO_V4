@@ -1,0 +1,262 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "PETS_ALLOWED",
+            "ELEVATOR",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "80"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento Imperdível, Pitangueiras, Ilha do Governador, composto por:<br><br>Varanda<br>Sala ampla<br>2 quartos<br>Banheiro social<br>Cozinha com armários<br>Área de serviço<br>Dependência completa<br>1 vaga<br>Elevador<br><br>Corretora Gisele<br>Creci 79-228",
+        "title": "Apartamento Imperdível, 80m², 2 quartos, Pitangueiras, Ilha do Governador",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2755007222",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21930320",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "1",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.176561,
+                "source": "GOOGLE",
+                "lat": -22.816003
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Nambi",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Pitangueiras",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Pitangueiras",
+            "poisList": [
+                "BS:Terminal da Ribeira :: Plataforma C",
+                "BS:Terminal da Ribeira :: Plataforma B",
+                "BS:Terminal da Ribeira :: Plataforma A",
+                "TS:Terminal da Ribeira :: Plataforma C",
+                "TS:Terminal da Ribeira :: Plataforma B",
+                "TS:Terminal da Ribeira :: Plataforma A",
+                "TS:Terminal da Ribeira",
+                "TS:Cocotá",
+                "CS:Padaria X",
+                "CS:padaria",
+                "CS:Padaria do Jorge",
+                "SU:Ciep Olga Benário Prestes",
+                "SU:Yes - Inglês Espanhol"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "SX 082",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "80"
+        ],
+        "advertiserId": "4e771814-221e-f0b9-620c-fec09083887a",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1208",
+                "price": "380000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "480"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21964472287",
+                "21998271003"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21998271003",
+        "stamps": []
+    },
+    "account": {
+        "id": "4e771814-221e-f0b9-620c-fec09083887a",
+        "name": "SX Corretores e Parceiros",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/236273eebb764f523632bae80cb49c67/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 816650,
+        "phones": {
+            "primary": "21964472287",
+            "mobile": "21998271003"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "b02ad091bdc131596804a3d9e55e4c05",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b02ad091bdc131596804a3d9e55e4c05/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6aceb6ca6f67cc89b066cb77df74ab6f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6aceb6ca6f67cc89b066cb77df74ab6f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "45e08fad09cd747a48dccb07464d57c5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/45e08fad09cd747a48dccb07464d57c5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "30c01946c8ba6e64fa24d73ee92fe512",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30c01946c8ba6e64fa24d73ee92fe512/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "88637abb657f8a40ad57e33ccc306233",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/88637abb657f8a40ad57e33ccc306233/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d0c21764cd5beb769bcd11982d52837",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d0c21764cd5beb769bcd11982d52837/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f68ceb133efda9d3845c205b4b146fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f68ceb133efda9d3845c205b4b146fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe8ae42a647b62f24edc53711421fc4b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe8ae42a647b62f24edc53711421fc4b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2a8f3d48e3ffb16958b7851f99f004ae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a8f3d48e3ffb16958b7851f99f004ae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb60dbb81bbcaf7d05fbf1b0697fcd08",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb60dbb81bbcaf7d05fbf1b0697fcd08/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1899d48143ce4b16147ac826b962147b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1899d48143ce4b16147ac826b962147b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ee5ae1dbb92d22507855165e9326e58",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ee5ae1dbb92d22507855165e9326e58/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2cf8d2eee36fd04b5bb5326de6793691",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2cf8d2eee36fd04b5bb5326de6793691/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e159cebd7801cd36be1fdc09092f56b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e159cebd7801cd36be1fdc09092f56b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ea45b80fe6813cf8f78f7a53a9878d3d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ea45b80fe6813cf8f78f7a53a9878d3d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c2b699a3bc7a226aca55d11faa300237",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2b699a3bc7a226aca55d11faa300237/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "659ffddb7a5ec1eaa53e15c652466417",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/659ffddb7a5ec1eaa53e15c652466417/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b910618c314f00a540ba602b9dd2ff30",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b910618c314f00a540ba602b9dd2ff30/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "520e3e3bc9271639f675747ca569e38c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/520e3e3bc9271639f675747ca569e38c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f50f92478e3fdbc0b68ba2bbe2226a11",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f50f92478e3fdbc0b68ba2bbe2226a11/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8f9c005fc70d3eed631ca50d3cea1c91",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8f9c005fc70d3eed631ca50d3cea1c91/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f6a473d40b94d6a0f149b2db1682351",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f6a473d40b94d6a0f149b2db1682351/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "baa8f40fc3609fb55e353117fcbfe946",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/baa8f40fc3609fb55e353117fcbfe946/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5837cf96dc1a2c63c5c5aee52e28902f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5837cf96dc1a2c63c5c5aee52e28902f/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SX Corretores e Parceiros",
+        "href": "/816650/sx-corretores-e-parceiros/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 80m²",
+        "href": "/imovel/apartamento-2-quartos-pitangueiras-zona-norte-rio-de-janeiro-com-garagem-80m2-venda-RS380000-id-2755007222/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Pitangueiras",
+            "state": "Rio de Janeiro",
+            "street": "Rua Nambi",
+            "streetNumber": "1",
+            "zone": "Zona Norte"
+        }
+    }
+}

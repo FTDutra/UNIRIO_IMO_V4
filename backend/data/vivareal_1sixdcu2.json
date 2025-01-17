@@ -1,0 +1,196 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "AIR_CONDITIONING",
+            "INTERCOM",
+            "ALARM_SYSTEM"
+        ],
+        "usableAreas": [
+            "56"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "APARTAMENTO PARA VENDA - COND. EDIFÍCIO BARRA ROYAL PLAZA - BARRA DA TIJUCA<br><br>VALOR DA VENDA: R$1.400.000****<br><br>APARTAMENTO COMPOSTO POR:<br>- sala<br>- cozinha<br>- 2 banheiros<br>- 2 quartos, sendo 1 suíte<br>- varanda<br>- vaga de garagem<br><br>PARA MAIS INFORMAÇÕES:<br>@amarocastro_imoveis<br><br>Dentro e fora do horário comercial, deixe sua mensagem no nosso WhatsApp que retornaremos assim que possível.<br><br>Os valores e informações poderão sofrer alterações sem aviso prévio.<br><br>CRECI: 071222<br>CNPJ: 35.658.040/0001-00<br>AMARO CASTRO IMÓVEIS LTDA -",
+        "title": "APARTAMENTO PARA VENDA - COND. EDIFÍCIO BARRA ROYAL PLAZA - BARRA DA TIJUCA",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2629785897",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22630012",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.009,
+                "approximateLon": -43.352,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Lúcio Costa",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:Barra Shopping Lateral",
+                "BS:Barra Shopping",
+                "BS:C2",
+                "BS:D1",
+                "BS:E1",
+                "TS:Barra Shopping",
+                "TS:Barra Shopping (Expresso)",
+                "TS:Barra Shopping (Parador)",
+                "TS:C2",
+                "TS:D1",
+                "CS:Esso",
+                "CS:Ateliê Mineiro",
+                "CS:Alfa Belle - Alfa Barra I",
+                "CS:Mundo Verde",
+                "CS:Alfa Belle - Alfa Barra II",
+                "PH:Drogaria Ministro",
+                "PH:Farma Alfa",
+                "PH:Drogarias Carioca"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0210",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "56"
+        ],
+        "advertiserId": "fdda6e23-16d3-20db-e6c9-9f9eca7d6fe6",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "1400000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21971070344",
+                "2126685700"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "fdda6e23-16d3-20db-e6c9-9f9eca7d6fe6",
+        "name": "AMARO CASTRO IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/62e0ab96d4431aed0c8ad0f3a944f9cb/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 735972,
+        "phones": {
+            "primary": "21971070344",
+            "mobile": "2126685700"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "8725c83c77452eccef726950bcf4722a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8725c83c77452eccef726950bcf4722a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b953c899ee326df342dfcf602e3158f5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b953c899ee326df342dfcf602e3158f5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0adb8eef2bd1fa4804b691788067c8f1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0adb8eef2bd1fa4804b691788067c8f1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e15b246f2d94bdc42e235aabf2ea7fc4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e15b246f2d94bdc42e235aabf2ea7fc4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "91d0a7af124065b776cd4385b078c6a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/91d0a7af124065b776cd4385b078c6a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42df7719be96329aa0141ea4ffa5b0c9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42df7719be96329aa0141ea4ffa5b0c9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6df2cc2520f04ce26d92d222cd62b957",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6df2cc2520f04ce26d92d222cd62b957/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "19720ffb2e3ed16524d88553e7c96978",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/19720ffb2e3ed16524d88553e7c96978/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "85a62c7c17253a6279e7d914815c18c4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/85a62c7c17253a6279e7d914815c18c4/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "AMARO CASTRO IMÓVEIS",
+        "href": "/735972/amaro-castro-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 56m²",
+        "href": "/imovel/apartamento-2-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-56m2-venda-RS1400000-id-2629785897/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Lúcio Costa",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

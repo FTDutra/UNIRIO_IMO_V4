@@ -1,0 +1,255 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [],
+        "usableAreas": [
+            "110"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento no Recreio dos Bandeirantes, na Gleba B.<br>110m, 2 quartos, sendo 1 suíte, banheiro social, cozinha, área de serviço e dependência completa. Varandão amplo, arejado e com uma vaga de garagem.<br><br>Aluguel: R$ 3.500,00<br>Condomínio: R$ 1.000,00<br>IPTU: R$ 320,00<br><br>?2 quartos sendo 1 suíte <br>?Banheiro social<br>?Sala<br>?Cozinha <br>?Área de serviço <br>?Dependência completa<br>?Varandão <br>?01 vaga de garagem<br>Fale conosco: -",
+        "title": "RIO DE JANEIRO - Apartamento Padrão - RECREIO DOS BANDEIRANTES",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2736382231",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22795465",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.468462,
+                "source": "GOOGLE",
+                "lat": -23.020758
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Joaquim Moreira Neves",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Gilka Machado",
+                "TS:Guiomar Novaes",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Recreio Shopping",
+                "CS:Américas Pão",
+                "CS:Armazém do Recreio",
+                "CS:R2 Bolos",
+                "CS:Panetteria Recreio",
+                "CS:Alfa Belle",
+                "PH:Botica do Rio",
+                "PH:Farmario",
+                "PH:Drogaria do Povo das Américas",
+                "PH:Dona Farma",
+                "PH:Economia de Drogarias"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "AP00524",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "110"
+        ],
+        "advertiserId": "b6b1ba59-dbc3-947d-327b-c8985ae6c7d5",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "rentalInfo": {
+                    "period": "MONTHLY",
+                    "warranties": [],
+                    "monthlyRentalTotalPrice": "4500"
+                },
+                "yearlyIptu": "320",
+                "price": "3500",
+                "businessType": "RENTAL",
+                "monthlyCondoFee": "1000"
+            },
+            {
+                "yearlyIptu": "320",
+                "price": "665000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1000"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21982721481"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21982721481",
+        "stamps": []
+    },
+    "account": {
+        "id": "b6b1ba59-dbc3-947d-327b-c8985ae6c7d5",
+        "name": "DANI COSTA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/43f9c8f40b38a64fbb35cde32443acfc/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 128377,
+        "phones": {
+            "primary": "21982721481",
+            "mobile": "21982721481"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "1c4234974317c916bde1c8f4e9313a84",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c4234974317c916bde1c8f4e9313a84/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "33ddd0974efbd96aaa08c447904ea38c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/33ddd0974efbd96aaa08c447904ea38c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a31ccee0f2721fef397e2c0fd92e7bc0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a31ccee0f2721fef397e2c0fd92e7bc0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "99ddbd1ad4b1397ab58b587175e74fac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/99ddbd1ad4b1397ab58b587175e74fac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42020c62a1721271c90ea0c68597332c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42020c62a1721271c90ea0c68597332c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "449ca4d427aad05071cc188fcddd2ce7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/449ca4d427aad05071cc188fcddd2ce7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4b4e24a21938d0b265cf9ad6c7f0ad83",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b4e24a21938d0b265cf9ad6c7f0ad83/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "68fb2cb66989e8799c7249edcf7c5323",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/68fb2cb66989e8799c7249edcf7c5323/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "40cef032389c4612ccfc44a3382b1858",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40cef032389c4612ccfc44a3382b1858/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a9891332fc0868ed2ab7c3a2f094251",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a9891332fc0868ed2ab7c3a2f094251/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c54e1816998cc35d413d03694bb7ec4f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c54e1816998cc35d413d03694bb7ec4f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "240001f2cd24155ed8e9af9ca9bd6d85",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/240001f2cd24155ed8e9af9ca9bd6d85/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "af474d7bc051efb7c8a382f0663d3213",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/af474d7bc051efb7c8a382f0663d3213/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "54664fc1759ae0aa303466eb942e394a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/54664fc1759ae0aa303466eb942e394a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "db7b3e717782d8b32b06edcbe64f7f85",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/db7b3e717782d8b32b06edcbe64f7f85/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b704f4869d07e551520940413465196d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b704f4869d07e551520940413465196d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e87296a6196b6a56763efb450bc60ed2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e87296a6196b6a56763efb450bc60ed2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3634ceae7aa59bb9862134233d806ce8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3634ceae7aa59bb9862134233d806ce8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ded0854d8a478ce3e9e720ac5b6d3c8d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ded0854d8a478ce3e9e720ac5b6d3c8d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "40a08dd1f43cc67c86d9376e39c66a7f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40a08dd1f43cc67c86d9376e39c66a7f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6febbfdbac7c980b3d851a3d361c1b44",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6febbfdbac7c980b3d851a3d361c1b44/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "DANI COSTA IMÓVEIS",
+        "href": "/128377/dani-costa-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos para venda ou aluguel, 110m²",
+        "href": "/imovel/apartamento-2-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-110m2-venda-RS665000-id-2736382231/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Joaquim Moreira Neves",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

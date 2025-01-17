@@ -1,0 +1,214 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "AIR_CONDITIONING",
+            "GARDEN",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "RECREATION_AREA",
+            "INTERNET_ACCESS",
+            "AMERICAN_KITCHEN",
+            "SECURITY_CAMERA",
+            "SIDE_ENTRANCE",
+            "DISABLED_ACCESS",
+            "ELECTRONIC_GATE",
+            "COWORKING",
+            "TOYS_PLACE",
+            "SAUNA",
+            "PET_SPACE",
+            "SPA"
+        ],
+        "usableAreas": [
+            "74"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O apartamento no bairro Recreio dos Bandeirantes com 74 metros quadrados com 2 quartos sendo 1 suite e 1 banheiro<br>Possui academia, parquinho infantil, espaço gourmet, espaço jardinado.<br>Vai lhe possibilitar curtir os dias mais quentes na piscina, todo o conforto do ar condicionado nos dias mais quentes.Churrasqueira para você aproveitar nos momentos de descontração.<br>Elevador que garante o transporte das suas malas e compras.<br>Encontra-se em um condomínio protegido por muros.",
+        "title": "Apartamento para venda possui 74 metros quadrados com 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2705289997",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790675",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "02",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.483908,
+                "source": "GOOGLE",
+                "lat": -23.020331
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Sandro Moreira",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Guiomar Novaes",
+                "TS:Recreio Shopping",
+                "TS:Gilka Machado",
+                "CS:Barra Bonita Padaria",
+                "CS:R2 Bolos",
+                "CS:Américas Pão",
+                "CS:Armazém do Recreio",
+                "CS:Entreposto Pesca Posto 12",
+                "PH:Drogaria M. M. Júnior",
+                "PH:Foliare",
+                "PH:Prophylaxis",
+                "PH:Economia de Drogarias",
+                "PH:Dona Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "Diogo/AsNoir 2",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "74"
+        ],
+        "advertiserId": "94bf7132-7a1b-140b-62e5-9d685a696eaf",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "100",
+                "price": "530000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "600"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21964402003"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964402003",
+        "stamps": []
+    },
+    "account": {
+        "id": "94bf7132-7a1b-140b-62e5-9d685a696eaf",
+        "name": "SANTOS IMÓVEIS",
+        "licenseNumber": "057914-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 74988,
+        "phones": {
+            "primary": "21964402003",
+            "mobile": "21964402003"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "140870874870348b086661131aedf9d2",
+            "url": "https://www.youtube.com/watch?v=Lcuve8rdBW0",
+            "type": "VIDEO"
+        },
+        {
+            "id": "bee34a5720ac8666aa587dd5b2caad94",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bee34a5720ac8666aa587dd5b2caad94/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7cd4c00206c35e8873467c21948340fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7cd4c00206c35e8873467c21948340fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7c4e55c2482246315f4fc60d46543d7c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7c4e55c2482246315f4fc60d46543d7c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8d3d0a3930f55d7bd4573bb3c9390071",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d3d0a3930f55d7bd4573bb3c9390071/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e1dc938d2d95027cf774fa1bee08fc2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e1dc938d2d95027cf774fa1bee08fc2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42f45fa7f2cb76e1b7dab8ef36b0c660",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42f45fa7f2cb76e1b7dab8ef36b0c660/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0e098b9749e86f1ca379a7fd92608ca5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0e098b9749e86f1ca379a7fd92608ca5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9a8f77db77fa57b645b5ff1f0bebc7f7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9a8f77db77fa57b645b5ff1f0bebc7f7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "772d1629fec51e1c2081b9cfa5750e30",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/772d1629fec51e1c2081b9cfa5750e30/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SANTOS IMÓVEIS",
+        "href": "/74988/santos-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 74m²",
+        "href": "/imovel/apartamento-2-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-74m2-venda-RS530000-id-2705289997/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Sandro Moreira",
+            "streetNumber": "02",
+            "zone": "Zona Oeste"
+        }
+    }
+}

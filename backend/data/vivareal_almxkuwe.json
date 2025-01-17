@@ -1,0 +1,203 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "BALCONY"
+        ],
+        "usableAreas": [
+            "57"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento em rua plana, condomínio fechado e boa localidade, com: Varanda, sala, dois quartos, cozinha, banheiro e área de serviços. Condomínio com salão de festas, churrasqueira, área de lazer para crianças, próximo a escolas, transportes, shopping e etc.<br> <br>",
+        "title": "Venda Apartamento 2 quartos Portuguesa Rio de Janeiro",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2730982442",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21920370",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.797,
+                "approximateLon": -43.204,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Jorge Veiga",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Portuguesa",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Portuguesa",
+            "poisList": [
+                "BS:Colina",
+                "TS:Colina",
+                "CS:Pan Du Riz",
+                "CS:AM&PM",
+                "CS:Stop Shop",
+                "CS:Padaria Majestosa",
+                "PH:Droga New",
+                "PH:Drogaria Mundial",
+                "PH:Dograrias Mais Barato",
+                "PH:Drogarias Mais Barato"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "1047902",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "57"
+        ],
+        "advertiserId": "e13f7cef-5bf6-8cfe-7f1c-983f6f1ccd47",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "74",
+                "price": "250000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "512"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2133637030",
+                "21995957030"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21995957030",
+        "stamps": []
+    },
+    "account": {
+        "id": "e13f7cef-5bf6-8cfe-7f1c-983f6f1ccd47",
+        "name": "Márcia Reis Netimóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/09f6495cbe6410de0c7718f87f8c2598/{description}.webp",
+        "licenseNumber": "007828-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 500240,
+        "phones": {
+            "primary": "2133637030",
+            "mobile": "21995957030"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "6f4a22e163b6abe9876572ff149ae55b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6f4a22e163b6abe9876572ff149ae55b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6cc575e844239193361bc91779935198",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6cc575e844239193361bc91779935198/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c5a9ee253dfa1720fa5125cddf348e4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c5a9ee253dfa1720fa5125cddf348e4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1b454687cea3a5c5a95821248ea66787",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1b454687cea3a5c5a95821248ea66787/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ebb76bce4a63305ba7502f78def43b43",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ebb76bce4a63305ba7502f78def43b43/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86cd9b6f6a4a6291e3d3147135fcffb9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86cd9b6f6a4a6291e3d3147135fcffb9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0ba25ccb0a4280a310bf27d19fea6070",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0ba25ccb0a4280a310bf27d19fea6070/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f81006703f783010f5c2f2e9901cd3d4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f81006703f783010f5c2f2e9901cd3d4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d372ba1f28f2e3eed678202128f9a411",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d372ba1f28f2e3eed678202128f9a411/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7ce839e6ff7ecf97f965545926005a07",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7ce839e6ff7ecf97f965545926005a07/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ae70705689e3b77852d6f72910b5eb20",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae70705689e3b77852d6f72910b5eb20/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "275db3ff6bb386c5a951ad5a421b7082",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/275db3ff6bb386c5a951ad5a421b7082/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0708960ab87fc7a18c6a2e81e540b79c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0708960ab87fc7a18c6a2e81e540b79c/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Márcia Reis Netimóveis",
+        "href": "/500240/marcia-reis-netimoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 57m²",
+        "href": "/imovel/apartamento-2-quartos-portuguesa-zona-norte-rio-de-janeiro-com-garagem-57m2-venda-RS250000-id-2730982442/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Portuguesa",
+            "state": "Rio de Janeiro",
+            "street": "Rua Jorge Veiga",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

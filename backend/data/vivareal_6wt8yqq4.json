@@ -1,0 +1,229 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "BEDROOM_WARDROBE",
+            "KITCHEN_CABINETS",
+            "LARGE_KITCHEN",
+            "INTERCOM",
+            "EMPLOYEE_DEPENDENCY",
+            "LAVABO",
+            "DISABLED_ACCESS",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "100"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "ata imoveis vende avenida atlantica terreo composto por 02 quartos dependências completa lavabo area externa predio no terraço possui churrasqueira apartamento térreo tipo casa, em primeiro andar, entre a Rua Figueiredo Magalhães e a Rua Siqueira Campos,Um terraço de uso comum com chuveirão, banheiros, churrasqueira para os moradores de liberado de 9 às 10 da noite.<br>agende sua visita não perca essa oportunidade",
+        "title": "avenida atlantica Apartamento terreo tipo casa para venda com area externa",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2713648725",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22041001",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "2334",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.18374,
+                "source": "GOOGLE",
+                "lat": -22.970691
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Atlântica",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 3 Siqueira Campos",
+                "BS:BRS 2 Hilário de Gouveia",
+                "BS:BRS 2: Hilário de Gouveia",
+                "BS:BRS 1 Paula Freitas",
+                "BS:BRS 1 Figueiredo Magalhães",
+                "TS:BRS 3 Siqueira Campos",
+                "TS:BRS 2 Hilário de Gouveia",
+                "TS:BRS 2: Hilário de Gouveia",
+                "TS:BRS 1 Paula Freitas",
+                "TS:BRS 1 Figueiredo Magalhães",
+                "CS:La Copa",
+                "CS:Multifruti",
+                "CS:Suíça",
+                "CS:Grão da terra",
+                "CS:The Bakers",
+                "PH:Drogaria Galanti",
+                "PH:Nash",
+                "PH:Prontofarma",
+                "PH:Farmácia do Leme",
+                "PH:Galícia"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "ap01519",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "100"
+        ],
+        "advertiserId": "855b8df9-f7b0-8d6e-6e03-a59ea84ce3b1",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1200",
+                "price": "1550000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1200"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21985185027"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21985185027",
+        "stamps": []
+    },
+    "account": {
+        "id": "855b8df9-f7b0-8d6e-6e03-a59ea84ce3b1",
+        "name": "Ata Imóveis Empreendimentos e Corretagem Eireli",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/46a237c6b10b7d148c8e9cd459b8b922/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 745131,
+        "phones": {
+            "primary": "21985185027",
+            "mobile": "21985185027"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "4e78e544be58d1a87f98f8ac8abcfee6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4e78e544be58d1a87f98f8ac8abcfee6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "84f6629e081a267a3264c9d880315323",
+            "url": "https://www.youtube.com/watch?v=YQQtBU72jmQ",
+            "type": "VIDEO"
+        },
+        {
+            "id": "1bb42ea02ac638d5598e0c53f932b725",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1bb42ea02ac638d5598e0c53f932b725/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd48cf327ce95f22dbe9e31f86cec244",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd48cf327ce95f22dbe9e31f86cec244/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e0b268449f7c407dc5a3fb3e9d85397c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e0b268449f7c407dc5a3fb3e9d85397c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ddd52efc5dcd974ba31f5feff563887c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ddd52efc5dcd974ba31f5feff563887c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e009cb28a7e2284235974f29f53c84ca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e009cb28a7e2284235974f29f53c84ca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9d285b38f9c2a5560995680a1a8af1a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9d285b38f9c2a5560995680a1a8af1a4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "925921820d7af57e48c0a50dff27e73c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/925921820d7af57e48c0a50dff27e73c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21c01df92b6057e2a188bee5187c6abc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21c01df92b6057e2a188bee5187c6abc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c89f1685aa33aacc0d4242192e97f58",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c89f1685aa33aacc0d4242192e97f58/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "def79e726221f9b0b7ef6fdf16205865",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/def79e726221f9b0b7ef6fdf16205865/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca6e0b4396b4f207c8f076f048aaa180",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca6e0b4396b4f207c8f076f048aaa180/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0b7c29e04b2fd924daf8337d81c2e03e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0b7c29e04b2fd924daf8337d81c2e03e/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Ata Imóveis Empreendimentos e Corretagem Eireli",
+        "href": "/745131/ata-imoveis-empreendimentos-e-corretagem-eireli/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 100m²",
+        "href": "/imovel/apartamento-2-quartos-copacabana-zona-sul-rio-de-janeiro-100m2-venda-RS1550000-id-2713648725/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Atlântica",
+            "streetNumber": "2334",
+            "zone": "Zona Sul"
+        }
+    }
+}

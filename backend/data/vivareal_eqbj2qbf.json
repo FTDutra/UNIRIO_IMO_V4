@@ -1,0 +1,230 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "ELECTRONIC_GATE",
+            "ELEVATOR"
+        ],
+        "usableAreas": [
+            "201"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O imóvel está localizado no bairro Lagoa possui 201 metros quadrados com 3 quartos sendo 3 suites e 4 banheirosElevador que garante o transporte das suas malas e compras.<br>Está em um condomínio protegido por grades.",
+        "title": "Imóvel para venda com 201 metros quadrados com 3 quartos em Lagoa - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2755286423",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22471004",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "3714",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.207885,
+                "source": "GOOGLE",
+                "lat": -22.972914
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Epitácio Pessoa",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Lagoa",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Lagoa",
+            "poisList": [
+                "BS:BRS 2: Joana Angélica",
+                "BS:Ponto Final: Afrânio de Melo Franco I",
+                "BS:Maria Angélica",
+                "BS:Jardim Botânico",
+                "BS:Humberto de Campos",
+                "TS:Lagoa",
+                "TS:Maria Quitéria",
+                "TS:Nossa Senhora da Paz",
+                "TS:Nossa Senhora da Paz / Ipanema",
+                "TS:Joana Angélica",
+                "CS:Armazém do Café",
+                "CS:A Padaria - Café Et Marché",
+                "CS:Confeitaria Ipanema",
+                "CS:TECNOMEDI IPANEMA",
+                "CS:Panificação Lagoa",
+                "PH:Padrão",
+                "PH:Drogaria Pop",
+                "PH:Prontofarma",
+                "PH:Ric"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            3
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "LP Epitácio 201 m²",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [],
+        "advertiserId": "7492e6d1-28a4-b36e-a362-e7b9bff517e2",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1",
+                "price": "3350000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21996082549"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996082549",
+        "stamps": []
+    },
+    "account": {
+        "id": "7492e6d1-28a4-b36e-a362-e7b9bff517e2",
+        "name": "MANOEL DIAS CORREA",
+        "licenseNumber": "074655-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 285936,
+        "phones": {
+            "primary": "21996082549",
+            "mobile": "21996082549"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "240e78fd300d8336df3a9560b6c901c6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/240e78fd300d8336df3a9560b6c901c6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b07da7e67b557498d9783fa794291c9f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07da7e67b557498d9783fa794291c9f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b3e14f095c8773cf896964feced5b7bb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b3e14f095c8773cf896964feced5b7bb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "07b4bb28042abf1b69c3008b7d00382a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/07b4bb28042abf1b69c3008b7d00382a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5bad5e04ed3cb0df96dd025a51b3b998",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5bad5e04ed3cb0df96dd025a51b3b998/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "80e54ffe80187b990b8369c3a2de184c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/80e54ffe80187b990b8369c3a2de184c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "84dd98c1b6489eaaa88f49e164613aae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/84dd98c1b6489eaaa88f49e164613aae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e9b93a64dba50e50c63c43037ee5c250",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e9b93a64dba50e50c63c43037ee5c250/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0135af2082bd0752a8682168f3e58077",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0135af2082bd0752a8682168f3e58077/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e79529bceab2cb9c4516cbdbc383e02c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e79529bceab2cb9c4516cbdbc383e02c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "68b4bb26ba203c0db8407c5fc524462c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/68b4bb26ba203c0db8407c5fc524462c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e998c48ffada7740f0705d23d3e77875",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e998c48ffada7740f0705d23d3e77875/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "da4d8315a77765144c51f4ddd58b7886",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/da4d8315a77765144c51f4ddd58b7886/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f157d94bcda3e7880374e89534a90858",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f157d94bcda3e7880374e89534a90858/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fc28ae20683dcaf1574b0445d5bb65b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fc28ae20683dcaf1574b0445d5bb65b0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "195463eed4c28789eaa16b1ccf2cbafc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/195463eed4c28789eaa16b1ccf2cbafc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1648eb52d4ff39030cced54b6d652855",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1648eb52d4ff39030cced54b6d652855/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "MANOEL DIAS CORREA",
+        "href": "/285936/manoel-dias-correa/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 201m²",
+        "href": "/imovel/apartamento-3-quartos-lagoa-zona-sul-rio-de-janeiro-com-garagem-201m2-venda-RS3350000-id-2755286423/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Lagoa",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Epitácio Pessoa",
+            "streetNumber": "3714",
+            "zone": "Zona Sul"
+        }
+    }
+}

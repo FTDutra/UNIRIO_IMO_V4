@@ -1,0 +1,294 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "BARBECUE_GRILL",
+            "HEATING",
+            "NUMBER_OF_FLOORS",
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "182"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua Xavier da Silveira, no bairro Copacabana em Rio de Janeiro. <br><br>Este imóvel conta com área construída de 182m², oferecendo 3 quartos, 3 banheiros e 1 vaga de garagem. <br><br>Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apartamento à venda em Copacabana com 182 m², 3 quartos, 1 vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2724163047",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22061011",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "80",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.191621,
+                "source": "GOOGLE",
+                "lat": -22.976529
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Xavier da Silveira",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 1 Xavier da Silveira",
+                "BS:BRS 3 Miguel Lemos",
+                "BS:BRS 2 Bolívar",
+                "BS:BRS 3 Bolivar",
+                "BS:BRS 1 Miguel Lemos",
+                "TS:BRS 1 Xavier da Silveira",
+                "TS:BRS 3 Miguel Lemos",
+                "TS:Xavier da Silveira",
+                "TS:BRS 2 Bolívar",
+                "TS:BRS 3 Bolivar",
+                "CS:Sulimar",
+                "CS:Casa du bisçoito",
+                "CS:Grão da terra",
+                "CS:The Bakers",
+                "CS:Lopes",
+                "PH:Prontofarma",
+                "PH:Drogaria Galanti",
+                "PH:Viva Mais",
+                "PH:Farmácia Central Posto 6",
+                "PH:Drogaria Pop"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "PU16vis83",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "182"
+        ],
+        "advertiserId": "14848ac6-70cb-9e82-4530-dbeb734d8a40",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "5400",
+                "price": "1900000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2200"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2138280882",
+                "21966501603"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21966501603",
+        "stamps": []
+    },
+    "account": {
+        "id": "14848ac6-70cb-9e82-4530-dbeb734d8a40",
+        "name": "BS Imobiliária e Adm Condomínios.",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5594e935c1ca3b85b392d52dbc6140b0/{description}.webp",
+        "licenseNumber": "9763-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 756868,
+        "phones": {
+            "primary": "2138280882",
+            "mobile": "21966501603"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "ed1a5987e608a9436f502d2aa707c133",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed1a5987e608a9436f502d2aa707c133/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e242b4cdcf0ebdbad174d81af5aface2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e242b4cdcf0ebdbad174d81af5aface2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a282d57f44ccacd2d7f9583ec308f0e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a282d57f44ccacd2d7f9583ec308f0e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "50662dbbf34e6d9d8c8cd89c49c0f8ea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/50662dbbf34e6d9d8c8cd89c49c0f8ea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1779282dda76382a9711f8a000338e10",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1779282dda76382a9711f8a000338e10/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8c2f3673cdc6d714eabe404fcdf1eee8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8c2f3673cdc6d714eabe404fcdf1eee8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "413b977888665aa294c9c741f92e8a20",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/413b977888665aa294c9c741f92e8a20/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1117d6e351c00588989e79a53da7aeb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1117d6e351c00588989e79a53da7aeb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8d561c3163c0ccc8b3c64d80bc203876",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d561c3163c0ccc8b3c64d80bc203876/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fc467f9edca20f1d54b841f3af010076",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fc467f9edca20f1d54b841f3af010076/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "85f4bc77fa2f3a1529bf0be1cdf73b32",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/85f4bc77fa2f3a1529bf0be1cdf73b32/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9ae698e9e26b182443df6057d0d0f527",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ae698e9e26b182443df6057d0d0f527/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ed8b1f6979aa40ba0d5e41dafe279ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ed8b1f6979aa40ba0d5e41dafe279ed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6f2963bca66e903ed29b90fd1b495ea1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6f2963bca66e903ed29b90fd1b495ea1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1cf5032e0a1304f0c5b5aecdd7ab1336",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1cf5032e0a1304f0c5b5aecdd7ab1336/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86972a7b41eaa6815db78912629ecdfc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86972a7b41eaa6815db78912629ecdfc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "00b3f2384e227883c02cada246b2933e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/00b3f2384e227883c02cada246b2933e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d9745ceffc5571daa95c128ed9e00da4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d9745ceffc5571daa95c128ed9e00da4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d45a4bb75cd7ed6de4712e400f90838d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d45a4bb75cd7ed6de4712e400f90838d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "17192e0bff2b750e70b6db932efa2ff4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/17192e0bff2b750e70b6db932efa2ff4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "592f2de2511ad4dd2110faf03f808d6a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/592f2de2511ad4dd2110faf03f808d6a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e06cdbc99f42847f001bb42cec07bb4a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e06cdbc99f42847f001bb42cec07bb4a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "187a9e85b6b8a51e3c756da8117fad2d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/187a9e85b6b8a51e3c756da8117fad2d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a72a8bf1c23d839483c77822fb7c2a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8a72a8bf1c23d839483c77822fb7c2a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5d99bdf18fafbdfe4b988831cede7e9b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5d99bdf18fafbdfe4b988831cede7e9b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "198c1b1b7578dd73f68da7fae7064a20",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/198c1b1b7578dd73f68da7fae7064a20/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2db9e211024b1394f6054a3c82754586",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2db9e211024b1394f6054a3c82754586/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4fddfc6e2cd831b03120ef1166fa0a9d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4fddfc6e2cd831b03120ef1166fa0a9d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2d8a90e74a687a5e4323eafe5a6d933e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2d8a90e74a687a5e4323eafe5a6d933e/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "BS Imobiliária e Adm Condomínios.",
+        "href": "/756868/bs-imobiliaria-e-adm-condominios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 182m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-182m2-venda-RS1900000-id-2724163047/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Xavier da Silveira",
+            "streetNumber": "80",
+            "zone": "Zona Sul"
+        }
+    }
+}

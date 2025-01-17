@@ -1,0 +1,220 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "SERVICE_AREA",
+            "CONCIERGE_24H",
+            "BUILTIN_WARDROBE",
+            "BEDROOM_WARDROBE",
+            "KITCHEN_CABINETS",
+            "LAVABO"
+        ],
+        "usableAreas": [
+            "111"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Rua Conselheiro Zenha, nº 19 - Melhor ponto da Tijuca - Amplo apartamento, frente para Conselheiro Zenha, com Salão, três quartos, armários, lavabo, banheiro, dependências completas, garagem, portaria 24 horas ( imóvel precisa de obras de modernização) - Marcar visitas - Adaco Adm. Corretagem Ltda - 2 5 3 3 - 4 1 4 4 / 9 8 8 1 1 - 2 5 9 1 / whatsApp 9 8 5 2 9-1 4 8 5 - CJ 15 47.",
+        "title": "MELHOR PONTO DA TIJUCA - Três quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2700499987",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20550090",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "19",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.228124,
+                "source": "GOOGLE",
+                "lat": -22.923867
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Conselheiro Zenha",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Saens Peña :: Integração Metrô",
+                "BS:Ponto Final do 600 (Taquara)",
+                "BS:Ponto Final: Saens Peña :: Linha 601",
+                "BS:Ponto Final: Saens Peña :: Linha 665",
+                "BS:Ponto Final: Saens Peña",
+                "TS:Heitor Beltrão",
+                "TS:Saens Peña :: Integração Metrô",
+                "TS:Carlos de Vasconcelos",
+                "TS:Major Ávila",
+                "TS:Saens Peña",
+                "CS:Empório Lamego",
+                "CS:Confeitaria Rita de Cássia",
+                "CS:Lojas Bandeirantes",
+                "CS:TECNOMEDI TIJUCA",
+                "CS:Flor da Tijuca",
+                "PH:Drograria Venâncio",
+                "PH:Drogaria Venancio",
+                "PH:Drogaria Pedro Ernesto",
+                "PH:Drogaria Unidas",
+                "PH:FarmaDez"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "PREMIUM",
+        "externalId": "0161-001",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "111"
+        ],
+        "advertiserId": "76e3cea5-8e84-414c-6bfd-0534da2ea2c4",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "220",
+                "price": "575000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1100"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21985291485"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21985291485",
+        "stamps": []
+    },
+    "account": {
+        "id": "76e3cea5-8e84-414c-6bfd-0534da2ea2c4",
+        "name": "ADACO ADMINISTRAÇÃO E CORRETAGEM LTDA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d360d07f39d036e2c45df97b9defcbc/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 225161,
+        "phones": {
+            "primary": "21985291485",
+            "mobile": "21985291485"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "8795447645f6e6b851186d329415942b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8795447645f6e6b851186d329415942b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3182769bec4a0ab18f84ec75b46275f7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3182769bec4a0ab18f84ec75b46275f7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bdb2d8ef1db6ac649ebda5a4e0d26fbc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bdb2d8ef1db6ac649ebda5a4e0d26fbc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "34a28f532e3a4f30b516629ad7990d14",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/34a28f532e3a4f30b516629ad7990d14/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "486843d3f476a0d32d9f93717101c5e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/486843d3f476a0d32d9f93717101c5e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8c8860420a5c1cbe51235d4f758de140",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8c8860420a5c1cbe51235d4f758de140/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d37f3336b0d2a87326c28465c3ef4f16",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d37f3336b0d2a87326c28465c3ef4f16/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1396a7abc1753f24f7100960a893c649",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1396a7abc1753f24f7100960a893c649/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "adf21863463dba9db70b86cba36728ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/adf21863463dba9db70b86cba36728ff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c2c08df3005dcb912f7c64fbb9d28b20",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2c08df3005dcb912f7c64fbb9d28b20/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9b9fe5c18a6ae18d29c700408384ccfb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9b9fe5c18a6ae18d29c700408384ccfb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "22d1e5f0c0470618adf2897c2b8643de",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/22d1e5f0c0470618adf2897c2b8643de/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d3017344ad0dc7fb3c0f08922b542c09",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d3017344ad0dc7fb3c0f08922b542c09/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "608b520baa2c46e2e18fa36b274ddf61",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/608b520baa2c46e2e18fa36b274ddf61/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "ADACO ADMINISTRAÇÃO E CORRETAGEM LTDA",
+        "href": "/225161/adaco-administracao-e-corretagem-ltda/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 111m²",
+        "href": "/imovel/apartamento-3-quartos-tijuca-zona-norte-rio-de-janeiro-com-garagem-111m2-venda-RS575000-id-2700499987/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Conselheiro Zenha",
+            "streetNumber": "19",
+            "zone": "Zona Norte"
+        }
+    }
+}

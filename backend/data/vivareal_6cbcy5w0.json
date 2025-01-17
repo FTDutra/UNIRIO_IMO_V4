@@ -1,0 +1,277 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "BALCONY",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "BUILTIN_WARDROBE",
+            "KITCHEN_CABINETS",
+            "KITCHEN",
+            "LARGE_WINDOW",
+            "BATHTUB",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "94"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento com 3 quartos disponível para venda, Composto por hall de entrada, sala ampla para dois ambientes, com varanda interna, três quartos, sendo dois com armários embutidos, banheiro social amplo com hidromassagem, cozinha planejada com armários, área de serviço, banheiro de serviço. A dependência foi aberta para a cozinha. Apartamento com 94m² no IPTU, de frente, com vista para a rua e prédios, claro, reformado. Condomínio com jardim e portaria 24 horas. Próximo ao Aterro do Flamengo, 6 minutos da estação de metrô do Flamengo, restaurantes, mercados, farmácias, entre outras variedades de comércios, transportes e lazer 83e55",
+        "title": "Flamengo | Apartamento 3 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2745645652",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22230000",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.939,
+                "approximateLon": -43.176,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Senador Vergueiro",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Flamengo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "poisList": [
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Largo do Machado",
+                "BS:Rua das Laranjeiras, 336",
+                "BS:Palácio Universitário",
+                "BS:Marechal Cantuária",
+                "TS:Flamengo",
+                "TS:Ponto Final: Largo do Machado :: Linha 497",
+                "TS:Acesso Catete",
+                "TS:Largo do Machado",
+                "TS:Acesso Largo do Machado",
+                "CS:Padaria Napoles",
+                "CS:Deep Freeze",
+                "CS:Maguila",
+                "CS:Mei-jo",
+                "CS:Benamor",
+                "PH:Rio Brasil",
+                "PH:Farma Hall",
+                "PH:Drogaria Paraná",
+                "PH:RioFarma",
+                "PH:Quintessência"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "IP3AP97339",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "94"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3008",
+                "price": "1290000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1199"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": []
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "1089571b8c3f172bbf8e097b020aca95",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1089571b8c3f172bbf8e097b020aca95/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c524220b16e3bde2c6f0d9cc68059046",
+            "url": "https://www.youtube.com/watch?v=KyH6se6BJ68",
+            "type": "VIDEO"
+        },
+        {
+            "id": "ac10285208a3b420e7158d24b798cdb3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ac10285208a3b420e7158d24b798cdb3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a422442e0c5cff3b9dbb1f5b8180b7ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a422442e0c5cff3b9dbb1f5b8180b7ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ef29bb7ddd738c5e79c1aabe40e6a8f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ef29bb7ddd738c5e79c1aabe40e6a8f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "156c8790ef8899c29a78bba0daf2c8ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/156c8790ef8899c29a78bba0daf2c8ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2322e66c56db2e009880f80effada89b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2322e66c56db2e009880f80effada89b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bea8fac110123fdeeb00896ed538343e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bea8fac110123fdeeb00896ed538343e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ad727a121a7dcf7c2d39df1103cd2a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ad727a121a7dcf7c2d39df1103cd2a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "47e6aa2fd783e47b90557bcbab5b0c0c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/47e6aa2fd783e47b90557bcbab5b0c0c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e697f862a452c20f46c696daecfc3ac5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e697f862a452c20f46c696daecfc3ac5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "96974c16efd0183716cc5595553515a9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/96974c16efd0183716cc5595553515a9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1bb1e281f3328ee722d917f79b2260fc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1bb1e281f3328ee722d917f79b2260fc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "73415f43b644aea5777b7fb6396243e7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/73415f43b644aea5777b7fb6396243e7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0ea3d05d8b7c6e38062e76b46eda1e59",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0ea3d05d8b7c6e38062e76b46eda1e59/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5d284b0b09f4c78177326235b3da7a1e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5d284b0b09f4c78177326235b3da7a1e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6d167d0f37ae4592a7bc0a4eb06311c6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6d167d0f37ae4592a7bc0a4eb06311c6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb4f8e71e153b3b44c88b8b66d115005",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb4f8e71e153b3b44c88b8b66d115005/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c4d19a262d9d1f6028cfd934b8defedc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c4d19a262d9d1f6028cfd934b8defedc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d37810082fa633fa6a7e1d66375abf88",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d37810082fa633fa6a7e1d66375abf88/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d082e7c7b31d46c2c2da95b8319ebfc1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d082e7c7b31d46c2c2da95b8319ebfc1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "edc863bf7939a5afbee0e032fcd14309",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/edc863bf7939a5afbee0e032fcd14309/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ef0a3da8431f1aa2046d8b82376742e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ef0a3da8431f1aa2046d8b82376742e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b4f9787e4583b6b76967c41dacf8136",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b4f9787e4583b6b76967c41dacf8136/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 94m²",
+        "href": "/imovel/apartamento-3-quartos-flamengo-zona-sul-rio-de-janeiro-94m2-venda-RS1290000-id-2745645652/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Senador Vergueiro",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

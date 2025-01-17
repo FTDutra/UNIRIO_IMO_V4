@@ -1,0 +1,309 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "SERVICE_AREA",
+            "INTERCOM",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "73"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento com 2 quartos à venda, 73 m² por R$ 270.000 - Oswaldo Cruz - Rio de Janeiro/RJ.<br><br>Imóveis Mav vende bom apartamento, tipo casa, no 2º andar com boa sala, 02 quartos, cozinha, área de serviço e banheiro social. Quintal privativo com churrasqueira, banheiro de apoio e vaga de garagem...<br>Isento de condomínio<br><br>Agende uma visita com nossos corretores!!! -",
+        "title": "Apartamento à venda, 73 m² por R$ 270.000,00 - Oswaldo Cruz - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2522935667",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21340410",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "155",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.355593,
+                "source": "GOOGLE",
+                "lat": -22.875102
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Abiancari",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Oswaldo Cruz",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Oswaldo Cruz",
+            "poisList": [
+                "BS:Ponto de Onibus da Vila Nova",
+                "BS:Linha 774 Madureira >> Jardim América",
+                "BS:LInha 940 Madureira >> Ramos",
+                "BS:Linha 355 Madureira >> Praça Tiradentes",
+                "BS:LInha 254 Madureira >> Praça XV",
+                "TS:Oswaldo Cruz",
+                "TS:Ponto de Onibus da Vila Nova",
+                "TS:Prefeito Bento Ribeiro",
+                "TS:Pref. Bento Ribeiro",
+                "TS:LInha 940 Madureira >> Ramos",
+                "CS:J.D.R.",
+                "CS:FABRICA DE BOLO VÓ ALZIRA",
+                "CS:FINI",
+                "CS:Tecnomedi Madureira",
+                "SU:Escola Municipal Maria das Dores Negrão",
+                "SU:Escola Municipal Waldemiro Potsch",
+                "SU:Escola Municipal Mozart Lago",
+                "SU:Escola Municipal Barão do Amparo",
+                "SU:Escola Municipal Carlos de Laet"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0653",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "73"
+        ],
+        "advertiserId": "4bec5fd9-921f-7958-4e2e-6281b8969d61",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "270000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2130446511",
+                "21964907656"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964907656",
+        "stamps": []
+    },
+    "account": {
+        "id": "4bec5fd9-921f-7958-4e2e-6281b8969d61",
+        "name": "MAV IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc50e6c64348c6b7b0c15b82fd3b30e2/{description}.webp",
+        "licenseNumber": "46890-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 64182,
+        "phones": {
+            "primary": "2130446511",
+            "mobile": "21964907656"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "698a8f439accc7736baffe329aed6782",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/698a8f439accc7736baffe329aed6782/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e9b3c3219419dcb3e169b44b929f5f7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e9b3c3219419dcb3e169b44b929f5f7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "63abea57e6ddc1530150bef5a62b704f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/63abea57e6ddc1530150bef5a62b704f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f75402785640f8251409c6387f7030b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f75402785640f8251409c6387f7030b0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ab90c84e2a85768ad34aaf9a67d43a3c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ab90c84e2a85768ad34aaf9a67d43a3c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "60a45daca81c2ed30ea9ed7df805c2c5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60a45daca81c2ed30ea9ed7df805c2c5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e199276ba82a0e4023ceeddb9a91ca6c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e199276ba82a0e4023ceeddb9a91ca6c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "433839ca5c8c17a2dcf03860525aaf7f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/433839ca5c8c17a2dcf03860525aaf7f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fa0dd7de31d16b536495d4c8f2abca33",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa0dd7de31d16b536495d4c8f2abca33/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cfbedc600560b3520171eb27873bab17",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cfbedc600560b3520171eb27873bab17/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "34577d1c73c0c7c79511622f42a464e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/34577d1c73c0c7c79511622f42a464e3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "abf88d8915987a3564a9ae59f925f3ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/abf88d8915987a3564a9ae59f925f3ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "156b23fd6b74b779169b3428a63e89dd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/156b23fd6b74b779169b3428a63e89dd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e14f12f5bbdae4248e3fa807ec788456",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e14f12f5bbdae4248e3fa807ec788456/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2760ec4e7ca567d1d830f08ea229744e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2760ec4e7ca567d1d830f08ea229744e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "094f5c1b2b004ccd56abc9ec873eebaa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/094f5c1b2b004ccd56abc9ec873eebaa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4e75076b447539e76d9cc554e5aaaf57",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4e75076b447539e76d9cc554e5aaaf57/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c5c549cafc524d81cdf7995739579a7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c5c549cafc524d81cdf7995739579a7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3d4fe79ee234816fe01ed3c4e401e765",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3d4fe79ee234816fe01ed3c4e401e765/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aeb28a3f1c9dee5492e688cc9d8d72d1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aeb28a3f1c9dee5492e688cc9d8d72d1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9111686956ce75507593bfe32edafa05",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9111686956ce75507593bfe32edafa05/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f21696b5fcdfc70be2b7415c174dd5c9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f21696b5fcdfc70be2b7415c174dd5c9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "54566e913db52c76ad4d5737809f6193",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/54566e913db52c76ad4d5737809f6193/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c86dae82cd1db15c9f598c653a074457",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c86dae82cd1db15c9f598c653a074457/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d6da42d425c5a6626ab82511279e5be1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d6da42d425c5a6626ab82511279e5be1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "95d368a7a627431724dac87d5ba719f5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/95d368a7a627431724dac87d5ba719f5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e6e4c5443ed4020686f033f23e64e0f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9e6e4c5443ed4020686f033f23e64e0f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "04c28aead5715ee1804f130caddc9af6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/04c28aead5715ee1804f130caddc9af6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a86daf2985df162e724cc7339c55ca5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a86daf2985df162e724cc7339c55ca5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "78f89fe4608d85a1468e1fb6e213330a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/78f89fe4608d85a1468e1fb6e213330a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "34aa514d60b4aca0e7f183161f0290ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/34aa514d60b4aca0e7f183161f0290ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5a4c7c6423e4cccec7f124cac7d4d8cb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5a4c7c6423e4cccec7f124cac7d4d8cb/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "MAV IMÓVEIS",
+        "href": "/64182/mav-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 73m²",
+        "href": "/imovel/apartamento-2-quartos-oswaldo-cruz-zona-norte-rio-de-janeiro-com-garagem-73m2-venda-RS270000-id-2522935667/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Oswaldo Cruz",
+            "state": "Rio de Janeiro",
+            "street": "Rua Abiancari",
+            "streetNumber": "155",
+            "zone": "Zona Norte"
+        }
+    }
+}

@@ -1,0 +1,243 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "180"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Oportunidade no Posto 6. Localização privilegiada, perto da praia, restaurantes e comércio em geral. Prédio com portaria 24h, CITV, manobrista e com acesso a cadeirante, estritamente residencial, com apenas uma unidade por andar. Apartamento silencioso, em andar alto, claro e arejado, distribuído em hall de entrada exclusivo, ampla sala em dois ambientes, sala de jantar bem definida, escritório, lavabo, três bons quartos, sendo uma ampla suíte, banheiro social , cozinha com armários, área de serviço bem ventilada e dependência completa com armários. Uma vaga na escritura.",
+        "title": "Apartamento à venda em Copacabana com 180 m², 3 quartos, 1 suíte, 1 vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2724160208",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22081000",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.985,
+                "approximateLon": -43.193,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Bulhões de Carvalho",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Ipanema",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:Ponto Final: Copacabana :: Linha 455",
+                "BS:BRS 2: Francisco Sá",
+                "BS:BRS 1",
+                "BS:BRS 2: Rainha Elizabeth",
+                "BS:Ponto Final: General Osório :: Rua Prudente de Morais",
+                "TS:Ponto Final: Copacabana :: Linha 455",
+                "TS:BRS 2: Francisco Sá",
+                "TS:BRS 1",
+                "TS:BRS 2: Rainha Elizabeth",
+                "TS:Ponto Final: General Osório :: Rua Prudente de Morais",
+                "CS:Lopes",
+                "CS:Nema",
+                "CS:La Veronese",
+                "CS:Peixaria Z13",
+                "CS:Colônia dos Pescadores",
+                "PH:Farmácia Central Posto 6",
+                "PH:Viva Mais",
+                "PH:Drogaria Pop",
+                "PH:Prontofarma",
+                "PH:Drogaria Galanti"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PU1yad71t",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "180"
+        ],
+        "advertiserId": "14848ac6-70cb-9e82-4530-dbeb734d8a40",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "513",
+                "price": "1850000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2519"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2138280882",
+                "21966501603"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21966501603",
+        "stamps": []
+    },
+    "account": {
+        "id": "14848ac6-70cb-9e82-4530-dbeb734d8a40",
+        "name": "BS Imobiliária e Adm Condomínios.",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5594e935c1ca3b85b392d52dbc6140b0/{description}.webp",
+        "licenseNumber": "9763-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 756868,
+        "phones": {
+            "primary": "2138280882",
+            "mobile": "21966501603"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "29d3bffcd618bba40191f6e9c6b2d52e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/29d3bffcd618bba40191f6e9c6b2d52e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "167f149a48d24234e701bdccc89169b7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/167f149a48d24234e701bdccc89169b7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5a412d38595a585cafb3147dbd12448b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5a412d38595a585cafb3147dbd12448b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "39271690a5968d1686c259043914ac6d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39271690a5968d1686c259043914ac6d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8290a736b662b99de8d4c2523d83a22c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8290a736b662b99de8d4c2523d83a22c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d45618b31544fe559692e326fa1ed505",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d45618b31544fe559692e326fa1ed505/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "40570a16744c2ce8b106054444ad743f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40570a16744c2ce8b106054444ad743f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f7ed983621d0f79e2042151de3a85b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f7ed983621d0f79e2042151de3a85b0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e85720ddee4a8a6faede84fa1a78f0a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e85720ddee4a8a6faede84fa1a78f0a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1fb813cf380a0a1811e23872639cea0d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1fb813cf380a0a1811e23872639cea0d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0a65edd08455b076c890c9f1a71cefbb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0a65edd08455b076c890c9f1a71cefbb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1bd82cb5e441728602c72a38a1e3957f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1bd82cb5e441728602c72a38a1e3957f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a48c35437050590d9176cbd7e228263a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a48c35437050590d9176cbd7e228263a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fde447ddfe7111996f7284397cb7ea67",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fde447ddfe7111996f7284397cb7ea67/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eae23465c8a064eb57f0f0b433219bb8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eae23465c8a064eb57f0f0b433219bb8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "260c09313358c00987cabbf719554c1b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/260c09313358c00987cabbf719554c1b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "32aadd5433f25b29b4d3b0df533ad9cc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/32aadd5433f25b29b4d3b0df533ad9cc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a936933f146a65e9bd7ee9986276c1f7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a936933f146a65e9bd7ee9986276c1f7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fc4a2a10c688fbec32dcf979c2fbc374",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fc4a2a10c688fbec32dcf979c2fbc374/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "BS Imobiliária e Adm Condomínios.",
+        "href": "/756868/bs-imobiliaria-e-adm-condominios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 180m²",
+        "href": "/imovel/apartamento-3-quartos-ipanema-zona-sul-rio-de-janeiro-com-garagem-180m2-venda-RS1850000-id-2724160208/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "state": "Rio de Janeiro",
+            "street": "Rua Bulhões de Carvalho",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

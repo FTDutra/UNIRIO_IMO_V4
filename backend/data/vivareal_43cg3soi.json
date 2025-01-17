@@ -1,0 +1,278 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "GARDEN",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "BUILTIN_WARDROBE",
+            "BEDROOM_WARDROBE",
+            "KITCHEN_CABINETS",
+            "BATHROOM_CABINETS",
+            "SERVICE_BATHROOM",
+            "GAS_SHOWER",
+            "LARGE_WINDOW",
+            "LARGE_ROOM",
+            "SECURITY_24_HOURS",
+            "NATURAL_VENTILATION",
+            "GAMES_ROOM",
+            "ELECTRONIC_GATE",
+            "COWORKING",
+            "SAUNA",
+            "INTEGRATED_ENVIRONMENTS",
+            "PANORAMIC_VIEW",
+            "SPA",
+            "RECEPTION"
+        ],
+        "usableAreas": [
+            "80"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O apartamento no bairro Jardim Botânico na melhor rua do bairro, próxima a todo comércio local, bares, restaurantes e da Lagoa Rodrigo de Freitas.<br>prédio maravilhoso com infraestrutura composto de 2 academias, sauna, piscina infantil e adulta, churrasqueira, salão de festas e playground.<br>apartamento composto de ampla sala, 2 quartos (sendo 1 suíte com belíssima vista, banheiro social, copa cozinha planejada, área de serviço e dependências completas.<br>pronto morar.<br>vazio com entrega imediata.<br>agende agora sua visita e feche negócio!!",
+        "title": "Apartamento para venda com 2 quartos no Jardim Botânico",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2636266888",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22460012",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "248",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.220755,
+                "source": "GOOGLE",
+                "lat": -22.964168
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Lópes Quintas",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Jardim Botanico",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "poisList": [
+                "BS:Jardim Botânico",
+                "BS:Hospital da Lagoa",
+                "BS:Baixo Gávea",
+                "BS:Maria Angélica",
+                "BS:409 Horto - Saens Peña",
+                "TS:Hospital da Lagoa",
+                "TS:Maria Angélica",
+                "TS:Ponto Final: Horto",
+                "TS:Ponto Final: CIEP Nação Rubro Negra",
+                "TS:Nossa Senhora Auxiliadora",
+                "CS:La Bicyclette",
+                "CS:Bastarda",
+                "CS:Toquinha da Globo",
+                "CS:Panificação Século XX",
+                "CS:Vitória Régia",
+                "PH:Ric",
+                "PH:Padrão"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AL-lbap24299",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "80"
+        ],
+        "advertiserId": "bd13e5ea-9039-42cf-c3b5-ddf39e05201c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3658",
+                "price": "1400000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1300"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21973943126"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21973943126",
+        "stamps": []
+    },
+    "account": {
+        "id": "bd13e5ea-9039-42cf-c3b5-ddf39e05201c",
+        "name": "Luiz Honorio de Menezes",
+        "licenseNumber": "046868-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 754284,
+        "phones": {
+            "primary": "21973943126",
+            "mobile": "21973943126"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "1228fbdcba9775a3632a61ded547dcbc",
+            "url": "https://www.youtube.com/watch?v=jJqjR41waWw",
+            "type": "VIDEO"
+        },
+        {
+            "id": "99f2b2056d09eec23f9289f25e6a3f32",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/99f2b2056d09eec23f9289f25e6a3f32/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "98aba1f4cf892b1690de2cf3c503b431",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98aba1f4cf892b1690de2cf3c503b431/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4285acfbbba241c8676cb4dd717a1347",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4285acfbbba241c8676cb4dd717a1347/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "23e40c863b94a258db328fa992a95905",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/23e40c863b94a258db328fa992a95905/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5e8345d5ac50482e357be71bb3271998",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5e8345d5ac50482e357be71bb3271998/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a92ba4892668fe1046a0ecca1bc21b3e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a92ba4892668fe1046a0ecca1bc21b3e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "08c69fbab29c7bc98abb805537953730",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/08c69fbab29c7bc98abb805537953730/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9562e03066cdf3d76aa6302189ea8984",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9562e03066cdf3d76aa6302189ea8984/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38a2023ff64a5f078651635e2282e8fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38a2023ff64a5f078651635e2282e8fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f0a775f39926d371dcf02b3088d245c6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f0a775f39926d371dcf02b3088d245c6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7ec26e2df452b9673671b5cd665c2b5c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7ec26e2df452b9673671b5cd665c2b5c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "56396165f22a5afa0d0c36e94a1c159a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56396165f22a5afa0d0c36e94a1c159a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "00e06574c8dec5ad87a869650bfa7a8d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/00e06574c8dec5ad87a869650bfa7a8d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "176d1892ca57ee510d740b26674996a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/176d1892ca57ee510d740b26674996a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "068baf78947b1282264398fb9a923e12",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/068baf78947b1282264398fb9a923e12/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fff8feefb56d9ea4dfa5d08b8e1c20f6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fff8feefb56d9ea4dfa5d08b8e1c20f6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c3ff17562eaa7e59b738cde4bee8ee1f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c3ff17562eaa7e59b738cde4bee8ee1f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "069f042ef1987bebc6c5967a3545d55d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/069f042ef1987bebc6c5967a3545d55d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cc55b938a1f881e1aef6a7535fbc2861",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cc55b938a1f881e1aef6a7535fbc2861/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6ccfd390812ab932f85daab3b38dc830",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ccfd390812ab932f85daab3b38dc830/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Luiz Honorio de Menezes",
+        "href": "/754284/luiz-honorio-de-menezes/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 80m²",
+        "href": "/imovel/apartamento-2-quartos-jardim-botanico-zona-sul-rio-de-janeiro-com-garagem-80m2-venda-RS1400000-id-2636266888/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "state": "Rio de Janeiro",
+            "street": "Rua Lópes Quintas",
+            "streetNumber": "248",
+            "zone": "Zona Sul"
+        }
+    }
+}

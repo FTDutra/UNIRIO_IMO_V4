@@ -1,0 +1,300 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "ELEVATOR",
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "263"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento em localização privilegiada de Botafogo! Amplo salão em dois ambientes, original 4 quartos, um foi aberto para ampliar a sala, banheiro social, cozinha ampla, área de serviço com dependência completa e 2 vagas de garagem!",
+        "title": "Apartamento à venda, 4 quartos, 1 suíte, 2 vagas, Botafogo - RIO DE JANEIRO/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2664212825",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22290240",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.95,
+                "approximateLon": -43.178,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Pasteur",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Botafogo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:Integrada 9",
+                "BS:Integrada 8",
+                "BS:Ponto Final: Rio Sul :: Barra, Recreio e Vargem Grande",
+                "BS:Integrada 2",
+                "BS:Rio Sul",
+                "TS:Integrada 9",
+                "TS:Integrada 8",
+                "TS:Ponto Final: Rio Sul :: Barra, Recreio e Vargem Grande",
+                "TS:Integrada 2",
+                "TS:Rio Sul",
+                "CS:Padaria e Confeitaria Rio 2001",
+                "CS:The Slow Bakery",
+                "CS:Americanas Local",
+                "CS:Le Dépanneur Delicatessen",
+                "CS:Fica Café",
+                "PH:Farmácia Iate Club",
+                "PH:Drogarias American",
+                "PH:Farma Nature",
+                "PH:Farmacopa",
+                "PH:Poubel"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "57557",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "263"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "8119",
+                "price": "2800000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2270"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "b633358fc9bbe96c266ee52aef5b3c48",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b633358fc9bbe96c266ee52aef5b3c48/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f47aa664a9fbb4545ee9bbaf1292374c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f47aa664a9fbb4545ee9bbaf1292374c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2fadadb0b3a0d9c0da556517cc5262e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2fadadb0b3a0d9c0da556517cc5262e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c1b02881e04194a22de70c781528d83e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c1b02881e04194a22de70c781528d83e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2f93f0c6d8bf51dd089a991c73fd0f64",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2f93f0c6d8bf51dd089a991c73fd0f64/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1dca92c1b2d80083ccfd178e2df25fa9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1dca92c1b2d80083ccfd178e2df25fa9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e4973ee8b3bbb1facc406e13a5a73407",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e4973ee8b3bbb1facc406e13a5a73407/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "518598250e3fda4615d967909e145bf5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/518598250e3fda4615d967909e145bf5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c5608d6c36907dc28a73b61c6b8d634",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c5608d6c36907dc28a73b61c6b8d634/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "518754de04a607023fe94cd9f134d137",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/518754de04a607023fe94cd9f134d137/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7305ee25b105a004ca5ab70e553928a1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7305ee25b105a004ca5ab70e553928a1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "584dbf520909b5a98eb115cfb56c9d5a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/584dbf520909b5a98eb115cfb56c9d5a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "509085f6979f4d7c849e217ce2e54e33",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/509085f6979f4d7c849e217ce2e54e33/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3de2faaaadeb7404ae4faa68edcd90e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3de2faaaadeb7404ae4faa68edcd90e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "25fbb1610013926f03be5f4466791e96",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/25fbb1610013926f03be5f4466791e96/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "15f0b82e7dceb9d3a538ceb43f234e6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/15f0b82e7dceb9d3a538ceb43f234e6e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd7c55fb8611b6cd29ec430e041a3b47",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd7c55fb8611b6cd29ec430e041a3b47/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "df8eaf554b1cdb540651219166583055",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df8eaf554b1cdb540651219166583055/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cee9ba89fc11201d6b39e46ebe2202f6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cee9ba89fc11201d6b39e46ebe2202f6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "63553f728d41fae4d7fb9e4f7189a006",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/63553f728d41fae4d7fb9e4f7189a006/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "273cee1c3af25a8524fa1943e10453b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/273cee1c3af25a8524fa1943e10453b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6df72b5da751107d1f809e7f3703d1e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6df72b5da751107d1f809e7f3703d1e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "658430b9c5ff307e67b88820d73c8311",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/658430b9c5ff307e67b88820d73c8311/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5c4bdf8cdb825596041ef9fc5e069389",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5c4bdf8cdb825596041ef9fc5e069389/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7661865f76f6d8be4985ab5f307a457d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7661865f76f6d8be4985ab5f307a457d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b5afe49125be47df3e7c24dbd371500a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b5afe49125be47df3e7c24dbd371500a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb7dc6a9a90b8becbcd92eebb474bb72",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb7dc6a9a90b8becbcd92eebb474bb72/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "933ee63f85d01c869905adc9f482cd10",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/933ee63f85d01c869905adc9f482cd10/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa2eb2838d27b2c3b31c5716d8a45a78",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa2eb2838d27b2c3b31c5716d8a45a78/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "afe8652be51851550889a88d1c491eba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/afe8652be51851550889a88d1c491eba/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 263m²",
+        "href": "/imovel/apartamento-4-quartos-botafogo-zona-sul-rio-de-janeiro-com-garagem-263m2-venda-RS2800000-id-2664212825/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Pasteur",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

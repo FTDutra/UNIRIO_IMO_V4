@@ -1,0 +1,248 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "PETS_ALLOWED",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "AMERICAN_KITCHEN",
+            "SAUNA",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "92"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente Garden com 92 m2 no Condomínio Litorâneo<br><br>Sala ampla dividida em dois ambientes<br>varanda <br>cozinha bem espaçosa com área de serviço<br>banheiro social<br><br>2 suítes amplas e 1 quarto<br><br>área externa<br><br>condomínio com total infra estrutura, próximo a praia",
+        "title": "Excelente Garden de 3 quartos com 2 suítes no Condomínio Rossi Litoraneoo",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2717716742",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22795026",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "231",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.480504,
+                "source": "GOOGLE",
+                "lat": -23.029422
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Zelio Valverde",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Guiomar Novaes",
+                "TS:Recreio Shopping",
+                "TS:Gilka Machado",
+                "CS:Entreposto Pesca Posto 12",
+                "CS:Barra Bonita Padaria",
+                "CS:Alfa Belle",
+                "CS:Padaria AlfaBelle",
+                "CS:R2 Bolos",
+                "PH:Economia de Drogarias",
+                "PH:Foliare",
+                "PH:Dona Farma",
+                "PH:Farmario",
+                "PH:Drogaria M. M. Júnior"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "1I1H1ES",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "92"
+        ],
+        "advertiserId": "ec65c9db-2a6d-2d6f-2b3d-81606bac4f9b",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2930",
+                "price": "690000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1500"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21964134942",
+                "21964239813"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964239813",
+        "stamps": []
+    },
+    "account": {
+        "id": "ec65c9db-2a6d-2d6f-2b3d-81606bac4f9b",
+        "name": "S&S Imobiliária",
+        "licenseNumber": "72213-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 624092,
+        "phones": {
+            "primary": "21964134942",
+            "mobile": "21964239813"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "ac37ae7dc6e456e01cb237c76f3240e7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ac37ae7dc6e456e01cb237c76f3240e7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6fd43118164237bfc481be1092978b6a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6fd43118164237bfc481be1092978b6a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c361ac5543ca6bfb8222effd1650c709",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c361ac5543ca6bfb8222effd1650c709/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3addd824d1959c11b2d7517d0ce86331",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3addd824d1959c11b2d7517d0ce86331/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "421f8dc7740582bcd16943d3568ddeea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/421f8dc7740582bcd16943d3568ddeea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2ce1a49456a1d8374707a6230d6ed91e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2ce1a49456a1d8374707a6230d6ed91e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "68b266f2fb1a9fa3c39ec8dde91ad51b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/68b266f2fb1a9fa3c39ec8dde91ad51b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c783337108c1ed71443d530d61d43145",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c783337108c1ed71443d530d61d43145/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d9943499a099198c6e1c61856e17469d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d9943499a099198c6e1c61856e17469d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "00b4b236f5f571c237ea618c03b36a2e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/00b4b236f5f571c237ea618c03b36a2e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cab7dc7294f9657047afdd82bc202e3f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cab7dc7294f9657047afdd82bc202e3f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c538de933fcf98cab46bc205738a05e4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c538de933fcf98cab46bc205738a05e4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d281b3f999010f5860b5bc7dd97e8507",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d281b3f999010f5860b5bc7dd97e8507/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "55b6db7f09fb51a0e8d3a6e3211550e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/55b6db7f09fb51a0e8d3a6e3211550e3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9ab678ad5d95eb0a780d63de201bd747",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ab678ad5d95eb0a780d63de201bd747/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "68de997aecebfadb983052d706092223",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/68de997aecebfadb983052d706092223/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8205e971bf0434f9ba16399126d64099",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8205e971bf0434f9ba16399126d64099/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f973f2b93f9589d5ed30f99f8027587",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f973f2b93f9589d5ed30f99f8027587/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c4b88965e571ff24665d7d6f0cb766da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c4b88965e571ff24665d7d6f0cb766da/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "S&S Imobiliária",
+        "href": "/624092/s-s-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 92m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-92m2-venda-RS690000-id-2717716742/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Zelio Valverde",
+            "streetNumber": "231",
+            "zone": "Zona Oeste"
+        }
+    }
+}

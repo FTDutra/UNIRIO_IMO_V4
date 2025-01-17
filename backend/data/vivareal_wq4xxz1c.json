@@ -1,0 +1,305 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "BALCONY",
+            "PETS_ALLOWED",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "KITCHEN",
+            "INTERCOM",
+            "SAFETY_CIRCUIT",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "74"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Código:3039 - Apartamento à Venda em Vila Isabel,localizado na Rua Teodoro da Silva, próximo à Rua Mendes Tavares e a apenas 6 minutos do Shopping Boulevard. A região oferece uma excelente variedade de comércio e fácil mobilidade para diversos pontos da cidade.<br><br>O imóvel possui uma sala ampla com dois ambientes e uma varanda aconchegante. Conta com 2 quartos, 2 banheiros, uma cozinha funcional e uma área de serviço. A dependência completa oferece a possibilidade de ser revertida em uma suíte, proporcionando flexibilidade para atender às suas necessidades.O apartamento ainda dispõe de uma vaga de garagem, totalmente escriturada e demarcada.<br><br>O condomínio é bem administrado e conta com portaria24 horas, área de lazer, salão de festas, sistema de monitoramento por câmeras e 2 elevadores.<br><br>Não perca a oportunidade de conhecer seu novo lar. Agende sua visita e venha conferir! Também avaliamos seu imóvel.<br> -Rev.11Dez",
+        "title": "Apartamento - Padrão / Residencial / Vila Isabel",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2751065756",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20560025",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.919,
+                "approximateLon": -43.254,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Teodoro da Silva",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Vila Isabel",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "poisList": [
+                "BS:Ponto Final: Vila Isabel :: Linha 432",
+                "BS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "BS:Ponto final 222",
+                "BS:Ponto Final 433",
+                "BS:Ponto Final 605",
+                "TS:Ponto Final: Vila Isabel :: Linha 432",
+                "TS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "TS:Ponto Final 433",
+                "TS:Ponto Final 605",
+                "TS:Ponto Final 438",
+                "CS:Padaria do Verdun",
+                "CS:Fábrica de Bolo da Vó Alzira",
+                "CS:Mercado de Carnes Coração da Vila",
+                "CS:Afagá Confeitaria Brasileira",
+                "CS:Empório Maria Filó",
+                "PH:Drograrias Guanabara",
+                "PH:Farma Dez",
+                "PH:Drogaria Pedro Ernesto",
+                "PH:Drogaria MEP",
+                "PH:Drograria Venâncio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "3039",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "74"
+        ],
+        "advertiserId": "67b1a4ca-d2dd-63db-7cd5-932d64ddbe74",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "120",
+                "price": "430000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1010"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21970472968"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21970472968",
+        "stamps": []
+    },
+    "account": {
+        "id": "67b1a4ca-d2dd-63db-7cd5-932d64ddbe74",
+        "name": "AM IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/97028143efcbaa9c67173c1a6548f2f2/{description}.webp",
+        "licenseNumber": "008170-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 637205,
+        "phones": {
+            "primary": "21970472968",
+            "mobile": "21970472968"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "82c2b80fc04e88b8fee7f34cd6b534fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82c2b80fc04e88b8fee7f34cd6b534fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a0bdce0ede6049558adf47a2073cf233",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a0bdce0ede6049558adf47a2073cf233/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5a567127b7b80c6294b58be499c9b297",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5a567127b7b80c6294b58be499c9b297/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38a68543d9be20f717257d2749ab9e74",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38a68543d9be20f717257d2749ab9e74/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "130c62584d2e0bf75f1c0f12fd45f092",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/130c62584d2e0bf75f1c0f12fd45f092/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0bb9ea3d0ec30973e24cea403688e89c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0bb9ea3d0ec30973e24cea403688e89c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "588b47e80ec1783876a9b89a00d3a524",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/588b47e80ec1783876a9b89a00d3a524/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "32e39fbde94f58b6594e34a800cc6226",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/32e39fbde94f58b6594e34a800cc6226/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb7d1c039ebde36cfa721cccce4515cd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb7d1c039ebde36cfa721cccce4515cd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d5d91f3f4168fc8a9c5300a3e4ca6022",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d5d91f3f4168fc8a9c5300a3e4ca6022/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8114e5c5fef8e48277d671e13bca4a06",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8114e5c5fef8e48277d671e13bca4a06/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a55b05531930d57a92d341cce115a63d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a55b05531930d57a92d341cce115a63d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ae949c3206edf006198c182aa08fe09",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ae949c3206edf006198c182aa08fe09/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c266317682afc86859fe7e6141aeeb7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c266317682afc86859fe7e6141aeeb7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1025b6e34efd8be87bd2f50cfbe24c2e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1025b6e34efd8be87bd2f50cfbe24c2e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8baa8961d102cc5aebd0a025dd5afb01",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8baa8961d102cc5aebd0a025dd5afb01/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cc5364b597306623bc8454fec0899f10",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cc5364b597306623bc8454fec0899f10/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "20565b252b889b8029e422464b0bf997",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/20565b252b889b8029e422464b0bf997/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb04ce5acedc7cef32983f546ae97d0e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb04ce5acedc7cef32983f546ae97d0e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "588c104944ea30a7910715f4a40a1438",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/588c104944ea30a7910715f4a40a1438/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b53c0c52f3cbb877273c43827c2f0fb3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b53c0c52f3cbb877273c43827c2f0fb3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a591a77b8468720509f97f46ed6093e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a591a77b8468720509f97f46ed6093e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c1ef29d4396ce4da6ae1471fd1c876e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c1ef29d4396ce4da6ae1471fd1c876e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "01502c187bedecfc96b7394984f09aad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/01502c187bedecfc96b7394984f09aad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce7d1bd5fca4b2ec098a0cd8bd262855",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce7d1bd5fca4b2ec098a0cd8bd262855/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "26f9b1132c18b78b5fa2f51ecf86b7ab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/26f9b1132c18b78b5fa2f51ecf86b7ab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "58d6c60b57cd0b04874de83f8ed59003",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/58d6c60b57cd0b04874de83f8ed59003/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21b3c83365eab6a8f57e77a24e70a42f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21b3c83365eab6a8f57e77a24e70a42f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "574824b1f5788ba9c8313c70c6a1cbb3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/574824b1f5788ba9c8313c70c6a1cbb3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1aa669d360cba6af5950a09267a5a9fc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1aa669d360cba6af5950a09267a5a9fc/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "AM IMÓVEIS",
+        "href": "/637205/am-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 74m²",
+        "href": "/imovel/apartamento-2-quartos-vila-isabel-zona-norte-rio-de-janeiro-com-garagem-74m2-venda-RS430000-id-2751065756/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "state": "Rio de Janeiro",
+            "street": "Rua Teodoro da Silva",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

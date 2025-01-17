@@ -1,0 +1,188 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "240"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente cobertura linear de 240m2, com 3 quartos sendo 1 Suite + Closet, sala, Banheiro Social, área de serviços, varanda, Ampla cozinha com Armários embutidos.<br>Direito de Laje na escritura e 3 Vagas Garagem, c8531",
+        "title": "Recreio dos Bandeirantes | Cobertura 3 quartos, sendo 1 suite",
+        "unitTypes": [
+            "PENTHOUSE"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2699795178",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            3
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22795380",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.02,
+                "approximateLon": -43.471,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Albano de Carvalho",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Gilka Machado",
+                "TS:Guiomar Novaes",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Recreio Shopping",
+                "CS:R2 Bolos",
+                "CS:Américas Pão",
+                "CS:Armazém do Recreio",
+                "CS:Alfa Belle",
+                "CS:Padaria AlfaBelle",
+                "PH:Botica do Rio",
+                "PH:Farmario",
+                "PH:Dona Farma",
+                "PH:Foliare",
+                "PH:Economia de Drogarias"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "RI4184",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "240"
+        ],
+        "advertiserId": "98899ab1-9326-4db1-2ccf-2e2983b2a46d",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "4000",
+                "price": "1800000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1400"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2132148500",
+                "2133158500"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "98899ab1-9326-4db1-2ccf-2e2983b2a46d",
+        "name": "RIOIMOB IMOBILIÁRIA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8cb86dae7a3cb6684db623666671cace/{description}.webp",
+        "licenseNumber": "006335-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 135411,
+        "phones": {
+            "primary": "2132148500",
+            "mobile": "2133158500"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "22aae756d90f0e91d18d5aa7337e1a67",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/22aae756d90f0e91d18d5aa7337e1a67/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f439a301866a66a0232f46c5d9455f7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f439a301866a66a0232f46c5d9455f7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0d88ccfc8caa0c320ceba27ae568495e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0d88ccfc8caa0c320ceba27ae568495e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "597ebabcae4dd8e141a9a355f4b662d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/597ebabcae4dd8e141a9a355f4b662d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "10c0cd919b65bbceff60b9f8b73eef31",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/10c0cd919b65bbceff60b9f8b73eef31/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c81cd97df17e9395662aa6760088186e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c81cd97df17e9395662aa6760088186e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "afc29877b85a0842d1651e1eadc1d554",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/afc29877b85a0842d1651e1eadc1d554/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "af68fd7e22430c1b9f7a0f06328e9699",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/af68fd7e22430c1b9f7a0f06328e9699/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "34179722e603af060ce37776d88169d9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/34179722e603af060ce37776d88169d9/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "RIOIMOB IMOBILIÁRIA",
+        "href": "/135411/rioimob-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Cobertura com 3 Quartos à venda, 240m²",
+        "href": "/imovel/cobertura-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-240m2-venda-RS1800000-id-2699795178/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Albano de Carvalho",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "KITCHEN",
+            "INTERCOM",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "267"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Bernini Península é um dos últimos grandes lançamentos da região da Península, já consolidada.<br>Composto por sala ampla em 2 ambientes,4 suítes, transformados em 3 para expandir a sala, 2 lavabos.<br>Agende sua visita com um de nossos Corretores. -",
+        "title": "Apartamento com 4 dormitórios à venda, 267 m² por R$ 4.500.000 - Barra da Tijuca - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2624439358",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            3
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22776070",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "2412",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.351252,
+                "source": "GOOGLE",
+                "lat": -22.993075
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Flamboyants da Península",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:Barra Shopping Lateral",
+                "BS:Barra Shopping Fundos (Hot Zone)",
+                "BS:O2 Corporate & Offices",
+                "BS:Barra Shopping",
+                "BS:Casa Shopping",
+                "TS:O2 Corporate & Offices",
+                "TS:Barra Shopping",
+                "TS:Casa Shopping",
+                "TS:Barra Shopping (Expresso)",
+                "TS:Barra Shopping (Parador)",
+                "CS:Sítio do Moinho",
+                "CS:Esso",
+                "CS:Mundo Verde",
+                "CS:Fábrica do Bolo",
+                "CS:Candy Delicatesse",
+                "PH:Drogarias Carioca"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            4
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP1345",
+        "bathrooms": [
+            6
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "267"
+        ],
+        "advertiserId": "a201b395-fa8a-5332-d495-a427f0477bf4",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "915",
+                "price": "4500000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "4000"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2121782318",
+                "21988909466"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988909466",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "a201b395-fa8a-5332-d495-a427f0477bf4",
+        "name": "EXPANSÃO RIO IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ebe85cae68556afe13fb82532a0f60f2/{description}.webp",
+        "licenseNumber": "8032-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 27989,
+        "phones": {
+            "primary": "2121782318",
+            "mobile": "21988909466"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "1c41bbb029d008946e562ead5ba70d22",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c41bbb029d008946e562ead5ba70d22/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e867a8e2e71f763414255b58535f5e5c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e867a8e2e71f763414255b58535f5e5c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "41095c035f585f3b3df5d10d527c5eda",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/41095c035f585f3b3df5d10d527c5eda/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "02b0dcd55f4880cdc4338edb9e69a127",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/02b0dcd55f4880cdc4338edb9e69a127/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "93b983da60e335a66906889a0302d4b3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/93b983da60e335a66906889a0302d4b3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c1de371b9209c1ad178c8a2cfb3c404e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c1de371b9209c1ad178c8a2cfb3c404e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c2042e762df0861fc77fff9d57e7ae83",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2042e762df0861fc77fff9d57e7ae83/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b211985c2b74d4596aa6ff48aa6b5d4f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b211985c2b74d4596aa6ff48aa6b5d4f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e9fa54ce4996fa0f1d8894fa133b0001",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e9fa54ce4996fa0f1d8894fa133b0001/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "74d0977748c4eba13ce893efba91e568",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/74d0977748c4eba13ce893efba91e568/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "06656b5152d6c66c96d7eacb95dedab3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/06656b5152d6c66c96d7eacb95dedab3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ad89b1de4091493a9295c4f567e5d20b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ad89b1de4091493a9295c4f567e5d20b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c074228773e5fe29a88fb3c1babb431",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c074228773e5fe29a88fb3c1babb431/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "EXPANSÃO RIO IMÓVEIS",
+        "href": "/27989/expansao-rio-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 267m²",
+        "href": "/imovel/apartamento-4-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-267m2-venda-RS4500000-id-2624439358/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Flamboyants da Península",
+            "streetNumber": "2412",
+            "zone": "Zona Oeste"
+        }
+    }
+}

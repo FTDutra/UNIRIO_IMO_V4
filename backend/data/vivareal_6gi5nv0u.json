@@ -1,0 +1,276 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "GARAGE",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "SAFETY_CIRCUIT",
+            "WATCHMAN"
+        ],
+        "usableAreas": [
+            "100"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento totalmente reformado, com split em todos os cômodos, fino acabamento e pronto para entrar e morar disponivél para venda pela Privilégio Imóveis, apartamento tem 100m² no IPTU, distribuídos em 3 quartos repletos de armários, sendo 1 suíte com banheira, sala ampla em dois ambientes, conectada à cozinha americana e planejada, área de serviço separada e banheiro de serviço. O imóvel dispõe de um jogo de luzes indiretas para dar um toque aconchegante a cada ambiente. Unidade silenciosa e bem ventilada. Possui ainda 1 vaga de garagem. Prédio com portaria 24 horas, bicicletário,",
+        "title": "Apartamento totalamente reformando com 3 quartos com 1 suíte em Botafogo",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2682795354",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22271020",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.956,
+                "approximateLon": -43.194,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Conde de Irajá",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Botafogo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:Cobal do Humaitá",
+                "BS:Cobal",
+                "BS:BRS 3: Sorocaba",
+                "BS:Humaitá",
+                "BS:Maria Angélica",
+                "TS:Cobal do Humaitá",
+                "TS:Cobal",
+                "TS:Humaitá",
+                "TS:Acesso Mena Barreto",
+                "TS:Acesso Voluntários",
+                "CS:Mercado Humaitá",
+                "CS:Do Conde",
+                "CS:TECNOMEDI BOTAFOGO",
+                "CS:Farinha Pura",
+                "CS:Casa Imperial",
+                "PH:Ypiranga",
+                "PH:Minipreço",
+                "PH:Caminhoá",
+                "PH:Bio Mundo",
+                "PH:Nash"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "64743",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "100"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2901",
+                "price": "1250000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1490"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_FEVEREIRO_2024"
+        ]
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "09ee191f9c2e3a71dddd1ef7d48b3194",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/09ee191f9c2e3a71dddd1ef7d48b3194/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "025ae184c0d9139400a1377c4685987f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/025ae184c0d9139400a1377c4685987f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "46f055f522a2abe6d6d9aea79eb896af",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/46f055f522a2abe6d6d9aea79eb896af/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f172a220cade2f99a4dec4a92acc3cad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f172a220cade2f99a4dec4a92acc3cad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "29af64b805828ae93ff76a24c90fc8f6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/29af64b805828ae93ff76a24c90fc8f6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6afc6dbc16d5add7169b46fa5efa3b14",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6afc6dbc16d5add7169b46fa5efa3b14/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "64fa29dac6f38c307b456c0cd2245d7f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/64fa29dac6f38c307b456c0cd2245d7f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "62fd916e387878a6f06b8775906596e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/62fd916e387878a6f06b8775906596e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4719b73ee66792542c5d9fc4c2f4287f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4719b73ee66792542c5d9fc4c2f4287f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "44cffe902ab2dd42b3fc35c1486cd482",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/44cffe902ab2dd42b3fc35c1486cd482/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38d5bd769b0c2dbc7b20cf9e6357c265",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38d5bd769b0c2dbc7b20cf9e6357c265/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "34ae25e9ddca1995b03f9a85f8b271dd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/34ae25e9ddca1995b03f9a85f8b271dd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b213b5594c6945ae2d0d036ed12af681",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b213b5594c6945ae2d0d036ed12af681/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "391ebc60bde92b88adb75cf4afc37f32",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/391ebc60bde92b88adb75cf4afc37f32/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f930427d46084291e97112b58226650e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f930427d46084291e97112b58226650e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a81bbbc34abae173ea6c8f9a08b948ac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a81bbbc34abae173ea6c8f9a08b948ac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "73ff3808ebd4ecf4d4a5113327c5506f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/73ff3808ebd4ecf4d4a5113327c5506f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "53b984747887fa8c3b3a5c8f37a801f3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/53b984747887fa8c3b3a5c8f37a801f3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "801907a6265d91c3587068b8500b0bcf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/801907a6265d91c3587068b8500b0bcf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e678e64a05391a3002482a81ce56574a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e678e64a05391a3002482a81ce56574a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fa93c03dda7b9164e57527b59a081d2a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa93c03dda7b9164e57527b59a081d2a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "392e34a7322faaf2ef7224d7d9da7bc3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/392e34a7322faaf2ef7224d7d9da7bc3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1f79900f317d2b2f92659dbec08de742",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1f79900f317d2b2f92659dbec08de742/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 100m²",
+        "href": "/imovel/apartamento-3-quartos-botafogo-zona-sul-rio-de-janeiro-com-garagem-100m2-venda-RS1250000-id-2682795354/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Conde de Irajá",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

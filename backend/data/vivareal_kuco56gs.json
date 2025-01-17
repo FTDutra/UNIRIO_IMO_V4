@@ -1,0 +1,223 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "LAUNDRY",
+            "PETS_ALLOWED",
+            "CONCIERGE_24H",
+            "ELEVATOR",
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "30"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente imóvel em Copacabana. Localização Perfeita. Apartamento reformado, claro e arejado, sol da manhã, sala aconchegante, dividido e sala/quarto, banheiro com armário e box, pequena cozinha funcional.<br>Prédio bem administrado, próximo a todo comércio, portaria 24 horas, circuito interno, câmeras de monitoramento.<br><br>Fale conosco: -",
+        "title": "APARTAMENTO RESIDENCIAL em RIO DE JANEIRO - RJ, COPACABANA",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2724612433",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22011010",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.961,
+                "approximateLon": -43.174,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Princesa Isabel",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:Belfort Roxo",
+                "BS:Ronald de Carvalho",
+                "BS:BRS 2 Belford Roxo",
+                "BS:Duvivier",
+                "BS:Shopping Rio Sul",
+                "TS:Belfort Roxo",
+                "TS:Ronald de Carvalho",
+                "TS:BRS 2 Belford Roxo",
+                "TS:Duvivier",
+                "TS:Shopping Rio Sul",
+                "CS:Copa Fish",
+                "CS:Panificadora e Confeitaria Atlântica",
+                "CS:Açai de gema",
+                "CS:Marina",
+                "CS:Paõ & Companhia",
+                "PH:Galícia",
+                "PH:Farmácia do Leme",
+                "PH:Drogarias American",
+                "PH:Farmácia Iate Club",
+                "PH:Farma Nature"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "AP00284",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "30"
+        ],
+        "advertiserId": "6a66e46a-6c8d-9944-4881-ac3ab03926ff",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "60",
+                "price": "380000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "560"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2132174018",
+                "21993465116"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21993465116",
+        "stamps": []
+    },
+    "account": {
+        "id": "6a66e46a-6c8d-9944-4881-ac3ab03926ff",
+        "name": "Deglier",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7faf8111e4c49486b963f675d2a6a747/{description}.webp",
+        "licenseNumber": "39865-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 282206,
+        "phones": {
+            "primary": "2132174018",
+            "mobile": "21993465116"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "ae5aca260c2e5ed1f5a099005c2ac3a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae5aca260c2e5ed1f5a099005c2ac3a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0c8f678bc06419628200603b3670f644",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0c8f678bc06419628200603b3670f644/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d5bb4e0d9ca683ba808a7ed3f90e1897",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d5bb4e0d9ca683ba808a7ed3f90e1897/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d254605129eddd68a7bba2caaa44f159",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d254605129eddd68a7bba2caaa44f159/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2a14c6cae43ac3c73f7b395aa3d02b42",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a14c6cae43ac3c73f7b395aa3d02b42/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cc9bec09284824ddfd4d027247baf55f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cc9bec09284824ddfd4d027247baf55f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c7ea3b16970e02db3bc3e26ccf4e2366",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c7ea3b16970e02db3bc3e26ccf4e2366/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "808f3e685ecd97b2d77f970e364ee260",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/808f3e685ecd97b2d77f970e364ee260/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a4030bf2fb2bbf745277b60295aee252",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4030bf2fb2bbf745277b60295aee252/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "064ed2906db8afd8a14297d7992599f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/064ed2906db8afd8a14297d7992599f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e01e7bd10131d16e93784c874abb5b17",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e01e7bd10131d16e93784c874abb5b17/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "699714c7f6d85e3bbd929565b4a0c203",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/699714c7f6d85e3bbd929565b4a0c203/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "67a499c480797e5a85d486a6c8022677",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/67a499c480797e5a85d486a6c8022677/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1b083b961d59ee69f4e89c4656068f1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1b083b961d59ee69f4e89c4656068f1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff36605bacc71588ae762dcfae8373f7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff36605bacc71588ae762dcfae8373f7/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Deglier",
+        "href": "/282206/deglier/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 30m²",
+        "href": "/imovel/apartamento-1-quartos-copacabana-zona-sul-rio-de-janeiro-30m2-venda-RS380000-id-2724612433/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Princesa Isabel",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

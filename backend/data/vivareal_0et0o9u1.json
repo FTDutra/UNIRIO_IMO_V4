@@ -1,0 +1,203 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "BALCONY",
+            "ELEVATOR"
+        ],
+        "usableAreas": [
+            "56"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento sala & quarto, com excelente planta, espaçoso, claro, arejado, com pé direito alto e com vista indevassada; recém reformado, pronto para morar",
+        "title": "Apartamento à venda, 1 quarto, São Cristóvão - RIO DE JANEIRO/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2707404227",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20921440",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.895,
+                "approximateLon": -43.22,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Campo São Cristóvão",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Sao Cristovao",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "São Cristóvão",
+            "poisList": [
+                "BS:INTO",
+                "BS:F2",
+                "BS:104",
+                "BS:Ponto final 104",
+                "BS:Ponto Final: São Januário :: Linha 473",
+                "TS:INTO",
+                "TS:F2",
+                "TS:104",
+                "TS:Ponto final 104",
+                "TS:Ponto Final: São Januário :: Linha 473",
+                "CS:Padaria Cancela",
+                "CS:Padaria Do Sardo",
+                "CS:Panificação Esmero",
+                "CS:Ponto de Bala",
+                "CS:Americanas Express",
+                "PH:Drogarias Qualidade de Vida"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "67085",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "56"
+        ],
+        "advertiserId": "47bfba65-4536-fdcd-02a0-7c94c59de885",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1",
+                "price": "280000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "600"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2139883415",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "47bfba65-4536-fdcd-02a0-7c94c59de885",
+        "name": "Privilégio Tijuca",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca0857f43658bddac6ef6c3da8d31f19/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 761981,
+        "phones": {
+            "primary": "2139883415",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "739f883a6ced21107f2908d949f76527",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/739f883a6ced21107f2908d949f76527/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0a3de962ade352bdc8ca647f1ccdfbc7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0a3de962ade352bdc8ca647f1ccdfbc7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2fc503130e0c7a2ed5aae179723a620b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2fc503130e0c7a2ed5aae179723a620b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3d81fd9227c4ab68ec1c614aaaf0b935",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3d81fd9227c4ab68ec1c614aaaf0b935/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b93cd3a4bf31074f250252ac10abff0e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b93cd3a4bf31074f250252ac10abff0e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3fc29dceb87aad3ae6c98d9cde6fe42c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3fc29dceb87aad3ae6c98d9cde6fe42c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d78898649b3eedafc7f1dc319381e5bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d78898649b3eedafc7f1dc319381e5bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2d3c0cd5a3c56d8727b220ba6f8e63fc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2d3c0cd5a3c56d8727b220ba6f8e63fc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0dd39c9a1572e9f7dc802e73b8e539a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0dd39c9a1572e9f7dc802e73b8e539a6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cc340a74b0c1f5546b48bcb62466eb84",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cc340a74b0c1f5546b48bcb62466eb84/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9521325652ec09548edd78ab78ce4825",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9521325652ec09548edd78ab78ce4825/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Tijuca",
+        "href": "/761981/privilegio-tijuca/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 56m²",
+        "href": "/imovel/apartamento-1-quartos-sao-cristovao-zona-norte-rio-de-janeiro-56m2-venda-RS280000-id-2707404227/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "São Cristóvão",
+            "state": "Rio de Janeiro",
+            "street": "Campo São Cristóvão",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

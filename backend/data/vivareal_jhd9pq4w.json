@@ -1,0 +1,215 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "PETS_ALLOWED",
+            "GATED_COMMUNITY",
+            "GARDEN",
+            "PLAYGROUND",
+            "CONCIERGE_24H"
+        ],
+        "usableAreas": [
+            "94"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento vendo com , com 3 quartos 1 suíte 2 banheiros sociais 95 m2 Cozinha americana com cooktop, inteiramente reformado, todo em porcelanato armários nos quartos, cozinha e banheiros Vaga de garagem 600 MTS do metrô URUGUA VISITAS CORRETOR EURICO MACHADO CRECI 44807 TEL 98642.4278",
+        "title": "Imóvel para venda com 94 metros quadrados com 3 quartos em Tijuca - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2739920748",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20510060",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.927,
+                "approximateLon": -43.243,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Uruguai",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Jose Higino 148",
+                "BS:Doutor Aníbal Moreira",
+                "BS:Barão de Mesquita 482c",
+                "BS:Ponto Final - 134B (Nova Iguaçu - Vila Isabel)",
+                "BS:Muda (Ponto Final)",
+                "TS:Ponto Final - 134B (Nova Iguaçu - Vila Isabel)",
+                "TS:Muda (Ponto Final)",
+                "TS:Uruguai",
+                "TS:Uruguai / Tijuca",
+                "TS:Ponto Final: Saens Peña :: Linha 409",
+                "CS:Grão Vizir",
+                "CS:Casa da Ostra",
+                "CS:Jiv's",
+                "CS:Erbon",
+                "CS:Afagá Confeitaria Brasileira",
+                "PH:Drogaria Unidas",
+                "PH:Drogaria Venancio",
+                "PH:FarmaDez",
+                "PH:Drogarias Mundial",
+                "PH:Mundial"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "ERCA 5569",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "95"
+        ],
+        "advertiserId": "9e2e1754-34db-1f0d-4d3d-e49b3be6b25a",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1450",
+                "price": "695000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "785"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21986424278"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21986424278",
+        "stamps": []
+    },
+    "account": {
+        "id": "9e2e1754-34db-1f0d-4d3d-e49b3be6b25a",
+        "name": "EURICO MACHADO CORRETOR DE IMÓVEIS",
+        "licenseNumber": "44807-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 834844,
+        "phones": {
+            "primary": "21986424278",
+            "mobile": "21986424278"
+        },
+        "tier": ""
+    },
+    "medias": [
+        {
+            "id": "8ffcacd98b314220d462fc48c4e3124b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8ffcacd98b314220d462fc48c4e3124b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "316c1429bd15698ea38217b68aab8914",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/316c1429bd15698ea38217b68aab8914/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9d275385046e7585f21e0c67188a4f3a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9d275385046e7585f21e0c67188a4f3a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b220b091c498175143790a3a606fe8ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b220b091c498175143790a3a606fe8ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "35d940cf872ff3eb9f77eba3d57d5819",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/35d940cf872ff3eb9f77eba3d57d5819/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "825002c79972568e1943306a3f26f65b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/825002c79972568e1943306a3f26f65b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c5f3ce6e5c1242ab041697e06886a2e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c5f3ce6e5c1242ab041697e06886a2e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb7c07bce584bd64bbdb03bd6c40692e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb7c07bce584bd64bbdb03bd6c40692e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a829ab67ec1b8cb8d3a2a33d7302e183",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a829ab67ec1b8cb8d3a2a33d7302e183/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb8bb49dcb5ab99d5dae073c089405e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb8bb49dcb5ab99d5dae073c089405e3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f505bf1f52d73a57c2a9c1a2fca6491",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f505bf1f52d73a57c2a9c1a2fca6491/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "003922ada0b4225b5751c090797e8527",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/003922ada0b4225b5751c090797e8527/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "738ee32a7018fe8bc49e78d54d578df3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/738ee32a7018fe8bc49e78d54d578df3/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "EURICO MACHADO CORRETOR DE IMÓVEIS",
+        "href": "/834844/eurico-machado-corretor-de-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 94m²",
+        "href": "/imovel/apartamento-3-quartos-tijuca-zona-norte-rio-de-janeiro-com-garagem-94m2-venda-RS695000-id-2739920748/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Uruguai",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "BALCONY",
+            "GOURMET_SPACE",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "BICYCLES_PLACE",
+            "CLOSET",
+            "LAUNDRY",
+            "ARMORED_SECURITY_CABIN",
+            "SEA_VIEW",
+            "SAUNA",
+            "ADULT_GAME_ROOM"
+        ],
+        "usableAreas": [
+            "180"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento no bairro Flamengo com 180m², contendo hall, sala de estar/jantar, varanda aberta, lavabo. Na parte íntima do imóvel 3 quartos, sendo 3 suítes, além de 1 banheiro. Parte de serviço com cozinha americana, área de serviço, lavanderia, dependência de empregada, banheiro de empregada. Outras características, imóvel reformado, vista panorâmica, vista para o mar, 2 vagas de garagem. O imóvel encontra-se em ótimo estado de conservação. Com ótimo padrão de acabamento. Condomínio com bicicletário, brinquedoteca, churrasqueira, espaço gourmet, piscina, piscina aquecida, playground, portaria 24 horas, quadra poliesportiva, salão de jogos.",
+        "title": "Apartamento para venda com 3 quartos, 180m² - Flamengo - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2760199522",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22250020",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.941,
+                "approximateLon": -43.173,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Rui Barbosa",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Flamengo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "poisList": [
+                "BS:Marechal Cantuária",
+                "BS:Mureta da Urca",
+                "BS:Palácio Universitário",
+                "BS:Praia da Urca",
+                "BS:Urbano Santos",
+                "TS:Flamengo",
+                "TS:Marechal Cantuária",
+                "TS:Mureta da Urca",
+                "TS:Palácio Universitário",
+                "TS:Praia da Urca",
+                "CS:Padaria Napoles",
+                "CS:Deep Freeze",
+                "CS:Maguila",
+                "CS:Mei-jo",
+                "CS:Benamor",
+                "PH:Rio Brasil",
+                "PH:Farma Hall",
+                "PH:RioFarma",
+                "PH:Drogaria Paraná",
+                "PH:Quintessência"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            3
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "10522555",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "180"
+        ],
+        "advertiserId": "9bd63b41-6885-877d-ef16-b5eda50138f3",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1604",
+                "price": "4620000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2300"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21971846438"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971846438",
+        "stamps": []
+    },
+    "account": {
+        "id": "9bd63b41-6885-877d-ef16-b5eda50138f3",
+        "name": "Judice & Araujo Ipanema",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/44e65d4cc83d1f5e05a6267f8e475ce2/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 664601,
+        "phones": {
+            "primary": "21971846438",
+            "mobile": "21971846438"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "cd6efdc0d08883e2d4cb2295a643e56c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd6efdc0d08883e2d4cb2295a643e56c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ac9feb15c5ca748df901af5b012dc76f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ac9feb15c5ca748df901af5b012dc76f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a3e59c92be3da34c1fb36c3c865790f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a3e59c92be3da34c1fb36c3c865790f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9ffc83ce06f65faf39de005ca94e1742",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ffc83ce06f65faf39de005ca94e1742/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81dd49bcb988152cb479ee142986137d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81dd49bcb988152cb479ee142986137d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f33001cb660ccfa5a86774ba11e9e935",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f33001cb660ccfa5a86774ba11e9e935/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f186977111ba1d0681fe5de9edb89e4d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f186977111ba1d0681fe5de9edb89e4d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36ec3a78c2fdc797b8ed5cd8a2ffd5ec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36ec3a78c2fdc797b8ed5cd8a2ffd5ec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "49bf3b4ef2e4b1617a76b216e6d94866",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/49bf3b4ef2e4b1617a76b216e6d94866/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "977674b25e7147181b32bb0e34a9357a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/977674b25e7147181b32bb0e34a9357a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "524cb794f790f649afa8aefa0023bcd2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/524cb794f790f649afa8aefa0023bcd2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fa681630fb73cea62490e92c5e734933",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa681630fb73cea62490e92c5e734933/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Judice & Araujo Ipanema",
+        "href": "/664601/judice-araujo-ipanema/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 180m²",
+        "href": "/imovel/apartamento-3-quartos-flamengo-zona-sul-rio-de-janeiro-com-garagem-180m2-venda-RS4620000-id-2760199522/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Rui Barbosa",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "FURNISHED",
+            "INTERCOM",
+            "SERVICE_AREA",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "60"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Oportunidade! Apartamento sala, dois quartos com armários, boa cozinha, área de serviço separada e vaga em Olaria, imóvel desocupado. Prédio ambiente familiar, dois lances de escadas. Próximo ao Prezunic, bancos, escolas, salão de beleza... Fácil acesso (15min) do Shopping Nova América e metrô. Aceitamos financiamento e FGTS. Agende sua visita com um de nossos corretores. Avaliamos gratuitamente seu imóvel.<br>-Cod:854014 -Rev.11Dez",
+        "title": "Apartamento - / Residencial / Olaria",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2748232104",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21073270",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.853,
+                "approximateLon": -43.265,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Leonidia",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Olaria",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Olaria",
+            "poisList": [
+                "BS:Ponto Final: Olaria :: Linha 484",
+                "BS:Arapa",
+                "BS:Régio",
+                "BS:Estação BRT Santa Luzia",
+                "BS:Ponto Final: IAPI da Penha :: Linha 630",
+                "TS:Olaria (Cacique de Ramos)",
+                "TS:Baiana",
+                "TS:Ramos",
+                "TS:Ponto Final: Olaria :: Linha 484",
+                "TS:Olaria",
+                "CS:Padaria e restaurante Central de Olaria",
+                "CS:Padaria Póvoa de Varzim",
+                "CS:Padaria e Confeitaria Nova Aurora",
+                "CS:Padaria Santa Helena",
+                "CS:Hashtag Alimentos",
+                "PH:Farmácia Xavier",
+                "PH:Drogaria Madeira",
+                "PH:Farmácia Farmaceutica",
+                "PH:Drogarias Legitima",
+                "PH:Drogaria MiraFarma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "854014",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "60"
+        ],
+        "advertiserId": "88ee35a1-d05d-522c-b5e3-fadca4f6e940",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "205000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "303"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2134595757",
+                "21993129826"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21993129826",
+        "stamps": []
+    },
+    "account": {
+        "id": "88ee35a1-d05d-522c-b5e3-fadca4f6e940",
+        "name": "JAYLSON IMOBILIÁRIA | VILA DA PENHA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f49318a32e533bb9086d43a9ff3572ed/{description}.webp",
+        "licenseNumber": "06871-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 45812,
+        "phones": {
+            "primary": "2134595757",
+            "mobile": "21993129826"
+        },
+        "tier": ""
+    },
+    "medias": [
+        {
+            "id": "062d2a8df25f119b507bda65fe287e77",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/062d2a8df25f119b507bda65fe287e77/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f05d17b70c1f22e6a9a43cd550f01ddd",
+            "url": "https://youtu.be/lGdsxQBOU9Q",
+            "type": "VIDEO"
+        },
+        {
+            "id": "d8b32e9837bd79cbf747cf0397503cb5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8b32e9837bd79cbf747cf0397503cb5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "60679bf4ba3e7bbe959abcccbc316aa3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60679bf4ba3e7bbe959abcccbc316aa3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "72769fdd931610a9ffb5b4473e77c78a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/72769fdd931610a9ffb5b4473e77c78a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "30fac205bd75c1c262adb17b6d7c30ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30fac205bd75c1c262adb17b6d7c30ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d5b2fa7296470438b82ad7a0bbded42e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d5b2fa7296470438b82ad7a0bbded42e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb4b7770d233a853b683630aa5e6526d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb4b7770d233a853b683630aa5e6526d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ef7181dafd0a49e3bf95d1c2dd8f67c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ef7181dafd0a49e3bf95d1c2dd8f67c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0624d888a90ceca43186764d58448221",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0624d888a90ceca43186764d58448221/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8ed6a39b1dbad87c72dab9284f0dfd9f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8ed6a39b1dbad87c72dab9284f0dfd9f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "47a6e2786193b8c670ff7698322dfe05",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/47a6e2786193b8c670ff7698322dfe05/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9d130d8c44ecd5b218cb3769a9fbda97",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9d130d8c44ecd5b218cb3769a9fbda97/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bbd8ccac490084d3ecc6cbc63ea97d74",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bbd8ccac490084d3ecc6cbc63ea97d74/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "25cb189854ec142177735aadb151779d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/25cb189854ec142177735aadb151779d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2618f87f64b8f3466c9185006a466e45",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2618f87f64b8f3466c9185006a466e45/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "951f218b43a973cbd383ebb0148fb437",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/951f218b43a973cbd383ebb0148fb437/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ae504c700954c8722368dab4dd2bb24e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae504c700954c8722368dab4dd2bb24e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0d1df096119dfe35464e63113a3fe3e4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0d1df096119dfe35464e63113a3fe3e4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c826693d3c68256ea98158c96cb28a68",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c826693d3c68256ea98158c96cb28a68/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "JAYLSON IMOBILIÁRIA | VILA DA PENHA",
+        "href": "/45812/jaylson-imobiliaria-vila-da-penha/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 60m²",
+        "href": "/imovel/apartamento-2-quartos-olaria-zona-norte-rio-de-janeiro-com-garagem-60m2-venda-RS205000-id-2748232104/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Olaria",
+            "state": "Rio de Janeiro",
+            "street": "Rua Leonidia",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

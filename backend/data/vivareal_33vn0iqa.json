@@ -1,0 +1,306 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "INTERCOM",
+            "SERVICE_AREA",
+            "ELEVATOR",
+            "LAUNDRY"
+        ],
+        "usableAreas": [
+            "195"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Copacabana, 4 quartos na Rua Bolívar. Belíssimo apartamento duplex com planta muito bem distribuída. Está em ótimo estado de conservação. 1 pavimento tem a sala que é composta por 2 ambientes, bem iluminada pelos seus janelões e arejada. Área íntima, 1 lavabo, Cozinha. Área de Serviço e dependência completa. 2 pavimento tem 4 quartos espaçosos (um suíte) e todos com armários. O Apto tem uma vaga de garagem na escritura. Prédio conta com portaria 24 horas, boa portaria e garagem. Próximo do Metrô Cantagalo, das ruas Pompeu Loureiro, Leopoldo Miguez, Barão de Ipanema.<br>Marcadores: -",
+        "title": "Apartamento Duplex à venda, 195 m² por R$ 1.850.000,00 - Copacabana - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2742932972",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22061020",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.975,
+                "approximateLon": -43.193,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Bolivar",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 1 Xavier da Silveira",
+                "BS:BRS 2 Bolívar",
+                "BS:BRS 3 Miguel Lemos",
+                "BS:BRS 3 Bolivar",
+                "BS:BRS 2 Barão de Ipanema",
+                "TS:Xavier da Silveira",
+                "TS:BRS 1 Xavier da Silveira",
+                "TS:BRS 2 Bolívar",
+                "TS:Cantagalo - sentido Uruguai",
+                "TS:Cantagalo / Copacabana - sentido Uruguai",
+                "CS:Sulimar",
+                "CS:Casa du bisçoito",
+                "CS:Grão da terra",
+                "CS:The Bakers",
+                "CS:Lopes",
+                "PH:Prontofarma",
+                "PH:Drogaria Galanti",
+                "PH:Viva Mais",
+                "PH:Drogaria Pop",
+                "PH:Nash"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AD0711",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "223"
+        ],
+        "advertiserId": "89bdbaf0-3f59-1c9f-73a8-6bd0b1439467",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "7765",
+                "price": "1850000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2060"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2134349000"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "89bdbaf0-3f59-1c9f-73a8-6bd0b1439467",
+        "name": "LOPES ENJOY IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/532ae951fff1ad62366b920d7c68c73e/{description}.webp",
+        "licenseNumber": "32269-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 256323,
+        "phones": {
+            "primary": "2134349000",
+            "mobile": "2134349000"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "51c9371c7b985ca5d5987d78449a3637",
+            "url": "https://youtu.be/Vl0OG9nJlWU",
+            "type": "VIDEO"
+        },
+        {
+            "id": "e89cc8bf2d158708d5084e954ac87881",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e89cc8bf2d158708d5084e954ac87881/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e723aeffba758c27972ac82b759748e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e723aeffba758c27972ac82b759748e3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bdbc749d2eebbb700425c7003eb0efa9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bdbc749d2eebbb700425c7003eb0efa9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c297825785e95ea53d04fd6e8fc0e5a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c297825785e95ea53d04fd6e8fc0e5a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9b34b0531c0a0595794416d2d53b13e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9b34b0531c0a0595794416d2d53b13e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b84759c5b7ccd7f2a171819329216d18",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b84759c5b7ccd7f2a171819329216d18/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb3dd0d7d145a5822de1594618ff22bb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb3dd0d7d145a5822de1594618ff22bb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1423e9000a40585d9bbff31cc37d24d4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1423e9000a40585d9bbff31cc37d24d4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "28b76384f3db8103af232be76509143b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/28b76384f3db8103af232be76509143b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9abb6d77ae6e23c7ee42f27a02950c29",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9abb6d77ae6e23c7ee42f27a02950c29/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b8811880e7611905d4949dad3f230b90",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b8811880e7611905d4949dad3f230b90/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c32038c11d9a1c2207c7689670acdf6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c32038c11d9a1c2207c7689670acdf6e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b49e07dc84555f2d7e8d2f3f5a598245",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b49e07dc84555f2d7e8d2f3f5a598245/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8ce54229e6451f1b77478b92704b1249",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8ce54229e6451f1b77478b92704b1249/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b48f71f1f934278e721efed00196620",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b48f71f1f934278e721efed00196620/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c2ca5b5694158290518328dc7336e160",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2ca5b5694158290518328dc7336e160/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3684a67f06f9876067aef833cd0845c8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3684a67f06f9876067aef833cd0845c8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "efa1e191c0180e9054ed72ee9c8b4cf4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/efa1e191c0180e9054ed72ee9c8b4cf4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8da33f17daee7aa76edee9433d42b6a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8da33f17daee7aa76edee9433d42b6a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "04ecbb5a0ccecec26f022c8a1a92de84",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/04ecbb5a0ccecec26f022c8a1a92de84/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "74b8eaa4728bff248a3042dcf7558020",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/74b8eaa4728bff248a3042dcf7558020/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cb58c012ebe4fb615c4423b7641e4efd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cb58c012ebe4fb615c4423b7641e4efd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "92a5235996f6948270379b60edeae401",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/92a5235996f6948270379b60edeae401/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "27eeaea123b8bb03d91270db1dc71b3b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/27eeaea123b8bb03d91270db1dc71b3b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8d99807ba766deba36020df8d3aaa4ab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d99807ba766deba36020df8d3aaa4ab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cc7559671a318fcf07f830e1dfd5f5c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cc7559671a318fcf07f830e1dfd5f5c7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "71f617af6521ca9bf4ed0181961c093f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/71f617af6521ca9bf4ed0181961c093f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e8df5f7a105d58b06b9508dc2f2cca02",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e8df5f7a105d58b06b9508dc2f2cca02/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "13e9ff8ca0b391a09c4005c4aeb51cb1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/13e9ff8ca0b391a09c4005c4aeb51cb1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c51aa2930d8b49c01b03d545025ef68",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c51aa2930d8b49c01b03d545025ef68/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "LOPES ENJOY IMÓVEIS",
+        "href": "/256323/lopes-enjoy-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 195m²",
+        "href": "/imovel/apartamento-4-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-195m2-venda-RS1850000-id-2742932972/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Bolivar",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

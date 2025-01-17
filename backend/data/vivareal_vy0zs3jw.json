@@ -1,0 +1,182 @@
+{
+    "listing": {
+        "displayAddressType": "NEIGHBORHOOD",
+        "amenities": [
+            "INTERCOM",
+            "WATCHMAN",
+            "BALCONY",
+            "SERVICE_AREA"
+        ],
+        "usableAreas": [
+            "100"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente Apartamento Recreio<br><br> 1ª locação, 3 quartos, sendo 1 suíte, sala com varanda, frente, <br>banheiro social, cozinha, área de serviço, banheiro de empregada, <br>2 vagas de garagem<br>fino acabamento em porcelanato e mármores.<br><br>Quadra Avenida das Américas, <br>10 minutos da praia do Recreio<br><br>CORRETORES DE PLANTÃO.<br>FAÇA-NOS UMA VISITA!<br><br>CONTATOS:<br><br> ZAP",
+        "title": "RIO DE JANEIRO - Apartamento Padrão - RECREIO DOS BANDEIRANTES",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2552715715",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790540",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.018,
+                "approximateLon": -43.477,
+                "radius": 250
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Gilka Machado",
+                "TS:Guiomar Novaes",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Recreio Shopping",
+                "CS:R2 Bolos",
+                "CS:Barra Bonita Padaria",
+                "CS:Américas Pão",
+                "CS:Armazém do Recreio",
+                "CS:Alfa Belle",
+                "PH:Foliare",
+                "PH:Economia de Drogarias",
+                "PH:Drogaria M. M. Júnior",
+                "PH:Prophylaxis",
+                "PH:Dona Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "3476",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "100"
+        ],
+        "advertiserId": "5054d6e0-147e-3ac0-bc34-d69b6fe055da",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "price": "670000",
+                "businessType": "SALE"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2226514262",
+                "22996026327"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "22996026327",
+        "stamps": []
+    },
+    "account": {
+        "id": "5054d6e0-147e-3ac0-bc34-d69b6fe055da",
+        "name": "BONIFACIO EMPREENDIMENTOS IMOBILIARIOS EIRELI",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 752891,
+        "phones": {
+            "primary": "2226514262",
+            "mobile": "22996026327"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "1cb8d03f18f3e6f727cb4044a74f5a13",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1cb8d03f18f3e6f727cb4044a74f5a13/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d5c3a6079f444f9ce718e46a890d438",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d5c3a6079f444f9ce718e46a890d438/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c1fc9620c4469d3fa86fa2a4b30e2260",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c1fc9620c4469d3fa86fa2a4b30e2260/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e99d10dab275de9a6afa570448f391b7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e99d10dab275de9a6afa570448f391b7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "997e30c50fdf6fbd31f88d226558f0e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/997e30c50fdf6fbd31f88d226558f0e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "02b3eb5647f2655f600723f65d8860e4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/02b3eb5647f2655f600723f65d8860e4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1777b24dfd677c9fc0c2430197904dd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1777b24dfd677c9fc0c2430197904dd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a6ddee408639c4f484722c1843d3fdd3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a6ddee408639c4f484722c1843d3fdd3/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "BONIFACIO EMPREENDIMENTOS IMOBILIARIOS EIRELI",
+        "href": "/752891/bonifacio-empreendimentos-imobiliarios-eireli/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 100m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-100m2-venda-RS670000-id-2552715715/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

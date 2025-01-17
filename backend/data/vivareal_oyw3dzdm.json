@@ -1,0 +1,206 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "GOURMET_SPACE",
+            "GARDEN",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "CONCIERGE_24H",
+            "AMERICAN_KITCHEN",
+            "DISABLED_ACCESS",
+            "CINEMA",
+            "COWORKING"
+        ],
+        "usableAreas": [
+            "80"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "PENINSULA I Excelente apartamento composto por sala em 2 ambientes, varanda com vista livre para o Parque, 3 quartos sendo 1 suite, cozinha e area de serviço. sol da manhã. informações devem ser consultadas",
+        "title": "Apartamento na Península",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2724320447",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22776090",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "200",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.357609,
+                "source": "GOOGLE",
+                "lat": -22.987767
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Bauhíneas da Península",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:O2 Corporate & Offices",
+                "BS:Casa Shopping",
+                "BS:Via Parque Shopping",
+                "BS:Barra Shopping Fundos (Hot Zone)",
+                "BS:Leroy Merlin",
+                "TS:O2 Corporate & Offices",
+                "TS:Casa Shopping",
+                "TS:Via Parque Shopping",
+                "TS:Aeroporto de Jacarepaguá",
+                "TS:Leroy Merlin",
+                "CS:Sítio do Moinho",
+                "CS:Candy Delicatesse",
+                "CS:Mundo Verde",
+                "CS:Fábrica do Bolo",
+                "CS:Esso",
+                "PH:Drogarias Carioca"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PN073",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "80"
+        ],
+        "advertiserId": "51aa67c2-cd8a-2728-2d2a-8fd45a94de7e",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "290",
+                "price": "1190000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1800"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21981584003"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21981584003",
+        "stamps": []
+    },
+    "account": {
+        "id": "51aa67c2-cd8a-2728-2d2a-8fd45a94de7e",
+        "name": "FACK IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6bf194563452447a3a5973ce7d571125/{description}.webp",
+        "licenseNumber": "052408-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 227842,
+        "phones": {
+            "primary": "21981584003",
+            "mobile": "21981584003"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "c1d70cbaf057382900838a8c87a6c29b",
+            "url": "https://www.youtube.com/watch?v=Frd8w22_P90",
+            "type": "VIDEO"
+        },
+        {
+            "id": "329fb58cf2ca007f0a08d2919efcdd4b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/329fb58cf2ca007f0a08d2919efcdd4b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "047e247f419235b06e5d722d664e23da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/047e247f419235b06e5d722d664e23da/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c569067a86b5aa09d4ab2f8d2b28b7d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c569067a86b5aa09d4ab2f8d2b28b7d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e005ee3b3179390be98386703fc57338",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e005ee3b3179390be98386703fc57338/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "279c4f805f641331b7bf6539004bbf90",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/279c4f805f641331b7bf6539004bbf90/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "683f6eba7b48a551c9393bf840635273",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/683f6eba7b48a551c9393bf840635273/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "971cb6e50278551580222163411cfce6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/971cb6e50278551580222163411cfce6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d9e14438d5066921d92044748eb19de9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d9e14438d5066921d92044748eb19de9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2b3a1f395d46d3260d958c455d15bce9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b3a1f395d46d3260d958c455d15bce9/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "FACK IMÓVEIS",
+        "href": "/227842/fack-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 80m²",
+        "href": "/imovel/apartamento-3-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-80m2-venda-RS1190000-id-2724320447/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Bauhíneas da Península",
+            "streetNumber": "200",
+            "zone": "Zona Oeste"
+        }
+    }
+}

@@ -1,0 +1,250 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "GARDEN",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "DISABLED_ACCESS",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "35"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O apartamento está localizado no bairro Centro tem 35 m² com 1 quarto e 1 banheiro. <br><br>Possui área comum, parquinho infantil, espaço para festas. Elevador, porteiro 24h. <br><br>Documentação ok, aceita proposta e financiamento.",
+        "title": "Apartamento para venda possui 35 m² com 1 quarto em Centro - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2701500381",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20230012",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "257",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.189197,
+                "source": "GOOGLE",
+                "lat": -22.914764
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Rua Riachuelo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:Ponto Final: Cruz Vermelha",
+                "BS:P28",
+                "BS:BRS 1,2,4 Inválidos",
+                "BS:BRS 1,2 e 4",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "TS:Ponto Final: Cruz Vermelha",
+                "TS:P28",
+                "TS:BRS 1,2,4 Inválidos",
+                "TS:BRS 1,2 e 4",
+                "TS:Rua Paschoal Carlos Magno próximo ao 15",
+                "CS:Padaria e Confeitaria Costa Bastos",
+                "CS:Cris",
+                "CS:ArmaZen",
+                "CS:Padaria Vilar Pães",
+                "CS:Fábrica de Bolo Vó Alzira",
+                "PH:Viva Bem",
+                "PH:Drogaria Rey",
+                "PH:Exata",
+                "PH:Drogaria Exata",
+                "PH:City Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "1TL906O",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "35"
+        ],
+        "advertiserId": "d645bdd2-bf6a-407d-c265-03208d88cf7d",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "100",
+                "price": "310000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "600"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135001966",
+                "21972273353"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21972273353",
+        "stamps": []
+    },
+    "account": {
+        "id": "d645bdd2-bf6a-407d-c265-03208d88cf7d",
+        "name": "AKILA ADMINISTRACAO DE IMOVEIS LTDA",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 360664,
+        "phones": {
+            "primary": "2135001966",
+            "mobile": "21972273353"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "a97f1b4c1f2e117f4d747e145bfd95ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a97f1b4c1f2e117f4d747e145bfd95ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "efd668e3fa23629606b2f7d842e06d90",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/efd668e3fa23629606b2f7d842e06d90/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "77097396b20131c2bdae5829f7e0fb45",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/77097396b20131c2bdae5829f7e0fb45/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3d65b462568d5862dd19ac8cb1e22f3f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3d65b462568d5862dd19ac8cb1e22f3f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "75fc190b09a9ff1083fd7688e9870ab0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/75fc190b09a9ff1083fd7688e9870ab0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3b8fb2fec3531eb0639d40de6ab8fd02",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b8fb2fec3531eb0639d40de6ab8fd02/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7613f89888bad6c450207c6d9f148eed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7613f89888bad6c450207c6d9f148eed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "090628d020e9bc32d0c58564f1f6e6ec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/090628d020e9bc32d0c58564f1f6e6ec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "34ca6bfa9e5f8c4bcfb39910465d078b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/34ca6bfa9e5f8c4bcfb39910465d078b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cb5f68d354b8c0a3c35cd28a5157c5b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cb5f68d354b8c0a3c35cd28a5157c5b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9f2a60fc4d311fea78316e59cc66f53",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9f2a60fc4d311fea78316e59cc66f53/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ceba84979e49f2536f0518edd438ee72",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ceba84979e49f2536f0518edd438ee72/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7caec72c2c2998b480e2a2d4d6fb0de6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7caec72c2c2998b480e2a2d4d6fb0de6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cc7b64306be686c7c6da5738f841711d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cc7b64306be686c7c6da5738f841711d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "041954c05ab890dc8cd50d8e055bd1c0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/041954c05ab890dc8cd50d8e055bd1c0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a068bdcf9c0793b4c2471d54cf42bd74",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a068bdcf9c0793b4c2471d54cf42bd74/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "60cedac32eca17aef96ac9f07972b3a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60cedac32eca17aef96ac9f07972b3a4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8ad5642d9ade5b3eb8bef5134f6bcd3a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8ad5642d9ade5b3eb8bef5134f6bcd3a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c89663027b94e7dc25f0fe62938fa8ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c89663027b94e7dc25f0fe62938fa8ef/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "AKILA ADMINISTRACAO DE IMOVEIS LTDA",
+        "href": "/360664/akila-administracao-de-imoveis-ltda/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 35m²",
+        "href": "/imovel/apartamento-1-quartos-centro-zona-central-rio-de-janeiro-35m2-venda-RS310000-id-2701500381/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Rua Riachuelo",
+            "streetNumber": "257",
+            "zone": "Zona Central"
+        }
+    }
+}

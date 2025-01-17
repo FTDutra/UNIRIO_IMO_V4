@@ -1,0 +1,281 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [],
+        "usableAreas": [
+            "42"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Imóvel à venda de 2 quartos no Catumbi. Excelente apartamento no coração do bairro, próximo a todo comercio e condução. Apartamento todo claro e arejado, composto de: sala com acesso a varandinha, 2 quartos todo com piso em formipiso, cozinha e banheiro com azulejo decorado ao teto, box em acrílico e área de serviço.<br>Filé da semana<br>OPORTUNIDADE!!!! 7acb0",
+        "title": "Catumbi | Apartamento 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2733452584",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20211290",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.916,
+                "approximateLon": -43.196,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Rua do Chichorro",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Catumbi",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Catumbi",
+            "poisList": [
+                "BS:Ponto da Rua do Catumbi",
+                "BS:Ponto Final: Cruz Vermelha",
+                "BS:Rua Monte Alegre próximo ao 342",
+                "BS:Laura de Araújo",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "TS:Marquês de Sapucaí",
+                "TS:Praça Onze",
+                "TS:Ponto Final: Cruz Vermelha",
+                "TS:Júlio de Carmo",
+                "TS:Rua Monte Alegre próximo ao 342",
+                "CS:Padaria Sallete",
+                "CS:Padaria 3 Graças",
+                "CS:Fábrica de Bolos da Vó Alzira",
+                "CS:Padaria e Confeitaria Costa Bastos",
+                "CS:Cris",
+                "PH:Drogaria Rey",
+                "PH:Viva Bem",
+                "PH:Exata",
+                "PH:Drogaria Exata",
+                "PH:City Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP2AP85033",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "42"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1",
+                "price": "215000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": []
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "c524220b16e3bde2c6f0d9cc68059046",
+            "url": "https://www.youtube.com/watch?v=KyH6se6BJ68",
+            "type": "VIDEO"
+        },
+        {
+            "id": "0a890273728e3da90e3ef6b7c5f0a909",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0a890273728e3da90e3ef6b7c5f0a909/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3d465858972539cf1f5e610472e15c02",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3d465858972539cf1f5e610472e15c02/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "37669f228df1166a2ae23e9a27bc0aaa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/37669f228df1166a2ae23e9a27bc0aaa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fdbc0f67af5901c361302bad1b2b7a3a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fdbc0f67af5901c361302bad1b2b7a3a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "82565530bf2be9772520dc51bbcc56b6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82565530bf2be9772520dc51bbcc56b6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a3c56fe0c83d887d45dd3cf1758286e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a3c56fe0c83d887d45dd3cf1758286e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0e0184c53dbbea83dfb36c42c48daa68",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0e0184c53dbbea83dfb36c42c48daa68/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "73a70992001ca7dc8ebcaf9c076f43d9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/73a70992001ca7dc8ebcaf9c076f43d9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3805d6042c196110b49c4e4acb5fe55c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3805d6042c196110b49c4e4acb5fe55c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48bf4b01b0de1f70ec07307990cea45c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48bf4b01b0de1f70ec07307990cea45c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "40f4f00b604ad31c401af13f4d1a7377",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40f4f00b604ad31c401af13f4d1a7377/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3452e0b7d6828e0468f2dee24b43136c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3452e0b7d6828e0468f2dee24b43136c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1785204772d1914c2451f230ef6b1f06",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1785204772d1914c2451f230ef6b1f06/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "26611ea988b9e97484c5b02bb19e7b9a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/26611ea988b9e97484c5b02bb19e7b9a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "efe2b1de35031f00c5a5e3cfe468f645",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/efe2b1de35031f00c5a5e3cfe468f645/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "020dfb9937be71ec5f5684b6628c9a5f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/020dfb9937be71ec5f5684b6628c9a5f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0fcf4115bb83ad5665df6fc095735eb0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0fcf4115bb83ad5665df6fc095735eb0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aace51763b682076a81145dfd0db37ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aace51763b682076a81145dfd0db37ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "934e7d3285dd5376405c9ebd1dedf259",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/934e7d3285dd5376405c9ebd1dedf259/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81f98d803ffa09dbcb88d9fa8dd0023b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81f98d803ffa09dbcb88d9fa8dd0023b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "749f24faff5d849be413e3d091efc1e7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/749f24faff5d849be413e3d091efc1e7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "251f7293b2bae8c0988bfcf8ac44954e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/251f7293b2bae8c0988bfcf8ac44954e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0bf1e8478ff2eef8d36bf785689eec94",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0bf1e8478ff2eef8d36bf785689eec94/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "03565c90d857f9ba528139542366dd97",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/03565c90d857f9ba528139542366dd97/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65f003b78c11dc20568bc187df2a0c3d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65f003b78c11dc20568bc187df2a0c3d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "03d58d16aa58f051495916571a1b8eeb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/03d58d16aa58f051495916571a1b8eeb/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 42m²",
+        "href": "/imovel/apartamento-2-quartos-catumbi-zona-central-rio-de-janeiro-42m2-venda-RS215000-id-2733452584/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Catumbi",
+            "state": "Rio de Janeiro",
+            "street": "Rua do Chichorro",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

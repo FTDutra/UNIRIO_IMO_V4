@@ -1,0 +1,262 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "INTERCOM",
+            "SPORTS_COURT",
+            "SERVICE_AREA",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "56"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento com 56m², em condomínio na Freguesia, composto por :<br>Sala arejada em dois ambientes, varanda com vista livre, cozinha, área de serviço, dois quartos, banheiro social e uma vaga de garagem. Apartamento recém reformado.<br><br>Condomínio com portaria 24 horas, equipado com academia, churrasqueira , playground , praça arborizada , ciclovia , salão de festa e quadra poliesportiva. -",
+        "title": "Apartamento com 2 dormitórios à venda, 56 m² por R$ 230.000,00 - Freguesia de Jacarepaguá - Rio de J",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2661584755",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22770290",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "75",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.356677,
+                "source": "GOOGLE",
+                "lat": -22.940842
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Cabo Geraldo Calderaro",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Freguesia- Jacarepagua",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Freguesia (Jacarepaguá)",
+            "poisList": [
+                "BS:Ponto Final: Cidade de Deus",
+                "BS:Professora Camisão",
+                "BS:Ponto Final: Pechincha :: Linha 2115",
+                "BS:Ponto final da linha 932A",
+                "BS:Terminal Rodoviário Urbano Arquiteto Julius Sass",
+                "TS:Ponto Final: Cidade de Deus",
+                "TS:Provedora Lygia Moreira Alves de Brito",
+                "TS:José Roiz de Aragão",
+                "TS:Professora Camisão",
+                "TS:Ponto Final: Pechincha :: Linha 2115",
+                "CS:TECNOMEDI FREGUESIA",
+                "CS:Padaria Felipão",
+                "CS:Kúffura",
+                "PH:Mega Expressa",
+                "PH:Farmácia Jericó",
+                "PH:Drogaria Ofertão"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP1056",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "56"
+        ],
+        "advertiserId": "9969629f-9e9b-06d1-db50-351fdf7e1683",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "643",
+                "price": "230000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "550"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135075605",
+                "21970805591"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21970805591",
+        "stamps": []
+    },
+    "account": {
+        "id": "9969629f-9e9b-06d1-db50-351fdf7e1683",
+        "name": "Athiones Fernandes Imoveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2729b283c14b8e3ccfc60b7698a4aad2/{description}.webp",
+        "licenseNumber": "41571-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 212497,
+        "phones": {
+            "primary": "2135075605",
+            "mobile": "21970805591"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "6d67bd4080ca51fb863c242414c925c5",
+            "url": "https://youtu.be/604IVFID2lU",
+            "type": "VIDEO"
+        },
+        {
+            "id": "d7d31564398ac5dec02bc5a99d6ca08f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7d31564398ac5dec02bc5a99d6ca08f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c44ba66faf80c5efe457888e8f113aac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c44ba66faf80c5efe457888e8f113aac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "24c46f6e80515282dc2979224d649d21",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/24c46f6e80515282dc2979224d649d21/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9b18066aeeeb22937fd08e734617c87c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9b18066aeeeb22937fd08e734617c87c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "44cee8d81281cc363b5cd8d7fe3c8ba4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/44cee8d81281cc363b5cd8d7fe3c8ba4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "874696593adf08db0a3c9018fe014796",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/874696593adf08db0a3c9018fe014796/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e17d404895be37fcb856fa915734edb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e17d404895be37fcb856fa915734edb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b48dde3b7de40d2a0b385592053021e5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b48dde3b7de40d2a0b385592053021e5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5d52db3ed4e054c7db13d37f6c5640d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5d52db3ed4e054c7db13d37f6c5640d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dc3ea3b3dc51608eb094f2ff69169362",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc3ea3b3dc51608eb094f2ff69169362/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dfbe39bf6f973589e56c222fc663d6b3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dfbe39bf6f973589e56c222fc663d6b3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0bc84a57892a912b3ce84213c71b76c5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0bc84a57892a912b3ce84213c71b76c5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4401e86c2117ad394079c6250ed04088",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4401e86c2117ad394079c6250ed04088/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b0b13bbe7c230fbda048ed413d0b98d2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b0b13bbe7c230fbda048ed413d0b98d2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0c788b123aee6d212c2d0804f7d4cb6a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0c788b123aee6d212c2d0804f7d4cb6a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "200d2f7f627bb7dbe805f6ae4d8475c8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/200d2f7f627bb7dbe805f6ae4d8475c8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ac3373dd702d6414988dc922f1af6d30",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ac3373dd702d6414988dc922f1af6d30/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b35f6103f35e6d4ea91ce2f22a26a215",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b35f6103f35e6d4ea91ce2f22a26a215/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e70e51193eda7c960fa4dc7aaff096c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e70e51193eda7c960fa4dc7aaff096c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f5195910a3a601e6a5d2393df01e11c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f5195910a3a601e6a5d2393df01e11c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aee53f05945ce54c3cd2b444be7fe408",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aee53f05945ce54c3cd2b444be7fe408/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "db2de5a046402529d8652f1f751d1166",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/db2de5a046402529d8652f1f751d1166/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Athiones Fernandes Imoveis",
+        "href": "/212497/athiones-fernandes-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 56m²",
+        "href": "/imovel/apartamento-2-quartos-freguesia-jacarepagua-zona-oeste-rio-de-janeiro-com-garagem-56m2-venda-RS230000-id-2661584755/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Freguesia- Jacarepaguá",
+            "state": "Rio de Janeiro",
+            "street": "Rua Cabo Geraldo Calderaro",
+            "streetNumber": "75",
+            "zone": "Zona Oeste"
+        }
+    }
+}

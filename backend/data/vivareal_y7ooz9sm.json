@@ -1,0 +1,224 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "FURNISHED",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "AIR_CONDITIONING",
+            "CONCIERGE_24H",
+            "AMERICAN_KITCHEN",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "68"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento com duas suítes independentes, ambas com cama de casal e armários planejados.<br><br>Sala de estar espaçosa em dois ambientes, equipada com mesa e sofá-cama.<br>Cozinha moderna com armários planejados, geladeira, micro-ondas e máquina de lavar roupa.<br>Duas varandas, apartamento totalmente mobiliado, com ar-condicionado split nos quartos e na sala.<br>Excelente condomínio com portaria 24 horas, academia, restaurante (serviço à parte), circuito interno de câmeras, localizado a poucos minutos do Riocentro, Barra da Tijuca, Curicica, Vargens, mercados, shoppings, entre outros comércios e transportes.<br><br>Garantia locatícia: fiador, seguro fiança ou título de capitalização.<br>Para mais detalhes, entre em contato pelo WhatsApp.",
+        "title": "Apartamento com 2 SUITES MOBILIADO",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2725559444",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22783116",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.98,
+                "approximateLon": -43.422,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Estrada dos Bandeirantes",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Camorim",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Camorim",
+            "poisList": [
+                "BS:Estrada dos Bandeirantes",
+                "TS:Estrada dos Bandeirantes",
+                "TS:Ilha Pura",
+                "TS:Olof Palme",
+                "TS:Riocentro",
+                "CS:La Fabrica dell Pane",
+                "CS:Deli Delícia",
+                "CS:Panificadora e Mercearia São Jorge",
+                "CS:Lilo's Café",
+                "PH:Cruz Souza Xavier",
+                "PH:Drogarias MEP"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "CFM*VIAPREMIERE*VENDA",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "68"
+        ],
+        "advertiserId": "4fe90263-6702-7611-3067-69e2ca1ed0c4",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "rentalInfo": {
+                    "period": "MONTHLY",
+                    "warranties": []
+                },
+                "yearlyIptu": "116",
+                "price": "430000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "780"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21992255064",
+                "21995084722"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21995084722",
+        "stamps": []
+    },
+    "account": {
+        "id": "4fe90263-6702-7611-3067-69e2ca1ed0c4",
+        "name": "Eliana Amaral",
+        "licenseNumber": "76012-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 616694,
+        "phones": {
+            "primary": "21992255064",
+            "mobile": "21995084722"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "b539130824cf349535b412692dd5f1a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b539130824cf349535b412692dd5f1a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0bccdaa5ad2175b57dafbb61d5a4060b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0bccdaa5ad2175b57dafbb61d5a4060b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86d145a1eefb8602e9166bbc5442f1f2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86d145a1eefb8602e9166bbc5442f1f2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a839b39865efd10879ca3d8f7497eb4c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a839b39865efd10879ca3d8f7497eb4c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "786678343421fed0a6f3813c642a5f59",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/786678343421fed0a6f3813c642a5f59/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a1a45bd0c7a2526fc1f4412d20d899a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a1a45bd0c7a2526fc1f4412d20d899a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f68a777b721935945dfbad674e4f16d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f68a777b721935945dfbad674e4f16d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8966ee2310a9f5a4eb1c74726de45f1c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8966ee2310a9f5a4eb1c74726de45f1c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "90fb9e0f078f72e0781ebb5a6bfb744c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/90fb9e0f078f72e0781ebb5a6bfb744c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e3a3df12037e34309106c8c41c016084",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e3a3df12037e34309106c8c41c016084/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6e7f651a7ea43a54781c28030b06bcaf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6e7f651a7ea43a54781c28030b06bcaf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ecc7759703676cb66b50549e325a5aad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ecc7759703676cb66b50549e325a5aad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5dccf6d10584d82d63e61daceeab6659",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5dccf6d10584d82d63e61daceeab6659/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a4c67fa7ad24fc66b37d12eebfe5f69f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4c67fa7ad24fc66b37d12eebfe5f69f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9bbb56060dbc66ca7bf77637743839a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9bbb56060dbc66ca7bf77637743839a6/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Eliana Amaral",
+        "href": "/616694/eliana-amaral/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 68m²",
+        "href": "/imovel/apartamento-2-quartos-camorim-zona-oeste-rio-de-janeiro-com-garagem-68m2-venda-RS430000-id-2725559444/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Camorim",
+            "state": "Rio de Janeiro",
+            "street": "Estrada dos Bandeirantes",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

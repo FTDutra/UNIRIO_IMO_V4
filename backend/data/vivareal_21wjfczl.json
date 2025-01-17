@@ -1,0 +1,260 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "FURNISHED",
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "BUILTIN_WARDROBE",
+            "DISABLED_ACCESS",
+            "ELECTRONIC_GATE",
+            "SECURITY_CAMERA"
+        ],
+        "usableAreas": [
+            "92"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O imóvel está localizado no bairro Recreio dos Bandeirantes tem 92 metros quadrados com 3 quartos sendo 1 suite e 2 banheiros<br>Vai lhe possibilitar todo o conforto do ar condicionado nos dias mais quentes.Elevador para mais praticidade no dia-a-dia.<br>Já está com os móveis.",
+        "title": "Imóvel para venda com 3 quartos, 92m² - Recreio dos Bandeirantes",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2758567668",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790230",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "10",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.445119,
+                "source": "GOOGLE",
+                "lat": -23.010957
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Odilon Martins de Andrade",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Salvador Allende (Expresso)",
+                "BS:Salvador Allende (Parador)",
+                "BS:Ponto Final: Barra Sul :: Linha 553 SP",
+                "TS:Salvador Allende (Expresso)",
+                "TS:Salvador Allende (Parador)",
+                "TS:Terminal Recreio",
+                "TS:Catedral do Recreio",
+                "TS:Ponto Final: Barra Sul :: Linha 553 SP",
+                "CS:Padaria & Confeitaria A Lisboeta",
+                "CS:Santa Therezinha",
+                "CS:Fábrica de Bolo",
+                "CS:Padaria e Confeitaria Rei do Recreio",
+                "CS:Pão Carioca",
+                "PH:Venâncio",
+                "PH:Drogaria do Povo das Américas"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "Odilon M. 3Q 590k MA",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "92"
+        ],
+        "advertiserId": "f7e22f98-4d54-87e9-86e0-da92ca7d7cc9",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "270",
+                "price": "590000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "880"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21987674740"
+            ]
+        },
+        "videoTourLink": "https://www.vila360.com.br/videos-360-realidade-virtual/?gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4ats-x6xZ0DUT1URZcmO4O0_Xzg94dfHhUvfGNI8O1MCsP6SGaAdsxRoCcfEQAvD_BwE",
+        "whatsappNumber": "21987674740",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "f7e22f98-4d54-87e9-86e0-da92ca7d7cc9",
+        "name": "SILVA SANTOS IMÓVEIS RJ",
+        "licenseNumber": "068385-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 106606,
+        "phones": {
+            "primary": "21987674740",
+            "mobile": "21987674740"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "319926f5e1e81247b3bb73a0b73078e8",
+            "url": "https://www.youtube.com/watch?v=ZzNTPn4s9o8",
+            "type": "VIDEO"
+        },
+        {
+            "id": "055a0572c60eb23f048e80bb27a84c06",
+            "url": "https://www.vila360.com.br/videos-360-realidade-virtual/?gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4ats-x6xZ0DUT1URZcmO4O0_Xzg94dfHhUvfGNI8O1MCsP6SGaAdsxRoCcfEQAvD_BwE",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "f5d5cdb89c6dede6c0ee81a0e90dc551",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f5d5cdb89c6dede6c0ee81a0e90dc551/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b1034db15f0bed5742ee689a81de3eb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b1034db15f0bed5742ee689a81de3eb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "253c7e3cf84dfb454fb4bf6f15e014fe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/253c7e3cf84dfb454fb4bf6f15e014fe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4ed7f59b26dffc104b1bbaa2bd59fc5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4ed7f59b26dffc104b1bbaa2bd59fc5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "27aadb75cf45ce5fd84f7d44af4ab802",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/27aadb75cf45ce5fd84f7d44af4ab802/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "08315bd0fb8b724ca1d77feecdaae23f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/08315bd0fb8b724ca1d77feecdaae23f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ed70d5bf3aed4be46adf85b7a33ecf67",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed70d5bf3aed4be46adf85b7a33ecf67/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e12557d2fa8cdd13764847dcb1e0a980",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e12557d2fa8cdd13764847dcb1e0a980/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6cc43df1678450cad7ea365679c51e97",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6cc43df1678450cad7ea365679c51e97/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d0e76b8e400a4c881109a9613ffb0da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d0e76b8e400a4c881109a9613ffb0da/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cffed9c722d4fa0db542311e0404c5c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cffed9c722d4fa0db542311e0404c5c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c17a8f8d42cb89cee79ca3bda011ca08",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c17a8f8d42cb89cee79ca3bda011ca08/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "db78c3f99734a9944e63253481be19e7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/db78c3f99734a9944e63253481be19e7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "12591ad5d369ac04261dfa7489e249ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/12591ad5d369ac04261dfa7489e249ed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b621ae02aaeb2dee0912f6150b6213df",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b621ae02aaeb2dee0912f6150b6213df/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a70d64b0942d758930d0917de10faf26",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a70d64b0942d758930d0917de10faf26/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5d778f9329c6fdc52a0ad545cc4b62d5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5d778f9329c6fdc52a0ad545cc4b62d5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d67c39b2a87fa3340419ff4017914946",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d67c39b2a87fa3340419ff4017914946/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cfa00c5af4c04d716e596d04b2039e25",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cfa00c5af4c04d716e596d04b2039e25/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c23ed6b31cb1e260874925e2b0411693",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c23ed6b31cb1e260874925e2b0411693/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SILVA SANTOS IMÓVEIS RJ",
+        "href": "/106606/silva-santos-imoveis-rj/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 92m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-92m2-venda-RS590000-id-2758567668/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Odilon Martins de Andrade",
+            "streetNumber": "10",
+            "zone": "Zona Oeste"
+        }
+    }
+}

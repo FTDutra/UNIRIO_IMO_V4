@@ -1,0 +1,151 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [],
+        "usableAreas": [
+            "43"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Be in Rio Praia <br>33 unidades <br>Studios de 43m² a 51m²<br>Double suítes de 87m²<br>Coberturas Duplex de 183m² a 199m²<br>02 elevadores <br>Ponto de recarga para carro elétrico <br>Acesso com reconhecimento facial <br>Fechadura com biometria <br>Mini mercado <br>Bicicletário <br>Rooftop com piscina, bancada gourmet, sauna e academia. -",
+        "title": "Apartamento à venda na Rua Gomes Carneiro, Ipanema, Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2754681617",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22071110",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "30",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.19706,
+                "source": "GOOGLE",
+                "lat": -22.986303
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Gomes Carneiro",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Ipanema",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "poisList": [
+                "BS:Ponto Final: General Osório :: Rua Prudente de Morais",
+                "BS:BRS 2: General Osório",
+                "BS:Metrô na Superfície - General Osório",
+                "BS:Ponto Final: General Osório :: Rua Visconde de Pirajá",
+                "BS:Barra Expresso",
+                "TS:Ponto Final: General Osório :: Rua Prudente de Morais",
+                "TS:BRS 2: General Osório",
+                "TS:General Osório",
+                "TS:Metrô na Superfície - General Osório",
+                "TS:Ponto Final: General Osório :: Rua Visconde de Pirajá",
+                "CS:La Veronese",
+                "CS:Terra Mineira",
+                "CS:Empório das Águas",
+                "CS:Planeta Água",
+                "CS:Chocolate Brasil Cacau",
+                "PH:Drogaria Pop",
+                "PH:Farmácia Central Posto 6",
+                "PH:Viva Mais",
+                "PH:Prontofarma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "LIV-50581",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "51"
+        ],
+        "advertiserId": "a8f2cd87-9254-c73c-c981-df9939d2cce6",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "price": "1800000",
+                "businessType": "SALE"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21998148171"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21998148171",
+        "stamps": []
+    },
+    "account": {
+        "id": "a8f2cd87-9254-c73c-c981-df9939d2cce6",
+        "name": "Livima Consultoria Imobiliária Ltda",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed794d63a635fce74711849580b2c807/{description}.webp",
+        "licenseNumber": "007484-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 137234,
+        "phones": {
+            "primary": "21998148171",
+            "mobile": "21998148171"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "24d593359a94f24b9791a43cba002ed0",
+            "url": "https://www.youtube.com/watch?v=zLuRepn36U0&ab_channel=Livima",
+            "type": "VIDEO"
+        },
+        {
+            "id": "4fd954480b0465b439ef8861eb6da770",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4fd954480b0465b439ef8861eb6da770/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Livima Consultoria Imobiliária Ltda",
+        "href": "/137234/livima-consultoria-imobiliaria-ltda/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 43m²",
+        "href": "/imovel/apartamento-1-quartos-ipanema-zona-sul-rio-de-janeiro-43m2-venda-RS1800000-id-2754681617/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "state": "Rio de Janeiro",
+            "street": "Rua Gomes Carneiro",
+            "streetNumber": "30",
+            "zone": "Zona Sul"
+        }
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "INTERCOM",
+            "ELEVATOR"
+        ],
+        "usableAreas": [
+            "284"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "EXCELENTE APARTAMENTO EM ÓTIMO ESTADO, AMPLO E AREJADO, PLANTA CIRUCLAR, SALÃO QUE COMPORTA ATÉ 3 AMBIENTES, 3 QUARTOS SENDO UMA SUITE, UM BANHEIRO SOCIAL E UM LAVABO. 2 DEPENDÊNCIAS, COPA E COZINHA, ÁREA DE SERVIÇOS, 1 VAGA NA ESCRITURA COM POSSIBILIDADE DE LOCAÇÃO DA SEGUNDA VAGA. PRÉDIO COM PORTARIA 24H, ELEVADOR. RUA CALMA, PRÓXIMO À SANTA CLARA.<br><br> NO CASO DE LOCAÇÃO O IMÓVEL FICARÁ MOBILIADO.<br>-Cod:POAP30510 -Rev.27Jul",
+        "title": "Reformado e amplo imóvel com 284m² no IPTU",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2552680563",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22051030",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.969,
+                "approximateLon": -43.189,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Cinco de Julho",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 1 Figueiredo Magalhães",
+                "BS:BRS 1,3 - Avenida Nossa Senhora de Copacabana",
+                "BS:BRS 2 Santa Clara",
+                "BS:BRS 3 Siqueira Campos",
+                "BS:Ponto Regulador: Metrô Siqueira Campos",
+                "TS:BRS 1 Figueiredo Magalhães",
+                "TS:BRS 1,3 - Avenida Nossa Senhora de Copacabana",
+                "TS:Figueiredo Magalhães",
+                "TS:BRS 2 Santa Clara",
+                "TS:Siqueira Campos - Sentido Gen. Osório / Jd. Ocêanico",
+                "CS:The Bakers",
+                "CS:Grão da terra",
+                "CS:La Copa",
+                "CS:Multifruti",
+                "CS:Sulimar",
+                "PH:Drogaria Galanti",
+                "PH:Nash",
+                "PH:Prontofarma",
+                "PH:Caminhoá",
+                "PH:Galícia"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "POAP30510",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "284"
+        ],
+        "advertiserId": "1c064def-36b3-1e27-2609-00b77141dd87",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "11522",
+                "price": "2800000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "3100"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2130820009"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "1c064def-36b3-1e27-2609-00b77141dd87",
+        "name": "SOIMOVEIS IMOBILIARIA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60c28213bfaee032f8b000d7046ab03c/{description}.webp",
+        "licenseNumber": "02437-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 228880,
+        "phones": {
+            "primary": "2130820009",
+            "mobile": "2130820009"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "7a14f30a584dcbb52bad4029b92180b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a14f30a584dcbb52bad4029b92180b5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1549bbb03cc23ee69123a0c695648458",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1549bbb03cc23ee69123a0c695648458/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c1061c6a1f0a735fb1ee33f45519d604",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c1061c6a1f0a735fb1ee33f45519d604/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b438f01141fd1f51bf35de01a91c6419",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b438f01141fd1f51bf35de01a91c6419/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bdd0c4b0c864a09335d6453fb503c31d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bdd0c4b0c864a09335d6453fb503c31d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "04dc55991d3741364791982728b77405",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/04dc55991d3741364791982728b77405/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ab60d96ff99ab1883518b67b2f9c9a92",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ab60d96ff99ab1883518b67b2f9c9a92/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e69a69a79664291634b016bb77eacd8d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e69a69a79664291634b016bb77eacd8d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c3640c2636cb0cb6dd7087052a255cc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c3640c2636cb0cb6dd7087052a255cc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a82d7db0873c6bc506334ae2477d0f82",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a82d7db0873c6bc506334ae2477d0f82/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cdb58b311d37ea2bf74a634386070baa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cdb58b311d37ea2bf74a634386070baa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0424bce9761e7a777a83668f5abe24cb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0424bce9761e7a777a83668f5abe24cb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4fab0e1e1bc0cf7e229ed931c2608168",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4fab0e1e1bc0cf7e229ed931c2608168/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SOIMOVEIS IMOBILIARIA",
+        "href": "/228880/soimoveis-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 284m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-284m2-venda-RS2800000-id-2552680563/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Cinco de Julho",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

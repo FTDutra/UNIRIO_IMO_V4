@@ -1,0 +1,214 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "BALCONY",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "110"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Lindo e espaçoso apartamento, muito bem conservado, 111 m², varandão com vista espetacular para a Igreja da Penha, salão amplo com rebaixamento de teto e iluminação indireta, três bons quartos (dois com janela para a varanda e um deles onde você terá a visão da Igreja da Penha na sua janela ao acordar), banheiro social com box e armário/espelho sobre a pia, cozinha e área de serviço bem grandes e dependências completas (quarto grande).<br><br> Apartamento muito bonito, bem cuidado, em ótimo estado, todas as portas de qualidade.<br><br> Prédio com portaria 24 horas, interfone, portão automático de garagem, dois elevadores, playground com dois banheiros e salão de festas.<br><br> Duas vagas cobertas de garagem.<br><br> Documentação perfeita, aceitando financiamento bancário, permuta e veículo como parte de pagamento.<br><br> Localização muito boa, no centro da Penha, próximo a dois shoppings, dois supermercados, estações do BRT, amplo comércio e condução.<br>-Cod:ACAP30094 -Rev.11Dez",
+        "title": "Apartamento com três quartos na Penha",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2757094814",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21070010",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.84,
+                "approximateLon": -43.28,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Venina",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Penha",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Penha",
+            "poisList": [
+                "BS:Ponto Final: Penha :: Linha 497",
+                "BS:Ponto Final: Penha :: Linha 483",
+                "BS:Ponto Final: Penha :: Linhas 623 e 628",
+                "BS:Ponto Final: Penha :: Linha 313",
+                "BS:Ponto Regulador: Penha :: Linha 680",
+                "TS:Penha",
+                "TS:Pastor José Santos",
+                "TS:Penha 1 (Expresso)",
+                "TS:Penha 1 (Parador)",
+                "TS:Estação 1",
+                "CS:Padaria Guanabara",
+                "CS:Padaria e restaurante Central de Olaria",
+                "PH:Drogarias Legitima"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "ACAP30094",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "110"
+        ],
+        "advertiserId": "646f71b9-df41-dd23-0896-f55aedc267de",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1080",
+                "price": "350000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "600"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2124297522",
+                "21984722330"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21984722330",
+        "stamps": []
+    },
+    "account": {
+        "id": "646f71b9-df41-dd23-0896-f55aedc267de",
+        "name": "Assunção & Cardim Corretores de Imóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56fbdc49f6ea6b8c699a7e53602cfae6/{description}.webp",
+        "licenseNumber": "41203-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 57943,
+        "phones": {
+            "primary": "2124297522",
+            "mobile": "21984722330"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "88465b2099a4eadafd675f3862fe1b0d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/88465b2099a4eadafd675f3862fe1b0d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "346096a83a840a2eba2cc184398323da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/346096a83a840a2eba2cc184398323da/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a69a2f5f6cc28d7615de8ed5d82592e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a69a2f5f6cc28d7615de8ed5d82592e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0d1ff0b2761e0e52d121bed43549544a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0d1ff0b2761e0e52d121bed43549544a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "40d1dab18cfed691baea3b3f84c588ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40d1dab18cfed691baea3b3f84c588ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "233c65cb152b38e85c315cbc25f7f9a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/233c65cb152b38e85c315cbc25f7f9a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8f173146988818dac492cf614aea7834",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8f173146988818dac492cf614aea7834/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd06343dbcfd2cb87826dfa7181fb91b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd06343dbcfd2cb87826dfa7181fb91b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9d75e8cb53e6dbbc1e10e20b39bcbe48",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9d75e8cb53e6dbbc1e10e20b39bcbe48/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "85ef7cdedd45b36638781426f0da2c85",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/85ef7cdedd45b36638781426f0da2c85/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0302aafc8092d4ec6dae602dfd430272",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0302aafc8092d4ec6dae602dfd430272/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6bddb4811358b9e878e90fa6dac4a5b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6bddb4811358b9e878e90fa6dac4a5b5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "182a30d47bfdb6b5e655bdd870c447a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/182a30d47bfdb6b5e655bdd870c447a6/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Assunção & Cardim Corretores de Imóveis",
+        "href": "/57943/assuncao-cardim-corretores-de-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 110m²",
+        "href": "/imovel/apartamento-3-quartos-penha-zona-norte-rio-de-janeiro-com-garagem-110m2-venda-RS350000-id-2757094814/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Penha",
+            "state": "Rio de Janeiro",
+            "street": "Rua Venina",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

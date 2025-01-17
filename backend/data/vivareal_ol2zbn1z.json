@@ -1,0 +1,305 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "SERVICE_AREA",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "WATCHMAN"
+        ],
+        "usableAreas": [
+            "70"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento em ótima localização no bairro de Vila Isabel , próximo a todo tipo de comércio, com portaria 24 hs. Sol da manhã, 2 Quartos com Armários Cozinha e 2 Banheiros . Rua Perto de Todo Comercio da Região , Rua Residencial Próximo a 28 de Setembro, e ao Hospital Pedro Ernesto. <br>Uma Ótima Oportunidade , Localização , Preço e Qualidade !",
+        "title": "Apartamento à venda, 2 quartos, Vila Isabel - RIO DE JANEIRO/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2617656299",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20551040",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.914,
+                "approximateLon": -43.24,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Hipólito da Costa",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Vila Isabel",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "poisList": [
+                "BS:Ponto Final: Maracanã :: Linha 464",
+                "BS:BRS 2, 6, 7",
+                "BS:BRS 4, 5, I",
+                "BS:P6: Jaceguaí",
+                "BS:Barão de Mesquita 482c",
+                "TS:BRS 2, 6, 7",
+                "TS:Ponto Final: Maracanã :: Linha 464",
+                "TS:Mangueira / Jamelão",
+                "TS:Maracanã",
+                "TS:Estádio Maracanã / UERJ",
+                "CS:PADARIA E PANIFICAÇÃO 2 AMIGOS",
+                "CS:Padaria Villas Garden",
+                "CS:Padaria Abaeté",
+                "CS:A Propósito",
+                "CS:Padaria Arte & Pão",
+                "PH:Drogaria Pedro Ernesto",
+                "PH:Farma Dez",
+                "PH:Drograria Venâncio",
+                "PH:Drogaria Unidas",
+                "PH:Drogaria Venancio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "55427",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "70"
+        ],
+        "advertiserId": "47bfba65-4536-fdcd-02a0-7c94c59de885",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "75",
+                "price": "350000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "550"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2139883415",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_FEVEREIRO_2024"
+        ]
+    },
+    "account": {
+        "id": "47bfba65-4536-fdcd-02a0-7c94c59de885",
+        "name": "Privilégio Tijuca",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca0857f43658bddac6ef6c3da8d31f19/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 761981,
+        "phones": {
+            "primary": "2139883415",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "e32b1abc516d5d37791f013773ace8bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e32b1abc516d5d37791f013773ace8bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "850440cf41877b3b4d5c3e10781eb941",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/850440cf41877b3b4d5c3e10781eb941/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "84f3547be294e980ab8ecfb9aeb2c2b1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/84f3547be294e980ab8ecfb9aeb2c2b1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "828b1357274e20155c72dc349a8d2e4d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/828b1357274e20155c72dc349a8d2e4d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bdaa2f6f882db496653c6af43c9930a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bdaa2f6f882db496653c6af43c9930a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d567c0ed1c5e20d6a9d8e91065a84964",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d567c0ed1c5e20d6a9d8e91065a84964/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "256f17b89ddb05429cb15c4a074b0063",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/256f17b89ddb05429cb15c4a074b0063/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c88cde2ceca8576c7437f6b7de6d5f6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c88cde2ceca8576c7437f6b7de6d5f6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f24c179be3ae78cbfbf97eeb5841f985",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f24c179be3ae78cbfbf97eeb5841f985/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a160e24240ae82f05ed6b81fef524100",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a160e24240ae82f05ed6b81fef524100/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "413ca14b7b68746af2c8eb8ac06a4d11",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/413ca14b7b68746af2c8eb8ac06a4d11/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "29399a02522041b249f031ac0685f44a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/29399a02522041b249f031ac0685f44a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f868b8ed40fe3b86266d74eedf7c3b60",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f868b8ed40fe3b86266d74eedf7c3b60/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "04f55f2e392659335fe84387553de0f0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/04f55f2e392659335fe84387553de0f0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f539d4289c8e390f1011752bbb0891f6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f539d4289c8e390f1011752bbb0891f6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "60adfe6fc626f0b06308b6750f9cf271",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60adfe6fc626f0b06308b6750f9cf271/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c54161659ac6531f42d2c538f0883cc9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c54161659ac6531f42d2c538f0883cc9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c3eb8f3cbd1c2c6041aeb0ce7f1275f7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c3eb8f3cbd1c2c6041aeb0ce7f1275f7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7d1a32a5849d186262acf4a8170699e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7d1a32a5849d186262acf4a8170699e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "20123597de1575ebfde432a7bd919966",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/20123597de1575ebfde432a7bd919966/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "24152d18795055e808e9d0cada479f67",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/24152d18795055e808e9d0cada479f67/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "90bf16593d972fc0052fafec9808d549",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/90bf16593d972fc0052fafec9808d549/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ecfcc677dd2a8de7ae562e9c7cf772d8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ecfcc677dd2a8de7ae562e9c7cf772d8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ebddae05b7584e2da1b2ed43089b30f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ebddae05b7584e2da1b2ed43089b30f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "089e7b8ac92240cb810511f4b8e5e6fc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/089e7b8ac92240cb810511f4b8e5e6fc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e4f7091bf2fc87cafae8f579bd417bf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e4f7091bf2fc87cafae8f579bd417bf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b15ee7527add2c28f1b83bce61b7a406",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b15ee7527add2c28f1b83bce61b7a406/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7613195f2c42ed08b270d3d7928e2f33",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7613195f2c42ed08b270d3d7928e2f33/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "62c83e8b04aabea6a102ff6a7651631a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/62c83e8b04aabea6a102ff6a7651631a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2d45be60c8681a208eae47f6aafc1869",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2d45be60c8681a208eae47f6aafc1869/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Tijuca",
+        "href": "/761981/privilegio-tijuca/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 70m²",
+        "href": "/imovel/apartamento-2-quartos-vila-isabel-zona-norte-rio-de-janeiro-70m2-venda-RS350000-id-2617656299/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "state": "Rio de Janeiro",
+            "street": "Rua Hipólito da Costa",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

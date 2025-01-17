@@ -1,0 +1,283 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "GARDEN",
+            "SERVICE_AREA",
+            "KITCHEN_CABINETS",
+            "BATHROOM_CABINETS",
+            "SERVICE_BATHROOM",
+            "INTERNET_ACCESS",
+            "INTERCOM",
+            "DINNER_ROOM",
+            "CABLE_TV",
+            "COLD_FLOOR",
+            "MOUNTAIN_VIEW",
+            "SECURITY_CAMERA"
+        ],
+        "usableAreas": [
+            "78"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "\"VENDA\" Excelente apartamento na Freguesia, rua Araguaia, sala em 02 ambientes, 03 quartos sendo 01 suíte, banheiro social com armários, cozinha com armários, área de serviço e banheiro de empregada. Aceita financiamento e FGTS !!<br>Localização privilegiada, muito boa, comércio, restaurantes, mercados e escolas.",
+        "title": "\"ARAGUAIA\" APARTAMENTO para venda possui 78 metros quadrados com 3 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2739556214",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22745270",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "1210",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.335713,
+                "source": "GOOGLE",
+                "lat": -22.934908
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Araguaia",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Freguesia- Jacarepagua",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Freguesia (Jacarepaguá)",
+            "poisList": [
+                "BS:Tirol",
+                "BS:Professora Camisão",
+                "TS:Tirol",
+                "TS:Professora Camisão",
+                "TS:José Roiz de Aragão",
+                "TS:Provedora Lygia Moreira Alves de Brito",
+                "CS:Kúffura",
+                "CS:TECNOMEDI FREGUESIA",
+                "SU:Santa Mônica Centro Educacional",
+                "SU:Escola Municipal 25 de Abril",
+                "SU:Escola Municipal Edgard Werneck",
+                "SU:Escola Municipal Menezes Cortes",
+                "SU:Colégio Bahiense - JPA"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIERE_1",
+        "externalId": "AP0007",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "78"
+        ],
+        "advertiserId": "a9aa7747-5b08-5b21-bc89-68f131efe4f6",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "800",
+                "price": "349000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "420"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21971171975"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971171975",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "a9aa7747-5b08-5b21-bc89-68f131efe4f6",
+        "name": "Felce Imóveis",
+        "licenseNumber": "96485-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 837402,
+        "phones": {
+            "primary": "21971171975",
+            "mobile": "21971171975"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "1d1e9c46098f52ffc2285c7f10e7c457",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d1e9c46098f52ffc2285c7f10e7c457/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "585ca7c8492709a94c102db52d70e218",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/585ca7c8492709a94c102db52d70e218/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6d86ee493ea4e3cb322d793836c54d61",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6d86ee493ea4e3cb322d793836c54d61/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c32a20306003a81b200a2acd5290c47",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c32a20306003a81b200a2acd5290c47/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d424e5cbaa82f85c047b485baf772609",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d424e5cbaa82f85c047b485baf772609/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8862535d0afbb6293eddc839bf7020c1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8862535d0afbb6293eddc839bf7020c1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f47a7a917e524bec1f8a8adfb6fb481d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f47a7a917e524bec1f8a8adfb6fb481d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a40851b93823c9f2ffe6ff40a9eba02e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a40851b93823c9f2ffe6ff40a9eba02e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8476d329eaf5a996f6647ec9f10e8ee5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8476d329eaf5a996f6647ec9f10e8ee5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0bd8e7193b7f54de5ac3eab4e9a6e9d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0bd8e7193b7f54de5ac3eab4e9a6e9d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9dbccd27842d482334043d1b4c114cea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9dbccd27842d482334043d1b4c114cea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6f07c0aaca10f58fdee47b64825f270b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6f07c0aaca10f58fdee47b64825f270b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bcc795ddc18f84bb87df4a4139b90d55",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bcc795ddc18f84bb87df4a4139b90d55/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd2975f3898fbcec6579a4a79c298e85",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd2975f3898fbcec6579a4a79c298e85/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "54fcab23ce8aab934c57bde714864956",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/54fcab23ce8aab934c57bde714864956/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b8d6dc02e35a44bbc0eaab986c3584d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b8d6dc02e35a44bbc0eaab986c3584d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "473cc22774f094254ed226f493b1ab9c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/473cc22774f094254ed226f493b1ab9c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3482b22e6ee95908cf4e2de9e94f1569",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3482b22e6ee95908cf4e2de9e94f1569/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ed664f1ee7b79d0630b352601488f176",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed664f1ee7b79d0630b352601488f176/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e725406ff0b273347f50facd8150fdd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e725406ff0b273347f50facd8150fdd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "52707cb958ca660333f7511ee8e8d971",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52707cb958ca660333f7511ee8e8d971/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "831cf59d15ebd98d0792b36eb9472e65",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/831cf59d15ebd98d0792b36eb9472e65/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d03d760c44e00166170df331ec0b8d16",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d03d760c44e00166170df331ec0b8d16/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "adad929372677fbe20f27366e7c78939",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/adad929372677fbe20f27366e7c78939/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5097f6f176eea3d0d43e8a46535b7d5e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5097f6f176eea3d0d43e8a46535b7d5e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a476c44482c3854487c8f25276eb573",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a476c44482c3854487c8f25276eb573/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Felce Imóveis",
+        "href": "/837402/felce-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 78m²",
+        "href": "/imovel/apartamento-3-quartos-freguesia-jacarepagua-zona-oeste-rio-de-janeiro-78m2-venda-RS349000-id-2739556214/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Freguesia- Jacarepaguá",
+            "state": "Rio de Janeiro",
+            "street": "Rua Araguaia",
+            "streetNumber": "1210",
+            "zone": "Zona Oeste"
+        }
+    }
+}

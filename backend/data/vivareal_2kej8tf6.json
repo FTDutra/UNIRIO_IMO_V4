@@ -1,0 +1,243 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "PLAYGROUND",
+            "CLOSET",
+            "DINNER_ROOM",
+            "BALCONY",
+            "SERVICE_AREA"
+        ],
+        "usableAreas": [
+            "170"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento composto por hall de entrada, sala de estar/jantar, ampla varanda aberta, original 4 quartos (transformado atualmente em 3 quartos), sendo 1 suíte, banheiro social, rouparia, copa/cozinha, área de serviço, dependência e banheiro de serviço. O imóvel encontra-se em ótimo estado de conservação e padrão de acabamento. Incidência de sol na parte da tarde. Prédio em excelente estado, com portaria 24 horas, play e vaga de garagem para 2 carros.",
+        "title": "Apartamento para venda com 4 quartos, 170m² - Leblon - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2692455992",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22430210",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.984,
+                "approximateLon": -43.222,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua João Líra",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Leblon",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "poisList": [
+                "BS:BRS 2,3 - Cupertino Durão",
+                "BS:Ponto Final: Antero de Quental",
+                "BS:Ponto Final: Leblon :: Ônibus Executivos",
+                "BS:Humberto de Campos",
+                "BS:Nossa Senhora Auxiliadora",
+                "TS:Bartolomeu Mitre",
+                "TS:Metrô - Estação Antero de Quental",
+                "TS:Antero de Quental",
+                "TS:General Urquiza",
+                "TS:Ponto Final: Antero de Quental",
+                "CS:Talho Capixaba",
+                "CS:Rio Lisboa",
+                "CS:Patata",
+                "CS:am/pm",
+                "CS:Armazém do Café",
+                "PH:Drogasmil"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "25507",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "170"
+        ],
+        "advertiserId": "53a81422-c55b-213a-0bfa-48f6a5cb7922",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1183",
+                "price": "7500000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2521"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2125409999",
+                "21995592196"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21995592196",
+        "stamps": []
+    },
+    "account": {
+        "id": "53a81422-c55b-213a-0bfa-48f6a5cb7922",
+        "name": "JUDICE & ARAUJO IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b47db0afe01055497c42eadf8736dc4/{description}.webp",
+        "licenseNumber": "005244-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 51066,
+        "phones": {
+            "primary": "2125409999",
+            "mobile": "21995592196"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "ce2e43874a95b17ecd511a1332ddfa2a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce2e43874a95b17ecd511a1332ddfa2a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "41f1dc682648ad1f7480c575ad50867f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/41f1dc682648ad1f7480c575ad50867f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8be5aeb68de73df2208fe907d2a60728",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8be5aeb68de73df2208fe907d2a60728/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "159f30c0845d1a6ad3c23638e2f28b8d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/159f30c0845d1a6ad3c23638e2f28b8d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dd7e5d78c423c1160fb5479def5ed681",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd7e5d78c423c1160fb5479def5ed681/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "496756639c5eea1305d2439be60dbb94",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/496756639c5eea1305d2439be60dbb94/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f7e1281764c616aa9f44deac5a21e63",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f7e1281764c616aa9f44deac5a21e63/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d60a5f56944668b5be558d4da6147357",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d60a5f56944668b5be558d4da6147357/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0375e5376f280b3ecfb9fe2f8d79dfe2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0375e5376f280b3ecfb9fe2f8d79dfe2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d31c8ed870cc2cfd4c502b89b4056d06",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d31c8ed870cc2cfd4c502b89b4056d06/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2dd34eb4902713824d6fe2f805170ffc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2dd34eb4902713824d6fe2f805170ffc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6e983bf27434a17d73b61c10ea0e20f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6e983bf27434a17d73b61c10ea0e20f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a575417b27fdf2b846946d14254e92c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a575417b27fdf2b846946d14254e92c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "318e53e5f8f82a3e36bf27496a4b7106",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/318e53e5f8f82a3e36bf27496a4b7106/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9d73e8e490c1be8e60135c21fba85e1a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9d73e8e490c1be8e60135c21fba85e1a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cae58d9ddc8053b07e04522e50ed2131",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cae58d9ddc8053b07e04522e50ed2131/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "07687df45f85a7f4ce72e29712c3db87",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/07687df45f85a7f4ce72e29712c3db87/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7380337ad0e3c36b6451e4679770cfe6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7380337ad0e3c36b6451e4679770cfe6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "df4904b97b6ed6e3d793d2ca8039002f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df4904b97b6ed6e3d793d2ca8039002f/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "JUDICE & ARAUJO IMOVEIS",
+        "href": "/51066/judice-araujo-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 170m²",
+        "href": "/imovel/apartamento-4-quartos-leblon-zona-sul-rio-de-janeiro-com-garagem-170m2-venda-RS7500000-id-2692455992/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "state": "Rio de Janeiro",
+            "street": "Rua João Líra",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

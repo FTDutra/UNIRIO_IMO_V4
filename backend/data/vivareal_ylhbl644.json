@@ -1,0 +1,268 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "FURNISHED",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "GOURMET_BALCONY",
+            "BICYCLES_PLACE",
+            "AMERICAN_KITCHEN",
+            "DISABLED_ACCESS",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "64"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "PRÉDIO NOVO, COM PISCINA E CHURRASQUEIRA EM BOTAFOGO, CONDOMINIO BARATO, RUA SEM SAIDA, PRÓXIMO AO COMPLEXO DE BARES E RESTAURANTES, PRÓXIMO AO SHOPPING RIO SUL, APARTAMENTO ANDAR ALTO COM DIREITO AO USO DA LAJE NA ESCRITURA, APARTAMENTO PREPARADO, PARA SE FAZER O 2º PAVIMENTO, COMPOSTO DE VARANDA, SALA, 2 QUARTOS COMS ARMARIOS E SPLIT, SENDO UM DOS QUARTOS SUITE, BANHEIRO SOCIAL,COZINHA PLANEJADA(VAI FICAR TUDO DENTRO DO APTO), COM ÁREA DE SERVIÇO, 1 VAGA DE GARAGEM NA ESCRITURA, AGENDE UMA VISITA",
+        "title": "APARTAMENTO DE VARANDA COM 2 QUARTOS SUITE, DIREITO A USO DA LAJE E GARAGEM EM BOTAFOGO",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2752664429",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22280110",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.957,
+                "approximateLon": -43.185,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Álvaro Ramos",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Botafogo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:BRS 3: Sorocaba",
+                "BS:Ponto Final: Rio Sul :: Barra, Recreio e Vargem Grande",
+                "BS:Integrada 1",
+                "BS:Integrada 2",
+                "BS:Integrada 8",
+                "TS:Futura estação Morro de São João",
+                "TS:Acesso Mena Barreto",
+                "TS:Ponto Final: Rio Sul :: Barra, Recreio e Vargem Grande",
+                "TS:Integrada 1",
+                "TS:Integrada 2",
+                "CS:Small bakery",
+                "CS:Naziras X",
+                "CS:Fica Café",
+                "CS:Americanas Local",
+                "CS:The Slow Bakery",
+                "PH:Bio Mundo",
+                "PH:Farma Nature",
+                "PH:Farmacopa",
+                "PH:Caminhoá",
+                "PH:Poubel"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "FCI 0392",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "64"
+        ],
+        "advertiserId": "31d2b941-c591-b625-d428-7dcb15c331d5",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "150",
+                "price": "899000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "500"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21973838320"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21973838320",
+        "stamps": []
+    },
+    "account": {
+        "id": "31d2b941-c591-b625-d428-7dcb15c331d5",
+        "name": "Frazza consultoria imobiliária",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d27bae919dbf9fd36e36502214758fcd/{description}.webp",
+        "licenseNumber": "11263-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 45045,
+        "phones": {
+            "primary": "21973838320",
+            "mobile": "21973838320"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "7a8fcdad183eb121358cea14d3c17ef6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a8fcdad183eb121358cea14d3c17ef6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "29a10074587b440ec6310cb6ba6bb870",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/29a10074587b440ec6310cb6ba6bb870/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8929d089518e79bea5dd649e7b459b02",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8929d089518e79bea5dd649e7b459b02/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e0a63cc0ca9a9de36a065b0613e4a550",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e0a63cc0ca9a9de36a065b0613e4a550/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "db7d5d29463463b9999d7a8a5bcf9e9e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/db7d5d29463463b9999d7a8a5bcf9e9e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "39716f767a95d422c01e6bebc6c41d77",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39716f767a95d422c01e6bebc6c41d77/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d9e28234f426b39a02efd28f80d428d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d9e28234f426b39a02efd28f80d428d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "651ee7e749f68dedf2bf15d8ffc268b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/651ee7e749f68dedf2bf15d8ffc268b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b62aa3354f3ab5033375b2b9c1177204",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b62aa3354f3ab5033375b2b9c1177204/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c6ef916a8ad2d799539dc459f4fa8c0f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c6ef916a8ad2d799539dc459f4fa8c0f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "22f5cc85213cb4fe412cdf934f11ac32",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/22f5cc85213cb4fe412cdf934f11ac32/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c484e43c2414dd3c051404f627486d58",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c484e43c2414dd3c051404f627486d58/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8533e03042ac46d31344f8d4817015ae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8533e03042ac46d31344f8d4817015ae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "99db73ab5c8bc517777ab28620ecbb9f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/99db73ab5c8bc517777ab28620ecbb9f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c8a9015c75e00bf8f2b708f6ffb78d99",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c8a9015c75e00bf8f2b708f6ffb78d99/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "95f1c0b11c72997a0d4a3b25e028cb77",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/95f1c0b11c72997a0d4a3b25e028cb77/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b15f915310a3d14768351e5634c20ed6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b15f915310a3d14768351e5634c20ed6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cb98a4a0396a6ba42a46cd9a7a61fc8e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cb98a4a0396a6ba42a46cd9a7a61fc8e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b771e9725460a86eba83fdd4085ab830",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b771e9725460a86eba83fdd4085ab830/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "50bb3bf40db691e4965a92626180b226",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/50bb3bf40db691e4965a92626180b226/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7d02eecfc2d7d2fa3c6c2695484a5999",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7d02eecfc2d7d2fa3c6c2695484a5999/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ac220a092aa9db85369315bc3e2d4557",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ac220a092aa9db85369315bc3e2d4557/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Frazza consultoria imobiliária",
+        "href": "/45045/frazza-consultoria-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 64m²",
+        "href": "/imovel/apartamento-2-quartos-botafogo-zona-sul-rio-de-janeiro-com-garagem-64m2-venda-RS899000-id-2752664429/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Álvaro Ramos",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

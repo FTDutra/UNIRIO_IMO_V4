@@ -1,0 +1,178 @@
+{
+    "listing": {
+        "displayAddressType": "NEIGHBORHOOD",
+        "amenities": [
+            "POOL",
+            "BALCONY",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "GUEST_PARKING",
+            "RECREATION_AREA",
+            "KITCHEN_CABINETS",
+            "AMERICAN_KITCHEN",
+            "PLATED_GAS",
+            "SANCA",
+            "BLINDEX_BOX",
+            "PORCELAIN",
+            "NATURAL_VENTILATION",
+            "FOOTBALL_FIELD",
+            "CHILDREN_CARE",
+            "WHIRLPOOL",
+            "VEGETABLE_GARDEN",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "55"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Documentação toda OK!! Imóvel todo reformado, claro e arejado com ventilação natural. Planejado todo em piso de porcelanato. Sala em dois ambientes com projeto de iluminação. Varanda e janelas dos quartos com toldos. Cozinha americana com móveis planejados, bancada em granito negro São Gabriel e azulejos até o teto. Dois dormitórios reformados com instalação personalizada para TVs de paredes e instalação para ar condicionado. Banheiro social com box blindex, bancada em granito negro São Gabriel, azulejos até o teto e ventilação natural. Área de serviço ventilada e clara com divisão em tijolos de vidro e instalação para aquecedor. Condomínio Mais São Cristóvão, bem localizado com diversas alternativas de transporte. Infraestrutura total: play, piscinas, salão de festas, sauna, campo de esportes, bicicletário. Uma vaga na escritura na garagem. Segurança e portaria 24h. Comércio farto e em expansão na região. DIRETO COM PROPRIETÁRIO.",
+        "title": "Apartamento de 55 metros quadrados no bairro São Cristóvão com 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2427505498",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20910061",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.899,
+                "approximateLon": -43.228,
+                "radius": 250
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Sao Cristovao",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "São Cristóvão",
+            "poisList": [
+                "BS:Ponto Final: São Januário :: Linha 473",
+                "BS:Ponto Final: São Cristovão :: Copacabana (via Rebouças)",
+                "BS:Ponto Final: São Cristovão :: Linhas 460 e 461",
+                "BS:INTO",
+                "BS:104",
+                "TS:Ponto Final: São Januário :: Linha 473",
+                "TS:Maracanã/Mangueira",
+                "TS:Ponto Final: São Cristovão :: Copacabana (via Rebouças)",
+                "TS:São Cristóvão",
+                "TS:Trens da SuperVia",
+                "CS:Padaria Cancela",
+                "CS:Padaria Do Sardo",
+                "CS:Panificação Esmero",
+                "CS:Nossa Padaria",
+                "CS:Panetteria São Francisco Xavier",
+                "PH:Drogaria Pedro Ernesto"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "ZAP1188078",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "55"
+        ],
+        "advertiserId": "4a1929e2-7227-6237-933b-1f1e8c6bfcc9",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "370000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "390"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2199999999"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "4a1929e2-7227-6237-933b-1f1e8c6bfcc9",
+        "name": "JORGE M",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 336089,
+        "phones": {
+            "primary": "2199999999",
+            "mobile": ""
+        },
+        "tier": ""
+    },
+    "medias": [
+        {
+            "id": "4e89fc1451a6d3ba9b8fcfe1f488926e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4e89fc1451a6d3ba9b8fcfe1f488926e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2cfbf53370835638bee2dfc5aaa963d9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2cfbf53370835638bee2dfc5aaa963d9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c1e034c64ab4c2b5d638fa7b2e8ffeda",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c1e034c64ab4c2b5d638fa7b2e8ffeda/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a7eed743b00afe8a93726a999a0d3e9a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a7eed743b00afe8a93726a999a0d3e9a/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "JORGE M",
+        "href": "/336089/jorge-m/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 55m²",
+        "href": "/imovel/apartamento-2-quartos-sao-cristovao-zona-norte-rio-de-janeiro-com-garagem-55m2-venda-RS370000-id-2427505498/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "São Cristóvão",
+            "state": "Rio de Janeiro",
+            "street": "",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

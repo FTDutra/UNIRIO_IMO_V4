@@ -1,0 +1,248 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "GARAGE",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "WATCHMAN",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "87"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Privilégio Imóveis vende:<br><br>Apartamento no Rio Comprido, com 2 quartos, sala, cozinha com área de serviço, 2 banheiros, dependência convertida em 3º quarto ou escritório. Vaga de garagem na escritura.<br>Condomínio com portaria 24h, elevadores e salão de festas.<br>Localização excelente, próximo da zona sul e Centro, com fácil deslocamento via transporte público. Além da proximidade com comércio, escolas, serviços e hospitais da região.<br><br>Agende sua visita através do informando o código: 72860.",
+        "title": "Apartamento 2 quartos, com vaga, no Rio Comprido",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2749491001",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20261240",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.922,
+                "approximateLon": -43.209,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Paulo de Frontin",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Praca da Bandeira",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Praça da Bandeira",
+            "poisList": [
+                "BS:Club Municipal",
+                "BS:Ponto Final: Praça da Bandeira :: Linha 624",
+                "BS:Ponto Final do 600 (Taquara)",
+                "BS:Ponto Final: Saens Peña :: Linha 601",
+                "BS:Ponto da Rua do Catumbi",
+                "TS:Ponto de Mototáxi",
+                "TS:Club Municipal",
+                "TS:Afonso Pena / Tijuca",
+                "TS:Afonso Pena",
+                "TS:Estácio",
+                "CS:Grão de Minas",
+                "CS:Empório Mineiro Cheirin Bão",
+                "CS:Império do Pão",
+                "CS:Padaria do Raphael",
+                "CS:Padaria da Chácara",
+                "PH:Farmavita"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "72860",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "87"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "600",
+                "price": "360000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "990"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "39b1077dd8626c5112ca3b5ac844fb58",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39b1077dd8626c5112ca3b5ac844fb58/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "152b93b3d201d75b1a8268143741a6fc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/152b93b3d201d75b1a8268143741a6fc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "395f1ea2c6ab366bb0f08806629b2361",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/395f1ea2c6ab366bb0f08806629b2361/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "688300efd3ea45b8fab4b3f9212dd03c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/688300efd3ea45b8fab4b3f9212dd03c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a8cda2477dbd7104ccbe02c6dbc04e91",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a8cda2477dbd7104ccbe02c6dbc04e91/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "db091d36e35c508bb4a2878e4db9f4e7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/db091d36e35c508bb4a2878e4db9f4e7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fdfa487f14a3679e10a81c62ed164ff4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fdfa487f14a3679e10a81c62ed164ff4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d62f2c7bec229903ab7434497238b2a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d62f2c7bec229903ab7434497238b2a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5338dc53dddff0f62b741a1e8c6256cf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5338dc53dddff0f62b741a1e8c6256cf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5a9b05b9a524f8a6c4305a1bd1ce094a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5a9b05b9a524f8a6c4305a1bd1ce094a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "085f1411438baaafd885b3ec95d8ec08",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/085f1411438baaafd885b3ec95d8ec08/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "51437e926bcb2682f43ce75a5d7c2148",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/51437e926bcb2682f43ce75a5d7c2148/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7264df8bdbc098f87096b3f02218c395",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7264df8bdbc098f87096b3f02218c395/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "45abee16335b52db50b29c53ec2a9133",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/45abee16335b52db50b29c53ec2a9133/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6e20f30b93b3d5da1b32e9628de686a9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6e20f30b93b3d5da1b32e9628de686a9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "343cd0979db57d6f8ef687ae15a587d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/343cd0979db57d6f8ef687ae15a587d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7fce91c3a351873e634470119fe2b608",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7fce91c3a351873e634470119fe2b608/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5141e6815c95712aefbb25fe56be8f9f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5141e6815c95712aefbb25fe56be8f9f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0abba70df0b869437bf16e80c530b1ae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0abba70df0b869437bf16e80c530b1ae/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 87m²",
+        "href": "/imovel/apartamento-2-quartos-praca-da-bandeira-zona-norte-rio-de-janeiro-com-garagem-87m2-venda-RS360000-id-2749491001/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Praça da Bandeira",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Paulo de Frontin",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

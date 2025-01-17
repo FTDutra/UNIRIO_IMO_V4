@@ -1,0 +1,288 @@
+{
+    "listing": {
+        "displayAddressType": "NEIGHBORHOOD",
+        "amenities": [],
+        "usableAreas": [
+            "65"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Barão Cotegipe <br><br>Apartamento de 65m², boa sala, 2 quartos, banheiro social, cozinha, área de serviço e dependência modificada para lavanderia.<br><br>Entrada social e serviço.<br><br>01 vaga.<br><br>Venda R$ 370.000,00<br><br>Condomínio R$ 1.039,46<br>IPTU 2024 R$ 82,90<br><br>*Atenção: Os preços e taxas podem sofrer alterações sem aviso*.",
+        "title": "Apartamento em Vila Isabel - Rio de Janeiro",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2760345124",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20560085",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.918,
+                "approximateLon": -43.255,
+                "radius": 250
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Vila Isabel",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "poisList": [
+                "BS:Ponto Final: Vila Isabel :: Linha 432",
+                "BS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "BS:Ponto final 222",
+                "BS:Ponto Final 433",
+                "BS:Ponto Final 438",
+                "TS:Ponto Final: Vila Isabel :: Linha 432",
+                "TS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "TS:Ponto Final 433",
+                "TS:Ponto Final 438",
+                "TS:Ponto Final 605",
+                "CS:Padaria do Verdun",
+                "CS:Fábrica de Bolo da Vó Alzira",
+                "CS:Empório Maria Filó",
+                "CS:Mercado de Carnes Coração da Vila",
+                "CS:Jóia do Grajaú",
+                "PH:Drograrias Guanabara",
+                "PH:Farma Dez",
+                "PH:Drogaria MEP",
+                "PH:Drogaria Pedro Ernesto"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "304",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "65"
+        ],
+        "advertiserId": "6cf519df-ae8f-92a2-1f50-5f16be72960b",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "83",
+                "price": "370000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1039"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21995463679",
+                "21995409741"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21995409741",
+        "stamps": []
+    },
+    "account": {
+        "id": "6cf519df-ae8f-92a2-1f50-5f16be72960b",
+        "name": "ADMINISTRADORA SION LTDA-ME",
+        "licenseNumber": "00328-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 228860,
+        "phones": {
+            "primary": "21995463679",
+            "mobile": "21995409741"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "e8c1ec3d4e8ce4f9813cd941a96ab7be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e8c1ec3d4e8ce4f9813cd941a96ab7be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9252628fa072acd9e73a11ecfdc0175",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9252628fa072acd9e73a11ecfdc0175/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6dd5ce4b980abdd8b70c6123745e8dbd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6dd5ce4b980abdd8b70c6123745e8dbd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a46834665dbb01e4e8c2b23a1d62fd3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a46834665dbb01e4e8c2b23a1d62fd3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4dfc862b76b25f111f52c6b049805624",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4dfc862b76b25f111f52c6b049805624/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca1535c77d0578c09614e8490b89438c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca1535c77d0578c09614e8490b89438c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5be8a06c6444f22a05dfa373f21ce391",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5be8a06c6444f22a05dfa373f21ce391/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2a2b78464fc3089e0a5357fadfc8ea36",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a2b78464fc3089e0a5357fadfc8ea36/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "af5149741bfbcc9f21ccc26b52de4845",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/af5149741bfbcc9f21ccc26b52de4845/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b90ebaa738a808b05f4869d5ac26e0f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b90ebaa738a808b05f4869d5ac26e0f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "15029e47d21e06cb5baa703d52eb6ee9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/15029e47d21e06cb5baa703d52eb6ee9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2d9788eaddc2f0657ca8725775a9f150",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2d9788eaddc2f0657ca8725775a9f150/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e705add491a23ca2593f9de010e4cee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e705add491a23ca2593f9de010e4cee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "83d63414f2ef115ec80754b8151484fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/83d63414f2ef115ec80754b8151484fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5dfe7790c8a05644f15d76f07574b677",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5dfe7790c8a05644f15d76f07574b677/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "045a3912034d73fdcdf86c72052fbbc3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/045a3912034d73fdcdf86c72052fbbc3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8f3421459add40ed41e0dd41b9fe4adb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8f3421459add40ed41e0dd41b9fe4adb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "80342be67985ea555b223ccab28ba11e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/80342be67985ea555b223ccab28ba11e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "510f815b732a565212d0b040234d36ca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/510f815b732a565212d0b040234d36ca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "103a82c96d5b6380ea447d866bcd8ebc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/103a82c96d5b6380ea447d866bcd8ebc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e1566cdf4e5b32bc7cb5bfa84841922",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e1566cdf4e5b32bc7cb5bfa84841922/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cdff475f7c8a229240b7b05be72beda6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cdff475f7c8a229240b7b05be72beda6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8c87d5d4a1fa8b2412355abcf7109943",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8c87d5d4a1fa8b2412355abcf7109943/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "92585a39855d7f6c2880b4fc38e119cf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/92585a39855d7f6c2880b4fc38e119cf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd0ec05293b928082a919607cad2d899",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd0ec05293b928082a919607cad2d899/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f2847182402f8abe356a3274c6889d24",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f2847182402f8abe356a3274c6889d24/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b241c46b8f9865ea05cc082c1b137171",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b241c46b8f9865ea05cc082c1b137171/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f1a326b7657feaf6f48879f5612de075",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f1a326b7657feaf6f48879f5612de075/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ee6734366410587cc53fedd538a1d4d2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ee6734366410587cc53fedd538a1d4d2/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "ADMINISTRADORA SION LTDA-ME",
+        "href": "/228860/administradora-sion-ltda-me/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 65m²",
+        "href": "/imovel/apartamento-2-quartos-vila-isabel-zona-norte-rio-de-janeiro-65m2-venda-RS370000-id-2760345124/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "state": "Rio de Janeiro",
+            "street": "",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

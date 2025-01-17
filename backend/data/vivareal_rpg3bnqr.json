@@ -1,0 +1,264 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GARAGE",
+            "AIR_CONDITIONING",
+            "KITCHEN",
+            "INTERCOM",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "135"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Lindo Apartamento em rua nobre e arborizada Salão amplo em 2 ambientes, 3 quartos com armários embutidos, sendo 1 suíte, banheiro social, cozinha espaçosa e planejada, área de serviço, dependência completa de empregados. instalações elétrica e hidráulica novas, 1 vaga de garagem na escritura. Prédio com circuito interno de segurança, portaria 24h.",
+        "title": "Apartamento 3 quartos, Copacabana, Rio de Janeiro, RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2759491647",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22051030",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.97,
+                "approximateLon": -43.189,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Cinco de Julho",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 1 Figueiredo Magalhães",
+                "BS:BRS 1,3 - Avenida Nossa Senhora de Copacabana",
+                "BS:BRS 2 Santa Clara",
+                "BS:BRS 3 Siqueira Campos",
+                "BS:Ponto Regulador: Metrô Siqueira Campos",
+                "TS:BRS 1 Figueiredo Magalhães",
+                "TS:BRS 1,3 - Avenida Nossa Senhora de Copacabana",
+                "TS:BRS 2 Santa Clara",
+                "TS:Figueiredo Magalhães",
+                "TS:Siqueira Campos - Sentido Gen. Osório / Jd. Ocêanico",
+                "CS:The Bakers",
+                "CS:Grão da terra",
+                "CS:La Copa",
+                "CS:Multifruti",
+                "CS:Sulimar",
+                "PH:Drogaria Galanti",
+                "PH:Nash",
+                "PH:Prontofarma",
+                "PH:Galícia",
+                "PH:Caminhoá"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "SCAP30395",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "135"
+        ],
+        "advertiserId": "312fffbf-0652-1991-ce51-b140deff11d8",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "468",
+                "price": "1250000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "3100"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2125414141",
+                "21994414141"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21994414141",
+        "stamps": []
+    },
+    "account": {
+        "id": "312fffbf-0652-1991-ce51-b140deff11d8",
+        "name": "SHOW DE CASAS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d24a2337a4700cf6f8918b997e1466be/{description}.webp",
+        "licenseNumber": "06224-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 46422,
+        "phones": {
+            "primary": "2125414141",
+            "mobile": "21994414141"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "f38dfb1e008d83ec4da1eb7430838b70",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f38dfb1e008d83ec4da1eb7430838b70/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "baf3dfcd373852c12a42e0e6d4be9950",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/baf3dfcd373852c12a42e0e6d4be9950/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f8dfe4e109e05a862088e2de85ae5f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f8dfe4e109e05a862088e2de85ae5f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "29ac63ae9a1010fea08d12d8773fc226",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/29ac63ae9a1010fea08d12d8773fc226/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b54ed85185061044e1bb0b44cd4c9b62",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b54ed85185061044e1bb0b44cd4c9b62/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aad3caf9ccd13bc38641fc0b0840aeb8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aad3caf9ccd13bc38641fc0b0840aeb8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aae02594e4ccc67cd0b7fb44c07375a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aae02594e4ccc67cd0b7fb44c07375a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e0dde236ab20dc5344c0e3a046648cf9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e0dde236ab20dc5344c0e3a046648cf9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2309fd6a3f8acd4c26a6fa62c5b84b36",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2309fd6a3f8acd4c26a6fa62c5b84b36/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f452e2ad4efa2876e708d84170ef6a7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f452e2ad4efa2876e708d84170ef6a7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e510c66282e8bfdcc1effc704a7a86d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e510c66282e8bfdcc1effc704a7a86d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d7e826246d740200d3ee3d27454c2a27",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7e826246d740200d3ee3d27454c2a27/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ee489ab310db98eca3e8780b53c62f55",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ee489ab310db98eca3e8780b53c62f55/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9dfc95e3c64f1fadc742b4f0ea1e4b1c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9dfc95e3c64f1fadc742b4f0ea1e4b1c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f4c2343068e544ddcd48fc360221a95d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f4c2343068e544ddcd48fc360221a95d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2fc49cf104286e50dfc3a54d64331d2e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2fc49cf104286e50dfc3a54d64331d2e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cda6dcde1a1c766a521f8baa0e903fe4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cda6dcde1a1c766a521f8baa0e903fe4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e15f6c6cd7a6c02894ce7383e470cda",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e15f6c6cd7a6c02894ce7383e470cda/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c832733bb7c18e8956f713a4848a4d54",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c832733bb7c18e8956f713a4848a4d54/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "da190cebb072f44f282421776e32631d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/da190cebb072f44f282421776e32631d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "483928e818bfaec5ff6c6d1336f60780",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/483928e818bfaec5ff6c6d1336f60780/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b12a709485e02c7cc2443aa38990a142",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b12a709485e02c7cc2443aa38990a142/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SHOW DE CASAS",
+        "href": "/46422/show-de-casas/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 135m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-135m2-venda-RS1250000-id-2759491647/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Cinco de Julho",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

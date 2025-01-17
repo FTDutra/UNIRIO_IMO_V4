@@ -1,0 +1,318 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "DISABLED_ACCESS",
+            "GAMES_ROOM",
+            "ELECTRONIC_GATE",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "80"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Imóvel à venda.<br>Valor - 535.000,00<br>Rua Barão de São Francisco <br><br>Sala Grande.<br>2 quartos, sendo 1 suite com armários<br>Piso em madeira. <br>1 quarto de empregada.<br>Copa. Cozinha espaçosa com armários. <br>Área de serviço.<br><br>Excelente varanda.<br><br>1 vaga na escritura coberta.<br>Playground.<br>Salão de festas.<br>Piscina e sauna seca.<br>Portaria 24 horas.<br>Visitas com corretora Dinorah.",
+        "title": "Imóvel para venda possui 80 metros quadrados com 2 quartos em Vila Isabel - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2758194466",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20541372",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "212",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.2501,
+                "source": "GOOGLE",
+                "lat": -22.920647
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Barão de São Francisco",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Vila Isabel",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "poisList": [
+                "BS:Ponto Final: Vila Isabel :: Linha 432",
+                "BS:Ponto Final 605",
+                "BS:Ponto Final 439",
+                "BS:BRS 4, 5, I",
+                "BS:Ponto Final 433",
+                "TS:Ponto Final: Vila Isabel :: Linha 432",
+                "TS:Ponto Final 605",
+                "TS:Ponto Final 439",
+                "TS:BRS 4, 5, I",
+                "TS:Ponto Final 433",
+                "CS:Afagá Confeitaria Brasileira",
+                "CS:Mercado de Carnes Coração da Vila",
+                "CS:Padaria do Verdun",
+                "CS:Padaria Villas Garden",
+                "CS:Fábrica de Bolo da Vó Alzira",
+                "PH:Farma Dez",
+                "PH:Drograrias Guanabara",
+                "PH:Drograria Venâncio",
+                "PH:Drogaria Unidas",
+                "PH:Drogaria Pedro Ernesto"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "11I42O3",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "80"
+        ],
+        "advertiserId": "3d4024cf-e684-7333-00b3-74bb68d7bd05",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "144",
+                "price": "535000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1258"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21994521582"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21994521582",
+        "stamps": []
+    },
+    "account": {
+        "id": "3d4024cf-e684-7333-00b3-74bb68d7bd05",
+        "name": "RODRIGO BENTO VILELA",
+        "licenseNumber": "41495-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 128253,
+        "phones": {
+            "primary": "21994521582",
+            "mobile": "21994521582"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "1f93c7afda7910a6cd13fa39ef34db3e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1f93c7afda7910a6cd13fa39ef34db3e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ed55ebc1977346b50552b3a14479e5df",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed55ebc1977346b50552b3a14479e5df/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "26e65b63a13b844b06ee520f009bb56d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/26e65b63a13b844b06ee520f009bb56d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c48c5b9ec4771fca8757481887120b93",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c48c5b9ec4771fca8757481887120b93/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3502208828724a4a9a5834b290c6a057",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3502208828724a4a9a5834b290c6a057/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6f526a84a0e570b89772d765f5ccddd1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6f526a84a0e570b89772d765f5ccddd1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8264e76b6ffa5452e3f875d9ee81c196",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8264e76b6ffa5452e3f875d9ee81c196/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "be9809387be6d6931635e1e8c82037ea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/be9809387be6d6931635e1e8c82037ea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5669ed1cca163965dd4fd957fd585cd7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5669ed1cca163965dd4fd957fd585cd7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "942dfc11bfa23ddfa312539e4a321c82",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/942dfc11bfa23ddfa312539e4a321c82/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c88df45616da0a2b531d5c24b79fa32",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c88df45616da0a2b531d5c24b79fa32/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cdd20073c81cff9cc4de9cfdd339158d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cdd20073c81cff9cc4de9cfdd339158d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "735db7c1c116aead7412c5bb86b0daf5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/735db7c1c116aead7412c5bb86b0daf5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a3e10fea31170b151a3b62b5c0d1546a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a3e10fea31170b151a3b62b5c0d1546a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6af8cbd62fe00847b2370e0e32c515d0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6af8cbd62fe00847b2370e0e32c515d0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e1459de807dff79e9db6cb21ded640d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e1459de807dff79e9db6cb21ded640d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c0212d075a47e392a3c595c1e7541d8d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c0212d075a47e392a3c595c1e7541d8d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c5ac689abb8f9ccc3bf95ef375b30efc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c5ac689abb8f9ccc3bf95ef375b30efc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ec402271b52db90a7784cfd1f17b7f01",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ec402271b52db90a7784cfd1f17b7f01/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5c05e2601a5be6f900f88b44b7c47a69",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5c05e2601a5be6f900f88b44b7c47a69/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "09df03f24ad83337c64d8ca56fd4da57",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/09df03f24ad83337c64d8ca56fd4da57/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7c786b71d42e893c251a519c44d135f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7c786b71d42e893c251a519c44d135f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b6fcdd1e9a83d8ac6dc08f053b480af3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b6fcdd1e9a83d8ac6dc08f053b480af3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9db314cfc1b1ef3bc2e228b1475998b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9db314cfc1b1ef3bc2e228b1475998b0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "29249409f3b4d84cb06014bbb85049b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/29249409f3b4d84cb06014bbb85049b5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d5d88d4a924f83fe438c78a66ac67632",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d5d88d4a924f83fe438c78a66ac67632/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2d9519cb27590de68641ce71604bfaac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2d9519cb27590de68641ce71604bfaac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "328190d80e10224b032bac3454455fa3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/328190d80e10224b032bac3454455fa3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "06fc077275107961ba746fd0a04cb21c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/06fc077275107961ba746fd0a04cb21c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dd330b43868e76dfb79f519d3a4b2a3c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd330b43868e76dfb79f519d3a4b2a3c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "07aa6ef55172f167ee87728f99efa25a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/07aa6ef55172f167ee87728f99efa25a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5fc8be94253eb9b57c02a79857a6c18b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5fc8be94253eb9b57c02a79857a6c18b/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "RODRIGO BENTO VILELA",
+        "href": "/128253/rodrigo-bento-vilela/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 80m²",
+        "href": "/imovel/apartamento-2-quartos-vila-isabel-zona-norte-rio-de-janeiro-com-garagem-80m2-venda-RS535000-id-2758194466/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "state": "Rio de Janeiro",
+            "street": "Rua Barão de São Francisco",
+            "streetNumber": "212",
+            "zone": "Zona Norte"
+        }
+    }
+}

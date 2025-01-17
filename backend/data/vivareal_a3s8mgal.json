@@ -1,0 +1,259 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "GARAGE",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "BUILTIN_WARDROBE",
+            "KITCHEN_CABINETS",
+            "KITCHEN",
+            "LARGE_KITCHEN",
+            "INTERCOM",
+            "LARGE_WINDOW",
+            "DINNER_ROOM",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "268"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "8eab3",
+        "title": "Flamengo | Apartamento 4 quartos, sendo 1 suite",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2745648704",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22250020",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.941,
+                "approximateLon": -43.172,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Rui Barbosa",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Flamengo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "poisList": [
+                "BS:Marechal Cantuária",
+                "BS:Almirante Gomes Pereira",
+                "BS:Praia da Urca",
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Mureta da Urca",
+                "TS:Flamengo",
+                "TS:Marechal Cantuária",
+                "TS:Almirante Gomes Pereira",
+                "TS:Praia da Urca",
+                "TS:Ponto Final: Largo do Machado :: Linha 497",
+                "CS:Padaria Napoles",
+                "CS:Deep Freeze",
+                "CS:Maguila",
+                "CS:Mei-jo",
+                "CS:Rede Varejão",
+                "PH:Rio Brasil",
+                "PH:Farma Hall",
+                "PH:Drogaria Paraná",
+                "PH:RioFarma",
+                "PH:Quintessência"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "IP4AP26903",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "268"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "6873",
+                "price": "3350000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1200"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": []
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "8577820b7b28e1f5788cd9a9609c0fd7",
+            "url": "https://www.youtube.com/watch?v=HPc5SIUbx34",
+            "type": "VIDEO"
+        },
+        {
+            "id": "fcd5ee21721afd3e192fdb91e990dd40",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fcd5ee21721afd3e192fdb91e990dd40/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2f0cb3a33d082d2959ee80d9ccb7b841",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2f0cb3a33d082d2959ee80d9ccb7b841/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "346631ec19d0d92650e033c8497f8629",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/346631ec19d0d92650e033c8497f8629/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "902797047b8940284930595aa643776e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/902797047b8940284930595aa643776e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a211c0856b9419acdf1caf79a60795f2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a211c0856b9419acdf1caf79a60795f2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "137e2792ba5317e5fbe63da87324e1ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/137e2792ba5317e5fbe63da87324e1ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bffbf770e9406f1e586afecef1866741",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bffbf770e9406f1e586afecef1866741/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a9d7d958d3df54b24db3a71c5cdd66ae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a9d7d958d3df54b24db3a71c5cdd66ae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48107bbf0983d0c24d283ef3f8534075",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48107bbf0983d0c24d283ef3f8534075/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0acddf383c0fadcb5418a5f816949a34",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0acddf383c0fadcb5418a5f816949a34/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7ac90359951ce61edcf765df45b03339",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7ac90359951ce61edcf765df45b03339/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e54d24ef6f426189e57ead70f45d0ca6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e54d24ef6f426189e57ead70f45d0ca6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7baecc62ef3f51e8f0b6512d149c027a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7baecc62ef3f51e8f0b6512d149c027a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fef960ab2f0c439a2e5db92d6bbfb7aa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fef960ab2f0c439a2e5db92d6bbfb7aa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9895f76431b9e39a427fe02ef0f5137f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9895f76431b9e39a427fe02ef0f5137f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81cea6a568fa4abaebf191bfb53ee3ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81cea6a568fa4abaebf191bfb53ee3ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4e22dacbb179da06bff23c7e78546a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4e22dacbb179da06bff23c7e78546a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "194242c37f0fa009cc33285d1f281d79",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/194242c37f0fa009cc33285d1f281d79/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "099860119249698df2296701c704a584",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/099860119249698df2296701c704a584/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 268m²",
+        "href": "/imovel/apartamento-4-quartos-flamengo-zona-sul-rio-de-janeiro-com-garagem-268m2-venda-RS3350000-id-2745648704/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Rui Barbosa",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

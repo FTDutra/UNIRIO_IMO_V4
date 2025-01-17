@@ -1,0 +1,309 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "GARAGE",
+            "AIR_CONDITIONING",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "BUILTIN_WARDROBE",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "89"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "OPORTUNIDADE, ótimo apartamento de frente, planta grande, sala e ante-sala com janelão de ponta a ponta, bem ventilada, bem iluminada, 2 quartos com armários embutidos, sendo 1 suíte, banheiro social reformado, cozinha com azulejos até o teto, dependência completa de empregada podendo reverter para segunda suíte. Possui 1 vaga de garagem na Escritura, prédio com portaria 24hs, circuito interno de TV e monitoramento, perto de todo o comércio. Marque sua visita! O valor do imóvel está sujeito à mudança sem aviso prévio, conforme solicitação do proprietário. Avaliamos seu imóvel. Visite nossa loja. Rua Conde de Bonfim, 616 LJ A. 81ede",
+        "title": "Tijuca | Apartamento 2 quartos, sendo 1 suite",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2760337620",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20550040",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.919,
+                "approximateLon": -43.226,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Almirante Cochrane",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Ponto Final: Saens Peña :: Linha 601",
+                "BS:Ponto Final do 600 (Taquara)",
+                "BS:P9: Moraes e Silva",
+                "BS:P8: Barão de Mesquita",
+                "BS:P6: Jaceguaí",
+                "TS:Ponto Final: Saens Peña :: Linha 601",
+                "TS:Ponto Final do 600 (Taquara)",
+                "TS:São Francisco Xavier / Tijuca",
+                "TS:P9: Moraes e Silva",
+                "TS:P8: Barão de Mesquita",
+                "CS:Confeitaria Rita de Cássia",
+                "CS:Empório Lamego",
+                "CS:Panetteria São Francisco Xavier",
+                "CS:Flor da Tijuca",
+                "CS:Império do Pão",
+                "PH:Drograria Venâncio",
+                "PH:Drogaria Pedro Ernesto",
+                "PH:Farmavita",
+                "PH:Drogaria Venancio",
+                "PH:Farma Dez"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "SP2AP90857",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "89"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1850",
+                "price": "450000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1033"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": []
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "bb565320b45d26523bf45d23820177c8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb565320b45d26523bf45d23820177c8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c524220b16e3bde2c6f0d9cc68059046",
+            "url": "https://www.youtube.com/watch?v=KyH6se6BJ68",
+            "type": "VIDEO"
+        },
+        {
+            "id": "54b1ce98de223508a0579022323d12c9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/54b1ce98de223508a0579022323d12c9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b281f2d78f70158b54a7c0a1d726d806",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b281f2d78f70158b54a7c0a1d726d806/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "036c9be821f024d5fe49d7364bf71e38",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/036c9be821f024d5fe49d7364bf71e38/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a125ac45625d9803049fc6cd01f240a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a125ac45625d9803049fc6cd01f240a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "15c63127f6b417a1ae1eca3f52a0166c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/15c63127f6b417a1ae1eca3f52a0166c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "552192045916b3ec467b8fcac080efb2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/552192045916b3ec467b8fcac080efb2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a9957d75d86eba741867732af539d59",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a9957d75d86eba741867732af539d59/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d582ec9d5ae9fe8314f94ff732e0ca2a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d582ec9d5ae9fe8314f94ff732e0ca2a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d122dad8dc2ba89fee589e48b822eefe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d122dad8dc2ba89fee589e48b822eefe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "315010a99639834f98b50719975b8b08",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/315010a99639834f98b50719975b8b08/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "621e06e79f33f19a197790d69bcd443c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/621e06e79f33f19a197790d69bcd443c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7533376c036b9ad16fe28887df6f6aba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7533376c036b9ad16fe28887df6f6aba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "287419324fac11cc470f2fe296da69bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/287419324fac11cc470f2fe296da69bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b2d6d5aca3d788e903d55e42dedc30a7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b2d6d5aca3d788e903d55e42dedc30a7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "29d2e3702eb2e0789256e567aea48d89",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/29d2e3702eb2e0789256e567aea48d89/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0b32426ac6cab3f4367670edd5b2065e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0b32426ac6cab3f4367670edd5b2065e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa4d3e050f7c65f323876663913b1d2b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa4d3e050f7c65f323876663913b1d2b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "39899d8aacad900bc48f727626c4a70e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39899d8aacad900bc48f727626c4a70e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9753e9ed96de8d43ba7d20f3ae899c7d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9753e9ed96de8d43ba7d20f3ae899c7d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "014f90002b754f9aaed0cb319baed46d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/014f90002b754f9aaed0cb319baed46d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fcc35c352e4c19264261dc2efedf624c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fcc35c352e4c19264261dc2efedf624c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e59fe3e183b02df00e5bf77855b23e78",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e59fe3e183b02df00e5bf77855b23e78/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "72ea489811d872a761a3de476c5b0fac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/72ea489811d872a761a3de476c5b0fac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "318d86d053f1fc611df5eba549d31f7b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/318d86d053f1fc611df5eba549d31f7b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "229922058b1d7a241f8a84cd6ac986a7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/229922058b1d7a241f8a84cd6ac986a7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "53e153d7977fd9f3d9d537da3f5bd5c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/53e153d7977fd9f3d9d537da3f5bd5c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5b03a68185f65e7ce57f9bd69b70c3cc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b03a68185f65e7ce57f9bd69b70c3cc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "13d5573802c94002c7aa2e5adfe3258b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/13d5573802c94002c7aa2e5adfe3258b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "404c0108db0bd80fa26c1f27644825bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/404c0108db0bd80fa26c1f27644825bc/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 89m²",
+        "href": "/imovel/apartamento-2-quartos-tijuca-zona-norte-rio-de-janeiro-com-garagem-89m2-venda-RS450000-id-2760337620/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Almirante Cochrane",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

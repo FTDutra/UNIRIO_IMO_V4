@@ -1,0 +1,306 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "GARDEN",
+            "BICYCLES_PLACE",
+            "CLOSET",
+            "DISABLED_ACCESS",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "183"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento de 183m2, todo reformado, na segunda quadra da praia do Leblon. Claro, vista aprazível, perto de todo o comércio do bairro. Sala ampla em três ambientes, lavabo, três quartos (uma suíte com closet), banheiro social, cozinha, área de serviço e dependências completas. Duas vagas de garagem. Portaria de 7 às 19h, exceto aos domingos.",
+        "title": "Excelente apartamento reformado no Leblon",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2759471738",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22441120",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.986,
+                "approximateLon": -43.226,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Rainha Guilhermina",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Leblon",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "poisList": [
+                "BS:BRS 1 - Rita Ludolf",
+                "BS:Ponto Final: Antero de Quental",
+                "BS:Ponto Final: Leblon :: Ônibus Executivos",
+                "BS:Metrô - Estação Alto Leblon",
+                "BS:BRS 2,3 - Cupertino Durão",
+                "TS:Antero de Quental / Leblon",
+                "TS:Ponto Final: Antero de Quental",
+                "TS:General Urquiza",
+                "TS:Antero de Quental",
+                "TS:Metrô - Estação Antero de Quental",
+                "CS:Rio Lisboa",
+                "CS:Talho Capixaba",
+                "CS:Patata",
+                "CS:am/pm",
+                "CS:Armazém do Café",
+                "PH:Drogasmil"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "AP3-1420",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "183"
+        ],
+        "advertiserId": "0a7b8821-fe1f-8eaf-a00e-c766fb048c1f",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1000",
+                "price": "5400000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2980"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21982724880",
+                "21994172242"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21994172242",
+        "stamps": []
+    },
+    "account": {
+        "id": "0a7b8821-fe1f-8eaf-a00e-c766fb048c1f",
+        "name": "RIO PREMIER CORRETAGEM DE IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86d9416f4ec61b3554b0b92a5f0b675d/{description}.webp",
+        "licenseNumber": "065638-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 44765,
+        "phones": {
+            "primary": "21982724880",
+            "mobile": "21994172242"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "96f135f7610093f7c74fa6f342632dca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/96f135f7610093f7c74fa6f342632dca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6df926d5e3031c50e1e0131ded2df4ea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6df926d5e3031c50e1e0131ded2df4ea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "708afb6b21e7e4e2be674e00624ae8a1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/708afb6b21e7e4e2be674e00624ae8a1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d2a452710644f0e893bfab52e9771133",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d2a452710644f0e893bfab52e9771133/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd47e839e127057e4d0530217daaa731",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd47e839e127057e4d0530217daaa731/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0365201161b4af2429c500f936e68baf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0365201161b4af2429c500f936e68baf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "06cc3f1865b5ada1845f55c5dd8cc874",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/06cc3f1865b5ada1845f55c5dd8cc874/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c9334a5e854c5b27de3e54f82e09dfd3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c9334a5e854c5b27de3e54f82e09dfd3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c036f77657b2a2fd55e68b7a9c4fba11",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c036f77657b2a2fd55e68b7a9c4fba11/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "096e021f3052c111351cbde7891f0fab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/096e021f3052c111351cbde7891f0fab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "33efd0dcd5e2f2d4e983a9b1bd23f76f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/33efd0dcd5e2f2d4e983a9b1bd23f76f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6ab7ee25f26e12e283937efebcd83695",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ab7ee25f26e12e283937efebcd83695/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b6d6b23406aefe00690bca40706e85c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b6d6b23406aefe00690bca40706e85c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe096204cc7f9fcb544e61cc6a7c32c1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe096204cc7f9fcb544e61cc6a7c32c1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e2cc5d5299eec00d569af74f8c92cd3f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e2cc5d5299eec00d569af74f8c92cd3f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "51d044ef25f79c7097ac40bcb1905018",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/51d044ef25f79c7097ac40bcb1905018/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0361ab230d4e4b3e78d9de52c701118a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0361ab230d4e4b3e78d9de52c701118a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "222f8603687b731142a371d16008a333",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/222f8603687b731142a371d16008a333/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b3147ee2d199c5d4311cbdd008380630",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b3147ee2d199c5d4311cbdd008380630/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7e5d52d98c2b1d4ff19efc656c1892d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7e5d52d98c2b1d4ff19efc656c1892d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9fd59405e025eef801f5d39044aac7e7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9fd59405e025eef801f5d39044aac7e7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "90a2e1cf859f470b7f6cd17f704a776b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/90a2e1cf859f470b7f6cd17f704a776b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e57b489e92ee3b8c1a6f74893800b10f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e57b489e92ee3b8c1a6f74893800b10f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4e5979cb01bc68f6b604535e4aecf56c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4e5979cb01bc68f6b604535e4aecf56c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f8de1770d6028be613f8c7a47acac60",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f8de1770d6028be613f8c7a47acac60/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "88a42c78a568507c6584c22c895a0bc9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/88a42c78a568507c6584c22c895a0bc9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e59f1a199eb79d790b8415b0815266ab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e59f1a199eb79d790b8415b0815266ab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3b413ce27662300dae41907661e6ec0d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b413ce27662300dae41907661e6ec0d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "214d71f9eb4018a1356c001633011fc3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/214d71f9eb4018a1356c001633011fc3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "85b8a1c3a25ee9ac3786696a0f2ab194",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/85b8a1c3a25ee9ac3786696a0f2ab194/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4d5844f08f3b721d99f2ac5268e17f70",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4d5844f08f3b721d99f2ac5268e17f70/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "RIO PREMIER CORRETAGEM DE IMOVEIS",
+        "href": "/44765/rio-premier-corretagem-de-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 183m²",
+        "href": "/imovel/apartamento-3-quartos-leblon-zona-sul-rio-de-janeiro-com-garagem-183m2-venda-RS5400000-id-2759471738/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "state": "Rio de Janeiro",
+            "street": "Rua Rainha Guilhermina",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

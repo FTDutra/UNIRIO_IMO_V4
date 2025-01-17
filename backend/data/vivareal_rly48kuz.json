@@ -1,0 +1,236 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "SERVICE_AREA",
+            "SPORTS_COURT",
+            "KITCHEN",
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "65"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento com 2 quartos à venda, 65 m² por R$ 200.000 - Campinho - Rio de Janeiro/RJ<br><br>Imóveis Mav vende ótimo apartamento, andar alto, vazio, fundos (vista livre)!<br><br>Sala, 2 quartos (com armários), cozinha e área de serviço (com armários), banheiro c/ box blindex.<br><br>Condomínio com total infraestrutura, elevador, piscina, salão de festas, quadra poliesportiva, portaria 24 horas e 1 vaga no parqueamento.<br><br>Aceita financiamento!!! -",
+        "title": "Apartamento à venda, 65 m² por R$ 200.000,00 - Campinho - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2637238267",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21341370",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "464",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.345081,
+                "source": "GOOGLE",
+                "lat": -22.884219
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Comendador Pinto",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Campinho",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Campinho",
+            "poisList": [
+                "BS:Linha 779 Madureira >> Pavuna",
+                "BS:Ponto Final: Madureira :: Linha 779",
+                "BS:Doutor Bernardino",
+                "BS:LInha 254 Madureira >> Praça XV",
+                "BS:Linha 774 Madureira >> Jardim América",
+                "TS:Campinho",
+                "TS:Pinto Teles",
+                "TS:Capitão Menezes",
+                "TS:Terminal Paulo da Portela (Desembarque)",
+                "TS:Linha 779 Madureira >> Pavuna",
+                "CS:Auto Posto Bittig",
+                "CS:J.D.R.",
+                "CS:Tecnomedi Madureira",
+                "CS:Gula Gula",
+                "CS:FINI",
+                "PH:Imediata"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0901",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "65"
+        ],
+        "advertiserId": "4bec5fd9-921f-7958-4e2e-6281b8969d61",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "65",
+                "price": "200000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "800"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2130446511",
+                "21964907656"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964907656",
+        "stamps": []
+    },
+    "account": {
+        "id": "4bec5fd9-921f-7958-4e2e-6281b8969d61",
+        "name": "MAV IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc50e6c64348c6b7b0c15b82fd3b30e2/{description}.webp",
+        "licenseNumber": "46890-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 64182,
+        "phones": {
+            "primary": "2130446511",
+            "mobile": "21964907656"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "a4b0d7d4777baea3259b5f9d149464ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4b0d7d4777baea3259b5f9d149464ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "03e33fc1536c48ee91aaac912db35aa5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/03e33fc1536c48ee91aaac912db35aa5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "30a09a3b87f15f29fcadff1831eb718b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30a09a3b87f15f29fcadff1831eb718b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa5ce9da58b70df403065596837a25bf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa5ce9da58b70df403065596837a25bf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d080dd2a79bc9276636d1557fdc97c92",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d080dd2a79bc9276636d1557fdc97c92/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d92e537a78d756aecfe6d2f22f749cab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d92e537a78d756aecfe6d2f22f749cab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e08524e456850d0b343dbcf12a93e200",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e08524e456850d0b343dbcf12a93e200/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4fb1ac87e6e901f5bcdcd823e44b4a8b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4fb1ac87e6e901f5bcdcd823e44b4a8b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8156a1f87e21e0859bf5a1dc74b3a1a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8156a1f87e21e0859bf5a1dc74b3a1a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "56797aec2db4399dd9de91b4b55843ce",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56797aec2db4399dd9de91b4b55843ce/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "68149233e6531dfbffbdc727a56ca0a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/68149233e6531dfbffbdc727a56ca0a4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "27a16c3d92ec07555c7691f6e489e11d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/27a16c3d92ec07555c7691f6e489e11d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "32dd75898dbed10e878fd7faeeb7a858",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/32dd75898dbed10e878fd7faeeb7a858/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ebb2659cb650617a792c41f77b8ba10",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ebb2659cb650617a792c41f77b8ba10/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f68024a689da35914823da00a158c77b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f68024a689da35914823da00a158c77b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d5804775705a2a7d9884f9cef2d607cc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d5804775705a2a7d9884f9cef2d607cc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0db5652bc23ae49d815bb957794c7893",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0db5652bc23ae49d815bb957794c7893/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "MAV IMÓVEIS",
+        "href": "/64182/mav-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 65m²",
+        "href": "/imovel/apartamento-2-quartos-campinho-zona-norte-rio-de-janeiro-com-garagem-65m2-venda-RS200000-id-2637238267/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Campinho",
+            "state": "Rio de Janeiro",
+            "street": "Rua Comendador Pinto",
+            "streetNumber": "464",
+            "zone": "Zona Norte"
+        }
+    }
+}

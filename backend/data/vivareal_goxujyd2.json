@@ -1,0 +1,237 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "BARBECUE_GRILL",
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "50"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "ZAYLA IMÓVEIS VENDE<br><br>APARTAMENTO EM IRAJÁ<br><br>Apartamento com 50m², lateral, sol da manhã, vista livre .<br><br>Imóvel com sala, 2 quartos, banheiro social, cozinha e área de serviço .<br><br>Este imóvel fica próximo a Hannibal Porto e Supermercado Rede Econômia .<br><br>ACEITANDO FINANCIAMENTO ! <br><br>Quer saber mais? Agende sua visita com um de nossos corretores, código do imóvel: AP01718<br><br>Avaliamos e anunciamos o seu imóvel gratuitamente.<br> -Rev.11Dez",
+        "title": "Apartamento 2 Quartos á Venda em Irajá RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2650133595",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "21230175",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.824,
+                "approximateLon": -43.327,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua João Adil de Oliveira",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Iraja",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Irajá",
+            "poisList": [
+                "BS:Ponto Final: Irajá :: Linha 296",
+                "BS:Avenida Brasil - Irajá",
+                "BS:Ponto do 905",
+                "BS:Ponto 629 Irajá x Saens Pena",
+                "BS:Ponto do 712 - Irajá x Cascadura",
+                "TS:Ponto Final: Irajá :: Linha 296",
+                "TS:Avenida Brasil - Irajá",
+                "TS:Ponto do 905",
+                "TS:Ponto 629 Irajá x Saens Pena",
+                "TS:Ponto do 712 - Irajá x Cascadura",
+                "CS:Padaria e Confeitaria Ebenézer",
+                "CS:Terra de Delícias",
+                "CS:Trakinas do Bairro",
+                "CS:Tia Joaninha",
+                "CS:Shopping Dos Doces",
+                "PH:Drogaria Fazmais",
+                "PH:Nova Drogaria",
+                "PH:Futura",
+                "PH:Guanabara"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP01718",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "50"
+        ],
+        "advertiserId": "ee132672-d1a7-1fd4-6707-21c5fae69b86",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "170000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "130"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2137383007",
+                "21972464674"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21972464674",
+        "stamps": []
+    },
+    "account": {
+        "id": "ee132672-d1a7-1fd4-6707-21c5fae69b86",
+        "name": "ZAYLA IMOVEIS LTDA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eabcd4645c2ec7ca66f54e4009ec9b96/{description}.webp",
+        "licenseNumber": "06546-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 232233,
+        "phones": {
+            "primary": "2137383007",
+            "mobile": "21972464674"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "2067a48a151cbf08cf45712b74b859a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2067a48a151cbf08cf45712b74b859a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "58753db5d023f0b84158eb1e590b31ee",
+            "url": "https://www.youtube.com/watch?v=bMJvWdTsAUw",
+            "type": "VIDEO"
+        },
+        {
+            "id": "efa861fc9ba7ec1f066d8372a2f10271",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/efa861fc9ba7ec1f066d8372a2f10271/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dd553b3c1f5a9e4486f70da1571fb85d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd553b3c1f5a9e4486f70da1571fb85d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "340820147b2f17199a7765994f1d2c13",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/340820147b2f17199a7765994f1d2c13/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca17b6e2abd83f13ad81c69d8bf20ea5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca17b6e2abd83f13ad81c69d8bf20ea5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "103b6a13171cde311f1fe3ad3c7ca7e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/103b6a13171cde311f1fe3ad3c7ca7e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "99ebc3552b59e5f6875459a867e56ad0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/99ebc3552b59e5f6875459a867e56ad0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86c55dd886d146dccdec1e21566b9d8b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86c55dd886d146dccdec1e21566b9d8b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9ed99e483f3aa289dfd6363cbcfbf60e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ed99e483f3aa289dfd6363cbcfbf60e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bfc2516a4ff95d0b0be6180f07e768ca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bfc2516a4ff95d0b0be6180f07e768ca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9a5aadbfbcb06beb1c5d2c5a8153319e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9a5aadbfbcb06beb1c5d2c5a8153319e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5e49265a7c455e1fd99e30c772a55093",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5e49265a7c455e1fd99e30c772a55093/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dfa51dc04eab2508d63d253bd4920542",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dfa51dc04eab2508d63d253bd4920542/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d09e1af4a35fc99781e76c8e826a0aed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d09e1af4a35fc99781e76c8e826a0aed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "238fcf876ae98093f9a468f142cc6c3a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/238fcf876ae98093f9a468f142cc6c3a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2a3f649964b94cf0dfa272254f5805d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a3f649964b94cf0dfa272254f5805d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "edb8340f943670d7e0ae91625a8c1b8e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/edb8340f943670d7e0ae91625a8c1b8e/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "ZAYLA IMOVEIS LTDA",
+        "href": "/232233/zayla-imoveis-ltda/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 50m²",
+        "href": "/imovel/apartamento-2-quartos-iraja-zona-norte-rio-de-janeiro-50m2-venda-RS170000-id-2650133595/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Irajá",
+            "state": "Rio de Janeiro",
+            "street": "Rua João Adil de Oliveira",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

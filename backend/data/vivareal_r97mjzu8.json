@@ -1,0 +1,184 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "NEAR_SHOPPING_CENTER",
+            "NEAR_SCHOOL",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "157"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento para venda na Barra da Tijuca, localizado na cidade de Rio de Janeiro / RJ. <br> <br> Apartamento a venda no Condomínio Atmosfera. Andar alto, vista livre para a lagoa. <br> Apartamento com 3 suítes, dependência completa, 3 vagas de garagem, varanda com cortina de vidro. <br> <br> Área Total de 157,00 m². <br> <br> Valor do Imóvel R$ 2.580.000,00. <br> <br> <br> <br>",
+        "title": "Apartamento para Venda em Rio de Janeiro, Barra da Tijuca, 3 dormitórios, 3 suítes, 1 banheiro, 3 va",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2756260135",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            3
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22776000",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "540",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.352683,
+                "source": "GOOGLE",
+                "lat": -22.989934
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida das Acácias da Península",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:O2 Corporate & Offices",
+                "BS:Barra Shopping Fundos (Hot Zone)",
+                "BS:Casa Shopping",
+                "BS:Barra Shopping Lateral",
+                "BS:Barra Shopping",
+                "TS:O2 Corporate & Offices",
+                "TS:Casa Shopping",
+                "TS:Barra Shopping",
+                "TS:Via Parque Shopping",
+                "TS:Barra Shopping (Expresso)",
+                "CS:Sítio do Moinho",
+                "CS:Mundo Verde",
+                "CS:Esso",
+                "CS:Fábrica do Bolo",
+                "CS:Candy Delicatesse",
+                "PH:Drogarias Carioca"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            3
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "CJ65468JR_1-2672543",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "157"
+        ],
+        "advertiserId": "9c7aa558-f158-4c0e-b3c1-31cf8c8ebe5b",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "2580000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21981646501"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21981646501",
+        "stamps": []
+    },
+    "account": {
+        "id": "9c7aa558-f158-4c0e-b3c1-31cf8c8ebe5b",
+        "name": "CJ BROKER",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3e95e114290acfd2a166ca998184a5ba/{description}.webp",
+        "licenseNumber": "48159-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 111781,
+        "phones": {
+            "primary": "21981646501",
+            "mobile": "21981646501"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "8aab642ba3fb46cc3e53a36cff145dc4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8aab642ba3fb46cc3e53a36cff145dc4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "43d79c7de6b5a92c3e1dbd6ee0022324",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/43d79c7de6b5a92c3e1dbd6ee0022324/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aebe1ce9844461775abd3d3bf47ce18e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aebe1ce9844461775abd3d3bf47ce18e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4b342a05b6b1086cf6fba5ee8f980164",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b342a05b6b1086cf6fba5ee8f980164/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2943857c1233c0b3565ad4770c4cca6a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2943857c1233c0b3565ad4770c4cca6a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8eea5b61fbfcd6f978feb33dbd6c45df",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8eea5b61fbfcd6f978feb33dbd6c45df/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f3931a3ce4add7b846234b1d2f3196d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f3931a3ce4add7b846234b1d2f3196d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3d3dc40ff307808ddd9cf59afe2a0733",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3d3dc40ff307808ddd9cf59afe2a0733/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "CJ BROKER",
+        "href": "/111781/cj-broker/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 157m²",
+        "href": "/imovel/apartamento-3-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-157m2-venda-RS2580000-id-2756260135/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Avenida das Acácias da Península",
+            "streetNumber": "540",
+            "zone": "Zona Oeste"
+        }
+    }
+}

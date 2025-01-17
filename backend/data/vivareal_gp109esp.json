@@ -1,0 +1,254 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "FURNISHED",
+            "ELEVATOR",
+            "BALCONY",
+            "PETS_ALLOWED",
+            "GARAGE",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "KITCHEN",
+            "INTERCOM",
+            "HEATING"
+        ],
+        "usableAreas": [
+            "58"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Privilégio imóveis vende apartamento tipo cobertura de 2 quartos próximo ao shopping Tijuca.<br>Excelente oportunidade de morar numa rua tranquila, arborizada e próxima do shopping Tijuca, praça Saenz Penã e praça Varnhagen.<br>2 quartos com dependência e varanda .<br>apartamento duplex com segundo piso tipo cobertura<br>vista livre e sol da manhã.<br>Portaria horário comercial<br>1 vaga na garagem escriturada",
+        "title": "Apartamento/cobertura de 2 quartos com varanda próximo ao shopping Tijuca",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2719399236",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20540110",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.922,
+                "approximateLon": -43.237,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Tomás Coelho",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Vila Isabel",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "poisList": [
+                "BS:Ponto Final: Saens Peña :: Linha 639",
+                "BS:Doutor Aníbal Moreira",
+                "BS:Barão de Mesquita 482c",
+                "BS:Ponto Final: Saens Peña",
+                "BS:Ponto Final: Saens Peña :: Linha 665",
+                "TS:Ponto Final: Saens Peña :: Linha 639",
+                "TS:Ponto Final: Saens Peña",
+                "TS:General Roca",
+                "TS:Doutor Pereira dos Santos",
+                "TS:Ponto Final: Saens Peña :: Linha 665",
+                "CS:Mei Sim",
+                "CS:TECNOMEDI TIJUCA",
+                "CS:Conveniência do Pão",
+                "CS:Padaria Arte & Pão",
+                "CS:Lojas Bandeirantes",
+                "PH:Drograria Venâncio",
+                "PH:Drogaria Venancio",
+                "PH:Drogaria Pedro Ernesto",
+                "PH:Drogaria Unidas",
+                "PH:Farma Dez"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "68794",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "58"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "808",
+                "price": "649000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1035"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "52aee21f653f34887be95376121428be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52aee21f653f34887be95376121428be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c46eeebafd9a94c132a2336b415db23",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c46eeebafd9a94c132a2336b415db23/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "af17f79fd323058bbae57329890b3e9e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/af17f79fd323058bbae57329890b3e9e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "600634cb25ab0dd01f2bc940b02bf0a7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/600634cb25ab0dd01f2bc940b02bf0a7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8c7a745385151a23dc60f9b0beb632a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8c7a745385151a23dc60f9b0beb632a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c7dfd29d34c4842b96bea5d19d2153a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c7dfd29d34c4842b96bea5d19d2153a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1eea610626a4ec90698e24dd5ae16b34",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1eea610626a4ec90698e24dd5ae16b34/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2b592780610a8af4d5aa0827365a53f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b592780610a8af4d5aa0827365a53f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "26c597b8cad342e3bbeb2dc3fa747598",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/26c597b8cad342e3bbeb2dc3fa747598/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b89263900a38d8af45d43b7935f2c2d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b89263900a38d8af45d43b7935f2c2d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6ee36ad4fe274e25c66ccd3c8adeb577",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ee36ad4fe274e25c66ccd3c8adeb577/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5ab7dcc37704a50c38554ffa8b5179e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5ab7dcc37704a50c38554ffa8b5179e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c9885ed05f107173e43b6ecc75f5a0b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c9885ed05f107173e43b6ecc75f5a0b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f55da6fa12781a87e01f31475a705c37",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f55da6fa12781a87e01f31475a705c37/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a8b42371047f6221072627522af9802",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a8b42371047f6221072627522af9802/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f808c7aa52ec465c102364b7cfa2f271",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f808c7aa52ec465c102364b7cfa2f271/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2c4718ae84ad09a59a681f3a2bea10f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c4718ae84ad09a59a681f3a2bea10f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "12029985c7c2c18ad9a54b3d6b9b31ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/12029985c7c2c18ad9a54b3d6b9b31ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f5ec83f487bb98f3cdd49de87ddc2ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f5ec83f487bb98f3cdd49de87ddc2ed/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 58m²",
+        "href": "/imovel/apartamento-2-quartos-vila-isabel-zona-norte-rio-de-janeiro-com-garagem-58m2-venda-RS649000-id-2719399236/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "state": "Rio de Janeiro",
+            "street": "Rua Tomás Coelho",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

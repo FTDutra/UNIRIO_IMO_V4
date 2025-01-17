@@ -1,0 +1,207 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "ELEVATOR",
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "170"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "ALTA Imóveis Boutique vende: Apartamento super reformado em prédio centro de terreno com vista ampla do mar do Leblon. São 170 mts², a planta original é de quatro quartos e atualmente com uma suíte, closet, lavabo, ampla sala (com 2 quartos incorporados que podem ser retornados), cozinha e dependência. 2 vagas de garagem e prédio com portaria 24 horas. <br>-Cod:MR0345 -Rev.11Dez",
+        "title": "ALTA Imóveis Boutique vende: Apartamento super reformado em prédio centro de terreno com vista ampla",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2724623940",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22441000",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.986,
+                "approximateLon": -43.218,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Delfim Moreira",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Leblon",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "poisList": [
+                "BS:BRS 2,3 - Cupertino Durão",
+                "BS:Ponto Final: Antero de Quental",
+                "BS:Humberto de Campos",
+                "BS:Ponto Final: Afrânio de Melo Franco I",
+                "BS:Ponto Final: Leblon :: Ônibus Executivos",
+                "TS:Almirante Pereira Guimarães",
+                "TS:Jardim de Alah / Leblon",
+                "TS:Jardim de Alah",
+                "TS:Borges de Medeiros",
+                "TS:Ponto Final: Antero de Quental",
+                "CS:Patata",
+                "CS:Talho Capixaba",
+                "CS:Rio Lisboa",
+                "CS:Armazém do Café",
+                "CS:am/pm",
+                "PH:Drogasmil",
+                "PH:Drogaria Pop"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "MR0345",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "170"
+        ],
+        "advertiserId": "b9aeab28-a844-afd5-606b-175b862cdf7f",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2562",
+                "price": "8650000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "3127"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21965130604"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21965130604",
+        "stamps": []
+    },
+    "account": {
+        "id": "b9aeab28-a844-afd5-606b-175b862cdf7f",
+        "name": "Alta Imóveis Boutique",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42c1d6bf4c724f58f3f725808b6c20fe/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 767765,
+        "phones": {
+            "primary": "21965130604",
+            "mobile": "21965130604"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "a7ad5a94997fb09f07e2edcc427da28c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a7ad5a94997fb09f07e2edcc427da28c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "719020017cb93354aab606ac1174161b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/719020017cb93354aab606ac1174161b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2d53c1d28d2a137c67053208f58b5f21",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2d53c1d28d2a137c67053208f58b5f21/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bbdcc33882a64c1c9150a97d7b52aeb7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bbdcc33882a64c1c9150a97d7b52aeb7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "44bdf1e87b8dd64b98ccdb975b20d7b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/44bdf1e87b8dd64b98ccdb975b20d7b5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "453204f3aa19e8ac9f51a8943b290f4b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/453204f3aa19e8ac9f51a8943b290f4b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "849a3b6a16dda8b1c520222ade740ac6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/849a3b6a16dda8b1c520222ade740ac6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aab0c1352054eedcbd409f3efe074d06",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aab0c1352054eedcbd409f3efe074d06/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a68cdd7cd4d3f4be14b5f34b6522cce1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a68cdd7cd4d3f4be14b5f34b6522cce1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e3dba7274dd22961199a2be6d9bd19a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e3dba7274dd22961199a2be6d9bd19a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1663fc5cff63bd7795b3e84eba4176ea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1663fc5cff63bd7795b3e84eba4176ea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d584d5cdc32df3b4b9d5d24d93994c55",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d584d5cdc32df3b4b9d5d24d93994c55/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Alta Imóveis Boutique",
+        "href": "/767765/alta-imoveis-boutique/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 170m²",
+        "href": "/imovel/apartamento-4-quartos-leblon-zona-sul-rio-de-janeiro-com-garagem-170m2-venda-RS8650000-id-2724623940/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Delfim Moreira",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

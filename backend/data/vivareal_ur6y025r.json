@@ -1,0 +1,185 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GATED_COMMUNITY",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "41"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O apartamento no bairro Centro tem 41 metros quadrados com 1 quarto e 1 banheiroEncontra-se na privacidade de um condomínio fechado.",
+        "title": "Apartamento 1 quarto e sala na riachuelo - Centro",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2718869537",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20230013",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.914,
+                "approximateLon": -43.184,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Rua Riachuelo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:BRS 1,2,4 Inválidos",
+                "BS:P28",
+                "BS:Ponto Final: Cruz Vermelha",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "BS:BRS 1,2: Praça da República",
+                "TS:Francisco Muratori",
+                "TS:BRS 1,2,4 Inválidos",
+                "TS:P28",
+                "TS:Portinha",
+                "TS:Ponto Final: Cruz Vermelha",
+                "CS:Seu Zé",
+                "CS:Mercearia Gabi",
+                "CS:Café Bakery",
+                "CS:Mercearia Rainha da Pipoca",
+                "CS:ArmaZen",
+                "PH:Drogaria Brilhante",
+                "PH:DrogaLife",
+                "PH:Drogaria Guanabara",
+                "PH:Exata",
+                "PH:Viva Bem"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "DGA-CMBF119",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "41"
+        ],
+        "advertiserId": "310ed770-346b-f0ed-51e8-eb2b0d0e3db4",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "rentalInfo": {
+                    "period": "MONTHLY",
+                    "warranties": []
+                },
+                "price": "290000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "450"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "91992486378"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "91992486378",
+        "stamps": []
+    },
+    "account": {
+        "id": "310ed770-346b-f0ed-51e8-eb2b0d0e3db4",
+        "name": "D.g.a Negocios Imobiliarios",
+        "licenseNumber": "1051-J-PA",
+        "showAddress": false,
+        "legacyVivarealId": 827116,
+        "phones": {
+            "primary": "91992486378",
+            "mobile": "91992486378"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "e6120f55bfb475aaf39ad02bbdf77382",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e6120f55bfb475aaf39ad02bbdf77382/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f687b6134bccd1b51a9386a72c2d2363",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f687b6134bccd1b51a9386a72c2d2363/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "34ffb9a18836460cfd1f03a8451ced6c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/34ffb9a18836460cfd1f03a8451ced6c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c7c8333eb54c22f4c9ac6fc4727c1112",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c7c8333eb54c22f4c9ac6fc4727c1112/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "79f4c1a5c924cd4cfe41c51fece13f3d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/79f4c1a5c924cd4cfe41c51fece13f3d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e863bf0db99dc12e67e9116e223f1330",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e863bf0db99dc12e67e9116e223f1330/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a09645a448c30a0ede51537650fc5b24",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a09645a448c30a0ede51537650fc5b24/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "D.g.a Negocios Imobiliarios",
+        "href": "/827116/d-g-a-negocios-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 41m²",
+        "href": "/imovel/apartamento-1-quartos-centro-zona-central-rio-de-janeiro-41m2-venda-RS290000-id-2718869537/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Rua Riachuelo",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

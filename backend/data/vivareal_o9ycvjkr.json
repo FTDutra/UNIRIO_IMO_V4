@@ -1,0 +1,245 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "SERVICE_AREA",
+            "CLOSET",
+            "KITCHEN",
+            "BATHTUB"
+        ],
+        "usableAreas": [
+            "74"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento com 2 dormitórios à venda, 74 m² por R$ 260.000 - Praça Seca - Rio de Janeiro/RJ- OPORTUNIDADE DE INVESTIMENTO!!R$270.000,00- Sala;- 2 quartos;- Cozinha com armários; - Elevador; Portão eletrônico; Churrasqueira;- 1 vaga na garagem;",
+        "title": "Apartamento a venda na Rua Cândido Benicio",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2700070711",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21321801",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "2151",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.353611,
+                "source": "GOOGLE",
+                "lat": -22.900008
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Cândido Benício",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Praca Seca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Praça Seca",
+            "poisList": [
+                "BS:Praça Seca :: Linhas para o Castelo",
+                "BS:Rua Marangá 912",
+                "BS:Doutor Bernardino",
+                "BS:Ponto Final: Praça Seca :: Linha 371",
+                "BS:Ponto Final: Praça Seca :: Ônibus Executivo",
+                "TS:Praça Seca (Expresso)",
+                "TS:Praça Seca (Parador)",
+                "TS:Praça Seca :: Linhas para o Castelo",
+                "TS:Ipase",
+                "TS:Rua Marangá 912",
+                "CS:Açougue Barão Ltda.",
+                "CS:3 Marias",
+                "CS:Gula Gula",
+                "CS:Auto Posto Bittig",
+                "PH:Imediata"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "AP1195",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "74"
+        ],
+        "advertiserId": "874cf9f1-b470-f17c-0b6e-a1cbfb4303a0",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "price": "250000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "650"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2124894023",
+                "21981554031"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21981554031",
+        "stamps": []
+    },
+    "account": {
+        "id": "874cf9f1-b470-f17c-0b6e-a1cbfb4303a0",
+        "name": "GERALDO PAES IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6fdea9850fba5f1a289a39302c30565c/{description}.webp",
+        "licenseNumber": "05659-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 40004,
+        "phones": {
+            "primary": "2124894023",
+            "mobile": "21981554031"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "bcdcdc3867fbab7ea30bb8550b88ccfe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bcdcdc3867fbab7ea30bb8550b88ccfe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c3ed2d489d54cad6cc2d48c4dcad73e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c3ed2d489d54cad6cc2d48c4dcad73e3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "62ae82201e91e5656aebd03b4fe07f5a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/62ae82201e91e5656aebd03b4fe07f5a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "357a3af9a4afc6b1171f782e1e388d78",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/357a3af9a4afc6b1171f782e1e388d78/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b35b63fd4591d14ac9c0a651acc90074",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b35b63fd4591d14ac9c0a651acc90074/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "196b584c2da38f7ede2bed5e3c07fb97",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/196b584c2da38f7ede2bed5e3c07fb97/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ffb79ae3416a42bda535fbf8c1f09bbd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ffb79ae3416a42bda535fbf8c1f09bbd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dd7ec27b818460f2b57796145a8d38b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd7ec27b818460f2b57796145a8d38b0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd8a557187a34b6d91f133e6e8353b3e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd8a557187a34b6d91f133e6e8353b3e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "223f4b988c63f501af45461d200ebd3b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/223f4b988c63f501af45461d200ebd3b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "907480353f5e2dad98ab208e73f0634c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/907480353f5e2dad98ab208e73f0634c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f85b60a09bc6c54d7de83304ddcac531",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f85b60a09bc6c54d7de83304ddcac531/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c7fdde427edf40fe0c2f1d1461e306e4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c7fdde427edf40fe0c2f1d1461e306e4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d8f1eac8836cf90e9c8b544550a7dc9b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8f1eac8836cf90e9c8b544550a7dc9b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c54d3da74d1aaa51ba8634915dd09273",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c54d3da74d1aaa51ba8634915dd09273/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c16c93ceaca457955c8a9b747c6bd488",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c16c93ceaca457955c8a9b747c6bd488/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9bee2096fe37703ebee12e36b6aa6dec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9bee2096fe37703ebee12e36b6aa6dec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a2f52e6a378aaf826c8115140ab84632",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a2f52e6a378aaf826c8115140ab84632/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e680956925acfe06e0e90fe04581cd92",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e680956925acfe06e0e90fe04581cd92/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0dea3c4e2ddbcb695bc4eb11d73e52bb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0dea3c4e2ddbcb695bc4eb11d73e52bb/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "GERALDO PAES IMOVEIS",
+        "href": "/40004/geraldo-paes-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 74m²",
+        "href": "/imovel/apartamento-2-quartos-praca-seca-zona-oeste-rio-de-janeiro-com-garagem-74m2-venda-RS250000-id-2700070711/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Praça Seca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Cândido Benício",
+            "streetNumber": "2151",
+            "zone": "Zona Oeste"
+        }
+    }
+}

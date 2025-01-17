@@ -1,0 +1,338 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "BACKYARD",
+            "BALCONY",
+            "AIR_CONDITIONING",
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "84"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "ENGENHO NOVO - APARTAMENTO TIPO CASA, DE 2 QUARTOS - Excelente apartamento tipo casa, de 2 quartos. Com entrada independente. Todo em piso cerâmica. Ampla sala em 2 ambientes; 2 amplos quartos; banheiro social com box Blindex e pia de bancada; ampla cozinha com pia de bancada em granito e armários planejados; área de serviço externa com tanque e instalação para máquina de lavar; dependência de empregada. Vagas de garagem para 3 carros. Portão de garagem automático, com controle remoto. Amplo quintal. ENTRAR E MORAR. NADA A FAZER. Interfones; câmeras. EXCELENTE LOCALIZAÇÃO. Comércio e transporte (diversas linhas de ônibus). DOCUMENTAÇÃO PERFEITA. ACEITANDO FINANCIAMENTO IMOBILIÁRIO, FGTS E CARTA DE CRÉDITO. Não perca tempo. Venha conhecer o imóvel. Agende já a sua visita. EXCELENTE OPORTUNIDADE. ÓTIMO PARA INVESTIMENTO. A SUA HORA CHEGOU. VENHA MORAR NO ENGENHO NOVO. Quem visitar, compra. Damos toda a orientação na aprovação do seu financiamento imobiliário. d229a",
+        "title": "Engenho Novo | Apartamento 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2753689708",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            3
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20780140",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.901,
+                "approximateLon": -43.271,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Marquês de Leão",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Engenho Novo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Engenho Novo",
+            "poisList": [
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. B",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. E",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. D",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. C",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. A",
+                "TS:Engenho Novo",
+                "TS:Terminal Rodoviário Américo Ayres :: Plat. B",
+                "TS:Terminal Rodoviário Américo Ayres :: Plat. E",
+                "TS:Terminal Rodoviário Américo Ayres :: Plat. D",
+                "TS:Terminal Rodoviário Américo Ayres :: Plat. C",
+                "CS:Magal",
+                "CS:Marcopão",
+                "CS:Lecadô",
+                "CS:Imperato",
+                "CS:Tuti Fruti",
+                "PH:Drogaria Mais Barato - Méier",
+                "PH:Droh",
+                "PH:Drogaria MEP",
+                "PH:Drogaria Carioca",
+                "PH:Drogaria Atração do Méier"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "GR2AP103298",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "84"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "647",
+                "price": "270000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "c524220b16e3bde2c6f0d9cc68059046",
+            "url": "https://www.youtube.com/watch?v=KyH6se6BJ68",
+            "type": "VIDEO"
+        },
+        {
+            "id": "c443465cb5ee288d4e2d530d9af5f057",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c443465cb5ee288d4e2d530d9af5f057/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b328d955b1ae00e7b380a6426733b98c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b328d955b1ae00e7b380a6426733b98c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5bef97587bba4bd859825315de06d878",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5bef97587bba4bd859825315de06d878/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8f4ce9420e853c2dbf1aed51eda3dc31",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8f4ce9420e853c2dbf1aed51eda3dc31/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a7c49e4a58b3f60d6e16f46c53108dae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a7c49e4a58b3f60d6e16f46c53108dae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "54fa694e6f992ce393d0b44efbaa4df2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/54fa694e6f992ce393d0b44efbaa4df2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b07c45e03bbf24a4f82777c085845f1f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c45e03bbf24a4f82777c085845f1f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1dbabbf5760f6a725a8c491de9eb026a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1dbabbf5760f6a725a8c491de9eb026a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "edba6c9da9ab75d3c3c37d3e3163bac3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/edba6c9da9ab75d3c3c37d3e3163bac3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0aca49c4012b9e130fa720322d5b3e77",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0aca49c4012b9e130fa720322d5b3e77/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "10d7040728d93d3ab5209336dcd248b2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/10d7040728d93d3ab5209336dcd248b2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "04abaa901d1477b28210100819306c71",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/04abaa901d1477b28210100819306c71/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bcfd74d4c47ed3904b97059b07f6d391",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bcfd74d4c47ed3904b97059b07f6d391/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a23ca74fc1ebe8850d05fa239ec73bdd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a23ca74fc1ebe8850d05fa239ec73bdd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d0a6bc4d99a2860ee65d005852de4a31",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d0a6bc4d99a2860ee65d005852de4a31/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "76eafb4ef462ab0f9a794f31770572b2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/76eafb4ef462ab0f9a794f31770572b2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9ef85361b769cf5dd6529238fab5b87b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ef85361b769cf5dd6529238fab5b87b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "324afa36404f0bf37de5fc8f2be55a8a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/324afa36404f0bf37de5fc8f2be55a8a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d4956a74c8e4a93b33fae54f6d02c803",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d4956a74c8e4a93b33fae54f6d02c803/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aab9fc7c3fd8d601cfd288a29546e696",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aab9fc7c3fd8d601cfd288a29546e696/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c07bf48049e5b87ca04db2ceb450c5d2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c07bf48049e5b87ca04db2ceb450c5d2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f0d5a35efbfb93bc626a508cc10125f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f0d5a35efbfb93bc626a508cc10125f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "50f66651b8449b14f503a601867da417",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/50f66651b8449b14f503a601867da417/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "22bc6a1d409b7512499db83c21bcf958",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/22bc6a1d409b7512499db83c21bcf958/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "444271e4c34bde2199356fb08107332c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/444271e4c34bde2199356fb08107332c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "98fc2348d6a7deee78901256ea8914c2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98fc2348d6a7deee78901256ea8914c2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a6fc9129653c888ac80f83816b10c654",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a6fc9129653c888ac80f83816b10c654/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "946900d3c2fea452f9bd3fdc1677dcdc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/946900d3c2fea452f9bd3fdc1677dcdc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "de1cedf462ceac5679b253aa53140820",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/de1cedf462ceac5679b253aa53140820/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e0c778296c105e9a76c9626c71142879",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e0c778296c105e9a76c9626c71142879/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a92dbb18cb9630fd4952481e4d22a181",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a92dbb18cb9630fd4952481e4d22a181/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eaab237d0c2ff049ec163e3526ee98d0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eaab237d0c2ff049ec163e3526ee98d0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6696ae2918e915ad083d2fadebc46311",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6696ae2918e915ad083d2fadebc46311/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f612dfd972d0cc74fdc1591735db86f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f612dfd972d0cc74fdc1591735db86f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "83a5448ac85139bbbd91def5e56b2685",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/83a5448ac85139bbbd91def5e56b2685/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e1070948af31745b927ef60ad6cfa23a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e1070948af31745b927ef60ad6cfa23a/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 84m²",
+        "href": "/imovel/apartamento-2-quartos-engenho-novo-zona-norte-rio-de-janeiro-com-garagem-84m2-venda-RS270000-id-2753689708/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Engenho Novo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Marquês de Leão",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

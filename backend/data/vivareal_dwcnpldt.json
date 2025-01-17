@@ -1,0 +1,251 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "PETS_ALLOWED",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "KITCHEN",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "53"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Lindo apartamento em condomínio fechado com total infraestrutura, composto de sala e 2 quartos em piso porcelanato, banheiro em porcelanato e pastilha ao teto, box blindex, bancada em granito com cuba, cozinha em porcelanato, bancada em granito, armários planejados, área de serviço.<br><br>Aceitando financiamento/ Fgts/ outros bancos.<br>-Cod:JCAP20166 -Rev.11Dez",
+        "title": "Apartamento sala 2 quartos!",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2650636288",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "23063200",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "520",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.596783,
+                "source": "GOOGLE",
+                "lat": -22.899103
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Professor Paulo Ribeiro",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Inhoaiba",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Inhoaíba",
+            "poisList": [
+                "BS:Ana Gonzaga",
+                "BS:Inhoaíba",
+                "BS:Vilar Carioca",
+                "TS:Inhoaíba",
+                "TS:Ana Gonzaga",
+                "TS:Benjamim do Monte",
+                "TS:Benjamin do Monte",
+                "TS:Vilar Carioca",
+                "CS:Padaria do careca",
+                "SU:Escola Municipal Jardim Guararapes",
+                "SU:Escola Municipal Professor Jorge Euclides Pereira",
+                "SU:Escola Municipal Atenas",
+                "SU:Creche Municipal Sempre Vida Professora Eugenia Maria Veloso Marchese",
+                "SU:Instituto Vincler"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "JCAP20166",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "53"
+        ],
+        "advertiserId": "bb7046ce-b7c2-2cd7-156e-0c7d09304839",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1",
+                "price": "145000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "280"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21967765878",
+                "2124160362"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "bb7046ce-b7c2-2cd7-156e-0c7d09304839",
+        "name": "JCM IMOBILIÁRIA & CONSTRUÇÕES",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 763462,
+        "phones": {
+            "primary": "21967765878",
+            "mobile": "2124160362"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "f7e70a6d4074aec07744e5db772eb0cb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7e70a6d4074aec07744e5db772eb0cb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd8c38c4ebe7cb94aa46ab79f7bbffc3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd8c38c4ebe7cb94aa46ab79f7bbffc3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "543251ebb360a7e7740c7cf285c31728",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/543251ebb360a7e7740c7cf285c31728/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1e755cf456828a28fa6a1852695d477",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1e755cf456828a28fa6a1852695d477/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9be7e016f4f29785763bac09a346498",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9be7e016f4f29785763bac09a346498/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ebf88abfb079c066ca7687a21d937ddc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ebf88abfb079c066ca7687a21d937ddc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8c1610a771685376c63d8e4bf2a9b2b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8c1610a771685376c63d8e4bf2a9b2b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b673f98ed7125a7fb2f727c9cb47345a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b673f98ed7125a7fb2f727c9cb47345a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e3cb19881abf1b0f211021724b5d9cbf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e3cb19881abf1b0f211021724b5d9cbf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "80a8487d1bf3e8b0ec690decb090019a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/80a8487d1bf3e8b0ec690decb090019a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5341f162c4a4f21122d36e13f35c636a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5341f162c4a4f21122d36e13f35c636a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36c302d5e4fdcacb1e82b45f6ccea803",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36c302d5e4fdcacb1e82b45f6ccea803/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "450fea3986437e288c98bd93af6af784",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/450fea3986437e288c98bd93af6af784/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f4ee4be9a9358c0775dd8c9068bb446f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f4ee4be9a9358c0775dd8c9068bb446f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d4e424c66fd18f04a28f9442aaeb7fb5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d4e424c66fd18f04a28f9442aaeb7fb5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "203abc1f518535d606cb113611018100",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/203abc1f518535d606cb113611018100/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c5a8f16424308854333a187d475cd509",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c5a8f16424308854333a187d475cd509/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e08d588d62682c8afd3156b9de5bc594",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e08d588d62682c8afd3156b9de5bc594/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d6f74d88b7668048fc0a5cc945aef184",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d6f74d88b7668048fc0a5cc945aef184/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fc58bd1ef15c37abd3aecf83427f043f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fc58bd1ef15c37abd3aecf83427f043f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a078fa974da899d0f74dfa34898295db",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a078fa974da899d0f74dfa34898295db/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "JCM IMOBILIÁRIA & CONSTRUÇÕES",
+        "href": "/763462/jcm-imobiliaria-construcoes/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 53m²",
+        "href": "/imovel/apartamento-2-quartos-inhoaiba-zona-oeste-rio-de-janeiro-com-garagem-53m2-venda-RS145000-id-2650636288/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Inhoaíba",
+            "state": "Rio de Janeiro",
+            "street": "Rua Professor Paulo Ribeiro",
+            "streetNumber": "520",
+            "zone": "Zona Oeste"
+        }
+    }
+}

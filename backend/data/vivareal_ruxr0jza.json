@@ -1,0 +1,320 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "GARAGE",
+            "HEATING"
+        ],
+        "usableAreas": [
+            "87"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua Maria Amália, no bairro Andaraí em Rio de Janeiro. Este imóvel conta com área construída de 87m², oferecendo 3 quartos, 2 banheiros e 1 vaga de garagem. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apartamento à venda em Andaraí com 87 m², 3 quarto",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2761463535",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20510130",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "470",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.244346,
+                "source": "GOOGLE",
+                "lat": -22.928685
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Maria Amália",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Andarai",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Muda (Ponto Final)",
+                "BS:Jose Higino 148",
+                "BS:Ponto Final - 134B (Nova Iguaçu - Vila Isabel)",
+                "BS:Doutor Aníbal Moreira",
+                "BS:Barão de Mesquita 482c",
+                "TS:Muda (Ponto Final)",
+                "TS:Ponto Final - 134B (Nova Iguaçu - Vila Isabel)",
+                "TS:Uruguai",
+                "TS:Uruguai / Tijuca",
+                "TS:Ponto Final: Andaraí :: Linha 217",
+                "CS:Casa da Ostra",
+                "CS:Jiv's",
+                "CS:Erbon",
+                "CS:Grão Vizir",
+                "CS:Confeitaria Thaís",
+                "PH:Drogaria Unidas",
+                "PH:FarmaDez",
+                "PH:Drogaria Venancio",
+                "PH:Drogarias Mundial",
+                "PH:Mundial"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "PU1a71x9s",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "87"
+        ],
+        "advertiserId": "da2563c4-12f0-3dc1-868f-7bb25cd3c2d6",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "804",
+                "price": "450000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21965821001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21965821001",
+        "stamps": []
+    },
+    "account": {
+        "id": "da2563c4-12f0-3dc1-868f-7bb25cd3c2d6",
+        "name": "IMOVELUM TIJUCA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5bea3a3ee0dd27e8541a75453fa1224e/{description}.webp",
+        "licenseNumber": "8951-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 73606,
+        "phones": {
+            "primary": "21965821001",
+            "mobile": "21965821001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "99e332b03d68eb9aeddf544e070a05b2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/99e332b03d68eb9aeddf544e070a05b2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6052b862a97c59b9445a974f5ff8dcda",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6052b862a97c59b9445a974f5ff8dcda/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7d43aef1c89d39b3c8315d0541ebe2bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7d43aef1c89d39b3c8315d0541ebe2bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f4fba014b628ce7ef0a3d574839358b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f4fba014b628ce7ef0a3d574839358b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0c8cb763aa49aeedff42ee77c63d9c65",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0c8cb763aa49aeedff42ee77c63d9c65/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "37889ed046ff3903bab5670eb2022070",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/37889ed046ff3903bab5670eb2022070/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a70188e96f2e5268f05f36f057005a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a70188e96f2e5268f05f36f057005a4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "51840883e46ee93d2767ec2a3a4897f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/51840883e46ee93d2767ec2a3a4897f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a8087e60701d1cf9797e1915101f1078",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a8087e60701d1cf9797e1915101f1078/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bff420570b3758f179cd72061110790e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bff420570b3758f179cd72061110790e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e46292f8d009543962b675df5778efba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e46292f8d009543962b675df5778efba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a94c2cff35b9afdf6ad8623c55555b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a94c2cff35b9afdf6ad8623c55555b5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e139e6367a161f2ab27a3fe7aa0805d8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e139e6367a161f2ab27a3fe7aa0805d8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c9e5d1adf0143f3e546344f5e5081cb6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c9e5d1adf0143f3e546344f5e5081cb6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1657ad883a5e36d57196224e61cb4210",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1657ad883a5e36d57196224e61cb4210/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "54b48fe57ff805e2cf922e1e525f747c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/54b48fe57ff805e2cf922e1e525f747c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "792e244fabd3b79bc830974ae4143758",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/792e244fabd3b79bc830974ae4143758/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ebc5b1b5d1547bbf72ad89b238189ec8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ebc5b1b5d1547bbf72ad89b238189ec8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "41bed863e25828021355a696aeb1ec0d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/41bed863e25828021355a696aeb1ec0d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa632bad7fff90902f7d6dc3933e926b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa632bad7fff90902f7d6dc3933e926b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "11a197427a6ef8dfcbb2660ea934ae06",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/11a197427a6ef8dfcbb2660ea934ae06/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3979fe9b1401b4607ab22a35c66dd2c5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3979fe9b1401b4607ab22a35c66dd2c5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3dbbedcf7157b02342f09048a9980874",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3dbbedcf7157b02342f09048a9980874/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "872b696583c0848ee6262d9af4b79e94",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/872b696583c0848ee6262d9af4b79e94/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d65d3c933f1c9b56b24b1ed5aeee46d1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d65d3c933f1c9b56b24b1ed5aeee46d1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "52b97a792593007b85caa044ede501ce",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52b97a792593007b85caa044ede501ce/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4d78806c9d1f5695b526aae0cb52dd14",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4d78806c9d1f5695b526aae0cb52dd14/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "23dc7449782d7cbd36ba0d96cff1e6b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/23dc7449782d7cbd36ba0d96cff1e6b5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf9e0f26ef728d9c6b2ed48d30f2ea59",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf9e0f26ef728d9c6b2ed48d30f2ea59/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fc3a753970879fd0a60d49f3d1dcc51f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fc3a753970879fd0a60d49f3d1dcc51f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9330d7683bab4080f8deae7a19c69c94",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9330d7683bab4080f8deae7a19c69c94/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6b48d2f609d7d898a72329abd2f463f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6b48d2f609d7d898a72329abd2f463f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6dc5e0c0507413599778020565778972",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6dc5e0c0507413599778020565778972/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "66a44c040a90ade2db10de51ff7a3731",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/66a44c040a90ade2db10de51ff7a3731/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe3fae0d51d98b65672c88fd7f64198a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe3fae0d51d98b65672c88fd7f64198a/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "IMOVELUM TIJUCA",
+        "href": "/73606/imovelum-tijuca/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 87m²",
+        "href": "/imovel/apartamento-3-quartos-andarai-zona-norte-rio-de-janeiro-com-garagem-87m2-venda-RS450000-id-2761463535/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Andaraí",
+            "state": "Rio de Janeiro",
+            "street": "Rua Maria Amália",
+            "streetNumber": "470",
+            "zone": "Zona Norte"
+        }
+    }
+}

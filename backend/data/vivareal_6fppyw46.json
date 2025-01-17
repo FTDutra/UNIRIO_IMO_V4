@@ -1,0 +1,229 @@
+{
+    "listing": {
+        "displayAddressType": "NEIGHBORHOOD",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "CONCIERGE_24H",
+            "BUILTIN_WARDROBE",
+            "BEDROOM_WARDROBE",
+            "AMERICAN_KITCHEN",
+            "DISABLED_ACCESS",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "87"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "É composto por hall, sala em três ambientes, cozinha americana, 3 quartos com armários (sendo 1 suíte), banheiro social e varanda de inverno.<br>kitnet com 20 m², arejada, reformada, independente (podendo ser uso individual, hóspedes ou locação (com relógio de luz individual).<br>Possui mais de 100 m² bem distribuídos, reformado, silencioso (fundos), arejado e com vista livre. <br>Parte elétrica e hidráulica reformada, cozinha e banheiros com água quente (gás encanado) e acabamentos em mármore e vidro temperado. <br><br>Estuda proposta por casa em Petrópolis.<br><br>Atenção: Os imóveis anunciados no site estão sujeitos a alterações, confirmação de valor e disponibilidade junto aos proprietários. <br>(Cód. Be)",
+        "title": "Apartamento com 3 quartos (1 suíte) + kitnet anexa - Copacabana - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2560638993",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22060002",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.977,
+                "approximateLon": -43.19,
+                "radius": 250
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 3 Bolivar",
+                "BS:BRS 1 Miguel Lemos",
+                "BS:BRS 3 Miguel Lemos",
+                "BS:BRS 1 Xavier da Silveira",
+                "BS:BRS 2 Barão de Ipanema",
+                "TS:BRS 3 Bolivar",
+                "TS:BRS 1 Miguel Lemos",
+                "TS:BRS 3 Miguel Lemos",
+                "TS:BRS 1 Xavier da Silveira",
+                "TS:Xavier da Silveira",
+                "CS:Sulimar",
+                "CS:Casa du bisçoito",
+                "CS:Grão da terra",
+                "CS:The Bakers",
+                "CS:Lopes",
+                "PH:Prontofarma",
+                "PH:Drogaria Galanti",
+                "PH:Viva Mais",
+                "PH:Farmácia Central Posto 6",
+                "PH:Drogaria Pop"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "BE1H1L1CU",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "120"
+        ],
+        "advertiserId": "41acf765-2ab9-9d62-4593-d31e2b37ba1d",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "rentalInfo": {
+                    "period": "MONTHLY",
+                    "warranties": []
+                },
+                "yearlyIptu": "3000",
+                "price": "1200000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1444"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "24992936438"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "24992936438",
+        "stamps": []
+    },
+    "account": {
+        "id": "41acf765-2ab9-9d62-4593-d31e2b37ba1d",
+        "name": "CASTRO MIRANDA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ec5e3347f83193be9c1a3df6a6e9e1bc/{description}.webp",
+        "licenseNumber": "066535-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 230814,
+        "phones": {
+            "primary": "24992936438",
+            "mobile": "24992936438"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "a22fe409597ccc72436de4e4e34393ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a22fe409597ccc72436de4e4e34393ed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8cd9eff9033dc287cc43350a95fd5eec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8cd9eff9033dc287cc43350a95fd5eec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c8dde01c534b215712fc66bfd25b844",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c8dde01c534b215712fc66bfd25b844/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c7b531831d78d8db10d862258aa350d9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c7b531831d78d8db10d862258aa350d9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0dd1421ac4a99b325dcdf64088505492",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0dd1421ac4a99b325dcdf64088505492/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "957d290f2eb9c5e9d3f93781d2966855",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/957d290f2eb9c5e9d3f93781d2966855/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5c3965131891c6684ed13ba5f13c4e65",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5c3965131891c6684ed13ba5f13c4e65/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fefdb890d47bb459c4f78a2543de4261",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fefdb890d47bb459c4f78a2543de4261/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e0bbd2ec8e8cf5df82a4e8157ced0063",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e0bbd2ec8e8cf5df82a4e8157ced0063/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9f993d1fdb5aea41afd296dfed1bfbc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9f993d1fdb5aea41afd296dfed1bfbc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a68b911d5cef7df5713c6ab8eb121de",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a68b911d5cef7df5713c6ab8eb121de/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4828867bc8ed75a2296f9f0b6d11f1bb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4828867bc8ed75a2296f9f0b6d11f1bb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1091fe21eaebd3dcf81ca37bbb96d3c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1091fe21eaebd3dcf81ca37bbb96d3c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f284536e8118f337e0da2aa4981fc21",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f284536e8118f337e0da2aa4981fc21/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "CASTRO MIRANDA IMÓVEIS",
+        "href": "/230814/castro-miranda-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 87m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-87m2-venda-RS1200000-id-2560638993/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

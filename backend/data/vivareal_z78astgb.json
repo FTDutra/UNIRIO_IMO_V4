@@ -1,0 +1,304 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "SERVICE_AREA",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "WATCHMAN",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "62"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento de 3 quartos no Flamengo disponível para venda na Privilégio Imóveis. Composto por 3 quartos espaçosos, sala ampla, um banheiro amplo, cozinha, área de serviço e dependência completa. Apartamento de fundos, bem claro e arejado e em perfeito estado de conservação. Condomínio possui espaço aberto infantil para um play e bicicletário. Condomínio com portaria e segurança 24 horas, em ótima localização, próximo a Estação de metrô com vasta área comercial e de serviços ao entorno.",
+        "title": "Apartamento à venda, 3 quartos, Flamengo - RIO DE JANEIRO/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2733360330",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22221000",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.925,
+                "approximateLon": -43.177,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Silveira Martins",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Flamengo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "poisList": [
+                "BS:Largo do Machado",
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "BS:Rua Monte Alegre próximo ao 342",
+                "BS:Passeio :: Linha 517",
+                "TS:Catete",
+                "TS:Palácio",
+                "TS:Silveira Martins",
+                "TS:Outeiro da Glória",
+                "TS:Acesso Largo do Machado",
+                "CS:Padaria Nova Viriato",
+                "CS:Pão Francês",
+                "CS:Padaria Catete",
+                "CS:Parque do Flamengo",
+                "CS:Sorvetes Itália",
+                "PH:Drogaria RioFarma",
+                "PH:Miliflora Farmácia de Manipulação",
+                "PH:Rio Farma",
+                "PH:Drogaria Norte e Sul",
+                "PH:Norte e Sul"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "70720",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "62"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "148",
+                "price": "900000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "840"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "6647a4fb97e8c2756d916f350b507101",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6647a4fb97e8c2756d916f350b507101/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c585b2a7eee4e061d9658f70bb01db4b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c585b2a7eee4e061d9658f70bb01db4b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bfff406245c8ffd9e273f124ed0ed941",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bfff406245c8ffd9e273f124ed0ed941/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "586c4243ff921a7bb5cf92233840c4b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/586c4243ff921a7bb5cf92233840c4b5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ab6324ccc906151e275e2cab230afccb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ab6324ccc906151e275e2cab230afccb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7aa0d4d187f268111b0ae16a35a8e91e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7aa0d4d187f268111b0ae16a35a8e91e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6d251aa1002e3b6b52d8fb1deca233b8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6d251aa1002e3b6b52d8fb1deca233b8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "97df372e177d7b3b13d1d54e54b002a1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/97df372e177d7b3b13d1d54e54b002a1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "68adbc78624b3616eb9be6adadab75e5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/68adbc78624b3616eb9be6adadab75e5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "39eb908dd66f09fbbdc525eb3ef805e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39eb908dd66f09fbbdc525eb3ef805e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8bb1cb8c260a960c2eca926d4308385a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8bb1cb8c260a960c2eca926d4308385a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4b03b037b8c30ca0561f485914e138a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b03b037b8c30ca0561f485914e138a6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e0aec16646cc29184d6a89b01231028d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e0aec16646cc29184d6a89b01231028d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "09d6334d09a9676b9611ba66d7f9acf0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/09d6334d09a9676b9611ba66d7f9acf0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36014bb94a1f64e5b191928a589cda70",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36014bb94a1f64e5b191928a589cda70/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "55254e02a0b57b859a637544bc189d45",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/55254e02a0b57b859a637544bc189d45/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "875793ed3995aab30e1579855cf6999f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/875793ed3995aab30e1579855cf6999f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "673c642e7989d787e46c56d2a3a8c41f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/673c642e7989d787e46c56d2a3a8c41f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "33efe885337699b888ef804c1109f89f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/33efe885337699b888ef804c1109f89f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9c6797a1dbb1e6d7bbd107ea70709f2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9c6797a1dbb1e6d7bbd107ea70709f2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "da09cfe7905ba5674eb7dc24f3a85d30",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/da09cfe7905ba5674eb7dc24f3a85d30/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42a0b12e18df650872ff4b7fa3318bcb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42a0b12e18df650872ff4b7fa3318bcb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f0842d9446b8bac5ca5d1ecd29f8684a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f0842d9446b8bac5ca5d1ecd29f8684a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f65d005d0f902ed9f3be2fe668b77378",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f65d005d0f902ed9f3be2fe668b77378/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cdd9092e727f0c4c0e96496da7dfc738",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cdd9092e727f0c4c0e96496da7dfc738/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "33bde97e0c8d56bf8258a3905d23e7c8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/33bde97e0c8d56bf8258a3905d23e7c8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9a477c8dc2785fb2be9ec77e90a199ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9a477c8dc2785fb2be9ec77e90a199ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f848e6011e70ed2478cced124d1c92a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f848e6011e70ed2478cced124d1c92a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "139fc668de7765f5effd02aedb7ca361",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/139fc668de7765f5effd02aedb7ca361/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "74ddf72ac2feb473b4a1faff4bfd4dfd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/74ddf72ac2feb473b4a1faff4bfd4dfd/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 62m²",
+        "href": "/imovel/apartamento-3-quartos-flamengo-zona-sul-rio-de-janeiro-62m2-venda-RS900000-id-2733360330/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Silveira Martins",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

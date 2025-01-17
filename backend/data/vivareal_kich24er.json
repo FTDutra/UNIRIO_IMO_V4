@@ -1,0 +1,239 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "GARAGE",
+            "SERVICE_AREA",
+            "BICYCLES_PLACE",
+            "BUILTIN_WARDROBE",
+            "KITCHEN_CABINETS",
+            "KITCHEN",
+            "INTERCOM",
+            "LARGE_WINDOW",
+            "DINNER_ROOM",
+            "HEATING",
+            "CARETAKER",
+            "COPA"
+        ],
+        "usableAreas": [
+            "120"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda em Botafogo!<br> Descrições sobre o apartamento:<br>Localização privilegiada<br>️ 3 Quartos<br>️ 1 Suíte<br> 2 Banheiros<br> 7° Andar<br>120m²<br>️ 1 Vaga<br>VALOR DA VENDA: R$ 1.300.000<br>Entre em contato conosco para agendar uma visita agora mesmo!",
+        "title": "Apartamento à venda em Botafogo com 120 m², 3 quartos, 1 suíte, 1 vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2727907603",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22250145",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "114",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.177087,
+                "source": "GOOGLE",
+                "lat": -22.940842
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Praia Botafogo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Botafogo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Largo do Machado",
+                "BS:Palácio Universitário",
+                "BS:Rua das Laranjeiras, 336",
+                "BS:Mureta da Urca",
+                "TS:Flamengo",
+                "TS:Ponto Final: Largo do Machado :: Linha 497",
+                "TS:Acesso Catete",
+                "TS:Largo do Machado",
+                "TS:Acesso Largo do Machado",
+                "CS:Padaria Napoles",
+                "CS:Mei-jo",
+                "CS:Deep Freeze",
+                "CS:Maguila",
+                "CS:Benamor",
+                "PH:Rio Brasil",
+                "PH:RioFarma",
+                "PH:Farma Hall",
+                "PH:Drogaria Paraná",
+                "PH:Drogaria Ric"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "60998",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "120"
+        ],
+        "advertiserId": "cff0752d-6348-cc1c-4c4a-ea62f473edbc",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3600",
+                "price": "1300000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1800"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21991616884"
+            ]
+        },
+        "videoTourLink": "https://kuula.co/profile/AFASA/collections",
+        "whatsappNumber": "21991616884",
+        "stamps": []
+    },
+    "account": {
+        "id": "cff0752d-6348-cc1c-4c4a-ea62f473edbc",
+        "name": "AFASA Imóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/374efcfc04f0e805677a1ab6eb42a153/{description}.webp",
+        "licenseNumber": "008484-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 642152,
+        "phones": {
+            "primary": "21991616884",
+            "mobile": "21991616884"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "afca6c30894d4e002a5c63610b2a28c9",
+            "url": "https://kuula.co/profile/AFASA/collections",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "69f64bffaa8bb558a372e5ceaf0d3ab4",
+            "url": "https://youtu.be/3qK61KGesEw",
+            "type": "VIDEO"
+        },
+        {
+            "id": "705fda9e01c0a42e1500c37db58d1560",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/705fda9e01c0a42e1500c37db58d1560/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ec313ced52efc4cdcc5a9fbb9e44136f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ec313ced52efc4cdcc5a9fbb9e44136f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "77dc13d8facd1c0355046379cf534cbd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/77dc13d8facd1c0355046379cf534cbd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "353bf659123ef9c1e87059533f9565a7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/353bf659123ef9c1e87059533f9565a7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5ab0ca3fccb01fd4a68e17a910ae2cbb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5ab0ca3fccb01fd4a68e17a910ae2cbb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d5ca1e4d7f9cf9b9af87f9f418e94b0d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d5ca1e4d7f9cf9b9af87f9f418e94b0d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d5c9c3395aa56bb8659c0972ceb712b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d5c9c3395aa56bb8659c0972ceb712b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff44fb628a8ab712f6f5948ff88cd63d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff44fb628a8ab712f6f5948ff88cd63d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "77fa80d42a583f5e9d838da29dd51706",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/77fa80d42a583f5e9d838da29dd51706/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f969037448f5f87891b5ac3835cc6b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f969037448f5f87891b5ac3835cc6b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c1bb7f64508a2c65c0eca21810ec87a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c1bb7f64508a2c65c0eca21810ec87a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5fdfc0694adedcb354733abc3ec7b62d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5fdfc0694adedcb354733abc3ec7b62d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d6b920e90676b3a7e4b26d86475594cc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d6b920e90676b3a7e4b26d86475594cc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "19db55e6805c215d4e39cde16f828e0f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/19db55e6805c215d4e39cde16f828e0f/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "AFASA Imóveis",
+        "href": "/642152/afasa-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 120m²",
+        "href": "/imovel/apartamento-3-quartos-botafogo-zona-sul-rio-de-janeiro-com-garagem-120m2-venda-RS1300000-id-2727907603/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "state": "Rio de Janeiro",
+            "street": "Praia Botafogo",
+            "streetNumber": "114",
+            "zone": "Zona Sul"
+        }
+    }
+}

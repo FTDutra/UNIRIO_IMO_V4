@@ -1,0 +1,206 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "PLAYGROUND",
+            "CONCIERGE_24H",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "74"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "EXCELENTE APARTAMENTO, SALA, 3 DORMITÓRIOS, BANHEIRO SOCIAL, COZINHA, DEPENDÊNCIAS, ÁREA DE SERVIÇO. PORTARIA 24 HORAS, 1 VAGA DE GARAGEM.",
+        "title": "Apartamento para venda com 74 metros quadrados com 3 quartos em Tijuca - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2522773759",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20530420",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.937,
+                "approximateLon": -43.248,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua São Miguel",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Muda (Ponto Final)",
+                "BS:Ponto Final: Andaraí :: Linha 217",
+                "BS:Ponto Final - 134B (Nova Iguaçu - Vila Isabel)",
+                "BS:Terminal Professor Carlos Manes Bandeira",
+                "BS:Terminal Carlos Manes Bandeira (Usina) :: Plat. B",
+                "TS:Muda (Ponto Final)",
+                "TS:Ponto Final: Andaraí :: Linha 217",
+                "TS:Regina Coeli",
+                "TS:Uruguai",
+                "TS:Uruguai / Tijuca",
+                "CS:La Panetteria",
+                "CS:Confeitaria Thaís",
+                "CS:Queijeiro da Muda",
+                "CS:Artigrano",
+                "CS:Nema Padaria",
+                "PH:Drogarias Mundial",
+                "PH:Mundial",
+                "PH:FarmaDez",
+                "PH:Drogaria Unidas",
+                "PH:Drogaria Venancio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "MBAP32927",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "74"
+        ],
+        "advertiserId": "389c32ae-d0fe-84f2-5fb6-bdb9645da201",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "350000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "580"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122047000",
+                "21994033825"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21994033825",
+        "stamps": []
+    },
+    "account": {
+        "id": "389c32ae-d0fe-84f2-5fb6-bdb9645da201",
+        "name": "RJC IMOBILIÁRIA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82c4683131e146314b54c3710d313a85/{description}.webp",
+        "licenseNumber": "043388-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 232020,
+        "phones": {
+            "primary": "2122047000",
+            "mobile": "21994033825"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "b44016fd0285bcfdca0b9a4185568171",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b44016fd0285bcfdca0b9a4185568171/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "57810440b97850a9907db670fb63849a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/57810440b97850a9907db670fb63849a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "641fa9c460d97e7ef7c7a2ac3ea4a827",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/641fa9c460d97e7ef7c7a2ac3ea4a827/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "922c5ccf198de44008403bb2d631871b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/922c5ccf198de44008403bb2d631871b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1bf4b8ae7f6e47f0beb534d3a024d1d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1bf4b8ae7f6e47f0beb534d3a024d1d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "46defbad1ca4cb1a1fdddcf479f73e1f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/46defbad1ca4cb1a1fdddcf479f73e1f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c71f88321dd255070203e65e278f7d11",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c71f88321dd255070203e65e278f7d11/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "66b2228df7c9b87b8cff82e1b4ee4d52",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/66b2228df7c9b87b8cff82e1b4ee4d52/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "71287f132f0949c64220ab2dc1658037",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/71287f132f0949c64220ab2dc1658037/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3fe5936e8eea4b368bd349fd695497de",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3fe5936e8eea4b368bd349fd695497de/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3abc637525f9ea4ae6154c792d631386",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3abc637525f9ea4ae6154c792d631386/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "RJC IMOBILIÁRIA",
+        "href": "/232020/rjc-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 74m²",
+        "href": "/imovel/apartamento-3-quartos-tijuca-zona-norte-rio-de-janeiro-com-garagem-74m2-venda-RS350000-id-2522773759/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua São Miguel",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

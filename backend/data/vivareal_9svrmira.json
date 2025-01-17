@@ -1,0 +1,256 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [],
+        "usableAreas": [
+            "160"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Jardim Oceanico. Apartamento de 160m² com sala ampla em 2 ambientes, varanda. São 3 quartos originalmente sendo 1 suite com varanda, mas transformamos a dependência em um quarto. Cozinha com planejada, área de serviço. 2 vagas de garagem. Disponibilidades e informações podem sofrer alterações e devem ser confirmados junto ao anunciante egiovanelli.com.br CJ 6583 COD: 285D<br><br>",
+        "title": "Apartamento de 4 quartos à venda - Jardim Oceanico",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2734022963",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22621090",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "341",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.311405,
+                "source": "GOOGLE",
+                "lat": -23.007581
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Fernando Mattos",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:Avenida Vítor Konder próximo ao 225-243",
+                "TS:Jardim Oceânico - Acesso Mar",
+                "TS:Jardim Oceânico / Barra da Tijuca",
+                "TS:Jardim Oceânico",
+                "TS:Jardim Oceânico - Acesso BRT",
+                "TS:Jardim Oceânico - Acesso Lagoa",
+                "CS:Amendoeira II",
+                "CS:Mini Market Gigoia",
+                "CS:Sabor da Bahia",
+                "CS:O Boi Que Ri",
+                "CS:Concha Doce",
+                "PH:Drogas Rio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "285D",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "160"
+        ],
+        "advertiserId": "4479b49b-3a96-2350-d4bf-b68a5782a39a",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "565",
+                "price": "1550000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2000"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2131286572"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "4479b49b-3a96-2350-d4bf-b68a5782a39a",
+        "name": "E.GIOVANELLI NEGOCIOS IMOBILIARIOS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/03f28ca506781a0f42d8744e704dd27b/{description}.webp",
+        "licenseNumber": "06583-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 42968,
+        "phones": {
+            "primary": "2131286572",
+            "mobile": "2131286572"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "c90c485c56ccc3818d207e7b333e76d9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c90c485c56ccc3818d207e7b333e76d9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9a29d99fd778afcc5879fa27ecb5b607",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9a29d99fd778afcc5879fa27ecb5b607/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1854d356c9d6fcbbbc85d458df99c19e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1854d356c9d6fcbbbc85d458df99c19e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eaf354ddf03a92ea636928c1a5ea6a84",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eaf354ddf03a92ea636928c1a5ea6a84/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "242bd751fad520f4c8d1168bdf51f1a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/242bd751fad520f4c8d1168bdf51f1a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b59ad4f72d927e17d2a98e0abe74ed60",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b59ad4f72d927e17d2a98e0abe74ed60/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "75613db525e07ddd5217c46ebc5951fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/75613db525e07ddd5217c46ebc5951fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "862824aac07a4840ce831120e91487cf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/862824aac07a4840ce831120e91487cf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "094376d95b36658a885aca3751edb83f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/094376d95b36658a885aca3751edb83f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "45e6017aafb03dd299c456d3bbedaf30",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/45e6017aafb03dd299c456d3bbedaf30/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ee59ab911ef14f9a878ea5b8871fc3c0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ee59ab911ef14f9a878ea5b8871fc3c0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dec34b1ca3837acb74ef047ff2171c47",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dec34b1ca3837acb74ef047ff2171c47/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "39a7ba1cf174dec24593341b2c322eff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39a7ba1cf174dec24593341b2c322eff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e50c8e5fc012a8a0c30595eb92312d27",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e50c8e5fc012a8a0c30595eb92312d27/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6799e23415fd0ba5d9a2eef4632949b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6799e23415fd0ba5d9a2eef4632949b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4f8eda8bf4fcdcabc90e7c58fdef3b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4f8eda8bf4fcdcabc90e7c58fdef3b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "736bfbbcbcb857ba1453cb640c9ece5e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/736bfbbcbcb857ba1453cb640c9ece5e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f6f6f1c252778c3ad4a2ea491493c855",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f6f6f1c252778c3ad4a2ea491493c855/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a25b5dd09524d9b6485604404e6e874",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a25b5dd09524d9b6485604404e6e874/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c96ff787699901760e23958a766003a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c96ff787699901760e23958a766003a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7ec6b3f47381dc2a255bb961a59dedca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7ec6b3f47381dc2a255bb961a59dedca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2dcf2b7407da3d575218394dc6ca4b63",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2dcf2b7407da3d575218394dc6ca4b63/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9f07f9566bf75ce4f63e07b35e3fe467",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9f07f9566bf75ce4f63e07b35e3fe467/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "83fd882a3aec49845fe4329fd0375e43",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/83fd882a3aec49845fe4329fd0375e43/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "E.GIOVANELLI NEGOCIOS IMOBILIARIOS",
+        "href": "/42968/e-giovanelli-negocios-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 160m²",
+        "href": "/imovel/apartamento-4-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-160m2-venda-RS1550000-id-2734022963/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Fernando Mattos",
+            "streetNumber": "341",
+            "zone": "Zona Oeste"
+        }
+    }
+}

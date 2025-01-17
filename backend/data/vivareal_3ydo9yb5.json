@@ -1,0 +1,333 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "PLAYGROUND",
+            "GOURMET_BALCONY",
+            "CHILDRENS_POOL",
+            "PARTY_HALL",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "RECREATION_AREA",
+            "ELECTRIC_GENERATOR",
+            "ELECTRONIC_GATE",
+            "SOLARIUM",
+            "SECURITY_CAMERA",
+            "ADULT_POOL",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "200"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Antecipa-se ao lançamento Peninsula Barra da Tijuca. Maravilhosos apartamentos Gardens, tipo e coberturas com muito conforto e sofisticação.Serão pouquíssimas unidades. <br>Apartamentos gardens com 4 quartos, tipos e coberturas duplex com lazer. Ônibus, balsas, escolas , mercados e demais comércios .",
+        "title": "Pré lançamento, 3 e 4 quartos, Peninsula, Barra da Tijuca - Rio de Janeiro",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2722403462",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            3
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22776050",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "200",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.352484,
+                "source": "GOOGLE",
+                "lat": -22.987647
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Jacarandás da Península",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Peninsula",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:O2 Corporate & Offices",
+                "BS:Casa Shopping",
+                "BS:Barra Shopping Fundos (Hot Zone)",
+                "BS:Via Parque Shopping",
+                "BS:Barra Shopping Lateral",
+                "TS:O2 Corporate & Offices",
+                "TS:Casa Shopping",
+                "TS:Via Parque Shopping",
+                "TS:Aeroporto de Jacarepaguá",
+                "TS:Barra Shopping",
+                "CS:Sítio do Moinho",
+                "CS:Mundo Verde",
+                "CS:Fábrica do Bolo",
+                "CS:Esso",
+                "CS:Candy Delicatesse",
+                "SU:Curso Miguel Couto",
+                "SU:Colégio Saint John"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            3
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "Janine/Peninsula",
+        "bathrooms": [
+            5
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "200"
+        ],
+        "advertiserId": "41685bf8-d53e-b198-926e-25afb3112980",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "24000",
+                "price": "3100000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2400"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21977379717"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21977379717",
+        "stamps": []
+    },
+    "account": {
+        "id": "41685bf8-d53e-b198-926e-25afb3112980",
+        "name": "DANIEL BRITO IMÓVEIS",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 387238,
+        "phones": {
+            "primary": "21977379717",
+            "mobile": "21977379717"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "fb3724899d810d85a6159a07d7a7bcf1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb3724899d810d85a6159a07d7a7bcf1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d70300a83ea1bf0ebe409a888181bec8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d70300a83ea1bf0ebe409a888181bec8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "abc6ed5564e7582390560f849a8faaa6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/abc6ed5564e7582390560f849a8faaa6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ccd546b507f960c091ff081d6128bfaf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ccd546b507f960c091ff081d6128bfaf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ccf4552a3ab2d257b27c3bc974762095",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ccf4552a3ab2d257b27c3bc974762095/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "969e25dfb77e1b16e2988395831c48f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/969e25dfb77e1b16e2988395831c48f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d8c152db00cd5b53072f41c14f320c1d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8c152db00cd5b53072f41c14f320c1d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c82ff25ac47be268a85fc1e0b72c2178",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c82ff25ac47be268a85fc1e0b72c2178/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4e09efc2bdf2c0cabb0d9297ff4769be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4e09efc2bdf2c0cabb0d9297ff4769be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0c75d834614d81424d5d54fbc2528b52",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0c75d834614d81424d5d54fbc2528b52/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4be266c18e955b45d528e73e19a67697",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4be266c18e955b45d528e73e19a67697/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d3f00915a5bae390f85e7ff3f5d45e12",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d3f00915a5bae390f85e7ff3f5d45e12/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9980278e8e57ce3d05b14cd62b9850a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9980278e8e57ce3d05b14cd62b9850a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1f9481fe53ef1b31483bfe73224890f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1f9481fe53ef1b31483bfe73224890f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dbac2950788c66a22e686b14bad17972",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dbac2950788c66a22e686b14bad17972/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21df63246a9ee63bc48a1cbedf2204a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21df63246a9ee63bc48a1cbedf2204a6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8816b7862ab54a31fbbf6bedc2857252",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8816b7862ab54a31fbbf6bedc2857252/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca6727ba72752d4e0d3cc5bffdd5994b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca6727ba72752d4e0d3cc5bffdd5994b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6788fccd699a6f3c66e6ceb78431ed59",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6788fccd699a6f3c66e6ceb78431ed59/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4fd9fb462fb8db8cac9beea50f60c725",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4fd9fb462fb8db8cac9beea50f60c725/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5dbbea7eef7ee8978e3590ee5d43d2af",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5dbbea7eef7ee8978e3590ee5d43d2af/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9a43adfdf69afd6b682c88d2e77c014a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9a43adfdf69afd6b682c88d2e77c014a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "29613e51b6305bac71b1f3c2924dec0d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/29613e51b6305bac71b1f3c2924dec0d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "16f1e1eb2619bb4ab6a29cfd4097b90d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/16f1e1eb2619bb4ab6a29cfd4097b90d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e15a98dc00dd6c84283b4752fdd4b7e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e15a98dc00dd6c84283b4752fdd4b7e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5b5c1c87274cf44a33e4f5232e4313bb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b5c1c87274cf44a33e4f5232e4313bb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7c56725337ea206285a1055e840816a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7c56725337ea206285a1055e840816a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dda3572f0766c431c1aad4608826e8a9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dda3572f0766c431c1aad4608826e8a9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "effdbe0169bf53c0ca34803f8be8542b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/effdbe0169bf53c0ca34803f8be8542b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3aa6c9c4ae9a925b45214360ad714a67",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3aa6c9c4ae9a925b45214360ad714a67/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d64a21b9dd8543995761e368ee0b985f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d64a21b9dd8543995761e368ee0b985f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42aadc1f43e6515d0bb5dc868d68fd0d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42aadc1f43e6515d0bb5dc868d68fd0d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc661d76f79058521363281ddb1fd596",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc661d76f79058521363281ddb1fd596/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c8747ba7bf32cce96b2f78d904a1d78",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c8747ba7bf32cce96b2f78d904a1d78/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cb21acede1c8d2a3008974e697f4c7ae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cb21acede1c8d2a3008974e697f4c7ae/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "DANIEL BRITO IMÓVEIS",
+        "href": "/387238/daniel-brito-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 200m²",
+        "href": "/imovel/apartamento-4-quartos-peninsula-zona-oeste-rio-de-janeiro-com-garagem-200m2-venda-RS3100000-id-2722403462/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Peninsula",
+            "state": "Rio de Janeiro",
+            "street": "Rua Jacarandás da Península",
+            "streetNumber": "200",
+            "zone": "Zona Oeste"
+        }
+    }
+}

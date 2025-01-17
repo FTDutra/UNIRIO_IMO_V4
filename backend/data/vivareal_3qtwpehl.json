@@ -1,0 +1,256 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "INTERCOM",
+            "ELEVATOR",
+            "SERVICE_AREA",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "71"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Maravilhoso apartamento em região cobiçada na Tijuca! Composto por 2 quartos, sala ampla em dois ambientes, banheiro social, cozinha extensa, dependência completa. Imóvel reformado, com armários planejados, elétrica refeita. Localização privilegiada: próximo ao Shopping Tijuca, metrô, Praça Saens Pena e comércios variados. Venha conferir, agende já a sua visita! O valor deste imóvel poderá sofrer alterações sem aviso prévio. Avaliamos seu imóvel gratuitamente. Fale conosco também pelo nº: .",
+        "title": "Apartamento á venda na Tijuca, 2 quartos, reformado, dependência",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2760162123",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20540092",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.922,
+                "approximateLon": -43.233,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Major Ávila",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Ponto Final: Saens Peña :: Linha 665",
+                "BS:Ponto Final: Saens Peña",
+                "BS:Ponto Final: Saens Peña :: Linha 639",
+                "BS:Saens Peña :: Integração Metrô",
+                "BS:P6: Jaceguaí",
+                "TS:Ponto Final: Saens Peña :: Linha 665",
+                "TS:Ponto Final: Saens Peña",
+                "TS:Ponto Final: Saens Peña :: Linha 639",
+                "TS:Major Ávila",
+                "TS:Saens Peña :: Integração Metrô",
+                "CS:Flor da Tijuca",
+                "CS:TECNOMEDI TIJUCA",
+                "CS:Lojas Bandeirantes",
+                "CS:Pão & Companhia",
+                "CS:Padaria Arte & Pão",
+                "PH:Drograria Venâncio",
+                "PH:Drogaria Pedro Ernesto",
+                "PH:Drogaria Venancio",
+                "PH:Drogaria Unidas",
+                "PH:Farma Dez"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "74295",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "71"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1200",
+                "price": "480000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "650"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "410fc338e88b3e846cf6a06367769b2f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/410fc338e88b3e846cf6a06367769b2f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f1525ce31d15bda7928377dbd3a158d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f1525ce31d15bda7928377dbd3a158d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "46295420e4f1fe4c56a59b81056056ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/46295420e4f1fe4c56a59b81056056ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2606b9322caffce53afb7762d6e23423",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2606b9322caffce53afb7762d6e23423/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a14331dc7566f760691e6e1c6ac3006",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a14331dc7566f760691e6e1c6ac3006/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5eac4a7e08629374eba4884a1e629d06",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5eac4a7e08629374eba4884a1e629d06/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21e5d6a27b0e57f5a4191cfe447aa87f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21e5d6a27b0e57f5a4191cfe447aa87f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd18a93a71aa10651cb8db90f7e23237",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd18a93a71aa10651cb8db90f7e23237/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0b89d8371bdf96cdde846500f147d60c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0b89d8371bdf96cdde846500f147d60c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "180e59e21571e2c021cd72fd15322572",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/180e59e21571e2c021cd72fd15322572/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "496ff3cb6d1012ddaa6e53661e4e5638",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/496ff3cb6d1012ddaa6e53661e4e5638/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "692d471f451619b1cc5eda5941a7432e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/692d471f451619b1cc5eda5941a7432e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a5fbc53a65a8146e2df171e1c9c069f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a5fbc53a65a8146e2df171e1c9c069f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "014559d438e6e213f3c0f32fbaa64c11",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/014559d438e6e213f3c0f32fbaa64c11/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f890cf85aff7aac5b7bf1ec29574e1f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f890cf85aff7aac5b7bf1ec29574e1f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4fee3b6080df6dbb8e392e614ca12c88",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4fee3b6080df6dbb8e392e614ca12c88/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2907e735d7b5c354bd70c82d4d7e050e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2907e735d7b5c354bd70c82d4d7e050e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86f4c8a05b3f63e948ab205277ac90ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86f4c8a05b3f63e948ab205277ac90ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86e63f10a31cebe41a1ddd5dcfb6206b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86e63f10a31cebe41a1ddd5dcfb6206b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5dd8b7e83e50ab0d2b7401e02f427d5a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5dd8b7e83e50ab0d2b7401e02f427d5a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bfa64200ac56dc21435d9d89ea1d47a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bfa64200ac56dc21435d9d89ea1d47a4/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 71m²",
+        "href": "/imovel/apartamento-2-quartos-tijuca-zona-norte-rio-de-janeiro-71m2-venda-RS480000-id-2760162123/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Major Ávila",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

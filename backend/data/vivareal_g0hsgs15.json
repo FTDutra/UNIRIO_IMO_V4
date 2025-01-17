@@ -1,0 +1,206 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "100"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Imóvel aconchegante à venda com 3 quartos e 1 banheiro no total. Este imóvel está bem equipado, é ideal para quem procura conforto e comodidade. O condomínio fica localizado em Rua Figueiredo Magalhães no bairro Copacabana em Rio de Janeiro. Está bem localizado, próximo a pontos de interesse de Copacabana, tais como Cultura Inglesa, EducationUSA IBEU Copacabana, Centro Comercial de Copacabana, Praça Serzedelo Correa, Pinheiro Guimarães e Hospital Galdino Campos.",
+        "title": "Apartamento à venda com 100m², 3 quartos e 1 vaga - Copacabana, Rio de Janeiro",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2760234536",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22031011",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.97,
+                "approximateLon": -43.185,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Figueiredo Magalhães",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 1 Figueiredo Magalhães",
+                "BS:BRS 3 Siqueira Campos",
+                "BS:BRS 2 Hilário de Gouveia",
+                "BS:BRS 1,3 - Avenida Nossa Senhora de Copacabana",
+                "BS:BRS 2: Hilário de Gouveia",
+                "TS:BRS 1 Figueiredo Magalhães",
+                "TS:BRS 3 Siqueira Campos",
+                "TS:BRS 2 Hilário de Gouveia",
+                "TS:BRS 1,3 - Avenida Nossa Senhora de Copacabana",
+                "TS:BRS 2: Hilário de Gouveia",
+                "CS:La Copa",
+                "CS:The Bakers",
+                "CS:Grão da terra",
+                "CS:Multifruti",
+                "CS:Suíça",
+                "PH:Drogaria Galanti",
+                "PH:Nash",
+                "PH:Prontofarma",
+                "PH:Farmácia do Leme",
+                "PH:Galícia"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "PUnx5r6q",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "100"
+        ],
+        "advertiserId": "7d4ec74e-2cb7-2cba-50cf-92ec88a74e8c",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "270",
+                "price": "1050000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1150"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2132176221",
+                "21964464440"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964464440",
+        "stamps": []
+    },
+    "account": {
+        "id": "7d4ec74e-2cb7-2cba-50cf-92ec88a74e8c",
+        "name": "B&A Imóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38a82296d8f09f9d275212109b82bc17/{description}.webp",
+        "licenseNumber": "07455-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 230106,
+        "phones": {
+            "primary": "2132176221",
+            "mobile": "21964464440"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "a2488708892b98b0b50ef5a2867e07ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a2488708892b98b0b50ef5a2867e07ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8962ccc305b6e1d49a26c6c7d1b0c80e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8962ccc305b6e1d49a26c6c7d1b0c80e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "10bd75cc229c2080066222022d60240e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/10bd75cc229c2080066222022d60240e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a1750f6eda2a84a5eee4f7496af1d2f7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a1750f6eda2a84a5eee4f7496af1d2f7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6b909f468cd14274f00a75684588bc33",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6b909f468cd14274f00a75684588bc33/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7310381ffd0056ae20388212b0d0904d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7310381ffd0056ae20388212b0d0904d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4d0e8ab504f8df0ce689318e62d839e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4d0e8ab504f8df0ce689318e62d839e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f1e1a2fb2aef65c414e964601d8a57e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f1e1a2fb2aef65c414e964601d8a57e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7d4fbc09d806ede1e662c52b5e255ef5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7d4fbc09d806ede1e662c52b5e255ef5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "230c9bb233ed9099c0f045d25dfc3c56",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/230c9bb233ed9099c0f045d25dfc3c56/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "205c8a89350e5b73b42fdd3ecd2f4f05",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/205c8a89350e5b73b42fdd3ecd2f4f05/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0a6469370b015c51c45f61019345fc78",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0a6469370b015c51c45f61019345fc78/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "B&A Imóveis",
+        "href": "/230106/b-a-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 100m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-100m2-venda-RS1050000-id-2760234536/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Figueiredo Magalhães",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

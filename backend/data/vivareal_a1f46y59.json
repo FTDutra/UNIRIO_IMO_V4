@@ -1,0 +1,249 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "70"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento em apart hotel, composto por sala em 2 ambientes, varanda, 2 quartos com armários (1 suíte), piso frio, banheiro social amplo, cozinha americana, área de serviço. Possui 1 vaga de garagem na escritura. Excelente prédio com portaria 24 horas, piscina, próximo ao metrô.-Cod:CO-BR2012 -Rev.11Dez",
+        "title": "Apartamento - Padrão / Residencial / Copacabana",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2608181392",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22040002",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.967,
+                "approximateLon": -43.185,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Barata Ribeiro",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 2 Hilário de Gouveia",
+                "BS:BRS 2: Hilário de Gouveia",
+                "BS:BRS 1 Paula Freitas",
+                "BS:BRS 3 Siqueira Campos",
+                "BS:Ponto Regulador: Metrô Siqueira Campos",
+                "TS:BRS 2 Hilário de Gouveia",
+                "TS:BRS 2: Hilário de Gouveia",
+                "TS:BRS 1 Paula Freitas",
+                "TS:Siqueira Campos",
+                "TS:BRS 3 Siqueira Campos",
+                "CS:Multifruti",
+                "CS:Suíça",
+                "CS:La Copa",
+                "CS:The Bakers",
+                "CS:Grão da terra",
+                "PH:Drogaria Galanti",
+                "PH:Nash",
+                "PH:Prontofarma",
+                "PH:Galícia",
+                "PH:Farmácia do Leme"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "CO-BR2012",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "70"
+        ],
+        "advertiserId": "10457eef-e7d1-773f-213c-072aed3ec6a5",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "230",
+                "price": "950000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1640"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21999675186",
+                "21982558977"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21982558977",
+        "stamps": []
+    },
+    "account": {
+        "id": "10457eef-e7d1-773f-213c-072aed3ec6a5",
+        "name": "TOILER ADMINISTRAÇÃO E NEGÓCIOS IMOBILIÁRIOS LTDA ME",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9665e328a082f4148da8a4ffce0d10dd/{description}.webp",
+        "licenseNumber": "8022-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 562397,
+        "phones": {
+            "primary": "21999675186",
+            "mobile": "21982558977"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "104ae30efcb40d03c6ccdfa27ab2b01e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/104ae30efcb40d03c6ccdfa27ab2b01e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c53e297b9cdc985c5bea15cf29bedceb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c53e297b9cdc985c5bea15cf29bedceb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ed87f8482717f946ba39c68034b28a11",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed87f8482717f946ba39c68034b28a11/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "17de64605e3eb19e1dbb719fb0650af8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/17de64605e3eb19e1dbb719fb0650af8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "316d2a2b79006877308ebcc51acf9b17",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/316d2a2b79006877308ebcc51acf9b17/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "975f51aa3391555e1db2d910d059943b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/975f51aa3391555e1db2d910d059943b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e3223c3a3bd78827d0f2e85f20ab9454",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e3223c3a3bd78827d0f2e85f20ab9454/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a9ab8e03930cf13f73b78c4ff161f5b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a9ab8e03930cf13f73b78c4ff161f5b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2cfbc9d106cdd98605666b27ada12497",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2cfbc9d106cdd98605666b27ada12497/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "27fe7bc0aaae9d40cbcb00d5f1d524cd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/27fe7bc0aaae9d40cbcb00d5f1d524cd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b882469958929dcc957af6ef7e1147a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b882469958929dcc957af6ef7e1147a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f4dc3d8fe96fdf1b00bebe66e01b990",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f4dc3d8fe96fdf1b00bebe66e01b990/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "60adda65e49982202113b6275ed1964b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60adda65e49982202113b6275ed1964b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "23a7664e35b8e7e9663d42233363f44e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/23a7664e35b8e7e9663d42233363f44e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2333da558b089639400b84afb004f8e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2333da558b089639400b84afb004f8e3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65c5349de6529a1abef8330cc94ec537",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65c5349de6529a1abef8330cc94ec537/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c8af1900d4afe98699722b35824bf6e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c8af1900d4afe98699722b35824bf6e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d80362b008bb8df43c18980c1a107e67",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d80362b008bb8df43c18980c1a107e67/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f6ddc0f538a4fa8bdcece6f17c0bd9d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f6ddc0f538a4fa8bdcece6f17c0bd9d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d041c5e2363ce919a357e18f80af11f0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d041c5e2363ce919a357e18f80af11f0/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "TOILER ADMINISTRAÇÃO E NEGÓCIOS IMOBILIÁRIOS LTDA ME",
+        "href": "/562397/toiler-administracao-e-negocios-imobiliarios-ltda-me/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 70m²",
+        "href": "/imovel/apartamento-2-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-70m2-venda-RS950000-id-2608181392/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Barata Ribeiro",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

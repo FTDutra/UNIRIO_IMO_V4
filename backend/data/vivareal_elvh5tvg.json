@@ -1,0 +1,251 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "BICYCLES_PLACE",
+            "ELEVATOR",
+            "INTERCOM",
+            "CONCIERGE_24H"
+        ],
+        "usableAreas": [
+            "42"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento sala quarto, andar alto, vista livre, cozinha cabe fogão e geladeira, quarto amplo, sala bem ventilada, banheiro com Box blindex, com tanque e lugar para máquina de lavar. Prédio residencial, portaria 24hs, fácil acesso para toda zona sul confira já.",
+        "title": "Apartamento de sala quarto no centro",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2758507894",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "20231085",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.912,
+                "approximateLon": -43.188,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Rua Carlos Sampaio",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:Ponto Final: Cruz Vermelha",
+                "BS:P28",
+                "BS:BRS 1,2,4 Inválidos",
+                "BS:BRS 1,2 e 4",
+                "BS:BRS 5: Praça da República",
+                "TS:Ponto Final: Cruz Vermelha",
+                "TS:P28",
+                "TS:BRS 1,2,4 Inválidos",
+                "TS:BRS 1,2 e 4",
+                "TS:BRS 5: Praça da República",
+                "CS:Artes Integrais",
+                "CS:ArmaZen",
+                "CS:Cris",
+                "CS:Café Bakery",
+                "CS:Mercearia Gabi",
+                "PH:Drogaria Exata",
+                "PH:Exata",
+                "PH:Drogaria Rey",
+                "PH:Viva Bem",
+                "PH:City Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "991",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "42"
+        ],
+        "advertiserId": "72fce28c-5a73-b3d1-6dad-53c36dbc0398",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "20",
+                "price": "245000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "560"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122222830"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "72fce28c-5a73-b3d1-6dad-53c36dbc0398",
+        "name": "LOPA IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/202d8893d7e089e71a25940555fbec88/{description}.webp",
+        "licenseNumber": "028259-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 40823,
+        "phones": {
+            "primary": "2122222830",
+            "mobile": "2122222830"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "8abb72dcf2cd0a3eebb01e3a924745f6",
+            "url": "https://www.youtube.com/watch?v=FeSLY9fnqKk",
+            "type": "VIDEO"
+        },
+        {
+            "id": "d115501f9f94de875a0e785b7f3c6c01",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d115501f9f94de875a0e785b7f3c6c01/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42ce98b526d6c7308fd436180e634d94",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42ce98b526d6c7308fd436180e634d94/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8d895f75656e860682a6ef5fa8f930eb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d895f75656e860682a6ef5fa8f930eb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6aaea31a2cae4391b38619d2dc391f41",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6aaea31a2cae4391b38619d2dc391f41/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f89b191bbd8f2cf77bdeae1103091148",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f89b191bbd8f2cf77bdeae1103091148/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c9366292c9143b3d89262b5ae3a47ab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c9366292c9143b3d89262b5ae3a47ab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "775a151043d8285ce22c90dbb32854ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/775a151043d8285ce22c90dbb32854ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8d71cf69ee38ef1fcd5a84966afc31b8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d71cf69ee38ef1fcd5a84966afc31b8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "df305612b09eb108cdd77ab9037d9d64",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df305612b09eb108cdd77ab9037d9d64/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "047d5017a8c8f387794f2a5991199cdd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/047d5017a8c8f387794f2a5991199cdd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1517a4b9e2a37c8ca7b07a1fd685e0d8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1517a4b9e2a37c8ca7b07a1fd685e0d8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "df841dc1267bac3208de1c70bd17b29b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df841dc1267bac3208de1c70bd17b29b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "949668ad4baed0255c6d2cbe043120b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/949668ad4baed0255c6d2cbe043120b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3891cec2034d193df7f579f839b71b22",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3891cec2034d193df7f579f839b71b22/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "990c8f6f181ad48482b41ba9251a24b6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/990c8f6f181ad48482b41ba9251a24b6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "10a68d818e78750b940a29c859fab81f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/10a68d818e78750b940a29c859fab81f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8008ed8fb4ae1efb5e6b0988584a9c0d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8008ed8fb4ae1efb5e6b0988584a9c0d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1eaa1d63da1d8ef7f63c17a9b3191217",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1eaa1d63da1d8ef7f63c17a9b3191217/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd2589d4e98afd743d8adc51bd316549",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd2589d4e98afd743d8adc51bd316549/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "457dcfaed9beefc059d7ad198bcbc144",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/457dcfaed9beefc059d7ad198bcbc144/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "LOPA IMOVEIS",
+        "href": "/40823/lopa-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 42m²",
+        "href": "/imovel/apartamento-1-quartos-centro-zona-central-rio-de-janeiro-42m2-venda-RS245000-id-2758507894/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Rua Carlos Sampaio",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

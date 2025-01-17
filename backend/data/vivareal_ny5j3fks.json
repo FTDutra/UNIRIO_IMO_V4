@@ -1,0 +1,223 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "NUMBER_OF_FLOORS",
+            "GARAGE",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "150"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua Farani, no bairro Botafogo em Rio de Janeiro. Este imóvel conta com área construída de 150m², oferecendo 3 quartos, sendo 1 suíte, 3 banheiros e 1 vaga de garagem. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apartamento com 3 dormitórios à venda, 150 m² por",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2762063582",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22231020",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "68",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.182546,
+                "source": "GOOGLE",
+                "lat": -22.940519
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Farani",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Botafogo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:Rua das Laranjeiras, 336",
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Largo do Machado",
+                "BS:Rua Cosme Velho, 433",
+                "BS:BRS 3: Sorocaba",
+                "TS:Flamengo",
+                "TS:Rua das Laranjeiras, 336",
+                "TS:Acesso Muniz Barreto/Botafogo Praia Shopping",
+                "TS:Acesso São Clemente/Praia",
+                "TS:Acesso São Clemente/Humaitá",
+                "CS:Benamor",
+                "CS:Mei-jo",
+                "CS:Deep Freeze",
+                "CS:Maguila",
+                "CS:Padaria Napoles",
+                "PH:Drogaria Ric",
+                "PH:RioFarma",
+                "PH:Farma Hall",
+                "PH:Farmácia Assunção",
+                "PH:Rio Brasil"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PU1axirzo",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "150"
+        ],
+        "advertiserId": "fa1a9921-ab60-2910-8f99-5e45f0aa9871",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "298",
+                "price": "1280000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "14"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21965821001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21965821001",
+        "stamps": []
+    },
+    "account": {
+        "id": "fa1a9921-ab60-2910-8f99-5e45f0aa9871",
+        "name": "IMOVELUM",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/15328a298c0ec4b887ab76fd5fe7b3ba/{description}.webp",
+        "licenseNumber": "8951-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 772667,
+        "phones": {
+            "primary": "21965821001",
+            "mobile": "21965821001"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "62333f7f84be4b00d284b062188ac6e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/62333f7f84be4b00d284b062188ac6e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "02ce4cbb7a0f4db50e581e0d8719468c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/02ce4cbb7a0f4db50e581e0d8719468c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1836832b6c3ac18d7fce6849e086e5cb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1836832b6c3ac18d7fce6849e086e5cb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c56eed43a1c05bd76a8e68c3de97fc0c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c56eed43a1c05bd76a8e68c3de97fc0c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9bcb37d6413dee45192e16632e2f9ba0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9bcb37d6413dee45192e16632e2f9ba0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "56e0ac57218cbb80d129cbb4a6ee4cf3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56e0ac57218cbb80d129cbb4a6ee4cf3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "41f4fff301b9585982dcd603c97167f6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/41f4fff301b9585982dcd603c97167f6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "74f36aa0f5fcaae46e440edef13bea35",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/74f36aa0f5fcaae46e440edef13bea35/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5db3c2c6fc9d1f38127c9d5d1b20b1bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5db3c2c6fc9d1f38127c9d5d1b20b1bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0c6d0effdcc9b28d91f6619de2169ee8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0c6d0effdcc9b28d91f6619de2169ee8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e80d97aa9a886857b19b973bb77abda",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e80d97aa9a886857b19b973bb77abda/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cb80f2897a164899b2f95a7dbcd92970",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cb80f2897a164899b2f95a7dbcd92970/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c02d41c769c77e5c3c3b02031d43063c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c02d41c769c77e5c3c3b02031d43063c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "939a272b5337c783353b9110e535f0e2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/939a272b5337c783353b9110e535f0e2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f24a9f65ea007a59b216a76afab4547",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f24a9f65ea007a59b216a76afab4547/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "IMOVELUM",
+        "href": "/772667/imovelum/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 150m²",
+        "href": "/imovel/apartamento-3-quartos-botafogo-zona-sul-rio-de-janeiro-com-garagem-150m2-venda-RS1280000-id-2762063582/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Farani",
+            "streetNumber": "68",
+            "zone": "Zona Sul"
+        }
+    }
+}

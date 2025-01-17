@@ -1,0 +1,309 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "SERVICE_AREA",
+            "KITCHEN",
+            "INTERCOM",
+            "LAUNDRY",
+            "CABLE_TV"
+        ],
+        "usableAreas": [
+            "79"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento com 2 quartos à venda, 79 m² por R$ 300.000 - Campinho - Rio de Janeiro/RJ.<br><br>Imóveis Mav vende apartamento no Campinho com salão em 02 ambientes, 02 quartos, dependências completa, cozinha com armários planejados, todo decorado, piso em tábua corrida, rebaixamento de teto com sancas e spots, banheiro social e varanda.<br><br>Prédio com 02 elevadores, frente, sol da tarde, portaria 24 hs, 01 vaga de garagem. Vasto comércio<br>nas imediações, próximo a Cândido Benício.<br><br>Obs: Porteira praticamente fechada.<br>À combinar!!! -",
+        "title": "Apartamento à venda, 79 m² por R$ 300.000,00 - Campinho - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2520059486",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21341270",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "510",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.349425,
+                "source": "GOOGLE",
+                "lat": -22.887031
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Pinto Teles",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Campinho",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Praça Seca",
+            "poisList": [
+                "BS:Doutor Bernardino",
+                "BS:Praça Seca :: Linhas para o Castelo",
+                "BS:Ponto Final: Praça Seca :: Ônibus Executivo",
+                "BS:Ponto Final: Praça Seca :: Linha 371",
+                "BS:Linha 779 Madureira >> Pavuna",
+                "TS:Pinto Teles",
+                "TS:Capitão Menezes",
+                "TS:Campinho",
+                "TS:Doutor Bernardino",
+                "TS:Praça Seca (Parador)",
+                "CS:Auto Posto Bittig",
+                "CS:3 Marias",
+                "CS:Gula Gula",
+                "CS:Açougue Barão Ltda.",
+                "CS:J.D.R.",
+                "PH:Imediata"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0559",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "79"
+        ],
+        "advertiserId": "4bec5fd9-921f-7958-4e2e-6281b8969d61",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "872",
+                "price": "300000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "564"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2130446511",
+                "21964907656"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964907656",
+        "stamps": []
+    },
+    "account": {
+        "id": "4bec5fd9-921f-7958-4e2e-6281b8969d61",
+        "name": "MAV IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc50e6c64348c6b7b0c15b82fd3b30e2/{description}.webp",
+        "licenseNumber": "46890-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 64182,
+        "phones": {
+            "primary": "2130446511",
+            "mobile": "21964907656"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "401b68c201754af1bb469a9ee4446054",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/401b68c201754af1bb469a9ee4446054/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "95ee464f17f21a674293d25d9658d641",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/95ee464f17f21a674293d25d9658d641/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "636082d7b02d5555f3f56adbae940380",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/636082d7b02d5555f3f56adbae940380/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "22e8752672cef8e64abad7ffc22227d2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/22e8752672cef8e64abad7ffc22227d2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e7430d1dbb82815f38a691de8ebac59c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e7430d1dbb82815f38a691de8ebac59c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c29bee7855c41afd715bc2d5f8964dd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c29bee7855c41afd715bc2d5f8964dd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb072a65f74fb4ede3958c5ac12eb890",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb072a65f74fb4ede3958c5ac12eb890/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "db44752749da0cd728fbcf13934f4bd6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/db44752749da0cd728fbcf13934f4bd6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "49b3dbb3e3e0cdae71d15eef337f56a9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/49b3dbb3e3e0cdae71d15eef337f56a9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3de4df289504ba11a76c6762f5ab53cc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3de4df289504ba11a76c6762f5ab53cc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a9822b1da9ca7ea90487c08f7d8f94d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a9822b1da9ca7ea90487c08f7d8f94d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "84e6b34b1ed38f4cdb13c01a84755c5e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/84e6b34b1ed38f4cdb13c01a84755c5e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "66e3f167789eac857aa8da7ddba22b5e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/66e3f167789eac857aa8da7ddba22b5e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "862883f7c000b3810e0882102ea94ea6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/862883f7c000b3810e0882102ea94ea6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2acdafef84f8c28af6b91fcab662f62b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2acdafef84f8c28af6b91fcab662f62b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd9e7d4776fe1643d99e16dd45950e6f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd9e7d4776fe1643d99e16dd45950e6f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "49bfbc8e1e9a03ff52f74db582809edc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/49bfbc8e1e9a03ff52f74db582809edc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65a600215cc46213811790ff6693f868",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65a600215cc46213811790ff6693f868/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6d45a0168dc8d6eb2b1dad13bd676f8a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6d45a0168dc8d6eb2b1dad13bd676f8a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2f4e15e042c0b013e2a02fcfd546b699",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2f4e15e042c0b013e2a02fcfd546b699/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "27cd49e7faef06da9e70fc4e56a9c37d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/27cd49e7faef06da9e70fc4e56a9c37d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "df1b299d1cc91d5be6900a9304540cc5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df1b299d1cc91d5be6900a9304540cc5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d12fa3d09756318f68874cb3b193a7be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d12fa3d09756318f68874cb3b193a7be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "78cdba731537d242000649fd121586c6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/78cdba731537d242000649fd121586c6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c1b0de154e455631f9a6122f43e2d29",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c1b0de154e455631f9a6122f43e2d29/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38c7b120942ff854fbdd3546a8b6e80b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38c7b120942ff854fbdd3546a8b6e80b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b269081aeac54a80d9b8758be05832e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b269081aeac54a80d9b8758be05832e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b8afd67bfe72dcfb74045e6b2acf5d9b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b8afd67bfe72dcfb74045e6b2acf5d9b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "52f89f24f5219e0fa4c2d0e926f24c37",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52f89f24f5219e0fa4c2d0e926f24c37/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0cfadf2b8eaf4c21f1884890039ca05b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0cfadf2b8eaf4c21f1884890039ca05b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a7c88008b158c60e301b99196eb80f39",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a7c88008b158c60e301b99196eb80f39/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e8c4f214f88245a2a8aa8807aa17f789",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e8c4f214f88245a2a8aa8807aa17f789/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "MAV IMÓVEIS",
+        "href": "/64182/mav-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 79m²",
+        "href": "/imovel/apartamento-2-quartos-campinho-zona-norte-rio-de-janeiro-com-garagem-79m2-venda-RS300000-id-2520059486/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Campinho",
+            "state": "Rio de Janeiro",
+            "street": "Rua Pinto Teles",
+            "streetNumber": "510",
+            "zone": "Zona Norte"
+        }
+    }
+}

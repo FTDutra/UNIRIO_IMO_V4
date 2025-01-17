@@ -1,0 +1,178 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "GOURMET_SPACE",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "ADULT_GAME_ROOM",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "122"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Condomínio Máximo<br>-122M², Sendo 4 quartos,3 suítes, sala ampla, cozinha com planejados, 2 vagas na garagem, 4 banheiros. -",
+        "title": "Apartamento com 4 dormitórios à venda, 122 m² por R$ 850.000,00 - Recreio dos Bandeirantes - Rio de",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2752518102",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790669",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "7495",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.484951,
+                "source": "GOOGLE",
+                "lat": -23.004345
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Tim Maia",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Guiomar Novaes",
+                "TS:Gilka Machado",
+                "TS:Recreio Shopping",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "CS:Barra Bonita Padaria",
+                "CS:R2 Bolos",
+                "PH:Drogaria M. M. Júnior",
+                "PH:Prophylaxis"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            3
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0372",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "122"
+        ],
+        "advertiserId": "03aa8835-aa0d-ec14-bd81-0e48c418f3e9",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3000",
+                "price": "850000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2160"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21981755418",
+                "21967720391"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21967720391",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "03aa8835-aa0d-ec14-bd81-0e48c418f3e9",
+        "name": "PRIME HOUSE IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40e9e0d8829bd260fe9cee2000afafce/{description}.webp",
+        "licenseNumber": "48043-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 275829,
+        "phones": {
+            "primary": "21981755418",
+            "mobile": "21967720391"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "9544482c9d54afd0d96b684a8411fdf0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9544482c9d54afd0d96b684a8411fdf0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "13f46ed66e1bd0da546fd708a9092c9f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/13f46ed66e1bd0da546fd708a9092c9f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a09d9f62be60b9ca0ff902b09a20daa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a09d9f62be60b9ca0ff902b09a20daa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8caa591ff22277395b2806c6b40d6910",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8caa591ff22277395b2806c6b40d6910/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7bca3ac220d1f75f59f7001b2f3de1ab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7bca3ac220d1f75f59f7001b2f3de1ab/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "PRIME HOUSE IMÓVEIS",
+        "href": "/275829/prime-house-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 122m²",
+        "href": "/imovel/apartamento-4-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-122m2-venda-RS850000-id-2752518102/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Tim Maia",
+            "streetNumber": "7495",
+            "zone": "Zona Oeste"
+        }
+    }
+}

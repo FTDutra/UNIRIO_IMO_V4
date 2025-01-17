@@ -1,0 +1,262 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "BALCONY",
+            "PETS_ALLOWED",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SERVICE_BATHROOM",
+            "INTERNET_ACCESS",
+            "LARGE_KITCHEN",
+            "LARGE_ROOM",
+            "NATURAL_VENTILATION",
+            "SERVICE_ROOM",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "89"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "PRÓXIMO A DIAS DA CRUZ, EXCELENTE PLANTA, SOL DA MANHÃ, CLARO, AREJADO. COMPOSTO DE VARANDA, SALÃO EM DOIS AMBIENTES, BANHEIRO SOCIAL, 3 QUARTOS (SUÍTE) COZINHA AMPLA, ÁREA E DEPENDÊNCIAS, VAGA NA ESCRITURA - VISITE-NOS.",
+        "title": "Apartamento para venda com 89 metros quadrados com 3 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2522712875",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20730233",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.904,
+                "approximateLon": -43.296,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Camarista Meier",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Meier",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Engenho de Dentro",
+            "poisList": [
+                "BS:Ponto Final: Méier :: Linha 679",
+                "BS:679 - Méier x Grotão",
+                "BS:Ponto Final: Linha 232",
+                "BS:232 - Lins x Praça XV",
+                "BS:606 - Engenho de Dentro x Rodoviária",
+                "TS:Ponto Final: Méier :: Linha 679",
+                "TS:Ponto Final: Linha 232",
+                "TS:232 - Lins x Praça XV",
+                "TS:606 - Engenho de Dentro x Rodoviária",
+                "TS:Olímpica de Engenho de Dentro",
+                "CS:Panificadora Aquidabã",
+                "CS:Papeleria - Bazar - Lanches O Limao",
+                "CS:Irmãos Paulo e Luiz",
+                "CS:Mais Você",
+                "CS:TECNOMEDI MÉIER",
+                "PH:Drogaria Atração do Méier",
+                "PH:Drogaria Mais Barato - Méier"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "MBAP33362",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "89"
+        ],
+        "advertiserId": "389c32ae-d0fe-84f2-5fb6-bdb9645da201",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "629",
+                "price": "320000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122047000",
+                "21994033825"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21994033825",
+        "stamps": []
+    },
+    "account": {
+        "id": "389c32ae-d0fe-84f2-5fb6-bdb9645da201",
+        "name": "RJC IMOBILIÁRIA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82c4683131e146314b54c3710d313a85/{description}.webp",
+        "licenseNumber": "043388-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 232020,
+        "phones": {
+            "primary": "2122047000",
+            "mobile": "21994033825"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "1548e59f3a62943e0cf00e8537f9277d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1548e59f3a62943e0cf00e8537f9277d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d110d2a7f13bb7c7d1cc10c9084a2331",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d110d2a7f13bb7c7d1cc10c9084a2331/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f50fec7c2cfb2a25c69b40114afc2757",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f50fec7c2cfb2a25c69b40114afc2757/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d0ba283345f6fbd94ba9118646b9017f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d0ba283345f6fbd94ba9118646b9017f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aab3156f6a1d6e5bb9323a9d946799e5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aab3156f6a1d6e5bb9323a9d946799e5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cbc80492bb4d6171eab46b867ae9f84a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cbc80492bb4d6171eab46b867ae9f84a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c944930ee591b4a54d3e76bc9395df3e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c944930ee591b4a54d3e76bc9395df3e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5cd4984fb339f7e36148eafe9a990350",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5cd4984fb339f7e36148eafe9a990350/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "189864316d4f1f090f18b94d76196d22",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/189864316d4f1f090f18b94d76196d22/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff5eb5334fa282fd80859cf4fab48510",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff5eb5334fa282fd80859cf4fab48510/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "01fc37142d10ae753ba560b5f1576f69",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/01fc37142d10ae753ba560b5f1576f69/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b51242c8e8b1ca6718de8f04ffc4f43e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b51242c8e8b1ca6718de8f04ffc4f43e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "698802a4309fc170721d26aac4a5d309",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/698802a4309fc170721d26aac4a5d309/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a8eeeb6ec753b2e20ac2e2710bfc2536",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a8eeeb6ec753b2e20ac2e2710bfc2536/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c12c9409f7396ab242b20f7524b32ab0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c12c9409f7396ab242b20f7524b32ab0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "30f4b47c7495765d0c5c793dbf4cc118",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30f4b47c7495765d0c5c793dbf4cc118/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "72780a7327611e23448260a3b1e4c5be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/72780a7327611e23448260a3b1e4c5be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b5bfb03c808b2a2a363003ed23d46c59",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b5bfb03c808b2a2a363003ed23d46c59/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "889d2b5fd6dd542a35b30b852cbcf660",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/889d2b5fd6dd542a35b30b852cbcf660/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "077529a8ac3f9f03e3c816c5e6ec31ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/077529a8ac3f9f03e3c816c5e6ec31ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e7666e2c4c7b0aafa570e7307beb2637",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e7666e2c4c7b0aafa570e7307beb2637/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "RJC IMOBILIÁRIA",
+        "href": "/232020/rjc-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 89m²",
+        "href": "/imovel/apartamento-3-quartos-meier-zona-norte-rio-de-janeiro-com-garagem-89m2-venda-RS320000-id-2522712875/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Méier",
+            "state": "Rio de Janeiro",
+            "street": "Rua Camarista Meier",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

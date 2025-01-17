@@ -1,0 +1,157 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "CONCIERGE_24H",
+            "ELECTRONIC_GATE",
+            "PETS_ALLOWED"
+        ],
+        "usableAreas": [
+            "56"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento tipo de 1 quartos com área interna de 56 m². O empreendimento apresenta infraestrutura que inclui circuito de segurança, estacionamento e serviços condominiais exclusivo.<br><br>Situado entre a Praia de Ipanema e a Lagoa Rodrigo de Freitas, o empreendimento é composto por poucos e exclusivos imóveis, todos com plantas otimizadas e acabamentos de alto padrão. O residencial é seguro, bem localizado e perto de tudo o que há de melhor na região, como serviços essenciais, lojas, instituições de ensino e muito mais.",
+        "title": "Apartamento de 1 quarto Praia de Ipanema e a Lagoa Rodrigo de Freita.",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2708887055",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22410050",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "221",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.211261,
+                "source": "GOOGLE",
+                "lat": -22.981019
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Aníbal de Mendonça",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Ipanema",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "poisList": [
+                "BS:Ponto Final: Afrânio de Melo Franco I",
+                "BS:Humberto de Campos",
+                "BS:BRS 2: Joana Angélica",
+                "BS:BRS 2,3 - Cupertino Durão",
+                "BS:Ponto Final: CIEP Nação Rubro Negra",
+                "TS:Borges de Medeiros",
+                "TS:Maria Quitéria",
+                "TS:Nossa Senhora da Paz",
+                "TS:Jardim de Alah",
+                "TS:Jardim de Alah / Leblon",
+                "CS:Armazém do Café",
+                "CS:Patata",
+                "CS:Confeitaria Ipanema",
+                "CS:TECNOMEDI IPANEMA",
+                "CS:Chocolate Brasil Cacau",
+                "PH:Drogaria Pop",
+                "PH:Padrão"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "motta-lu76-anibal",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [],
+        "advertiserId": "94bf7132-7a1b-140b-62e5-9d685a696eaf",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "100",
+                "price": "2855000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "400"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21964402003"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964402003",
+        "stamps": []
+    },
+    "account": {
+        "id": "94bf7132-7a1b-140b-62e5-9d685a696eaf",
+        "name": "SANTOS IMÓVEIS",
+        "licenseNumber": "057914-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 74988,
+        "phones": {
+            "primary": "21964402003",
+            "mobile": "21964402003"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "a6bbc563f243a5766402748060170f5a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a6bbc563f243a5766402748060170f5a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a08b39f237f802129041875ba5da6c66",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a08b39f237f802129041875ba5da6c66/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9ea7f073f8625e1ed5aa684e603c5c84",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ea7f073f8625e1ed5aa684e603c5c84/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SANTOS IMÓVEIS",
+        "href": "/74988/santos-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 56m²",
+        "href": "/imovel/apartamento-1-quartos-ipanema-zona-sul-rio-de-janeiro-com-garagem-56m2-venda-RS2855000-id-2708887055/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "state": "Rio de Janeiro",
+            "street": "Rua Aníbal de Mendonça",
+            "streetNumber": "221",
+            "zone": "Zona Sul"
+        }
+    }
+}

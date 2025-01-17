@@ -1,0 +1,277 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "SERVICE_AREA",
+            "INTEGRATED_ENVIRONMENTS",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED"
+        ],
+        "usableAreas": [
+            "60"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento de fundos, claro e arejado último andar vista livre.<br><br>Sala piso frio, dois quartos, banheiro social. Boa cozinha azulejo até o teto, área de serviço separada, banheiro de apoio. Duas entradas de serviço e social. Condômino barato já incluso água, possui salão de festas e churrasqueira e pequeno bosque com árvores frutíferas.<br><br>Localizado no Méier com farto comércio de bairro e serviços. Além de transporte para diversas áreas do Rio e Grande Rio, trens da Super Via (estação Méier e Engenho de Dentro) e facilidades de acesso a vias expressas. 01b6e",
+        "title": "Méier | Apartamento 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2629971275",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20725010",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.904,
+                "approximateLon": -43.281,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Cônego Tobias",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Meier",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Méier",
+            "poisList": [
+                "BS:Constança Barbosa",
+                "BS:Agripino Grieco",
+                "BS:Terminal Arquiteto Gelton Paciello da Motta",
+                "BS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. B",
+                "BS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. A",
+                "TS:Constança Barbosa",
+                "TS:Agripino Grieco",
+                "TS:Méier",
+                "TS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. B",
+                "TS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. A",
+                "CS:Rainha do Méier",
+                "CS:Tuti Fruti",
+                "CS:Lecadô",
+                "CS:Imperato",
+                "CS:ortális",
+                "PH:Drogaria Mais Barato - Méier",
+                "PH:Drogaria Atração do Méier",
+                "PH:Drogaria Carioca",
+                "PH:Droh"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "AP21468",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "60"
+        ],
+        "advertiserId": "8c3933ab-3821-6adf-b230-951afdfd05f7",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "215000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "400"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21967741221"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21967741221",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_FEVEREIRO_2024",
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "8c3933ab-3821-6adf-b230-951afdfd05f7",
+        "name": "VIVAX PRIME IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2768a51ef6a019eb5a5f56cb4276035/{description}.webp",
+        "licenseNumber": "9577-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 787728,
+        "phones": {
+            "primary": "21967741221",
+            "mobile": "21967741221"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "37f81f1db56528b445c6aadf53d9553b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/37f81f1db56528b445c6aadf53d9553b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9f3f9c257364bd48c7fb3d2bb8e7d9ed",
+            "url": "https://www.youtube.com/watch?v=9ogtrTqUwVA",
+            "type": "VIDEO"
+        },
+        {
+            "id": "dd1063a7d485192f55399b46f6180db7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd1063a7d485192f55399b46f6180db7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8673eba7e9ce5e241168705854153aa9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8673eba7e9ce5e241168705854153aa9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9bec0917196155995b9aaba824a1dc72",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9bec0917196155995b9aaba824a1dc72/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6dbdc31c6a9b6c21668b04f96b9d2e00",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6dbdc31c6a9b6c21668b04f96b9d2e00/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e04e59f31633447015e84c7396df0dea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e04e59f31633447015e84c7396df0dea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "232d1c8b38c511a0ad9bc4e8665f3685",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/232d1c8b38c511a0ad9bc4e8665f3685/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e2e844d829679682b54ef4b3fa89285",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e2e844d829679682b54ef4b3fa89285/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b824cbfcd4e49b1a9352ba548a3dbb1f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b824cbfcd4e49b1a9352ba548a3dbb1f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aeef5847f128cd24408a5a7d2b408a9b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aeef5847f128cd24408a5a7d2b408a9b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2231aa2c9cfe6d33a189bdd768cde558",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2231aa2c9cfe6d33a189bdd768cde558/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d3d6d31e500df01ce746d4acd53e660c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d3d6d31e500df01ce746d4acd53e660c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "974788a8f7670f7b0826f813ad8f1e9a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/974788a8f7670f7b0826f813ad8f1e9a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "817f8864e7bc4acb1213e5b18bb53088",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/817f8864e7bc4acb1213e5b18bb53088/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "52896d992ced082ee9b81c187008004e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52896d992ced082ee9b81c187008004e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8bd28615a0899c3c7a54127156a2f977",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8bd28615a0899c3c7a54127156a2f977/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e23955be6fa7f4a223929483de8325a1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e23955be6fa7f4a223929483de8325a1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7200cf28083ef7a34f110e2a0e3b0be2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7200cf28083ef7a34f110e2a0e3b0be2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce87c06545480723c0742dfc21e81e0e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce87c06545480723c0742dfc21e81e0e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4d1006ebffe6ad5c085e1d689868cf55",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4d1006ebffe6ad5c085e1d689868cf55/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e45026641f1e4e4df324e8264d71b58",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e45026641f1e4e4df324e8264d71b58/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a43e7cf2077f7b7f2e3dd3728b691e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a43e7cf2077f7b7f2e3dd3728b691e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "39069007d98c141da4395ee03b5ff525",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39069007d98c141da4395ee03b5ff525/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "32d13721b28b28cd0c36b4e6b172d1db",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/32d13721b28b28cd0c36b4e6b172d1db/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "VIVAX PRIME IMÓVEIS",
+        "href": "/787728/vivax-prime-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 60m²",
+        "href": "/imovel/apartamento-2-quartos-meier-zona-norte-rio-de-janeiro-60m2-venda-RS215000-id-2629971275/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Méier",
+            "state": "Rio de Janeiro",
+            "street": "Rua Cônego Tobias",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

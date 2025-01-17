@@ -1,0 +1,258 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GATED_COMMUNITY",
+            "GOURMET_SPACE",
+            "GARAGE",
+            "GARDEN",
+            "PLAYGROUND",
+            "INTERCOM",
+            "HEATING",
+            "NUMBER_OF_FLOORS",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "165"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Avenida Borges de Medeiros, no bairro Leblon em Rio de Janeiro. Este imóvel conta com área construída de 165m², oferecendo 3 quartos, sendo 3 suítes, 4 banheiros e 1 vaga de garagem. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "APARTAMENTO - 3 QUARTOS, 165M² - LEBLON",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2755579215",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22430041",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.984,
+                "approximateLon": -43.216,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Borges de Medeiros",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Leblon",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "poisList": [
+                "BS:Humberto de Campos",
+                "BS:Ponto Final: Afrânio de Melo Franco I",
+                "BS:BRS 2,3 - Cupertino Durão",
+                "BS:Ponto Final: Antero de Quental",
+                "BS:Ponto Final: CIEP Nação Rubro Negra",
+                "TS:Jardim de Alah",
+                "TS:Jardim de Alah / Leblon",
+                "TS:Almirante Pereira Guimarães",
+                "TS:Borges de Medeiros",
+                "TS:Humberto de Campos",
+                "CS:Patata",
+                "CS:Armazém do Café",
+                "CS:Talho Capixaba",
+                "CS:Rio Lisboa",
+                "CS:Confeitaria Ipanema",
+                "PH:Drogasmil",
+                "PH:Drogaria Pop"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            3
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PUwhjlgg",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "165"
+        ],
+        "advertiserId": "312fffbf-0652-1991-ce51-b140deff11d8",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "11586",
+                "price": "3800000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2385"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2125414141",
+                "21994414141"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21994414141",
+        "stamps": []
+    },
+    "account": {
+        "id": "312fffbf-0652-1991-ce51-b140deff11d8",
+        "name": "SHOW DE CASAS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d24a2337a4700cf6f8918b997e1466be/{description}.webp",
+        "licenseNumber": "06224-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 46422,
+        "phones": {
+            "primary": "2125414141",
+            "mobile": "21994414141"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "ab1ea8cfed964cad4166e2d519862312",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ab1ea8cfed964cad4166e2d519862312/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "63584da3740b57a19d433d7d38478759",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/63584da3740b57a19d433d7d38478759/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4fb420e66c9c6bf4b81bf73eb25d4c5d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4fb420e66c9c6bf4b81bf73eb25d4c5d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a194dc3b7c70943d5b7b9661389e2916",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a194dc3b7c70943d5b7b9661389e2916/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7ef42e260f4914ddadf1876b0764c070",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7ef42e260f4914ddadf1876b0764c070/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c27e234e6e2f24189d4289bb5ca82b04",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c27e234e6e2f24189d4289bb5ca82b04/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f70349ff49e1e866daccb647a5d3dad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f70349ff49e1e866daccb647a5d3dad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "198d47edfee1519368b3f0f6d211ca15",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/198d47edfee1519368b3f0f6d211ca15/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c9aaebe52ab30c55418f453961dc03df",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c9aaebe52ab30c55418f453961dc03df/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a56e03cd8ad798dc3763e170785936d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a56e03cd8ad798dc3763e170785936d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4cef7be3b48228f9a4c3f3580fd81f17",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4cef7be3b48228f9a4c3f3580fd81f17/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "22b90c141e8c86fb1ee66406dd2beb70",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/22b90c141e8c86fb1ee66406dd2beb70/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b3e572562e3aab2866e3979cf883ae93",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b3e572562e3aab2866e3979cf883ae93/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1884d3d510dc7f11bb1d320040b79f78",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1884d3d510dc7f11bb1d320040b79f78/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "62b6baedba2dd346dbf62dd76a13a9ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/62b6baedba2dd346dbf62dd76a13a9ff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0934137ec1745113120c2aaef1b4ef97",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0934137ec1745113120c2aaef1b4ef97/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a0d16927fbee9a83c6d3ec4a44f49f3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a0d16927fbee9a83c6d3ec4a44f49f3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "66a1c747089a8c2f04dba5075fa3413d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/66a1c747089a8c2f04dba5075fa3413d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c9eba613a6f56c784d0940ce947d568a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c9eba613a6f56c784d0940ce947d568a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81a43d77defd4e728fe17755ef037460",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81a43d77defd4e728fe17755ef037460/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d6067348accfe0fdc0fcec6c4806ebe5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d6067348accfe0fdc0fcec6c4806ebe5/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SHOW DE CASAS",
+        "href": "/46422/show-de-casas/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 165m²",
+        "href": "/imovel/apartamento-3-quartos-leblon-zona-sul-rio-de-janeiro-com-garagem-165m2-venda-RS3800000-id-2755579215/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Borges de Medeiros",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

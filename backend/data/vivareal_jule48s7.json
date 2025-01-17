@@ -1,0 +1,172 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "BALCONY",
+            "GARAGE",
+            "SERVICE_AREA",
+            "KITCHEN",
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "68"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Imóvel à venda na Privilégio Imóveis<br>Sala e ampla varanda<br>2 quartos com 1 suíte, armários embutidos, mobílias<br>1 Banheiro social<br>Cozinha, área e dependência<br>Reformado, elétrica. hidráulica e gás<br>1 vaga.",
+        "title": "Santa Alexandrina, Sala, 2 Quartos Suíte, Armário, Dependências, Garagem",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2671092801",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20261235",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.926,
+                "approximateLon": -43.208,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Santa Alexandrina",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Rio Comprido",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Rio Comprido",
+            "poisList": [
+                "BS:Club Municipal",
+                "BS:Ponto Final: Praça da Bandeira :: Linha 624",
+                "BS:Ponto da Rua do Catumbi",
+                "BS:Ponto Final do 600 (Taquara)",
+                "BS:Ponto Final: Saens Peña :: Linha 601",
+                "TS:Ponto de Mototáxi",
+                "TS:Club Municipal",
+                "TS:Afonso Pena / Tijuca",
+                "TS:Afonso Pena",
+                "TS:Estácio",
+                "CS:Padaria do Raphael",
+                "CS:Padaria da Chácara",
+                "CS:Grão de Minas",
+                "CS:Empório Mineiro Cheirin Bão",
+                "CS:Cereal",
+                "PH:Farmavita"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "63656",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "68"
+        ],
+        "advertiserId": "47bfba65-4536-fdcd-02a0-7c94c59de885",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "659",
+                "price": "370000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "450"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2139883415",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_FEVEREIRO_2024",
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "47bfba65-4536-fdcd-02a0-7c94c59de885",
+        "name": "Privilégio Tijuca",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca0857f43658bddac6ef6c3da8d31f19/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 761981,
+        "phones": {
+            "primary": "2139883415",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "c4421617d740bc246137f729f184fd85",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c4421617d740bc246137f729f184fd85/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2d549493025ac1e91513e53769fb8177",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2d549493025ac1e91513e53769fb8177/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6ad13322eef5ea7a8b11a5b1abca7dc4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ad13322eef5ea7a8b11a5b1abca7dc4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9497e9710476705456a22fe12502d279",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9497e9710476705456a22fe12502d279/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Tijuca",
+        "href": "/761981/privilegio-tijuca/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 68m²",
+        "href": "/imovel/apartamento-2-quartos-rio-comprido-zona-central-rio-de-janeiro-com-garagem-68m2-venda-RS370000-id-2671092801/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Rio Comprido",
+            "state": "Rio de Janeiro",
+            "street": "Rua Santa Alexandrina",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

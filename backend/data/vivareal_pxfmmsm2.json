@@ -1,0 +1,286 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "BALCONY",
+            "GARAGE",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "NEAR_ACCESS_ROADS",
+            "NEAR_HOSPITAL",
+            "KITCHEN",
+            "PAVED_STREET",
+            "WATCHMAN"
+        ],
+        "usableAreas": [
+            "82"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento pronto para morar no Riachuelo, 2 quartos com vaga, piso frio em todo apartamento, duas varandas,1 vaga, dependência completa,vista livre. A região oferece, supermercado, restaurante, padaria, comércio e serviços diversos. Documentação pronta para financiamento.<br>Ótimo estado,entrar e morar. O preço do imóvel esta sujeito a alteração sem aviso prévio conforme solicitação do proprietário. debe5",
+        "title": "Riachuelo | Apartamento 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2748101078",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20950090",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.902,
+                "approximateLon": -43.255,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Vinte e Quatro de Maio",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Riachuelo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Riachuelo",
+            "poisList": [
+                "BS:BRS 3 4 5 6 - Vitor Meireles",
+                "BS:Ponto Final: Engenho Novo :: Linha 650",
+                "BS:Ponto Final: Triagem :: Linhas 471 e 472",
+                "BS:Ponto Final 438",
+                "BS:Ponto Final 433",
+                "TS:Riachuelo",
+                "TS:BRS 3 4 5 6 - Vitor Meireles",
+                "TS:Sampaio",
+                "TS:Ponto Final: Engenho Novo :: Linha 650",
+                "TS:São Francisco Xavier",
+                "CS:Padaria Principal",
+                "CS:Hortifruti Kilo Frut",
+                "CS:Padaria Abaeté",
+                "CS:Panificação Recreio do Cruzeiro",
+                "CS:Mercado de Carnes Coração da Vila",
+                "PH:Drogaria MEP",
+                "PH:Farma Dez"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "SP2AP101582",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "82"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1267",
+                "price": "250000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "970"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "3649c4238f6fc8fa1fa91e4e2a2f93ca",
+            "url": "https://www.youtube.com/watch?v=Ku12_8Ovguw&t=45s",
+            "type": "VIDEO"
+        },
+        {
+            "id": "6551b8778aa7a2a32a05231e951902e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6551b8778aa7a2a32a05231e951902e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e13684fb7532ef25bad8766fea17fbd4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e13684fb7532ef25bad8766fea17fbd4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6e630885eb825c3fb3d306b49613d263",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6e630885eb825c3fb3d306b49613d263/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0504191539092b913e9b037a8ed9acf3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0504191539092b913e9b037a8ed9acf3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c3e0a451bce5db51924d14b71bbfe55",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c3e0a451bce5db51924d14b71bbfe55/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "27ab5e2a8d3d92a5b5d8fab7a64fac92",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/27ab5e2a8d3d92a5b5d8fab7a64fac92/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "24c98f618768f6e8b0cbd523c2b442b6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/24c98f618768f6e8b0cbd523c2b442b6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "688a2f589158efdd26c81de113d87e52",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/688a2f589158efdd26c81de113d87e52/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4e41ea75d66b9cfc7ea8adc3b0f16f3f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4e41ea75d66b9cfc7ea8adc3b0f16f3f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a1c4aaf707b2943ca21e4c73278985d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a1c4aaf707b2943ca21e4c73278985d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "73c99b517e58191f5e115fcd20bda960",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/73c99b517e58191f5e115fcd20bda960/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "572d0541b0da1a11db4ca05afeb15cf4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/572d0541b0da1a11db4ca05afeb15cf4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ccaefad38f376cb42708ccc29a255116",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ccaefad38f376cb42708ccc29a255116/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9c68d3c461f6bef4236149153f91beb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9c68d3c461f6bef4236149153f91beb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5fba9826544020d7a8b0cbc803a71d8d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5fba9826544020d7a8b0cbc803a71d8d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f3d053a36afc301cc730f29c61db0b30",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f3d053a36afc301cc730f29c61db0b30/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4eee74a63e2dfaaea91318222c318f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4eee74a63e2dfaaea91318222c318f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "151eb673b6d8bb13ea9099cac0c9a7d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/151eb673b6d8bb13ea9099cac0c9a7d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "54c4c48318c39699ca8982f7d91fa4b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/54c4c48318c39699ca8982f7d91fa4b0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f063110d1a4575d16a88f6bf26ac97b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f063110d1a4575d16a88f6bf26ac97b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e23898ad5ea0bc1c72b2c58931945c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e23898ad5ea0bc1c72b2c58931945c7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "62817b5f69b9953145d40d772888a7d2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/62817b5f69b9953145d40d772888a7d2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f653868f901c6c26e7b362916aae1d96",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f653868f901c6c26e7b362916aae1d96/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ccd7175775fab5121622ac61e173f78a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ccd7175775fab5121622ac61e173f78a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e5c2398f14b3d924397f925ed012430",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e5c2398f14b3d924397f925ed012430/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 82m²",
+        "href": "/imovel/apartamento-2-quartos-riachuelo-zona-norte-rio-de-janeiro-com-garagem-82m2-venda-RS250000-id-2748101078/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Riachuelo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Vinte e Quatro de Maio",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

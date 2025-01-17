@@ -1,0 +1,296 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "PARTY_HALL",
+            "ELEVATOR",
+            "BALCONY",
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "112"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Área nobre, com vista para a floresta. Excelente rua, tranquila, e totalmente residencial.<br>prédio com portaria 24 horas, play, salão de festas, apartamento com salão em 2 ambientes, vista para a natureza arejado e com clima de montanha; 3 dormitórios, sendo 1 suite, todos com armários, banheiro social, cozinha com armários, área de serviço e dependência completa. 2 vagas. 02778",
+        "title": "Tijuca | Apartamento 3 quartos, sendo 1 suite",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2717996882",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20510180",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.933,
+                "approximateLon": -43.237,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Homem de Melo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Ponto Final: Saens Peña :: Linha 409",
+                "BS:Ponto Final 409",
+                "BS:Jose Higino 148",
+                "BS:Doutor Aníbal Moreira",
+                "BS:Muda (Ponto Final)",
+                "TS:Uruguai / Tijuca",
+                "TS:Uruguai",
+                "TS:Ponto Final: Saens Peña :: Linha 409",
+                "TS:Muda (Ponto Final)",
+                "TS:Doutor Pereira dos Santos",
+                "CS:Rio Viennoiserie",
+                "CS:O Boticário",
+                "CS:Diana Bakery",
+                "CS:Artigrano",
+                "CS:Nema Padaria",
+                "PH:Drogaria Venancio",
+                "PH:FarmaDez",
+                "PH:Drogaria Unidas",
+                "PH:Drogarias Mundial",
+                "PH:Mundial"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "AP3AP93686",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "112"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3272",
+                "price": "990000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1935"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": []
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "c524220b16e3bde2c6f0d9cc68059046",
+            "url": "https://www.youtube.com/watch?v=KyH6se6BJ68",
+            "type": "VIDEO"
+        },
+        {
+            "id": "c1efaabcd3f1fc6609ac6250aa8d18b8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c1efaabcd3f1fc6609ac6250aa8d18b8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c632afc4ce1394d590480a91e9c109da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c632afc4ce1394d590480a91e9c109da/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "79bdca153dc16a7fea0da91217c2b738",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/79bdca153dc16a7fea0da91217c2b738/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "073d6135f575423ce9bbfd9f5283137c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/073d6135f575423ce9bbfd9f5283137c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c0c98b0e27b49d3ff2856a9b64177566",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c0c98b0e27b49d3ff2856a9b64177566/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d9a8be6f0c79601aba584c8616fdd449",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d9a8be6f0c79601aba584c8616fdd449/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "021e01e9ae50979a70132a044c271ca8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/021e01e9ae50979a70132a044c271ca8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ac08259252ac35916731f920a8df8bc0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ac08259252ac35916731f920a8df8bc0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ed4ddeee0567473d7cbeca0bc16c07f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed4ddeee0567473d7cbeca0bc16c07f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "340c773f62975b6f5bf74ebad396d050",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/340c773f62975b6f5bf74ebad396d050/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "027e0ba9cc3d6f60682845287565607d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/027e0ba9cc3d6f60682845287565607d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "33762d9b9afb73dd75d64939c5210cff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/33762d9b9afb73dd75d64939c5210cff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0ddc6b463125f0cfdcdaae5a7cf265bb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0ddc6b463125f0cfdcdaae5a7cf265bb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f6abf3e182d13f281617b18931a389d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f6abf3e182d13f281617b18931a389d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1bc68b10f1a61a55ee8865fcfa9ef108",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1bc68b10f1a61a55ee8865fcfa9ef108/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4eda845982904b1a7e53f46fbbe51080",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4eda845982904b1a7e53f46fbbe51080/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "687a2a53c04385cccb12bf7b0014e18d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/687a2a53c04385cccb12bf7b0014e18d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36b1c33ecdb7c2937187e61a3f0aeeac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36b1c33ecdb7c2937187e61a3f0aeeac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b9d8617c88ac4abffe46d94028943fc8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b9d8617c88ac4abffe46d94028943fc8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81c8d7ddc5fff3674eaf647eb0d5288c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81c8d7ddc5fff3674eaf647eb0d5288c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d3e49ee651348db4d8e7d3495d27926",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d3e49ee651348db4d8e7d3495d27926/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7fe46991e250e8786e105cc7a33f5b63",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7fe46991e250e8786e105cc7a33f5b63/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "52837cace9ad1b073515994ec54c3b51",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52837cace9ad1b073515994ec54c3b51/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "72ccad5ea06b059bb61721eb4500087c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/72ccad5ea06b059bb61721eb4500087c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2f0e91b08b886f99bd2eac59d36acd94",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2f0e91b08b886f99bd2eac59d36acd94/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7bc2b94ef8670c17c8548b1284ad9c37",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7bc2b94ef8670c17c8548b1284ad9c37/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a8cf409ca1b02f0f6cc29bf2c521c85",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a8cf409ca1b02f0f6cc29bf2c521c85/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0408aadfa1d57f6bbce2185bb64b9dc7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0408aadfa1d57f6bbce2185bb64b9dc7/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 112m²",
+        "href": "/imovel/apartamento-3-quartos-tijuca-zona-norte-rio-de-janeiro-com-garagem-112m2-venda-RS990000-id-2717996882/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Homem de Melo",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

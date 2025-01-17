@@ -1,0 +1,259 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "BALCONY",
+            "INTERCOM",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "104"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento reformado na Lagoa. <br><br> composto de sala areajada com acesso a varanda, são 3 quartos sendo 2 suítes, banheiro social, cozinha planejada com armário e área de serviço. Possui 1 vaga na escritura. <br><br> Portaria 24hs. Venha conferir. Temos outras opções na região. Entre em contato conosco. Exclusive Consultoria.<br><br> CJ 7844<br><br> Atual. 09/12<br>-Cod:SL31290 -Rev.11Dez",
+        "title": "Apartamento - Padrão / Residencial / Lagoa",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2743645380",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22470240",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "52",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.205669,
+                "source": "GOOGLE",
+                "lat": -22.962054
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Professor Abelardo Lobo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Lagoa",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Lagoa",
+            "poisList": [
+                "BS:Maria Angélica",
+                "BS:Humaitá",
+                "BS:Hospital da Lagoa",
+                "BS:Cobal do Humaitá",
+                "BS:Jardim Botânico",
+                "TS:Maria Angélica",
+                "TS:Humaitá",
+                "TS:Hospital da Lagoa",
+                "TS:Cobal do Humaitá",
+                "TS:Cobal",
+                "CS:Panificação Lagoa",
+                "CS:A Padaria - Café Et Marché",
+                "CS:Mercado Humaitá",
+                "CS:Farinha Pura",
+                "CS:Vitória Régia",
+                "PH:Minipreço",
+                "PH:Padrão",
+                "PH:Ypiranga",
+                "PH:Caminhoá",
+                "PH:Nash"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "SL31290",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "104"
+        ],
+        "advertiserId": "ebb7c6c3-c940-726f-4819-861ddcc68f46",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "539",
+                "price": "1670000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1982"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21998334020"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21998334020",
+        "stamps": []
+    },
+    "account": {
+        "id": "ebb7c6c3-c940-726f-4819-861ddcc68f46",
+        "name": "Exclusive Consultoria",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c734f5469e22ed45c7a14bd20ff5bcd6/{description}.webp",
+        "licenseNumber": "58071-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 127636,
+        "phones": {
+            "primary": "21998334020",
+            "mobile": "21998334020"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "d01b05cc4f01de7bb11c3075e536d6d2",
+            "url": "https://www.youtube.com/watch?v=41TIkXQTrrs",
+            "type": "VIDEO"
+        },
+        {
+            "id": "237f3300ed8e9c77a283dbda874ed97b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/237f3300ed8e9c77a283dbda874ed97b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0bed5c2e8b404e7e7f9a0b39632894fe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0bed5c2e8b404e7e7f9a0b39632894fe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7d88843721c9c070a04749390101c708",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7d88843721c9c070a04749390101c708/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "20d1393705cf6729e47b8a5f3fe9f4f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/20d1393705cf6729e47b8a5f3fe9f4f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e5b9d9d26344815d34718bf3145f91bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e5b9d9d26344815d34718bf3145f91bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3321020681a08f053b3459623f782ed1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3321020681a08f053b3459623f782ed1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a590f48416352463ee10f94d775d541",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a590f48416352463ee10f94d775d541/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "157d87aa81fb0209f445911e72543be1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/157d87aa81fb0209f445911e72543be1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "54087665bcce311967095f4f5c077b1e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/54087665bcce311967095f4f5c077b1e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7941b8e77d9beb40abc2b9f370a1b388",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7941b8e77d9beb40abc2b9f370a1b388/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5e399a7a39d19b94484db154f460be2e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5e399a7a39d19b94484db154f460be2e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ace0993ff4d431c83a05a830234d8055",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ace0993ff4d431c83a05a830234d8055/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a8bd9859cd387f482eed4c919c7f1b1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a8bd9859cd387f482eed4c919c7f1b1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7436d3ee3a23c31ca036bf832ebdc7cd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7436d3ee3a23c31ca036bf832ebdc7cd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c0faaa8af8c2bd5f9d10aa1535ff8b8d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c0faaa8af8c2bd5f9d10aa1535ff8b8d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2d916a0be9e75f6d4b20d457b1483256",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2d916a0be9e75f6d4b20d457b1483256/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "46eca3966a076ae53aef731458041005",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/46eca3966a076ae53aef731458041005/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65c95a89db6799f37fd975daa9f90e3c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65c95a89db6799f37fd975daa9f90e3c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cc0b77d436e07db620e6062d1819e27d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cc0b77d436e07db620e6062d1819e27d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9cd15c4ef6094b43c4ad757a3a0fdac5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9cd15c4ef6094b43c4ad757a3a0fdac5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a4fc67df35d4a3ba274e8d63937f91ca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4fc67df35d4a3ba274e8d63937f91ca/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Exclusive Consultoria",
+        "href": "/127636/exclusive-consultoria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 104m²",
+        "href": "/imovel/apartamento-3-quartos-lagoa-zona-sul-rio-de-janeiro-com-garagem-104m2-venda-RS1670000-id-2743645380/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Lagoa",
+            "state": "Rio de Janeiro",
+            "street": "Rua Professor Abelardo Lobo",
+            "streetNumber": "52",
+            "zone": "Zona Sul"
+        }
+    }
+}

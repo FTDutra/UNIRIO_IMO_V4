@@ -1,0 +1,296 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [],
+        "usableAreas": [
+            "65"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Ele é composto de sala em 02 ambientes, 02 quartos, banheiro social, cozinha, área e banheiro de serviço.<br>Portaria 24 hrs.",
+        "title": "Apartamento 2 dorm., 65 m² - excelente ponto em Laranjeiras - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2751607847",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22240004",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "1",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.179431,
+                "source": "GOOGLE",
+                "lat": -22.931587
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua das Laranjeiras",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Laranjeiras",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Laranjeiras",
+            "poisList": [
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Largo do Machado",
+                "BS:Rua das Laranjeiras, 336",
+                "BS:Rua Monte Alegre próximo ao 342",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "TS:Acesso Largo do Machado",
+                "TS:Acesso Catete",
+                "TS:Largo do Machado",
+                "TS:Ponto Final: Largo do Machado :: Linha 497",
+                "TS:Flamengo",
+                "CS:Casa de Carnes Alentejo",
+                "CS:Le Dépanneur",
+                "CS:Confeitaria Itajaí",
+                "CS:Deli Sabores do Mundo",
+                "CS:Vossa Mercê Mercearia",
+                "PH:Bioderme",
+                "PH:Machado de Assis",
+                "PH:Norte sul",
+                "PH:drogarias tambaú",
+                "PH:Cristal"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "AP3315RJ",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "65"
+        ],
+        "advertiserId": "ed990fdd-eb37-4b08-3451-008ac8e02f71",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "138",
+                "price": "690000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "792"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21966487878"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21966487878",
+        "stamps": []
+    },
+    "account": {
+        "id": "ed990fdd-eb37-4b08-3451-008ac8e02f71",
+        "name": "LUCCARE",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca9ec6fda5cc292e32c3ed26afcc5ceb/{description}.webp",
+        "licenseNumber": "65358-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 823968,
+        "phones": {
+            "primary": "21966487878",
+            "mobile": "21966487878"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "d58048775243766e5862a22358b93da0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d58048775243766e5862a22358b93da0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "68fb810af5496acd5356a2672da49e5e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/68fb810af5496acd5356a2672da49e5e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4113a152de6197d3643155a6dbebf65",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4113a152de6197d3643155a6dbebf65/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7788fe9aac479504ffe7645d0e5535d5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7788fe9aac479504ffe7645d0e5535d5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "03dc52254a6628bb8d2f8a443f30499e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/03dc52254a6628bb8d2f8a443f30499e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6cd122a7b4bda056fdfb4910a7fc7d3a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6cd122a7b4bda056fdfb4910a7fc7d3a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe638d490d8381296cac932e604fee23",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe638d490d8381296cac932e604fee23/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9029a2a3f095b6cc0640d43adf429ec4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9029a2a3f095b6cc0640d43adf429ec4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cda6905c1b439e6b01c4823d1d22c4fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cda6905c1b439e6b01c4823d1d22c4fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "72f09942d230a093e719c44403bdf731",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/72f09942d230a093e719c44403bdf731/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d0053a31fd7e8b80fbe3e89846941057",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d0053a31fd7e8b80fbe3e89846941057/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ebd0a50b490d8e5cb423882b9e938ff2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ebd0a50b490d8e5cb423882b9e938ff2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e0ff26f4933719b5d4dfa4196e1f314",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e0ff26f4933719b5d4dfa4196e1f314/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0bb421b991b28787e55a8f5c7c9315af",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0bb421b991b28787e55a8f5c7c9315af/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "470a51cfc68780e34f71eee5fb2be54a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/470a51cfc68780e34f71eee5fb2be54a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a85e98d85a91c05fb9dafc79632c68ac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a85e98d85a91c05fb9dafc79632c68ac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e056683dab497feff4850ec6e8a5686",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e056683dab497feff4850ec6e8a5686/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5474a3efe5e584bdd59bfe6d7ee70634",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5474a3efe5e584bdd59bfe6d7ee70634/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a5e5b25c8af50cd90fd5f599d033780",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a5e5b25c8af50cd90fd5f599d033780/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b3f0128aa303e0afab8c9cdce5ef5ef2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b3f0128aa303e0afab8c9cdce5ef5ef2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21a3c76823af0fc0c11569c010037ab5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21a3c76823af0fc0c11569c010037ab5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7ff73f33051792dc560247563072fac6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7ff73f33051792dc560247563072fac6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4aa65028b3e64019dad8c851c58a7150",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4aa65028b3e64019dad8c851c58a7150/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e6f5ba19b9b4107fbf426cc636bfb181",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e6f5ba19b9b4107fbf426cc636bfb181/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9a8dbf4001da7d4e7b6081211317170a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9a8dbf4001da7d4e7b6081211317170a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "01be1bd19507211bd8581f75493d1c61",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/01be1bd19507211bd8581f75493d1c61/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "17423b606b072aa6e2a6f3aa17fbc090",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/17423b606b072aa6e2a6f3aa17fbc090/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "300d6b992e3489a775766d765d40fd57",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/300d6b992e3489a775766d765d40fd57/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c7d5c463b444ecc7ec8c17477b746f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c7d5c463b444ecc7ec8c17477b746f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21e5daf00ec5af0f0c1009bc6194dc48",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21e5daf00ec5af0f0c1009bc6194dc48/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2f421966faa843966d6c61447372daa3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2f421966faa843966d6c61447372daa3/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "LUCCARE",
+        "href": "/823968/luccare/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 65m²",
+        "href": "/imovel/apartamento-2-quartos-laranjeiras-zona-sul-rio-de-janeiro-65m2-venda-RS690000-id-2751607847/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Laranjeiras",
+            "state": "Rio de Janeiro",
+            "street": "Rua das Laranjeiras",
+            "streetNumber": "1",
+            "zone": "Zona Sul"
+        }
+    }
+}

@@ -1,0 +1,252 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "GARDEN",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "DISABLED_ACCESS",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "128"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Maravilhoso apartamento no Flamengo, na rua Senador Vergueiro com 128 m², sol da manhã, 1 vaga de garagem, composto por: ampla sala em dois ambientes com piso laminado, 3 ótimos quartos com armários (sendo 1 suíte), banheiro social, cozinha planejada com área de serviço e dependência completa. Prédio cercado de serviços com portaria e segurança 24 horas localizado entre as Ruas Tucumã e Cruz Lima a 7 minutos do metrô Flamengo.",
+        "title": "Oportunidade no Flamengo, na rua Senador Vergueiro com 128 m², sol da manhã, 3 quartos e 1 vaga.",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2729263958",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22230001",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "106",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.175609,
+                "source": "GOOGLE",
+                "lat": -22.936006
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Senador Vergueiro",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Flamengo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "poisList": [
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Largo do Machado",
+                "BS:Rua das Laranjeiras, 336",
+                "BS:Almirante Gomes Pereira",
+                "BS:Ponto Final Linha(s): 107,513",
+                "TS:Flamengo",
+                "TS:Ponto Final: Largo do Machado :: Linha 497",
+                "TS:Acesso Catete",
+                "TS:Largo do Machado",
+                "TS:Acesso Largo do Machado",
+                "CS:Bela Guanabara",
+                "CS:Rede Varejão",
+                "CS:Mundinho Verde",
+                "CS:Ravelle",
+                "CS:Flamar Mini Market",
+                "PH:Quintessência",
+                "PH:Riofarma",
+                "PH:Cristal",
+                "PH:Drogaria Paraná",
+                "PH:Farma Hall"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "187JGKA",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "128"
+        ],
+        "advertiserId": "f06cdd6f-c07c-8d0d-0efc-ba2efc0af2da",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3000",
+                "price": "950000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1450"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21979942853"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21979942853",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "f06cdd6f-c07c-8d0d-0efc-ba2efc0af2da",
+        "name": "J CAVALCANTE IMÓVEIS",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 671094,
+        "phones": {
+            "primary": "21979942853",
+            "mobile": "21979942853"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "3eca09da52ca981dbe593ad719a633d4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3eca09da52ca981dbe593ad719a633d4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "61a05a4351c7620afe3474b6af27fbe8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/61a05a4351c7620afe3474b6af27fbe8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c38c901bc3faafbfdecc2692cfd4f7fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c38c901bc3faafbfdecc2692cfd4f7fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8cab070586904341785e34748335186a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8cab070586904341785e34748335186a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5756101fce18e0ef6c40d59e6bc46814",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5756101fce18e0ef6c40d59e6bc46814/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4cedb3eb90facc55132c174037964a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4cedb3eb90facc55132c174037964a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9ac674fc3e247885022050ae3051883e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ac674fc3e247885022050ae3051883e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c4f03ddd83bb68b1925cfa49ed24fcad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c4f03ddd83bb68b1925cfa49ed24fcad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6bbb95991dbbb4cd6a8fdc58bc86f13d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6bbb95991dbbb4cd6a8fdc58bc86f13d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "629f6a69cd69a6d365d5edebbd31acab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/629f6a69cd69a6d365d5edebbd31acab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d862416d85286d171aa084567d9b73a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d862416d85286d171aa084567d9b73a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "865f888f4aaab68f7789a1b9e512e5cd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/865f888f4aaab68f7789a1b9e512e5cd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f66fde00dd57a97d656880215f543fc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f66fde00dd57a97d656880215f543fc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c5aeb42a8b168d524a396f1f3450462",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c5aeb42a8b168d524a396f1f3450462/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bbcded7a82eef93cc1c81b544707c887",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bbcded7a82eef93cc1c81b544707c887/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "32deca3ee9974ef71b0c64a4dcc9701b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/32deca3ee9974ef71b0c64a4dcc9701b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65ee263c9aa86fe8c20cd026fdb330c4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65ee263c9aa86fe8c20cd026fdb330c4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa0430f032078ad687f67eff1098950c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa0430f032078ad687f67eff1098950c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd617e32b92c6ac9ae722ad4fac107ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd617e32b92c6ac9ae722ad4fac107ff/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "J CAVALCANTE IMÓVEIS",
+        "href": "/671094/j-cavalcante-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 128m²",
+        "href": "/imovel/apartamento-3-quartos-flamengo-zona-sul-rio-de-janeiro-com-garagem-128m2-venda-RS950000-id-2729263958/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Senador Vergueiro",
+            "streetNumber": "106",
+            "zone": "Zona Sul"
+        }
+    }
+}

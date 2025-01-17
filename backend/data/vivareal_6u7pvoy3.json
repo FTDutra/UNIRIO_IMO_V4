@@ -1,0 +1,261 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "GARAGE",
+            "SERVICE_AREA",
+            "NEAR_ACCESS_ROADS",
+            "NEAR_SCHOOL",
+            "NEAR_HOSPITAL",
+            "NEAR_SHOPPING_CENTER",
+            "PAVED_STREET",
+            "WATCHMAN"
+        ],
+        "usableAreas": [
+            "56"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "APARTAMENTO COM 2 QUARTOS E VAGA A VENDA EM BOTAFOGO.Sol da manhã, de frente, claro e arejado. Composto por sala, 2 quartos, banheiro social, cozinha, área e dependências de serviço. 1 vaga na escritura. Prédio com portaria 24 horas, câmeras de segurança, terraço com salão de festas e churrasqueira. Localização excelente no bairro, a 5 minutos do metrô e do Shopping Rio Sul, próximo de todo tipo de comércio, academia e escolas. Agende sua visita e venha conhecer. Temos atendimento especializado por parte dos corretores e dos gerentes de vendas. O preço do imóvel está sujeito à mudança sem aviso prévio, conforme solicitação do proprietário. Avaliamos gratuitamente seu imóvel.<br>\"Avaliamos gratuitamente seu imóvel! Temos atendimento especializado tanto por parte dos corretores como gerentes de vendas.<br>O preço do imóvel está sujeito à mudança sem aviso prévio, conforme solicitação do proprietário.\"<br> 5c7af",
+        "title": "Botafogo | Apartamento 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2756529529",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22280070",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.954,
+                "approximateLon": -43.181,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Arnaldo Quintela",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Botafogo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:Integrada 9",
+                "BS:Ponto Final: Rio Sul :: Barra, Recreio e Vargem Grande",
+                "BS:Integrada 8",
+                "BS:Integrada 2",
+                "BS:Rio Sul",
+                "TS:Futura estação Morro de São João",
+                "TS:Integrada 9",
+                "TS:Ponto Final: Rio Sul :: Barra, Recreio e Vargem Grande",
+                "TS:Integrada 8",
+                "TS:Integrada 2",
+                "CS:Fica Café",
+                "CS:The Slow Bakery",
+                "CS:Americanas Local",
+                "CS:Small bakery",
+                "CS:Le Dépanneur Delicatessen",
+                "PH:Farma Nature",
+                "PH:Farmacopa",
+                "PH:Poubel",
+                "PH:Farmácia Iate Club",
+                "PH:Drogarias American"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "BO2AP103961",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "56"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1403",
+                "price": "670000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "990"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": []
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "c524220b16e3bde2c6f0d9cc68059046",
+            "url": "https://www.youtube.com/watch?v=KyH6se6BJ68",
+            "type": "VIDEO"
+        },
+        {
+            "id": "9fca58bfb6f6c8b3b6abbf80db76066d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9fca58bfb6f6c8b3b6abbf80db76066d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c9cef4162c8545e484ddaf7fd8990b23",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c9cef4162c8545e484ddaf7fd8990b23/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "785a84f86924457da33f8206091bee36",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/785a84f86924457da33f8206091bee36/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "04b854c61e7a25b9e601fc103ce71d1e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/04b854c61e7a25b9e601fc103ce71d1e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9be28a64baf94b9434e6a448b43b028b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9be28a64baf94b9434e6a448b43b028b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8217b368a19ef5cbda155792d6554eda",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8217b368a19ef5cbda155792d6554eda/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "868cf83c226eeff13bbdd1dcd4495222",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/868cf83c226eeff13bbdd1dcd4495222/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cb8061fcb53c36154f6d6e310ef830c4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cb8061fcb53c36154f6d6e310ef830c4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3d965e390ec5312513ffbf6b8f1ca7c6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3d965e390ec5312513ffbf6b8f1ca7c6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0cbcb40e71f0bf5577854fa82f8d64c1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0cbcb40e71f0bf5577854fa82f8d64c1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c9f009e9d2d63c31102ac02de22c2cb9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c9f009e9d2d63c31102ac02de22c2cb9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cc3b31783be63399a7165cf9c05d12aa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cc3b31783be63399a7165cf9c05d12aa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5dd67d21474712dbc68eab0b611d030e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5dd67d21474712dbc68eab0b611d030e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d99eb10eeea49800260e71ef1d0cc5d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d99eb10eeea49800260e71ef1d0cc5d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a7cb6d2050daeaddee043c39f5f920b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a7cb6d2050daeaddee043c39f5f920b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ea57389744dc74c310da85e304e9071",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ea57389744dc74c310da85e304e9071/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a80d7a4d32b0d741b9bd0328d72389d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a80d7a4d32b0d741b9bd0328d72389d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a13595ad2bf44f7cf24a0fec65258c6b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a13595ad2bf44f7cf24a0fec65258c6b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9640604b980de250fb99b8d5de8e6f81",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9640604b980de250fb99b8d5de8e6f81/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "da5e72ea22c9897d6adeff2592c3d44f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/da5e72ea22c9897d6adeff2592c3d44f/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 56m²",
+        "href": "/imovel/apartamento-2-quartos-botafogo-zona-sul-rio-de-janeiro-com-garagem-56m2-venda-RS670000-id-2756529529/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Arnaldo Quintela",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

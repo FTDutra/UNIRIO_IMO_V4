@@ -1,0 +1,322 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "PETS_ALLOWED",
+            "WATCHMAN",
+            "ELEVATOR",
+            "INTERCOM",
+            "CONCIERGE_24H"
+        ],
+        "usableAreas": [
+            "75"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento dois quartos com dependência amplos e arejados , todo de piso frio com excelente localização próximo aos principais pontos turísticos o e comercio do centro do Rio De Janeiro como : Banco , Supermercado , farmácias, academia , restaurantes , facilidade de deslocamento tanto para Zona Sul quanto para Zona Norte , tudo para sua comodidade e praticidade.",
+        "title": "Apartamento Dois Quartos com Dependência na Rua Riachuelo Centro do RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2735139971",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "20230011",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.913,
+                "approximateLon": -43.19,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Rua Riachuelo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:Ponto Final: Cruz Vermelha",
+                "BS:BRS 1,2 e 4",
+                "BS:P28",
+                "BS:Ponto da Rua do Catumbi",
+                "BS:BRS 1,2,4 Inválidos",
+                "TS:Ponto Final: Cruz Vermelha",
+                "TS:BRS 1,2 e 4",
+                "TS:P28",
+                "TS:BRS 1,2,4 Inválidos",
+                "TS:Praça da República :: Zonas Norte e Oeste",
+                "CS:Cris",
+                "CS:Padaria e Confeitaria Costa Bastos",
+                "CS:ArmaZen",
+                "CS:Padaria 3 Graças",
+                "CS:Artes Integrais",
+                "PH:Drogaria Rey",
+                "PH:Exata",
+                "PH:Viva Bem",
+                "PH:Drogaria Exata",
+                "PH:City Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "877",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "75"
+        ],
+        "advertiserId": "72fce28c-5a73-b3d1-6dad-53c36dbc0398",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "113",
+                "price": "400000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "800"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122222830"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "72fce28c-5a73-b3d1-6dad-53c36dbc0398",
+        "name": "LOPA IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/202d8893d7e089e71a25940555fbec88/{description}.webp",
+        "licenseNumber": "028259-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 40823,
+        "phones": {
+            "primary": "2122222830",
+            "mobile": "2122222830"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "bfcae7537b8f27a2bbf0eb19d12e4e8c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bfcae7537b8f27a2bbf0eb19d12e4e8c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8abb72dcf2cd0a3eebb01e3a924745f6",
+            "url": "https://www.youtube.com/watch?v=FeSLY9fnqKk",
+            "type": "VIDEO"
+        },
+        {
+            "id": "bfa78812ef267aefdf23a30208882856",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bfa78812ef267aefdf23a30208882856/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d06c80aca75fd82e81d4001323f94a03",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d06c80aca75fd82e81d4001323f94a03/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5859f006e7e260dda793b7d16c885b64",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5859f006e7e260dda793b7d16c885b64/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "46ad3fdb94fd82cf051337f3b0157a9c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/46ad3fdb94fd82cf051337f3b0157a9c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d95fd5f28aa20f50f3cd89922e52a8c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d95fd5f28aa20f50f3cd89922e52a8c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "865e912f4155c8fda827e164298440a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/865e912f4155c8fda827e164298440a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b84507b03f2717a0e0038ac53c3a5882",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b84507b03f2717a0e0038ac53c3a5882/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2414bf2f0404f7f1378587b520e8fe15",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2414bf2f0404f7f1378587b520e8fe15/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2caf88207bae1354db1ce431778001b1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2caf88207bae1354db1ce431778001b1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "962c65f5ebbbe1eddddae4af5011daf8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/962c65f5ebbbe1eddddae4af5011daf8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ced29b499f26253bb72b86a3f91caded",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ced29b499f26253bb72b86a3f91caded/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8b86088e5ac7e2e52948e89550de5a77",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8b86088e5ac7e2e52948e89550de5a77/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf1f1669007410362c05f9acae0d7f85",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf1f1669007410362c05f9acae0d7f85/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb2af942677e25fb78f2b475a3ab0f72",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb2af942677e25fb78f2b475a3ab0f72/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d2aad1bb411be3c87d9e85ce86d6b521",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d2aad1bb411be3c87d9e85ce86d6b521/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3878419c8b2a85fc64c6b04b9609871d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3878419c8b2a85fc64c6b04b9609871d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c112adb658669d54250f4a966525b8c9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c112adb658669d54250f4a966525b8c9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "922c260aafe05704d32a0abfa977dae5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/922c260aafe05704d32a0abfa977dae5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fa72d61b050e258957b94fba094a71a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa72d61b050e258957b94fba094a71a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0fdf25d1abd72bf80cb197b04b2631a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0fdf25d1abd72bf80cb197b04b2631a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9d16f69fffbdf45e1fa36e15316c3a91",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9d16f69fffbdf45e1fa36e15316c3a91/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d7b6f325700b16988820f1c2d134f70e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7b6f325700b16988820f1c2d134f70e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "adb93eac09ab1e6d7a0310e44f1907df",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/adb93eac09ab1e6d7a0310e44f1907df/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c80905553aa3c546dc617e4bcb664bfb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c80905553aa3c546dc617e4bcb664bfb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1421cc137b5a2f3e3c612309ce304d1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1421cc137b5a2f3e3c612309ce304d1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e0a5bb235da1e420b5c465888640b91e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e0a5bb235da1e420b5c465888640b91e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "95d25175441137c31d26a0541ab9e73a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/95d25175441137c31d26a0541ab9e73a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dc0cfe2a7533db2543183deb3ce9c9ba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc0cfe2a7533db2543183deb3ce9c9ba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b0957c7ed00ecfc63977fef2addbd6cb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b0957c7ed00ecfc63977fef2addbd6cb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ba61a024684b56c1e07a844e71b7439b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ba61a024684b56c1e07a844e71b7439b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e5b8679e3e42c1c055b4e3410d104af9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e5b8679e3e42c1c055b4e3410d104af9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cef699918b90c776fd69533ac7840410",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cef699918b90c776fd69533ac7840410/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d489f0e7570c42853154ed2e9512e41",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d489f0e7570c42853154ed2e9512e41/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "LOPA IMOVEIS",
+        "href": "/40823/lopa-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 75m²",
+        "href": "/imovel/apartamento-2-quartos-centro-zona-central-rio-de-janeiro-75m2-venda-RS400000-id-2735139971/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Rua Riachuelo",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

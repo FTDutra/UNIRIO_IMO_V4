@@ -1,0 +1,300 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "BALCONY",
+            "AIR_CONDITIONING",
+            "INTERCOM",
+            "SECURITY_24_HOURS",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "180"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "ABNARA IMÓVEIS VENDE!<br><br> Rua Barão da Torre (180m²) no IPTU, Ótima localização em área nobre de Ipanema.<br><br> 1 Vaga de garagem na escritura!<br><br> Maravilhoso apartamento duplex com vista panorâmica, claro e arejado composto por:<br><br> 1° Pavimento: Sala ampla, 3 quartos com armários embutidos, sendo 1 suíte com closet, 1 banheiro social, copa-cozinha, área de serviço e dependência completa.<br><br> 2° Pavimento: Salão, cozinha gourmet, 1 lavabo e um terraço com vista cinematográfica.<br><br> Agende já sua visita! Para nós é um prazer atendê-lo (a). Avaliamos seu imóvel gratuitamente, contate-nos www.abnaraimoveis.com.br.<br>-Cod:CPAP31495 -Rev.18Jul",
+        "title": "Apartamento - Duplex / Residencial / Ipanema",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2675206611",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22411003",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.983,
+                "approximateLon": -43.21,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Barão da Torre",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Ipanema",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "poisList": [
+                "BS:BRS 2: Joana Angélica",
+                "BS:Humberto de Campos",
+                "BS:Ponto Final: Afrânio de Melo Franco I",
+                "BS:BRS 2,3 - Cupertino Durão",
+                "BS:BRS 2 Farme de Amoedo",
+                "TS:Maria Quitéria",
+                "TS:Nossa Senhora da Paz",
+                "TS:Nossa Senhora da Paz / Ipanema",
+                "TS:Borges de Medeiros",
+                "TS:Joana Angélica",
+                "CS:Armazém do Café",
+                "CS:Patata",
+                "CS:Confeitaria Ipanema",
+                "CS:TECNOMEDI IPANEMA",
+                "CS:Chocolate Brasil Cacau",
+                "PH:Drogaria Pop",
+                "PH:Drogasmil"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "CPAP31495",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "180"
+        ],
+        "advertiserId": "84149632-f393-3459-e17b-7f0523ca37af",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "780",
+                "price": "6297000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1500"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2132157564",
+                "21965602193"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21965602193",
+        "stamps": []
+    },
+    "account": {
+        "id": "84149632-f393-3459-e17b-7f0523ca37af",
+        "name": "ABNARA IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa1d28ee3c277a4ee5c386cc46a582b3/{description}.webp",
+        "licenseNumber": "006386-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 110161,
+        "phones": {
+            "primary": "2132157564",
+            "mobile": "21965602193"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "c17414d7e3e457169da80f60092eab2f",
+            "url": "https://youtu.be/hQslycawB5k",
+            "type": "VIDEO"
+        },
+        {
+            "id": "89235e9336f791a221514f8b6e52a43a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/89235e9336f791a221514f8b6e52a43a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5efbdbef40d73706b71b2d14eba836da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5efbdbef40d73706b71b2d14eba836da/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9160f52aa0db42a6cbccc06efc663d4e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9160f52aa0db42a6cbccc06efc663d4e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3d8a5a4a4a6a1554bc9904982872cf08",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3d8a5a4a4a6a1554bc9904982872cf08/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "872bef88d545878a04b1dd635bc284ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/872bef88d545878a04b1dd635bc284ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a90d962b9011867a325c01da3141514d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a90d962b9011867a325c01da3141514d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f3f789f261e79d20b6efef869c11a317",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f3f789f261e79d20b6efef869c11a317/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "83dbf26ae2afd2dc18a1d31a68f94754",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/83dbf26ae2afd2dc18a1d31a68f94754/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d925ee3fa57777fd86e60fc249cee4dd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d925ee3fa57777fd86e60fc249cee4dd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "867b94a0acd58223d5364129f97a417d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/867b94a0acd58223d5364129f97a417d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a09aff16393e941c98154a34ee09b92b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a09aff16393e941c98154a34ee09b92b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a531b230915e19cffc10358f646f17e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a531b230915e19cffc10358f646f17e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "80619660aea9975724087da65a26050a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/80619660aea9975724087da65a26050a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "34fe31141a3e5236a390a7d8bd5836db",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/34fe31141a3e5236a390a7d8bd5836db/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "be23ad4d6f4c6670a228cd839f389849",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/be23ad4d6f4c6670a228cd839f389849/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5ebdfcfa894a55b8c63f5325c01c35dc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5ebdfcfa894a55b8c63f5325c01c35dc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b48693459daa787b5e6d1b3661022f6a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b48693459daa787b5e6d1b3661022f6a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b7444bb4b81b9878071971a23449a9e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b7444bb4b81b9878071971a23449a9e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81dc69e55b400785f86b8568f0131136",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81dc69e55b400785f86b8568f0131136/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7768103adcd71856983cdd42f07d976e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7768103adcd71856983cdd42f07d976e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2c1e7556267121dab10fc80cc715c9fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c1e7556267121dab10fc80cc715c9fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cebcd81e6aa18313993d9126dc895459",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cebcd81e6aa18313993d9126dc895459/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ab54b902f90774ccffc65905ee67c11a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ab54b902f90774ccffc65905ee67c11a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "17ec7b8a61b139ceedb7a4e483250e42",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/17ec7b8a61b139ceedb7a4e483250e42/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "00036616fc0d8457736d56eb6749d868",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/00036616fc0d8457736d56eb6749d868/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1358e41f669fe88b9c5f61df8f693cee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1358e41f669fe88b9c5f61df8f693cee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dd2ee29269b3ab0db8945fdab1fbc3eb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd2ee29269b3ab0db8945fdab1fbc3eb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "07826e65817e09915c9c5e16b9eb4f99",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/07826e65817e09915c9c5e16b9eb4f99/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a76d4c1d8ac904055560af7528623400",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a76d4c1d8ac904055560af7528623400/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "ABNARA IMOVEIS",
+        "href": "/110161/abnara-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 180m²",
+        "href": "/imovel/apartamento-3-quartos-ipanema-zona-sul-rio-de-janeiro-com-garagem-180m2-venda-RS6297000-id-2675206611/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "state": "Rio de Janeiro",
+            "street": "Rua Barão da Torre",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

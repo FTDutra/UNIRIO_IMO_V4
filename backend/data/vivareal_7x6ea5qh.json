@@ -1,0 +1,279 @@
+{
+    "listing": {
+        "displayAddressType": "NEIGHBORHOOD",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "SERVICE_AREA",
+            "SPORTS_COURT",
+            "KITCHEN",
+            "INTERCOM",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "217"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "AP0048 \"VENDA\" CONDOMÍNIO ROYAL BLUE - BARRA DA TIJUCA - Excelente oportunidade!!! Apartamento com 217M² - 04 suítes, sala ampla em 02 ambientes, copa, cozinha, banheiros social, lavabo, área de serviços e dependências completas. 03 vagas de garagem<br>ÁREAS COMUNS: academia, brinquedoteca, piscina, quara poliesportiva, salão de beleza e sauna. Segurança total 24 horas com monitoramento. -",
+        "title": "Apartamento com 4 dormitórios à venda, 217 m² por R$ 2.507.000,00 - Barra da Tijuca - Rio de Janeiro",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2756344827",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22640100",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23,
+                "approximateLon": -43.372,
+                "radius": 250
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:C15",
+                "BS:D11",
+                "BS:C14",
+                "BS:E8",
+                "BS:C13",
+                "TS:A17",
+                "TS:Desembarque TransCarioca",
+                "TS:C15",
+                "TS:Bosque da Barra",
+                "TS:D11",
+                "CS:Cacau Brasil",
+                "CS:Meu Doce Rio",
+                "CS:Bolos da Cecília",
+                "CS:Candy Delicatesse",
+                "CS:Fábrica do Bolo",
+                "PH:Drogarias Carioca",
+                "PH:Farma Alfa",
+                "PH:Drogaria Ministro",
+                "PH:Homeonatus Farmácia Homeopática"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            4
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0048",
+        "bathrooms": [
+            5
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "217"
+        ],
+        "advertiserId": "a9aa7747-5b08-5b21-bc89-68f131efe4f6",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "6457",
+                "price": "2507000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "3487"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21971171975"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971171975",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024",
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "a9aa7747-5b08-5b21-bc89-68f131efe4f6",
+        "name": "Felce Imóveis",
+        "licenseNumber": "96485-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 837402,
+        "phones": {
+            "primary": "21971171975",
+            "mobile": "21971171975"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "d8d560d872dffdd98f1b20153d61b59b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8d560d872dffdd98f1b20153d61b59b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3b4b50f8fc7b6278058e08f2ef0fc7f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b4b50f8fc7b6278058e08f2ef0fc7f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ab113b9a72c21736b9c3a87b936c2884",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ab113b9a72c21736b9c3a87b936c2884/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e10857257280939253c35f465bdafd1c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e10857257280939253c35f465bdafd1c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "16617b04c0d2acbd4231408388b82345",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/16617b04c0d2acbd4231408388b82345/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "609c7b3bbf84d5c076aebccc4973d5cb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/609c7b3bbf84d5c076aebccc4973d5cb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "57cbd4226aa3625e88bc9c84eebf3658",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/57cbd4226aa3625e88bc9c84eebf3658/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "28f7053a57f0dfff4704e41c57405e07",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/28f7053a57f0dfff4704e41c57405e07/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "01dc757c9271db9e318c223da22cca73",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/01dc757c9271db9e318c223da22cca73/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f0ac9fb39a5476e224a1535a9d7332e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f0ac9fb39a5476e224a1535a9d7332e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ef518716cbe8bc452b411f32958347c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ef518716cbe8bc452b411f32958347c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0428e1d44570564b931a58b6e2f5cb70",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0428e1d44570564b931a58b6e2f5cb70/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c6f5f98348d91b8819b857ff1188e55b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c6f5f98348d91b8819b857ff1188e55b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1db1a84bd5b589f609d51201725a562",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1db1a84bd5b589f609d51201725a562/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "67db151b033944bd49dea774131f0343",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/67db151b033944bd49dea774131f0343/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c6e6430683dbbd6fcd525e3885038d2d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c6e6430683dbbd6fcd525e3885038d2d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f0149540c4ed26f6a4c0cb749f7c527",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f0149540c4ed26f6a4c0cb749f7c527/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8b1ea94568ca479adf6ac03ca859961d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8b1ea94568ca479adf6ac03ca859961d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c84e82170c7da825ff7927efc9e2b15d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c84e82170c7da825ff7927efc9e2b15d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6e4299a3e1222df40e2e8b1c416ea513",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6e4299a3e1222df40e2e8b1c416ea513/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e7315bf69c1f041d2c3815fdba5e58f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e7315bf69c1f041d2c3815fdba5e58f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5cf6bcec901f417d446266530eb98ff2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5cf6bcec901f417d446266530eb98ff2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1a71c806bea9799c5c43d835d610e67",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1a71c806bea9799c5c43d835d610e67/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aeeb6e12060602b2d53a2f0440fb089e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aeeb6e12060602b2d53a2f0440fb089e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "adb3c4e52da4586489dd7c3ffd6d7d7b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/adb3c4e52da4586489dd7c3ffd6d7d7b/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Felce Imóveis",
+        "href": "/837402/felce-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 217m²",
+        "href": "/imovel/apartamento-4-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-217m2-venda-RS2507000-id-2756344827/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

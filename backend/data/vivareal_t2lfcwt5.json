@@ -1,0 +1,370 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "BACKYARD",
+            "PETS_ALLOWED",
+            "SERVICE_AREA",
+            "RECREATION_AREA",
+            "SERVICE_BATHROOM",
+            "LARGE_KITCHEN",
+            "LARGE_WINDOW",
+            "LARGE_ROOM",
+            "PRIVATE_POOL",
+            "SIDE_ENTRANCE",
+            "SERVICE_ROOM",
+            "COLD_FLOOR",
+            "FULL_FLOOR",
+            "NATURAL_VENTILATION"
+        ],
+        "usableAreas": [
+            "84"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento tipo casa, possui somente dois andares, térreo e primeiro andar. Com 2 quartos e dependência de empregada completa. Perfeito para morar ou investir. Design moderno. Possui garagem coberta com acesso para piscina e churrasqueira. Banheiro perto da piscina, edícula, tudo particular (vizinho não tem acesso, não é área comum), boa localização perto da avenida Intendente Magalhães, Espeto Carioca a 2 minutos andando do Valqueire, perto de academias, farmácia, mercado, hortifruti, colégios, etc. Rua tranquila e residencial. Na rua de baixo possui transportes direto para o Centro da cidade e BRT. Possui vista livre eterna da janela da sala. São dois quartos e um de empregada podendo ser revertido em uma suíte, possui área, cozinha bem grande, sala. Possui jardim na área comum.",
+        "title": "Imóvel para venda com 84 metros quadrados com 2 quartos em Oswaldo Cruz - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2723123135",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21341110",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "222222",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.355166,
+                "source": "GOOGLE",
+                "lat": -22.877193
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Mogurari",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Madureira",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Oswaldo Cruz",
+            "poisList": [
+                "BS:Ponto de Onibus da Vila Nova",
+                "BS:Linha 774 Madureira >> Jardim América",
+                "BS:LInha 940 Madureira >> Ramos",
+                "BS:Linha 355 Madureira >> Praça Tiradentes",
+                "BS:LInha 254 Madureira >> Praça XV",
+                "TS:Oswaldo Cruz",
+                "TS:Ponto de Onibus da Vila Nova",
+                "TS:Campinho",
+                "TS:Prefeito Bento Ribeiro",
+                "TS:Pref. Bento Ribeiro",
+                "CS:J.D.R.",
+                "CS:FABRICA DE BOLO VÓ ALZIRA",
+                "CS:FINI",
+                "CS:Tecnomedi Madureira",
+                "CS:Auto Posto Bittig",
+                "PH:Imediata"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "CLA-CA3755",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "84"
+        ],
+        "advertiserId": "6e1f1df5-c95c-f2d9-1941-180bb69fa123",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "496",
+                "price": "245000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21973982674"
+            ]
+        },
+        "videoTourLink": "https://ws.hvr360.net/tourvirtual/embed/abc111/222222https://ws.hvr360.net/tourvirtual/embed/abc111/111111",
+        "whatsappNumber": "21973982674",
+        "stamps": []
+    },
+    "account": {
+        "id": "6e1f1df5-c95c-f2d9-1941-180bb69fa123",
+        "name": "STYLLUS PRIME",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/93fe4b35e02c384477040953eb516f19/{description}.webp",
+        "licenseNumber": "88113-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 686935,
+        "phones": {
+            "primary": "21973982674",
+            "mobile": "21973982674"
+        },
+        "tier": ""
+    },
+    "medias": [
+        {
+            "id": "2c285790e067ed35a1595204b2d94b8f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c285790e067ed35a1595204b2d94b8f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bad6cef26ceb9ff8534e08dc40f26cbc",
+            "url": "https://youtu.be/ARRUDArTsGcKuWUbo",
+            "type": "VIDEO"
+        },
+        {
+            "id": "d82c7322279ef787c51be4f65ba2e896",
+            "url": "https://ws.hvr360.net/tourvirtual/embed/abc111/222222https://ws.hvr360.net/tourvirtual/embed/abc111/111111",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "fdebac13ba8193048dd9096fb7109ad8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fdebac13ba8193048dd9096fb7109ad8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c65b703d227c709909d91c2a0b41f94",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c65b703d227c709909d91c2a0b41f94/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0037bb505239db1abec9f2a503ec1343",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0037bb505239db1abec9f2a503ec1343/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c2022a0ef81e48698b4e8232c1ab96d9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2022a0ef81e48698b4e8232c1ab96d9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7370f00bf39a59ecf66806a09a2b8b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7370f00bf39a59ecf66806a09a2b8b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3df955f3f5565a72e279c73abd87d454",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3df955f3f5565a72e279c73abd87d454/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f8bc3cd6ab5cd61e7f4da939390852bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f8bc3cd6ab5cd61e7f4da939390852bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f19bc9d6fef42d073aa7f0363d5bfacd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f19bc9d6fef42d073aa7f0363d5bfacd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4afc78952d84004806453fcd2b2f41bb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4afc78952d84004806453fcd2b2f41bb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "50f0d55313c05a60f16c56013bd2fa6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/50f0d55313c05a60f16c56013bd2fa6e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1735e1fa0b5e593b91f955294d11a92d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1735e1fa0b5e593b91f955294d11a92d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "866e6d3e300c19c7f0673c3b8e51d038",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/866e6d3e300c19c7f0673c3b8e51d038/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f618cf6ac3ea531f2bebefe9b8dccce",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f618cf6ac3ea531f2bebefe9b8dccce/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4eab1ef5c295bed7dc4084324c4bb340",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4eab1ef5c295bed7dc4084324c4bb340/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "82d990fa11ae59e0e24f3f24726ac08d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82d990fa11ae59e0e24f3f24726ac08d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "28464dac011cc3331e70a8a5c508ae01",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/28464dac011cc3331e70a8a5c508ae01/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b54b931cc766d5e26ac146a767723a73",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b54b931cc766d5e26ac146a767723a73/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e6f5f2d956b8049a61dcb60a83408236",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e6f5f2d956b8049a61dcb60a83408236/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2ffbc0172485398bb00984d23cf7f3b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2ffbc0172485398bb00984d23cf7f3b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4dfabcb8ca49e64436ba14769b7e99ac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4dfabcb8ca49e64436ba14769b7e99ac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "64a9901fb2d4c7c27738674bfe73822b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/64a9901fb2d4c7c27738674bfe73822b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "047b31dc541791c28779b360b7130e55",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/047b31dc541791c28779b360b7130e55/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c34af08b530b556210495c09f16bd726",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c34af08b530b556210495c09f16bd726/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7dc55762991fea66d5ee6239f477e426",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7dc55762991fea66d5ee6239f477e426/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a87523adcbaee99e58d3246375ea0f99",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a87523adcbaee99e58d3246375ea0f99/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ec85d1b940fb82b6c58a04ddd644613d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ec85d1b940fb82b6c58a04ddd644613d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7af6c344681663c13cb9284cfc604193",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7af6c344681663c13cb9284cfc604193/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "77d2879a2a7d563ba20b5e9bf0b0dc90",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/77d2879a2a7d563ba20b5e9bf0b0dc90/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "325345c3d9825d1e2459a6e516de8168",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/325345c3d9825d1e2459a6e516de8168/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e248d35bca2f42e52ee8f0f35668b451",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e248d35bca2f42e52ee8f0f35668b451/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ccdc02ffe415686db6e4e7806de824d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ccdc02ffe415686db6e4e7806de824d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48e03ad6f3cd365e983282ca2cc9492e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48e03ad6f3cd365e983282ca2cc9492e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6ec0791fd2878455f063c9b1ba0777d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ec0791fd2878455f063c9b1ba0777d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "70ecb53518b5fae66b382bfce69fdf66",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/70ecb53518b5fae66b382bfce69fdf66/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "53158a5e7dd8c0a8421c3c1fc3c32d63",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/53158a5e7dd8c0a8421c3c1fc3c32d63/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9fd5183af7525ddd4069f21ce48cd468",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9fd5183af7525ddd4069f21ce48cd468/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "68a8e847bd4c909b9274f4a45c0f8af4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/68a8e847bd4c909b9274f4a45c0f8af4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1f0583dbcb6bf3154d1a36c9b254fc2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1f0583dbcb6bf3154d1a36c9b254fc2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3abf504ff7be504ee4570b24f0c9b229",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3abf504ff7be504ee4570b24f0c9b229/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "af6523bbb3524a70807df9df6777ff41",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/af6523bbb3524a70807df9df6777ff41/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "STYLLUS PRIME",
+        "href": "/686935/styllus-prime/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 84m²",
+        "href": "/imovel/apartamento-2-quartos-madureira-zona-norte-rio-de-janeiro-com-garagem-84m2-venda-RS245000-id-2723123135/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Madureira",
+            "state": "Rio de Janeiro",
+            "street": "Rua Mogurari",
+            "streetNumber": "222222",
+            "zone": "Zona Norte"
+        }
+    }
+}

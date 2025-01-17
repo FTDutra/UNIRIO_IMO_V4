@@ -1,0 +1,259 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "INTERCOM",
+            "AIR_CONDITIONING",
+            "KITCHEN",
+            "ELEVATOR"
+        ],
+        "usableAreas": [
+            "55"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "B&A Vende Sala e quarto Bairro Pexoto <br>Apartamento totalmente reformado composto de sala e quarto (suíte) lavabo , cozinha ampla com área de serviço. Venha agendar sua visita!",
+        "title": "B&amp;A Vende Apartamento Quarto e Sala Copacabana",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2752636503",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22041040",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.966,
+                "approximateLon": -43.19,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Décio Vilares",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:Ponto Regulador: Metrô Siqueira Campos",
+                "BS:BRS 1 Figueiredo Magalhães",
+                "BS:BRS 3 Siqueira Campos",
+                "BS:BRS 2 Hilário de Gouveia",
+                "BS:BRS 2: Hilário de Gouveia",
+                "TS:Figueiredo Magalhães",
+                "TS:Siqueira Campos / Copacabana",
+                "TS:Siqueira Campos - Sentido Gen. Osório / Jd. Ocêanico",
+                "TS:Siqueira Campos / Copacabana - Sentido Gen. Osório / Jd. Ocêanico",
+                "TS:Ponto Regulador: Metrô Siqueira Campos",
+                "CS:The Bakers",
+                "CS:Grão da terra",
+                "CS:La Copa",
+                "CS:Multifruti",
+                "CS:Suíça",
+                "PH:Nash",
+                "PH:Drogaria Galanti",
+                "PH:Prontofarma",
+                "PH:Caminhoá",
+                "PH:Minipreço"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "1119508",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "55"
+        ],
+        "advertiserId": "7d4ec74e-2cb7-2cba-50cf-92ec88a74e8c",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "124",
+                "price": "649000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "855"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2132176221",
+                "21964464440"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964464440",
+        "stamps": []
+    },
+    "account": {
+        "id": "7d4ec74e-2cb7-2cba-50cf-92ec88a74e8c",
+        "name": "B&A Imóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38a82296d8f09f9d275212109b82bc17/{description}.webp",
+        "licenseNumber": "07455-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 230106,
+        "phones": {
+            "primary": "2132176221",
+            "mobile": "21964464440"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "890cd05f4d9d666bca1fb65cb03beb29",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/890cd05f4d9d666bca1fb65cb03beb29/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d9cd6ba6eb62a0e215afe321c5395379",
+            "url": "https://www.youtube.com/watch?v=D8Sgyu_H00A",
+            "type": "VIDEO"
+        },
+        {
+            "id": "3b09a8849eb3b62aba5303acd99c5274",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b09a8849eb3b62aba5303acd99c5274/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd03aa69fac58e3375cf851f36a18dd3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd03aa69fac58e3375cf851f36a18dd3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b43bef1201e934b83d1487c26606c2a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b43bef1201e934b83d1487c26606c2a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dea93a7b8ee80c6175882e99f204683e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dea93a7b8ee80c6175882e99f204683e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a28692a13c59b579d40c5efdb3a9f45",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a28692a13c59b579d40c5efdb3a9f45/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "06dd861018c8fd60d04204b8c8c1af0f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/06dd861018c8fd60d04204b8c8c1af0f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5cc9d451604213e5699f7e8261626087",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5cc9d451604213e5699f7e8261626087/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f81fce7e1a84811bf885cf096cd40d79",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f81fce7e1a84811bf885cf096cd40d79/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "389dd49e81698169c4f3031847e32201",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/389dd49e81698169c4f3031847e32201/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "09c74388d9d67e71b70a5245e83dbe24",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/09c74388d9d67e71b70a5245e83dbe24/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa9a52b1435ad849e3fa3a717592c466",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa9a52b1435ad849e3fa3a717592c466/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a9b1a73cf173094f81cf6102f9d56447",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a9b1a73cf173094f81cf6102f9d56447/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "149fdf1041aa8c6c1db4b3bc81327875",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/149fdf1041aa8c6c1db4b3bc81327875/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3fc095f90a7879479fce45cb402f9516",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3fc095f90a7879479fce45cb402f9516/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a9240c6e3a2ff2fed23ea61490cf0ebb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a9240c6e3a2ff2fed23ea61490cf0ebb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9de656c2d942564331ff57b98aa5c6ac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9de656c2d942564331ff57b98aa5c6ac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7a6fa14843e38b1a5b0b3a44dba2c00",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7a6fa14843e38b1a5b0b3a44dba2c00/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "16c2a3b730e82ac55b1faf2e8d2d04a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/16c2a3b730e82ac55b1faf2e8d2d04a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "00acc51337c8c199c51663f3fb2dccb5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/00acc51337c8c199c51663f3fb2dccb5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0c3d9a228a92e21c3d97afb24bc4e00f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0c3d9a228a92e21c3d97afb24bc4e00f/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "B&A Imóveis",
+        "href": "/230106/b-a-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 55m²",
+        "href": "/imovel/apartamento-1-quartos-copacabana-zona-sul-rio-de-janeiro-55m2-venda-RS649000-id-2752636503/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Décio Vilares",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

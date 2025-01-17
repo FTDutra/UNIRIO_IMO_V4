@@ -1,0 +1,192 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "167"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Imóvel amplo à venda com 3 quartos, sendo 1 suíte, e 2 banheiros no total. O condomínio fica localizado em Rua Conde de Irajá no bairro Botafogo em Rio de Janeiro. Está bem localizado, próximo a pontos de interesse de Botafogo, tais como Universidade Corporativa, Clinica Dr. Pedro L Briggs, Escola Municipal Marechal Hermes, Espaço MIX, Escola Municipal Joaquim Abílio Borges e Colégio Padre Antônio Vieira.",
+        "title": "Apartamento à venda com 167m², 3 quartos e 2 vagas",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2756416639",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22271020",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.195251,
+                "source": "GOOGLE",
+                "lat": -22.955237
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Conde de Irajá",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Botafogo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:Cobal do Humaitá",
+                "BS:Cobal",
+                "BS:BRS 3: Sorocaba",
+                "BS:Humaitá",
+                "BS:Maria Angélica",
+                "TS:Cobal do Humaitá",
+                "TS:Cobal",
+                "TS:Humaitá",
+                "TS:Acesso Mena Barreto",
+                "TS:Acesso Voluntários",
+                "CS:Farinha Pura",
+                "CS:TECNOMEDI BOTAFOGO",
+                "CS:Mercado Humaitá",
+                "CS:Casa Imperial",
+                "CS:Do Conde",
+                "PH:Ypiranga",
+                "PH:Minipreço",
+                "PH:Caminhoá",
+                "PH:Bio Mundo",
+                "PH:Poubel"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PU1y7yo05",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "167"
+        ],
+        "advertiserId": "00e9fb96-75f2-47bf-136a-813888466a06",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "291",
+                "price": "3888000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1433"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122748888",
+                "21998593444"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21998593444",
+        "stamps": []
+    },
+    "account": {
+        "id": "00e9fb96-75f2-47bf-136a-813888466a06",
+        "name": "REAL UP IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6198e480078abd442f62aedcbd75a30f/{description}.webp",
+        "licenseNumber": "7357-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 572230,
+        "phones": {
+            "primary": "2122748888",
+            "mobile": "21998593444"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "e80dc1cb6f053f59614d5bb0df3ba370",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e80dc1cb6f053f59614d5bb0df3ba370/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "87d7e64b46d2398592a56356786fb28d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/87d7e64b46d2398592a56356786fb28d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "11bd2d97df9e5a08b67dfe73cdab254b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/11bd2d97df9e5a08b67dfe73cdab254b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dd07b845c6cc84d1bd7f82b463914368",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd07b845c6cc84d1bd7f82b463914368/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "deb79acd79556478f160354633c315c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/deb79acd79556478f160354633c315c7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "47025288a1899317b545a5b732901994",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/47025288a1899317b545a5b732901994/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c496513d27311f0ef14e9fb4a56a6fd4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c496513d27311f0ef14e9fb4a56a6fd4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "925975fc8f06c0547583183fa3a373a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/925975fc8f06c0547583183fa3a373a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2ef9c9e605af575401e0c1212be52def",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2ef9c9e605af575401e0c1212be52def/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "REAL UP IMOVEIS",
+        "href": "/572230/real-up-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 167m²",
+        "href": "/imovel/apartamento-3-quartos-botafogo-zona-sul-rio-de-janeiro-com-garagem-167m2-venda-RS3888000-id-2756416639/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Conde de Irajá",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

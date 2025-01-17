@@ -1,0 +1,241 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "KITCHEN",
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "130"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "ABNARA IMÓVEIS VENDE!<br><br> Rua Barata Ribeiro (130m²) no IPTU, boa localização, próxima ao comércio.<br><br> 1 VAGA de garagem Escriturada!!!<br><br> Apartamento Frente, Sol da Manhã, Andar Alto, composto por: 2 Salas, 3 Quartos, 2 Banheiros Sociais, Cozinha e Dependências Completas..<br><br> Agende já sua visita! Para nós é um prazer atendê-lo (a). Avaliamos seu imóvel gratuitamente, contate-nos a href=http://www.abnaraimoveis.com.br/ www.abnaraimoveis.com.br /a <br>-Cod:CPAP30807 -Rev.18Jul",
+        "title": "Apartamento - Padrão / Residencial / Copacabana",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2675384128",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22040002",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.973,
+                "approximateLon": -43.191,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Barata Ribeiro",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 1 Constante Ramos",
+                "BS:BRS 2 Bolívar",
+                "BS:BRS 2 Barão de Ipanema",
+                "BS:BRS 2 Santa Clara",
+                "BS:BRS 1 Xavier da Silveira",
+                "TS:BRS 1 Constante Ramos",
+                "TS:BRS 2 Bolívar",
+                "TS:BRS 2 Barão de Ipanema",
+                "TS:BRS 2 Santa Clara",
+                "TS:BRS 1 Xavier da Silveira",
+                "CS:Sulimar",
+                "CS:Grão da terra",
+                "CS:The Bakers",
+                "CS:Casa du bisçoito",
+                "CS:La Copa",
+                "PH:Prontofarma",
+                "PH:Drogaria Galanti",
+                "PH:Nash",
+                "PH:Viva Mais",
+                "PH:Farmácia Central Posto 6"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "CPAP30807",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "130"
+        ],
+        "advertiserId": "84149632-f393-3459-e17b-7f0523ca37af",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "195",
+                "price": "1650000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2600"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2132157564",
+                "21965602193"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21965602193",
+        "stamps": []
+    },
+    "account": {
+        "id": "84149632-f393-3459-e17b-7f0523ca37af",
+        "name": "ABNARA IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa1d28ee3c277a4ee5c386cc46a582b3/{description}.webp",
+        "licenseNumber": "006386-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 110161,
+        "phones": {
+            "primary": "2132157564",
+            "mobile": "21965602193"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "dd36421aacbf3b267b4f5d16100e285d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd36421aacbf3b267b4f5d16100e285d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e00ae54071dd9ecbdc5f5016cc621c48",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e00ae54071dd9ecbdc5f5016cc621c48/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a88b1a1c0853f04e677571567577eaba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a88b1a1c0853f04e677571567577eaba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c1f8374c3eb4140531b658c121ac298",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c1f8374c3eb4140531b658c121ac298/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c562b5be2b175de4d34acb7cd4497e4e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c562b5be2b175de4d34acb7cd4497e4e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4e8c4070c63e55fdce0d2be4defc1260",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4e8c4070c63e55fdce0d2be4defc1260/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c0ce2fb876f725f465037ad6982849c4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c0ce2fb876f725f465037ad6982849c4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ec7cf4d2c8e8ddadcaa3132d7f78ac93",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ec7cf4d2c8e8ddadcaa3132d7f78ac93/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff34f7c81e654b71e70679b229e46f23",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff34f7c81e654b71e70679b229e46f23/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c138147f29d749eee6f96ae2baf5f41",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c138147f29d749eee6f96ae2baf5f41/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "40e19e782b7c1c3aa0fb43a047919478",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40e19e782b7c1c3aa0fb43a047919478/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4061d809afaee95ac74ee77887a7fcf5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4061d809afaee95ac74ee77887a7fcf5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "27383f9006436aae04d7008783e8e1bf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/27383f9006436aae04d7008783e8e1bf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "be09c14213464badda1167c97f9e48f2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/be09c14213464badda1167c97f9e48f2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ef084a633ea27fb10375d0a106fb3571",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ef084a633ea27fb10375d0a106fb3571/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8060fbf3732b28fad7e53b3087b217a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8060fbf3732b28fad7e53b3087b217a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dba6479ec00683fa3a9e89d3a66a5ba7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dba6479ec00683fa3a9e89d3a66a5ba7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "157976696b68c8fb58daa7684c86dc34",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/157976696b68c8fb58daa7684c86dc34/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "ABNARA IMOVEIS",
+        "href": "/110161/abnara-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 130m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-130m2-venda-RS1650000-id-2675384128/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Barata Ribeiro",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

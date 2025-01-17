@@ -1,0 +1,287 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "FURNISHED",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "80"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento no bairro da Penha.<br><br> Imóvel super espaçoso.<br><br> Composto por 3 quartos amplos, sala,cozinha america com luz indireta e armários planejados ,banheiro com blindex, área de<br><br> serviço e garagem.<br><br>Imóvel todo em piso de cerâmica clara. <br> Aceitando Financiamento!!<br><br> Quer saber mais? Agende uma visita com um de nossos corretores REF: APC00149<br><br> Avaliamos seu imóvel gratuitamente.<br>-Cod:APC00148 -Rev.11Dez",
+        "title": "Excelente apartamento 3 quartos e vaga a venda na Penha RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2688688150",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21070100",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.843,
+                "approximateLon": -43.283,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Doutor Luís Gaudie Ley",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Penha",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Penha",
+            "poisList": [
+                "BS:Ponto Final: Penha :: Linhas 623 e 628",
+                "BS:Ponto Final: Penha :: Linha 313",
+                "BS:Ponto Final: Penha :: Linha 483",
+                "BS:Ponto Final: Penha :: Linha 497",
+                "BS:Ponto Regulador: Penha :: Linha 680",
+                "TS:Ponto Final: Penha :: Linhas 623 e 628",
+                "TS:Ponto Final: Penha :: Linha 313",
+                "TS:Pastor José Santos",
+                "TS:Penha",
+                "TS:Estação 1",
+                "CS:Padaria Guanabara",
+                "CS:Gênesis Gourmet",
+                "CS:Confeitaria Du Dudu",
+                "CS:Padaria Vila Real",
+                "CS:Mercadinho Transcosense",
+                "PH:Drogaria Jurema",
+                "PH:Drogaria Mais Barato"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "APC00148",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "80"
+        ],
+        "advertiserId": "5fc54e86-4006-948e-befd-5b27eb748503",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "500",
+                "price": "245000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "300"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135138671",
+                "21980917734"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21980917734",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "5fc54e86-4006-948e-befd-5b27eb748503",
+        "name": "ZA&LA IMOVEIS LTDA",
+        "licenseNumber": "06546-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 232232,
+        "phones": {
+            "primary": "2135138671",
+            "mobile": "21980917734"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "01699e3b4772b00eb3807e77fa42abe4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/01699e3b4772b00eb3807e77fa42abe4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd10a4c0162515284864cfb9902a1600",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd10a4c0162515284864cfb9902a1600/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "787cb7a2287ccaa9c4201f086e5aa5bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/787cb7a2287ccaa9c4201f086e5aa5bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3b3fc5e0247be655cf72561705b8a1b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b3fc5e0247be655cf72561705b8a1b0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "89c732069c59f462ee66dcecc17dfdde",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/89c732069c59f462ee66dcecc17dfdde/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ed428353facef72f739ff5dcaed4d2a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed428353facef72f739ff5dcaed4d2a6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c5ff5613d94c0ff668d12f23e78ffeb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c5ff5613d94c0ff668d12f23e78ffeb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "edc2cfc405327038044ad5e9a5da9c18",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/edc2cfc405327038044ad5e9a5da9c18/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d6cf8dab75f2c511adb601f54db3d7c4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d6cf8dab75f2c511adb601f54db3d7c4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3b9db07e6a34f4aa5c713edc6e8250b3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b9db07e6a34f4aa5c713edc6e8250b3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1640ae440977fbe1b1537c7dc88ae496",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1640ae440977fbe1b1537c7dc88ae496/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "098aac742cb5252c068196429b4715f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/098aac742cb5252c068196429b4715f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a8ef60898f09f4412afa84d79adfed14",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a8ef60898f09f4412afa84d79adfed14/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d12f59ef9341175f91cde5e198c8cf5c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d12f59ef9341175f91cde5e198c8cf5c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "72116e7fb06ed903366311de1d8b3020",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/72116e7fb06ed903366311de1d8b3020/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9d7f141b0c69d1f1d63e2b543b416891",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9d7f141b0c69d1f1d63e2b543b416891/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6fc23689ffc06039f94740d26f610295",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6fc23689ffc06039f94740d26f610295/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "69a5a8ce6aaddc3af5510fe0530a96fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/69a5a8ce6aaddc3af5510fe0530a96fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "005366ffa9b45895319c4b8714ecd2f1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/005366ffa9b45895319c4b8714ecd2f1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9a1d8edadc97c44d00656dcdf92500bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9a1d8edadc97c44d00656dcdf92500bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6573de1100f17b9ab1cc782f9a42984e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6573de1100f17b9ab1cc782f9a42984e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "feeea6f48e38c791a355d810c92fa8d1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/feeea6f48e38c791a355d810c92fa8d1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e78c5133833688358c64d31570d2650c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e78c5133833688358c64d31570d2650c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dd36bafd45ea199f48f8fffbc18b52ac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd36bafd45ea199f48f8fffbc18b52ac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5dbe9f5a17dc70ec1a4ae29030a2cda9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5dbe9f5a17dc70ec1a4ae29030a2cda9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3cbed8d9ffcf69bce82b0370c94763da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3cbed8d9ffcf69bce82b0370c94763da/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a841267167fc54481028dd9c63721489",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a841267167fc54481028dd9c63721489/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d99468ce7135720a674df41ceb819b49",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d99468ce7135720a674df41ceb819b49/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "ZA&LA IMOVEIS LTDA",
+        "href": "/232232/za-la-imoveis-ltda/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 80m²",
+        "href": "/imovel/apartamento-3-quartos-penha-zona-norte-rio-de-janeiro-com-garagem-80m2-venda-RS245000-id-2688688150/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Penha",
+            "state": "Rio de Janeiro",
+            "street": "Rua Doutor Luís Gaudie Ley",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

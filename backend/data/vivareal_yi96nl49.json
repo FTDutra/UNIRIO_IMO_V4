@@ -1,0 +1,274 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GARDEN",
+            "FURNISHED",
+            "AIR_CONDITIONING",
+            "ELECTRONIC_GATE",
+            "PETS_ALLOWED"
+        ],
+        "usableAreas": [
+            "90"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento de 3 quartos no Jardim Botânico, Rua Benjamim Batista com 90m2, frente, sol da manhã ao lado do Parque Lage.<br>composto com ampla sala clara e ventilada, banheiro social, 3 quartos grandes sendo 1 suíte contemporânea de 25 m2 com banheira de hidromassagem revestida em Mármore Italiano de Carrara, cozinha que pode ser integrada a sala e área de serviço. Apartamento todo reformado com hidráulica e elétrica novos. <br>Prédio Art Deco charmoso com câmeras de segurança e jardim frontal. <br>Guarita de segurança na rua 24H.<br>Agende sua visita, você vai se apaixonar.",
+        "title": "Apartamento em prédio Art Deco, com 90m² e 3 quartos com suíte.",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2740765401",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22461120",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.961,
+                "approximateLon": -43.213,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Benjamim Batista",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Jardim Botanico",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "poisList": [
+                "BS:Hospital da Lagoa",
+                "BS:Jardim Botânico",
+                "BS:Maria Angélica",
+                "BS:Humaitá",
+                "BS:Baixo Gávea",
+                "TS:Hospital da Lagoa",
+                "TS:Maria Angélica",
+                "TS:Humaitá",
+                "TS:Paineiras",
+                "TS:Cobal do Humaitá",
+                "CS:Vitória Régia",
+                "CS:A Padaria - Café Et Marché",
+                "CS:Panificação Lagoa",
+                "CS:La Bicyclette",
+                "CS:Bastarda",
+                "PH:Padrão",
+                "PH:Ric",
+                "PH:Minipreço"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "LAD 101",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "90"
+        ],
+        "advertiserId": "d036471d-81e9-953f-6220-de6d7b281ff6",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3917",
+                "price": "1400000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "910"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21999421260",
+                "21986349156"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21986349156",
+        "stamps": []
+    },
+    "account": {
+        "id": "d036471d-81e9-953f-6220-de6d7b281ff6",
+        "name": "SÓ-LAR CONSULTORIA IMOBILIÁRIA",
+        "licenseNumber": "070948-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 354950,
+        "phones": {
+            "primary": "21999421260",
+            "mobile": "21986349156"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "e46089989294d065d87f1b607138e226",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e46089989294d065d87f1b607138e226/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a6d6e2397752c343419ebd894c66411",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a6d6e2397752c343419ebd894c66411/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b428a67c180520cd525bbe57e7e72f6d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b428a67c180520cd525bbe57e7e72f6d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a51067ba913fa073158b99c21801991",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8a51067ba913fa073158b99c21801991/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0018c36a4be1a6920dcc63cadaac3be9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0018c36a4be1a6920dcc63cadaac3be9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e7a8772f3b2e220b1cfff760e1df906e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e7a8772f3b2e220b1cfff760e1df906e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca88a761b864d01df438b65e2608fc04",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca88a761b864d01df438b65e2608fc04/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d9c56effb0b7f9a5021c12439f898af",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d9c56effb0b7f9a5021c12439f898af/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "693d3e8a923202ac780afde7d5a43c03",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/693d3e8a923202ac780afde7d5a43c03/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "58bbb864ba58ba485f28a1834a4d2a1f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/58bbb864ba58ba485f28a1834a4d2a1f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2ec0cb2a837ae35f056c3851dabd8e57",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2ec0cb2a837ae35f056c3851dabd8e57/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48adece1b57088ba31833c4816d22a01",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48adece1b57088ba31833c4816d22a01/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b947b94a381c9d043649baccfdbd62cf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b947b94a381c9d043649baccfdbd62cf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f93b491a4dcb2d874fc15d06f4ecdf25",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f93b491a4dcb2d874fc15d06f4ecdf25/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1109ccc05b7d8fc473476ea0544f5056",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1109ccc05b7d8fc473476ea0544f5056/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f3b932363905dcb87c25ce5a364e8bd4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f3b932363905dcb87c25ce5a364e8bd4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2cb445c3c60087a10abb9a7639a9cd89",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2cb445c3c60087a10abb9a7639a9cd89/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2f41a377441d3eb003da5d0519a3bc3f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2f41a377441d3eb003da5d0519a3bc3f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "10b4e789d4be8eb41084ebf58108cbcc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/10b4e789d4be8eb41084ebf58108cbcc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf9696c637cd5fe9f998119381bc642e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf9696c637cd5fe9f998119381bc642e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9588746647524dcb30e0e1d2336aafe3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9588746647524dcb30e0e1d2336aafe3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "61b7a15b9493d5e841d8e8257c527852",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/61b7a15b9493d5e841d8e8257c527852/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c7f8c1ac470f832864efe0d0de08aa40",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c7f8c1ac470f832864efe0d0de08aa40/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e63432c99f3434551cb62cfb2706eef4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e63432c99f3434551cb62cfb2706eef4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0d2ef653309c9b2b695b34e1edfeb3c9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0d2ef653309c9b2b695b34e1edfeb3c9/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SÓ-LAR CONSULTORIA IMOBILIÁRIA",
+        "href": "/354950/so-lar-consultoria-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 90m²",
+        "href": "/imovel/apartamento-3-quartos-jardim-botanico-zona-sul-rio-de-janeiro-90m2-venda-RS1400000-id-2740765401/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "state": "Rio de Janeiro",
+            "street": "Rua Benjamim Batista",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

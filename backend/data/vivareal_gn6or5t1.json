@@ -1,0 +1,238 @@
+{
+    "listing": {
+        "displayAddressType": "NEIGHBORHOOD",
+        "amenities": [
+            "KITCHEN",
+            "BALCONY",
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "80"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "REALENGO - ÓTIMO APARTAMENTO TIPO CASA DUPLÉX, 3 DORMITÓRIOS, SALA COM VARANDA 2 BANHEIROS COZINHA ÁREA DE SERVIÇOS, OBSERVAÇÃO: OS QUARTOS FICAM NA PARTE DE CIMA. GARAGEM NA ESCRITURA, VISTA LIVRE LOCALIZAÇÃO PRIVILEGIADA, ÓTIMAS REDES DE ENSINO, MERCADOS E QUARTEL DO EXÉRCITO. DEVIDO A TUDO ISSO TEM UMA ÓTIMA SEGURANÇA NO ENTORNO, FARTA CONDUÇÃO E MUITO VERDE EM FRENTE AO IMÓVEL. ----------AB-DePaula IMOBILIÁRIA - Desde 1997 - SEMPRE UM BOM NEGÓCIO.<br>-Cod:ABAP30161 -Rev.11Dez",
+        "title": "REALENGO - ÓTIMO APARTAMENTO TIPO CASA DUPLÉX, 3 DORMITÓRIOS, SALA COM VARANDA 2 BANHEIROS",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2572308988",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21710261",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.876,
+                "approximateLon": -43.428,
+                "radius": 250
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Realengo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Realengo",
+            "poisList": [
+                "BS:Marechal Modestino",
+                "BS:Fumacê",
+                "BS:Ponto Final: Realengo :: Linha 383",
+                "BS:Jardim Monte Alegre",
+                "BS:Albert Schweitzer",
+                "TS:Realengo",
+                "TS:Marechal Modestino",
+                "TS:Fumacê",
+                "TS:Ponto Final: Realengo :: Linha 383",
+                "TS:Jardim Monte Alegre",
+                "SU:Elite Realengo",
+                "SU:Escola Municipal Jacques Raimundo",
+                "SU:Creche Municipal Casa de Realengo",
+                "SU:Escola Municipal Nicarágua",
+                "SU:Escola Municipal Baronesa de Saavedra",
+                "CH:Clínica da Família Armando Palhares Aguinaga",
+                "CH:Clínica da Família Faim Pedro",
+                "CH:Casa de Parto David Capistrano Filho",
+                "CH:Clínica da Família Antonio Goncalves da Silva",
+                "CH:Clínica da Família Romulo Carlos Teixeira"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "ABAP30161",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "80"
+        ],
+        "advertiserId": "267891cf-4e3e-6e5a-5bd8-0d4850637826",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "85",
+                "price": "430000",
+                "businessType": "SALE"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2133574004",
+                "21970034828"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21970034828",
+        "stamps": []
+    },
+    "account": {
+        "id": "267891cf-4e3e-6e5a-5bd8-0d4850637826",
+        "name": "AB-DEPAULA IMOBILIÁRIA LTDA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bdb7bab01f79b5218ad7f4fd7d729255/{description}.webp",
+        "licenseNumber": "006693-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 41241,
+        "phones": {
+            "primary": "2133574004",
+            "mobile": "21970034828"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "c4b830f0eca98e3589d623d0a7ee938c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c4b830f0eca98e3589d623d0a7ee938c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf6dce9be7c7a48ad406b5d4ec1bfc26",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf6dce9be7c7a48ad406b5d4ec1bfc26/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3da0599018c59f438eef5a68c7309c9f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3da0599018c59f438eef5a68c7309c9f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7555b7f09aa068a9b24ed16147cc8908",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7555b7f09aa068a9b24ed16147cc8908/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d51ae855b95a3140229feac666c3d834",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d51ae855b95a3140229feac666c3d834/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9777bf799947ae10634180ad1ec9865d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9777bf799947ae10634180ad1ec9865d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2dab0282ab82dcc60e2f5cc5b684a842",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2dab0282ab82dcc60e2f5cc5b684a842/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ad6375f69905e8d2222c239bc801852d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ad6375f69905e8d2222c239bc801852d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "872b17b9ff5ada8015ee05daceac25db",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/872b17b9ff5ada8015ee05daceac25db/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4424f74803275d865d01cc5b76f0c7d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4424f74803275d865d01cc5b76f0c7d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b5ac0563498857c8b1f3e59090bfabca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b5ac0563498857c8b1f3e59090bfabca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f1678f01a06862e260550f0a4c14b911",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f1678f01a06862e260550f0a4c14b911/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0d9a6bc6a49a6b12c604279b52dd4089",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0d9a6bc6a49a6b12c604279b52dd4089/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4e8fbe0a80264295e35fea4dc40fd15a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4e8fbe0a80264295e35fea4dc40fd15a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "179fc95b615507ef1daa643688db96a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/179fc95b615507ef1daa643688db96a6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "afea9bdd513e3acaf5a530524c1f1d7e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/afea9bdd513e3acaf5a530524c1f1d7e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc35d626ebcf62c2599fa2fb0a580c06",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc35d626ebcf62c2599fa2fb0a580c06/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "87511019ead68275d601a9590a6715fc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/87511019ead68275d601a9590a6715fc/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "AB-DEPAULA IMOBILIÁRIA LTDA",
+        "href": "/41241/ab-depaula-imobiliaria-ltda/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 80m²",
+        "href": "/imovel/apartamento-3-quartos-realengo-zona-oeste-rio-de-janeiro-com-garagem-80m2-venda-RS430000-id-2572308988/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Realengo",
+            "state": "Rio de Janeiro",
+            "street": "",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

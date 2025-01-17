@@ -1,0 +1,249 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "GARDEN",
+            "PLAYGROUND",
+            "GOURMET_BALCONY",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "TENNIS_COURT",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "CINEMA",
+            "GAMES_ROOM",
+            "ELECTRONIC_GATE",
+            "DISABLED_ACCESS",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "110"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Valor para pagamento avista.<br>Temos proposta para pagamento com financiamento.<br>Apartamento de 3 quartos no Ilha Pura.<br>Vista para o parque e montanhas.<br>Lazer completo.<br>Alto padrão de acabamento.",
+        "title": "Excelente apartamento de 3 quartos no Ilha Pura",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2600490607",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22783127",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "3200",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.418466,
+                "source": "GOOGLE",
+                "lat": -22.98989
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Salvador Allende",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:Estrada dos Bandeirantes",
+                "TS:Ilha Pura",
+                "TS:Estrada dos Bandeirantes",
+                "TS:Olof Palme",
+                "TS:Golfe Olímpico",
+                "TS:Tapebuias",
+                "CS:La Fabrica dell Pane",
+                "CS:Deli Delícia",
+                "SU:Escola Carolina Patrício",
+                "SU:Colégio Bandeiras",
+                "SU:Creche Municipal Sebastião Bernardes de Souza Prata",
+                "SU:Escola Municipal Embaixador Ítalo Zappa",
+                "SU:Faculdade e Universidade Estácio de Sá - Jacarepaguá"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "Debora - Viure",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "110"
+        ],
+        "advertiserId": "41685bf8-d53e-b198-926e-25afb3112980",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1540",
+                "price": "902000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1320"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21977379717"
+            ]
+        },
+        "videoTourLink": "https://www2.lopes.rio.br/deboranegri/",
+        "whatsappNumber": "21977379717",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "41685bf8-d53e-b198-926e-25afb3112980",
+        "name": "DANIEL BRITO IMÓVEIS",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 387238,
+        "phones": {
+            "primary": "21977379717",
+            "mobile": "21977379717"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "2b32a70900717c970aecf5210fb272f2",
+            "url": "https://www.youtube.com/watch?v=DqeSWpV-P1U",
+            "type": "VIDEO"
+        },
+        {
+            "id": "5d096c9335fb380df6856bb1e8f9592d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5d096c9335fb380df6856bb1e8f9592d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "caebf5d4d53587f1d28b4e86274ae8c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/caebf5d4d53587f1d28b4e86274ae8c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a143f956d388d4dc6531de723864fd4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a143f956d388d4dc6531de723864fd4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a8abcb8b62851aaac75bc1c5772ee6f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a8abcb8b62851aaac75bc1c5772ee6f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "709ecb975104eaa53ded39569a89888e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/709ecb975104eaa53ded39569a89888e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "998648da4cd1e5422c484e1f6cb03735",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/998648da4cd1e5422c484e1f6cb03735/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "12c340763f944d93b1dc173effc4d0a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/12c340763f944d93b1dc173effc4d0a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1ff0bd38588407b729295b2c0ba6165",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1ff0bd38588407b729295b2c0ba6165/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8512f196ee1ed3d433b6cac557fe3f76",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8512f196ee1ed3d433b6cac557fe3f76/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f6fc24cd0518d6f42ae29506ba037d88",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f6fc24cd0518d6f42ae29506ba037d88/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b7dfef9b742ec4b7197d095969ced23e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b7dfef9b742ec4b7197d095969ced23e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c0318bb36c985db31f6210f9c5f52e23",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c0318bb36c985db31f6210f9c5f52e23/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f7137cf8f0f35e09eedfc6cc00972f6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f7137cf8f0f35e09eedfc6cc00972f6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2bdb2b14f014b4f4f3a227f0eebd36e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2bdb2b14f014b4f4f3a227f0eebd36e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c60a8e254b3541fd46297701ac72dc12",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c60a8e254b3541fd46297701ac72dc12/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2d8ecaa8774b3975243343c1d7ab70eb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2d8ecaa8774b3975243343c1d7ab70eb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e922f1693f4a19c602da10ccd29c398a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e922f1693f4a19c602da10ccd29c398a/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "DANIEL BRITO IMÓVEIS",
+        "href": "/387238/daniel-brito-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 110m²",
+        "href": "/imovel/apartamento-3-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-110m2-venda-RS902000-id-2600490607/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Salvador Allende",
+            "streetNumber": "3200",
+            "zone": "Zona Oeste"
+        }
+    }
+}

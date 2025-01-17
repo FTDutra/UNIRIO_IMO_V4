@@ -1,0 +1,256 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "SEA_VIEW",
+            "AIR_CONDITIONING",
+            "CONCIERGE_24H"
+        ],
+        "usableAreas": [
+            "34"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Sala e quarto com vistão mar, ótimo estado, frente , todo piso taco, sala com vista mar, quarto separado com vista mar, banheiro suíte amplo, cozinha cabe fogão e geladeira com área de serviço acoplada. òtimo prédio com excelente apresentação, próximo atlântica, metrô e farto comércio, excelente apartamento para investir em rentabilidade na locação do mesmo. d0ceb",
+        "title": "Copacabana | Apartamento 1 quarto",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2663078084",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22061020",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.975,
+                "approximateLon": -43.188,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Bolivar",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 2 Barão de Ipanema",
+                "BS:BRS 1 Constante Ramos",
+                "BS:BRS 3 Bolivar",
+                "BS:2018",
+                "BS:BRS 1 Miguel Lemos",
+                "TS:BRS 2 Barão de Ipanema",
+                "TS:BRS 1 Constante Ramos",
+                "TS:BRS 3 Bolivar",
+                "TS:2018",
+                "TS:BRS 1 Miguel Lemos",
+                "CS:Sulimar",
+                "CS:Grão da terra",
+                "CS:The Bakers",
+                "CS:Casa du bisçoito",
+                "CS:La Copa",
+                "PH:Prontofarma",
+                "PH:Drogaria Galanti",
+                "PH:Viva Mais",
+                "PH:Nash",
+                "PH:Farmácia Central Posto 6"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "CO1AP88599",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "34"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1364",
+                "price": "749000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "900"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": []
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "a27f4e4d7d86b625ea99671775cecbf5",
+            "url": "https://www.youtube.com/watch?v=KyH6se6BJ68https://www.youtube.com/watch?v=KyH6se6BJ68",
+            "type": "VIDEO"
+        },
+        {
+            "id": "110563777c15975830156a104de2e61a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/110563777c15975830156a104de2e61a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "26c061f4608e3c2a017945a5dfdfecf7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/26c061f4608e3c2a017945a5dfdfecf7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "08306f681ec34f102482e8fd22719813",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/08306f681ec34f102482e8fd22719813/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "92d8e3c59d7c7abd814be92bec19c5f0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/92d8e3c59d7c7abd814be92bec19c5f0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f22a8e527c81d7923c007217d1fdc6d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f22a8e527c81d7923c007217d1fdc6d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "83849412c16162bc505f30d8afe3fee2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/83849412c16162bc505f30d8afe3fee2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "707c88de875a0d6f90a52439c83f1f2b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/707c88de875a0d6f90a52439c83f1f2b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "52ff00b7754aba09791ca09e32ab30be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52ff00b7754aba09791ca09e32ab30be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3edd130f0e800554f1fbdd7bb284c605",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3edd130f0e800554f1fbdd7bb284c605/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5ceba74f7e54374fca1f6ecfa3470182",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5ceba74f7e54374fca1f6ecfa3470182/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bdced247dc526722060473848b830a48",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bdced247dc526722060473848b830a48/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4fdfd8a3035b87eab6bb1f57c9c1cba5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4fdfd8a3035b87eab6bb1f57c9c1cba5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a4fb05221161207334bfc2f4a7dbc51",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a4fb05221161207334bfc2f4a7dbc51/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d0d55ea18300112663c69455cd44ff09",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d0d55ea18300112663c69455cd44ff09/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "72504aca7192097f02efeb34168f8c7d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/72504aca7192097f02efeb34168f8c7d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2a7826ea8ecf492591f16b1fc4a36b41",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a7826ea8ecf492591f16b1fc4a36b41/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "08593867d3b606b0d45fb7b41532ccb6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/08593867d3b606b0d45fb7b41532ccb6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b77c8f62817f097b697ae150a769019d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b77c8f62817f097b697ae150a769019d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b69eb6394f4470d643d56e01012c71be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b69eb6394f4470d643d56e01012c71be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "163ea3373f2e87307c75801e7581be94",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/163ea3373f2e87307c75801e7581be94/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 34m²",
+        "href": "/imovel/apartamento-1-quartos-copacabana-zona-sul-rio-de-janeiro-34m2-venda-RS749000-id-2663078084/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Bolivar",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

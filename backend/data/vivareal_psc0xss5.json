@@ -1,0 +1,338 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "GOURMET_BALCONY",
+            "BICYCLES_PLACE",
+            "DISABLED_ACCESS",
+            "COWORKING",
+            "SPA"
+        ],
+        "usableAreas": [
+            "117"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "ANÚNCIO DE CORRETOR.<br><br>Lançamento em Laranjeiras.<br>Apartamentos de 2,3 e 4 quartos, com metragens a partir de 86m² até 233m².<br>Apartamentos tipo, cobertura e Up gardens.<br>Com suíte e vaga, sem falar na área de lazer completa do condomínio.",
+        "title": "Imóvel para venda com 117 metros quadrados com 3 quartos em Laranjeiras - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2750018509",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22240004",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "230",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.187306,
+                "source": "GOOGLE",
+                "lat": -22.934046
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua das Laranjeiras",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Laranjeiras",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Laranjeiras",
+            "poisList": [
+                "BS:Rua das Laranjeiras, 336",
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Largo do Machado",
+                "BS:Rua Cosme Velho, 433",
+                "BS:Rua Monte Alegre próximo ao 342",
+                "TS:Rua das Laranjeiras, 336",
+                "TS:Largo do França",
+                "TS:Vista Alegre",
+                "TS:Flamengo",
+                "TS:Funicular RioArte",
+                "CS:Mercearia Fuji",
+                "CS:Frigorífico Palácio",
+                "CS:Panificação Aliança",
+                "CS:Mercado São José das Artes",
+                "CS:Vossa Mercê Mercearia",
+                "PH:Farmácia Pinheiro Machado",
+                "PH:RIC",
+                "PH:drogarias tambaú",
+                "PH:Bioderme",
+                "PH:Drogaria Ric"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "JChèvre-Lar",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [],
+        "advertiserId": "41685bf8-d53e-b198-926e-25afb3112980",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1",
+                "price": "1850001",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21977379717"
+            ]
+        },
+        "videoTourLink": "http://www2.lopes.rio.br/julianachevre/",
+        "whatsappNumber": "21977379717",
+        "stamps": []
+    },
+    "account": {
+        "id": "41685bf8-d53e-b198-926e-25afb3112980",
+        "name": "DANIEL BRITO IMÓVEIS",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 387238,
+        "phones": {
+            "primary": "21977379717",
+            "mobile": "21977379717"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "e765bb6729c523b6dff3b34a7903ec31",
+            "url": "https://www.youtube.com/watch?v=3wnEYCTWkyE&t=6s",
+            "type": "VIDEO"
+        },
+        {
+            "id": "777d53b51124fb9bf08a32ccc9e4ccbf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/777d53b51124fb9bf08a32ccc9e4ccbf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2c132a3a91679dfff22a3a2f6f1017ca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c132a3a91679dfff22a3a2f6f1017ca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38e1be9231196e3befff2427fca6a9ce",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38e1be9231196e3befff2427fca6a9ce/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "862e61966fb0d216cead14de663e51d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/862e61966fb0d216cead14de663e51d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ab2b27bb29ddc860603f13290070d633",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ab2b27bb29ddc860603f13290070d633/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5238d5b790f801a858298e909c4a300e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5238d5b790f801a858298e909c4a300e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5d193918aafae8cdd171428a48461d33",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5d193918aafae8cdd171428a48461d33/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2de0aff5908ef5c4e43d21d3896a53de",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2de0aff5908ef5c4e43d21d3896a53de/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "28645b32dce54d837c2956845cc19122",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/28645b32dce54d837c2956845cc19122/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1fe2d0b9758ee60cd1766a19cf6a81b6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1fe2d0b9758ee60cd1766a19cf6a81b6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f2cb054bb8c776242dc7fa55ed26934d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f2cb054bb8c776242dc7fa55ed26934d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "25f604400958c8ac3b3c16cb1730cbc8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/25f604400958c8ac3b3c16cb1730cbc8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9f4d2ad820928e3cf89ec44366743230",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9f4d2ad820928e3cf89ec44366743230/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7163cb81750a9b700794b092c0129f19",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7163cb81750a9b700794b092c0129f19/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6936aac6f5bfefdf8c37138035d570f3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6936aac6f5bfefdf8c37138035d570f3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48b8c66a92bf88e61c628ab82e6428d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48b8c66a92bf88e61c628ab82e6428d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "082555e043ba199e92f8708be33a32f2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/082555e043ba199e92f8708be33a32f2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6da8980a274e550e5a245c3778d6c99f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6da8980a274e550e5a245c3778d6c99f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "684f926811afaa8a7e2adde484c619e7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/684f926811afaa8a7e2adde484c619e7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ac972e8b385e5601fdaeed5059bef83f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ac972e8b385e5601fdaeed5059bef83f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cad8e9ce3676a3acca88d6ee0519de3e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cad8e9ce3676a3acca88d6ee0519de3e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "221faa4ea713be553ab2ccdf4ff44a6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/221faa4ea713be553ab2ccdf4ff44a6e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e661e7861d314c4b4323840eb6fa86e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e661e7861d314c4b4323840eb6fa86e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "71e95db3149749f750399369f806af2c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/71e95db3149749f750399369f806af2c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "00b9cde7d6a6418302dba31a5d5828e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/00b9cde7d6a6418302dba31a5d5828e3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9724c77775622b5b9eae78b9ce41dcc2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9724c77775622b5b9eae78b9ce41dcc2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ad7f270d524cd4f74b65264751e46564",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ad7f270d524cd4f74b65264751e46564/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5b64318978b9bfc953d4b60f5205ca57",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b64318978b9bfc953d4b60f5205ca57/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b16aab8538583d8c38df52d31929c5ab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b16aab8538583d8c38df52d31929c5ab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4fa99f3e09bc04b22e68a4d046f50c97",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4fa99f3e09bc04b22e68a4d046f50c97/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "95e0dafa4dc2eb2935dbf7e5f2d6b8cc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/95e0dafa4dc2eb2935dbf7e5f2d6b8cc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b499bf9addabd1cf432186952988deee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b499bf9addabd1cf432186952988deee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "637a0ae2103c1a83f9e125c6b09982f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/637a0ae2103c1a83f9e125c6b09982f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "00b8af2908878cc097ab60241b1e4beb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/00b8af2908878cc097ab60241b1e4beb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8844ec41fd8901641fa80b895a57db56",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8844ec41fd8901641fa80b895a57db56/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "be3bc2059185c42ec3ed3be81630fce9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/be3bc2059185c42ec3ed3be81630fce9/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "DANIEL BRITO IMÓVEIS",
+        "href": "/387238/daniel-brito-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 117m²",
+        "href": "/imovel/apartamento-3-quartos-laranjeiras-zona-sul-rio-de-janeiro-com-garagem-117m2-venda-RS1850001-id-2750018509/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Laranjeiras",
+            "state": "Rio de Janeiro",
+            "street": "Rua das Laranjeiras",
+            "streetNumber": "230",
+            "zone": "Zona Sul"
+        }
+    }
+}

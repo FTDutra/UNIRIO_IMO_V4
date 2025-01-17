@@ -1,0 +1,295 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "GOURMET_SPACE",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "KITCHEN",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "46"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente oportunidade! Este apartamento residencial possui uma sala em dois ambientes, dois dormitórios espaçosos, cozinha planejada com área de serviço acoplada, banheiro modernizado, com box blindex e armário, além de uma vaga de garagem. Vista interna privilegiada, reservada, com sol da manhã.<br><br> O condomínio oferece uma infraestrutura completa com: piscina, churrasqueira, quadra esportiva, salão de festas, play ground, câmeras de vigilância e porteiro 24 horas, garantindo segurança e lazer para toda a família.<br><br> Não perca a oportunidade de morar em um lugar com tantos benefícios! Entre em contato para mais informações e agende uma visita!<br><br> Aceita financiamento bancário.<br>-Cod:ACAP20676 -Rev.11Dez",
+        "title": "Ótimo apartamento com dois quartos em condomínio com total infraestrutura!",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2749828594",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21012065",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.815,
+                "approximateLon": -43.29,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Avenida Brasil",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Parada de Lucas",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Cordovil",
+            "poisList": [
+                "BS:Cidade Alta",
+                "BS:Mercado São Sebastião",
+                "TS:Cidade Alta",
+                "TS:Mercado São Sebastião",
+                "TS:Parada de Lucas",
+                "TS:Cordovil",
+                "TS:Brás de Pina",
+                "CS:Padaria Guanabara",
+                "PH:Carioca",
+                "PH:Drogaria Estrela D'alva",
+                "PH:TopFarma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "ACAP20676",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "46"
+        ],
+        "advertiserId": "646f71b9-df41-dd23-0896-f55aedc267de",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "price": "195000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "370"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2124297522",
+                "21984722330"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21984722330",
+        "stamps": []
+    },
+    "account": {
+        "id": "646f71b9-df41-dd23-0896-f55aedc267de",
+        "name": "Assunção & Cardim Corretores de Imóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56fbdc49f6ea6b8c699a7e53602cfae6/{description}.webp",
+        "licenseNumber": "41203-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 57943,
+        "phones": {
+            "primary": "2124297522",
+            "mobile": "21984722330"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "4f45142cd1e7f8ea05223cf14c7483a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f45142cd1e7f8ea05223cf14c7483a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7e239827bf706dd8b4aa9a3d287ed3f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7e239827bf706dd8b4aa9a3d287ed3f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aed68fdcd7bdfb7860e918a7602be39a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aed68fdcd7bdfb7860e918a7602be39a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b3b578236aead6eb297857e105f17b47",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b3b578236aead6eb297857e105f17b47/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "37dfdf397f6f959ed9a4a8ec76fa588d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/37dfdf397f6f959ed9a4a8ec76fa588d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c046f7b4af09387d61b63a0156b84584",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c046f7b4af09387d61b63a0156b84584/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "faefdcfb589aaec1514c7136e7ab108b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/faefdcfb589aaec1514c7136e7ab108b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e1103fa016ce36766437466b2a20dd8f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e1103fa016ce36766437466b2a20dd8f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2ff39808d4fb50a8098c1947347624c8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2ff39808d4fb50a8098c1947347624c8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c55c51d0d4ca8a08e65708c40f7f6fc6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c55c51d0d4ca8a08e65708c40f7f6fc6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9a44c94b77a3bbb2e86ea4ff6b000461",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9a44c94b77a3bbb2e86ea4ff6b000461/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fae1136c34be50343376f3dfbda020fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fae1136c34be50343376f3dfbda020fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2903275cc553b98e20e188b02b53413b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2903275cc553b98e20e188b02b53413b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d8e3ba8004c4aa776359fcaa002c9150",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8e3ba8004c4aa776359fcaa002c9150/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ae8cca12d4771120623e888549bde195",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae8cca12d4771120623e888549bde195/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "279976cef6c15c4791eba4202465c579",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/279976cef6c15c4791eba4202465c579/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "33b81d326f19a5eb899c8a17c1c0687c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/33b81d326f19a5eb899c8a17c1c0687c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e900837acfbb00ec2da1e43cbe77f149",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e900837acfbb00ec2da1e43cbe77f149/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ef26d94274ab0bf273674c960fc9a44a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ef26d94274ab0bf273674c960fc9a44a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f9ac1e4910fbfe49bc6b3f57a4a5259",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f9ac1e4910fbfe49bc6b3f57a4a5259/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e65c2641a9dcd59fbfd2d81fbb3be8d8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e65c2641a9dcd59fbfd2d81fbb3be8d8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5442d164e612d63b92c1a7d72f2eb540",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5442d164e612d63b92c1a7d72f2eb540/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e3e382575c2322df30ab866c576c513e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e3e382575c2322df30ab866c576c513e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38a47b4c637af8301cef917785614c1c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38a47b4c637af8301cef917785614c1c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "63a25130c6cbef4004c49797cd906105",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/63a25130c6cbef4004c49797cd906105/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "70894cfea4f26d29c1f0eee40714f8b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/70894cfea4f26d29c1f0eee40714f8b5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0972a6df3156ff206bb5a3cd17794190",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0972a6df3156ff206bb5a3cd17794190/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "57217e9e7ef158aee7c5d0add8c3098c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/57217e9e7ef158aee7c5d0add8c3098c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "05d82eed3265722a324f81f33e8d19f5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/05d82eed3265722a324f81f33e8d19f5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "edf7b4ebcef1ecb724f5e04b1b0c15fc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/edf7b4ebcef1ecb724f5e04b1b0c15fc/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Assunção & Cardim Corretores de Imóveis",
+        "href": "/57943/assuncao-cardim-corretores-de-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 46m²",
+        "href": "/imovel/apartamento-2-quartos-parada-de-lucas-zona-norte-rio-de-janeiro-com-garagem-46m2-venda-RS195000-id-2749828594/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Parada de Lucas",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Brasil",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

@@ -1,0 +1,265 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "GARAGE",
+            "GARDEN",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "CONCIERGE_24H",
+            "LARGE_KITCHEN",
+            "LARGE_WINDOW",
+            "INTEGRATED_ENVIRONMENTS",
+            "WATCHMAN",
+            "SAFETY_CIRCUIT",
+            "PAVED_STREET"
+        ],
+        "usableAreas": [
+            "47"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Maravilhoso apartamento no Colinas. Constituído de: Sala piso duraflor, 2 quartos piso durafloor com armários embutidos, banheiro decorado com gabinete e blindex, cozinha azulejada ao teto, toda decorada com pastilhas e armários planejados, área de serviço e vaga escriturada.<br><br>O condomínio oferece uma infraestrutura com piscina, churrasqueira, salão de festas, playground, portaria 24 horas, parquinho e acesso para pedestre pela rua Monteiro da Luz.<br><br>Ótima localização a 10 minutos do Méier, próximo ao posto de saúde, escolas, igrejas, comércio e condução, entrada para linha amarela. 5722c",
+        "title": "Engenho de Dentro | Apartamento 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2629971092",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20745100",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.904,
+                "approximateLon": -43.307,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Borja Reis",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Engenho De Dentro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Engenho de Dentro",
+            "poisList": [
+                "BS:Ponto Final: Água Santa :: Linha 239",
+                "BS:Ponto Final: Água Santa :: Linha 238",
+                "BS:Ponto Final: Camarista Méier :: Linha 247",
+                "BS:606 - Engenho de Dentro x Rodoviária",
+                "BS:Ponto Final: Méier :: Linha 679",
+                "TS:Ponto Final: Água Santa :: Linha 239",
+                "TS:Ponto Final: Água Santa :: Linha 238",
+                "TS:Ponto Final: Camarista Méier :: Linha 247",
+                "TS:Piedade",
+                "TS:606 - Engenho de Dentro x Rodoviária",
+                "CS:Irmãos Paulo e Luiz",
+                "CS:Mais Você",
+                "CS:Papeleria - Bazar - Lanches O Limao",
+                "CS:Panificadora Aquidabã",
+                "PH:Drogaria Atração do Méier"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "AP20416",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "47"
+        ],
+        "advertiserId": "8c3933ab-3821-6adf-b230-951afdfd05f7",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "215000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "414"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21967741221"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21967741221",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_FEVEREIRO_2024",
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "8c3933ab-3821-6adf-b230-951afdfd05f7",
+        "name": "VIVAX PRIME IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2768a51ef6a019eb5a5f56cb4276035/{description}.webp",
+        "licenseNumber": "9577-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 787728,
+        "phones": {
+            "primary": "21967741221",
+            "mobile": "21967741221"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "ea67bb11027667d5060bf1082af92598",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ea67bb11027667d5060bf1082af92598/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9f3f9c257364bd48c7fb3d2bb8e7d9ed",
+            "url": "https://www.youtube.com/watch?v=9ogtrTqUwVA",
+            "type": "VIDEO"
+        },
+        {
+            "id": "6aff4c11b71293d57b6afba6f2c3548c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6aff4c11b71293d57b6afba6f2c3548c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7da1c556e56e108437d1a8927ee2bee3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7da1c556e56e108437d1a8927ee2bee3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "922c2cf84d4a3d70cdf58f56d2b0112f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/922c2cf84d4a3d70cdf58f56d2b0112f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f831480ab4001e0b5cc92c353e219296",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f831480ab4001e0b5cc92c353e219296/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "56dd54319b7e470e7886a784b400b248",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56dd54319b7e470e7886a784b400b248/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2256878a54988812a6a69a64b83c9aab",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2256878a54988812a6a69a64b83c9aab/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "60f037dd75e09b5880eefaee2b64bc12",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60f037dd75e09b5880eefaee2b64bc12/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd94f08918bd85e0d34ce7ff072958fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd94f08918bd85e0d34ce7ff072958fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "19f01e7328d0e81cb83ba4c9783198fc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/19f01e7328d0e81cb83ba4c9783198fc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "58683e18c3c627bbe2001cb445a62ec0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/58683e18c3c627bbe2001cb445a62ec0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bcece49ebe5241ae20d93f4df368751e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bcece49ebe5241ae20d93f4df368751e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48287c8277f7c04221bc32ebd504faa7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48287c8277f7c04221bc32ebd504faa7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "15e176c061d5e00d249e83f2aa7a14ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/15e176c061d5e00d249e83f2aa7a14ff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d9e5e3521df0c7f40c312a79a2484e06",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d9e5e3521df0c7f40c312a79a2484e06/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2f0b888246c722575aa151a84fb2f476",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2f0b888246c722575aa151a84fb2f476/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8981ec76452cea411bc176bd9a29db9d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8981ec76452cea411bc176bd9a29db9d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8542b5412fbeee027826ab83ec512dec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8542b5412fbeee027826ab83ec512dec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "267b93dd3c6683fd447cb2f3d62f463d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/267b93dd3c6683fd447cb2f3d62f463d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "13154f520269a7eecf33a51d745051a1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/13154f520269a7eecf33a51d745051a1/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "VIVAX PRIME IMÓVEIS",
+        "href": "/787728/vivax-prime-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 47m²",
+        "href": "/imovel/apartamento-2-quartos-engenho-de-dentro-zona-norte-rio-de-janeiro-com-garagem-47m2-venda-RS215000-id-2629971092/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Engenho De Dentro",
+            "state": "Rio de Janeiro",
+            "street": "Rua Borja Reis",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

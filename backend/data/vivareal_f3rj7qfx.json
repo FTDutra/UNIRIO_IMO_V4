@@ -1,0 +1,329 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GARDEN",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "DISABLED_ACCESS",
+            "ELECTRONIC_GATE",
+            "GAMES_ROOM",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "100"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Condomínio Mundo Novo - Ed. CIELO VITA - VISTA MAR - Apartamento com 100 m², sol da manhã, 2 suítes. Sala ampla, lavabo, cozinha com armários, área de serviço com banheiro de serviço, 1 vaga de garagem. Condomínio incluído clube, ônibus, balsa.<br>Infraestrutura no condomínio churrasqueira, salão de festa, academia<br>piscina e sauna.<br>Próximo aos shoppings Vogue, Rio Design, mercado, fármacia.",
+        "title": "Apartamento duplex pra venda com 100 metros quadrados e 2 quartos na Barra da Tijuca -",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [
+            "DUPLEX"
+        ],
+        "id": "2718279510",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22793084",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "53",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.392611,
+                "source": "GOOGLE",
+                "lat": -23.001832
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Praça Antônio Callado",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "TS:Americas Park",
+                "TS:Santa Mônica Jardins",
+                "TS:Novo Leblon",
+                "TS:Riomar",
+                "TS:Bosque da Barra",
+                "CS:Barra Bakery",
+                "CS:Bolos da Cecília",
+                "PH:Homeonatus Farmácia Homeopática",
+                "CH:Barra Baby",
+                "CH:DraTania Koutsoukos DraMarcia Weiland",
+                "CH:Oftalmo Clínica Pinho",
+                "CH:Dra Elizabeth Maria Ribeiro",
+                "CH:Dr Orlando Silva Telles"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "MN2.CV",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "100"
+        ],
+        "advertiserId": "6cb78793-cc5c-18d4-6104-334bee1f0b9b",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "340",
+                "price": "1199000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1741"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21982874400"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21982874400",
+        "stamps": []
+    },
+    "account": {
+        "id": "6cb78793-cc5c-18d4-6104-334bee1f0b9b",
+        "name": "Imóveis Barra da Tijuca",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 608321,
+        "phones": {
+            "primary": "21982874400",
+            "mobile": "21982874400"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "a882ab6855bd724de31a520a3f20d7af",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a882ab6855bd724de31a520a3f20d7af/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "560ba2083dd0c45a5ed12b1bcfc20c78",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/560ba2083dd0c45a5ed12b1bcfc20c78/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a4894d37fc3448ce520b44f95493fc6c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4894d37fc3448ce520b44f95493fc6c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "486c5dd3d59e46339806cc97a7672640",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/486c5dd3d59e46339806cc97a7672640/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff34d0e650e7059058490cd8b6cfecfe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff34d0e650e7059058490cd8b6cfecfe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cc73480d00838fb7384e1272359ab34a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cc73480d00838fb7384e1272359ab34a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a1b28d4b6f83b65f1ab977a3b68f913",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a1b28d4b6f83b65f1ab977a3b68f913/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b5a5732bb0849616cbd8f4fda4d0a1d8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b5a5732bb0849616cbd8f4fda4d0a1d8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4cadb7e52470c5b9c81e51b2ae0a5af5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4cadb7e52470c5b9c81e51b2ae0a5af5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "351d47e6a55692755b948b18a9d047b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/351d47e6a55692755b948b18a9d047b5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4d98f09f1763d136a1c93da076c8c4fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4d98f09f1763d136a1c93da076c8c4fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1cee1d6fcdc64b160baa5e6b4a6dbec9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1cee1d6fcdc64b160baa5e6b4a6dbec9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42d30377254b323386ade3bfe00a0654",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42d30377254b323386ade3bfe00a0654/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "16c071e6b70c2e8fad5a2cbfaa683ca5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/16c071e6b70c2e8fad5a2cbfaa683ca5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5acd95f5ece9d811ce647a7d2398fcc8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5acd95f5ece9d811ce647a7d2398fcc8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d056a35279361cb7831ca34fe78f7aa0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d056a35279361cb7831ca34fe78f7aa0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5802e74d216ef4afea6e26c3f0369e2a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5802e74d216ef4afea6e26c3f0369e2a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c104ec9ec9a911eeeb5dde0462f57038",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c104ec9ec9a911eeeb5dde0462f57038/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2a7965b00fb144e2f21a6941fdf4078f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a7965b00fb144e2f21a6941fdf4078f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e28418d55f0d4404fda4a0edd664d836",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e28418d55f0d4404fda4a0edd664d836/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "455ad4d0987b703fc4587902f49e44bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/455ad4d0987b703fc4587902f49e44bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f04600248f3863164f12aa75f51b5a2b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f04600248f3863164f12aa75f51b5a2b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c91484d40ab0de2b52de384a8226adec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c91484d40ab0de2b52de384a8226adec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a2ca4c21eaff88c24a5eeb70eeee6cdf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a2ca4c21eaff88c24a5eeb70eeee6cdf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c3f6edd401ea2162f0eedda38c36abc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c3f6edd401ea2162f0eedda38c36abc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6db9585f38c0c5401b428892d9393c99",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6db9585f38c0c5401b428892d9393c99/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5884a530bd5139d263f32d974d037e2b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5884a530bd5139d263f32d974d037e2b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cae74d3941169119aa0ad36176436111",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cae74d3941169119aa0ad36176436111/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8fa1c3f610cda8e04622bed9c3908834",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8fa1c3f610cda8e04622bed9c3908834/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8c816c637c9a32a515c9e608151577e4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8c816c637c9a32a515c9e608151577e4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d9154b72b570b5396febdc517168ba6b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d9154b72b570b5396febdc517168ba6b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f125d1390f7b21b67608fc45b9f0ec50",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f125d1390f7b21b67608fc45b9f0ec50/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5fb2ecc9f65fcb15c5af15200b1e5e35",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5fb2ecc9f65fcb15c5af15200b1e5e35/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4fb78149041b7d4e37a982027704a33a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4fb78149041b7d4e37a982027704a33a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "04b54d2ef0f28ace942604f7bdac00e2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/04b54d2ef0f28ace942604f7bdac00e2/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Imóveis Barra da Tijuca",
+        "href": "/608321/imoveis-barra-da-tijuca/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 100m²",
+        "href": "/imovel/apartamento-2-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-100m2-venda-RS1199000-id-2718279510/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Praça Antônio Callado",
+            "streetNumber": "53",
+            "zone": "Zona Oeste"
+        }
+    }
+}

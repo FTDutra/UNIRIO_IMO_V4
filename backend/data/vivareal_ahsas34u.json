@@ -1,0 +1,249 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "PARTY_HALL",
+            "CONCIERGE_24H",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "40"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento, lateral, claro e arejado. Composto de varanda, 1 quarto, sala, cozinha, área, banheiro e 1 vaga na escritura. Hidrômetro individualizado. Prédio com portaria 24 horas, 2 elevadores, salão de festas, espaço gourmet, brinquedoteca, câmeras, academia. Localizado em rua residencial, próximo a escolas, comércio e condução.",
+        "title": "RIACHUELO - RUA VITOR MEIRELES",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2611262088",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20950230",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "185",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.257606,
+                "source": "GOOGLE",
+                "lat": -22.903457
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Vítor Meireles",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Riachuelo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Riachuelo",
+            "poisList": [
+                "BS:BRS 3 4 5 6 - Vitor Meireles",
+                "BS:Ponto Final: Engenho Novo :: Linha 650",
+                "BS:Ponto Final 438",
+                "BS:Ponto Final 433",
+                "BS:Ponto Final: Triagem :: Linhas 471 e 472",
+                "TS:BRS 3 4 5 6 - Vitor Meireles",
+                "TS:Riachuelo",
+                "TS:Sampaio",
+                "TS:Ponto Final: Engenho Novo :: Linha 650",
+                "TS:Engenho Novo",
+                "CS:Padaria Principal",
+                "CS:Hortifruti Kilo Frut",
+                "CS:Panificação Recreio do Cruzeiro",
+                "CS:Padaria Abaeté",
+                "CS:Mercado de Carnes Coração da Vila",
+                "PH:Drogaria MEP",
+                "PH:Farma Dez"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "JJLT3V",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [],
+        "advertiserId": "d6b9df0d-6c83-f77c-7a9a-638289d4fb73",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "175000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "470"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21993587660"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21993587660",
+        "stamps": []
+    },
+    "account": {
+        "id": "d6b9df0d-6c83-f77c-7a9a-638289d4fb73",
+        "name": "Gaspar Imoveis Assessoria Imobiliaria Ltda",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e433bf8ca0c23ef6e1ccc61821cedec1/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 723841,
+        "phones": {
+            "primary": "21993587660",
+            "mobile": "21993587660"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "3c8453e8ab53045d913a0b9639ebfe2c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c8453e8ab53045d913a0b9639ebfe2c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38702848380b4a5026ea8715b753c248",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38702848380b4a5026ea8715b753c248/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9567fd8f3bb53474d12ea8d5611ce52",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9567fd8f3bb53474d12ea8d5611ce52/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "76e73b13653f41514d6846aaab7fe742",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/76e73b13653f41514d6846aaab7fe742/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "85e1175b9f930c090f6ddd13eb7a6b39",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/85e1175b9f930c090f6ddd13eb7a6b39/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "baa3633531c4c30c1e8dde1f18f810f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/baa3633531c4c30c1e8dde1f18f810f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a7559489ce46b46df34dce5d6c78b235",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a7559489ce46b46df34dce5d6c78b235/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a9365066514d507c3d1818270c22f8a9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a9365066514d507c3d1818270c22f8a9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd88d6bf93405d438a005fc78f536617",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd88d6bf93405d438a005fc78f536617/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bf5e22ccdc188fa366f21688348a6ef5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bf5e22ccdc188fa366f21688348a6ef5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bedf486e7ccbe3aaac58ed49d7459d63",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bedf486e7ccbe3aaac58ed49d7459d63/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "99e027cd3e2ca6727229cf26c179eb05",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/99e027cd3e2ca6727229cf26c179eb05/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "14d1b3362e4dc4b22b6c167b3c7090d0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/14d1b3362e4dc4b22b6c167b3c7090d0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a134360c00867acf461e583d34c1d4a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8a134360c00867acf461e583d34c1d4a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f2dd8c74a1de87a13a5c0e7a70f2fc9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f2dd8c74a1de87a13a5c0e7a70f2fc9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb0038f53de9d4488ec7e9be7d6c7f83",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb0038f53de9d4488ec7e9be7d6c7f83/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "97bcf0ee7ea267b16ee77b9b9b6ed985",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/97bcf0ee7ea267b16ee77b9b9b6ed985/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb35f7dd04da5c0d92cd63d256c941ca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb35f7dd04da5c0d92cd63d256c941ca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7bf8bbce68b4c755a70136fec73e808a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7bf8bbce68b4c755a70136fec73e808a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "baea49d0ad6fdfdf6908cc914a98c08e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/baea49d0ad6fdfdf6908cc914a98c08e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "221547b209b21d6372673e2aa3aea0b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/221547b209b21d6372673e2aa3aea0b5/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Gaspar Imoveis Assessoria Imobiliaria Ltda",
+        "href": "/723841/gaspar-imoveis-assessoria-imobiliaria-ltda/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 40m²",
+        "href": "/imovel/apartamento-1-quartos-riachuelo-zona-norte-rio-de-janeiro-com-garagem-40m2-venda-RS175000-id-2611262088/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Riachuelo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Vítor Meireles",
+            "streetNumber": "185",
+            "zone": "Zona Norte"
+        }
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR"
+        ],
+        "usableAreas": [
+            "89"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento em prédio novo com excelente localização em Ipanema. Se divide em sala ampla integrada a varanda com cortina de vidro, duas suítes sendo uma delas com varanda privativa, lavabo, cozinha planejada e área de serviço. Prédio com infraestrutura de lazer, circuito interno de TV e portaria 24 horas.<br> (Atualizado em: . Veja outros imóveis em nosso site: farinelli.com.br)",
+        "title": "Apartamento em prédio novo com excelente localização em Ipanema.",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2688969476",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22411002",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.983,
+                "approximateLon": -43.205,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Barão da Torre",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Ipanema",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "poisList": [
+                "BS:BRS 2: Joana Angélica",
+                "BS:BRS 2 Farme de Amoedo",
+                "BS:BRS 1/3 Teixeira de Melo",
+                "BS:Ponto Final: General Osório :: Rua Teixeira de Melo",
+                "BS:BRS 2: General Osório",
+                "TS:Joana Angélica",
+                "TS:Nossa Senhora da Paz",
+                "TS:Nossa Senhora da Paz / Ipanema",
+                "TS:Maria Quitéria",
+                "TS:BRS 2: Joana Angélica",
+                "CS:Confeitaria Ipanema",
+                "CS:TECNOMEDI IPANEMA",
+                "CS:Armazém do Café",
+                "CS:Chocolate Brasil Cacau",
+                "CS:Terra Mineira",
+                "PH:Drogaria Pop",
+                "PH:Farmácia Central Posto 6",
+                "PH:Viva Mais",
+                "PH:Prontofarma",
+                "PH:Drogasmil"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "10975",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "89"
+        ],
+        "advertiserId": "7c67123f-4f53-936a-04fc-9ea3e3a2bb09",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "850",
+                "price": "2500000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "3200"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2121430303",
+                "21964648447"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964648447",
+        "stamps": []
+    },
+    "account": {
+        "id": "7c67123f-4f53-936a-04fc-9ea3e3a2bb09",
+        "name": "Farinelli Imobiliária Boutique",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fee7904892fcdc4f41836b1e361a0603/{description}.webp",
+        "licenseNumber": "06716-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 103641,
+        "phones": {
+            "primary": "2121430303",
+            "mobile": "21964648447"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "58aabd6da76c38efa84cdb53a5d2af61",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/58aabd6da76c38efa84cdb53a5d2af61/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1cdab4b85d17e4192d141a200066572f",
+            "url": "https://www.youtube.com/watch?v=W4JtGaPt5fA",
+            "type": "VIDEO"
+        },
+        {
+            "id": "2c2b05975f3ed70e04af84fe4f588174",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c2b05975f3ed70e04af84fe4f588174/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a80d292769ecc090f56980ef7a2d1cb4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a80d292769ecc090f56980ef7a2d1cb4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c84e3facfe05663937496fa4f1c7de37",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c84e3facfe05663937496fa4f1c7de37/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a42ac8a321b56b5cb00be6fa7c5bf02c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a42ac8a321b56b5cb00be6fa7c5bf02c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "de175dd154a639ceb634b4c0cd342407",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/de175dd154a639ceb634b4c0cd342407/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "521cb0ab5b06a9ee1365d2de75783e82",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/521cb0ab5b06a9ee1365d2de75783e82/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a9ce7b8d3b65ba76c9d82906e764f668",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a9ce7b8d3b65ba76c9d82906e764f668/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bcc39ae2e5737ccc8de72e8fc3982293",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bcc39ae2e5737ccc8de72e8fc3982293/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48ded24ef6e7dce9a56dfc55d4af4c31",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48ded24ef6e7dce9a56dfc55d4af4c31/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "add5fb62f41e4494f973a2f429948265",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/add5fb62f41e4494f973a2f429948265/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c919240a18209a0e6ad77040ccdbe6f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c919240a18209a0e6ad77040ccdbe6f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f0cb959ac9054106001b5f6183159737",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f0cb959ac9054106001b5f6183159737/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b0af3aa691b9be97ada25519e76a7fd0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b0af3aa691b9be97ada25519e76a7fd0/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Farinelli Imobiliária Boutique",
+        "href": "/103641/farinelli-imobiliaria-boutique/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 89m²",
+        "href": "/imovel/apartamento-2-quartos-ipanema-zona-sul-rio-de-janeiro-com-garagem-89m2-venda-RS2500000-id-2688969476/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "state": "Rio de Janeiro",
+            "street": "Rua Barão da Torre",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

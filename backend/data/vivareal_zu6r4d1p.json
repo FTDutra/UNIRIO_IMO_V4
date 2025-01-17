@@ -1,0 +1,300 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "BALCONY",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "HEATING",
+            "WATCHMAN",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "193"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Cobertura de 3 quartos em Copacabana disponível para venda na Privilégio Imóveis: Excelente cobertura duplex no posto 5 em Copacabana. Vista mar. No primeiro andar com varanda, sala em 2 ambientes, suíte, lavabo, copa cozinha com armários e dependência completa, e área de serviço. Segundo andar com hall, 2 suítes. Claro e arejado, piso em taboa corrida. Portaria 24h com elevador privativo. Confira! Agende já sua visita. <br>Os valores poderão sofrer alterações sem aviso prévio. Fale conosco: .",
+        "title": "Excelente Cobertura Dupelx 3 quartos em Copacabana Vista mar",
+        "unitTypes": [
+            "PENTHOUSE"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2664217962",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22071000",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.978,
+                "approximateLon": -43.189,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Miguel Lemos",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 1 Miguel Lemos",
+                "BS:BRS 3 Bolivar",
+                "BS:BRS 2 Djalma Ulrich",
+                "BS:BRS 1 Sá Ferreira",
+                "BS:BRS 2 Barão de Ipanema",
+                "TS:BRS 1 Miguel Lemos",
+                "TS:BRS 3 Bolivar",
+                "TS:BRS 2 Djalma Ulrich",
+                "TS:BRS 1 Sá Ferreira",
+                "TS:BRS 2 Barão de Ipanema",
+                "CS:Sulimar",
+                "CS:Casa du bisçoito",
+                "CS:Lopes",
+                "CS:Grão da terra",
+                "CS:The Bakers",
+                "PH:Prontofarma",
+                "PH:Viva Mais",
+                "PH:Drogaria Galanti",
+                "PH:Farmácia Central Posto 6",
+                "PH:Drogaria Pop"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            3
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "7751",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "220"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "8680",
+                "price": "2200000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2700"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "c06d06727f7d27540002356fcc05edf5",
+            "url": "https://www.youtube.com/embed/sXGVoGwG-YA",
+            "type": "VIDEO"
+        },
+        {
+            "id": "98dc1092e5c5469fcb8cfbfddc4d9cc6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98dc1092e5c5469fcb8cfbfddc4d9cc6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8b45e3b7e156c875f2005a5c8a258d4c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8b45e3b7e156c875f2005a5c8a258d4c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf652e3aecdca3fd7530f78f9cab5d55",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf652e3aecdca3fd7530f78f9cab5d55/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e35c3451818905c6ea7611d461c2d4e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e35c3451818905c6ea7611d461c2d4e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7ca122ff5519eb733d8f18236c5e4816",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7ca122ff5519eb733d8f18236c5e4816/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "342864e5eeb6d323eb14f9ae73d68638",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/342864e5eeb6d323eb14f9ae73d68638/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e463ef1e7af82bd71410d49cb7753aa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e463ef1e7af82bd71410d49cb7753aa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "adde5dc8a28e9ad2e91d03d3a9916b0c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/adde5dc8a28e9ad2e91d03d3a9916b0c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "43d58f06ad90d2caf39f072a7b8bc669",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/43d58f06ad90d2caf39f072a7b8bc669/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5d67baf7cf914dc6eb8a1b3648083c97",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5d67baf7cf914dc6eb8a1b3648083c97/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dfc84452488d8c4b17c64b8139c57bd8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dfc84452488d8c4b17c64b8139c57bd8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f6b7789817600892227b6d4e7078894b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f6b7789817600892227b6d4e7078894b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9036d0496ff0d5a8f0b8d4531672f480",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9036d0496ff0d5a8f0b8d4531672f480/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4fd08043c0bcb87eb7147709277621d4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4fd08043c0bcb87eb7147709277621d4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "efce6177ffcfe5eaa5aa2cb48a6d759c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/efce6177ffcfe5eaa5aa2cb48a6d759c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b95ab37e6f519ef0caa1b6cdde75bd6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b95ab37e6f519ef0caa1b6cdde75bd6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f1eef56a6d9dbb5154fea6979344173",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f1eef56a6d9dbb5154fea6979344173/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "93138314a92ee675fa3c6d3aee70c8a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/93138314a92ee675fa3c6d3aee70c8a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "92eea537f9516e627359dc746d58548c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/92eea537f9516e627359dc746d58548c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd215bad8d477c7911c2b92a93803970",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd215bad8d477c7911c2b92a93803970/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2d6d8af601f208f97a126869d3dd6dc3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2d6d8af601f208f97a126869d3dd6dc3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "94f1f3c69daee2c29aaf914b1cee0317",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/94f1f3c69daee2c29aaf914b1cee0317/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6d29a3dc9f5ddb0ad825301cb9550082",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6d29a3dc9f5ddb0ad825301cb9550082/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "70ddd6c6b126b92241e9239f9831b581",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/70ddd6c6b126b92241e9239f9831b581/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81e04eb62cb3704beffc4d0433bcdd72",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81e04eb62cb3704beffc4d0433bcdd72/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ddf1f7818035cb1d36ef14b143659be4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ddf1f7818035cb1d36ef14b143659be4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "63849ecf7c7aee4ad309c96779a11403",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/63849ecf7c7aee4ad309c96779a11403/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5a78bda7986c1876e229b3e161835e41",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5a78bda7986c1876e229b3e161835e41/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Cobertura com 3 Quartos à venda, 193m²",
+        "href": "/imovel/cobertura-3-quartos-copacabana-zona-sul-rio-de-janeiro-193m2-venda-RS2200000-id-2664217962/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Miguel Lemos",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

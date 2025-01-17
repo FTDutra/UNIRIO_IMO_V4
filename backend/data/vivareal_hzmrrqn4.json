@@ -1,0 +1,305 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [],
+        "usableAreas": [
+            "97"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "EXCELENTE apartamento no Maracanã na Rua São Francisco Xavier. Salão com 2 ambientes, 3 quartos, sendo 1 suíte com armário embutido, banheiro social, cozinha plana com armários, área de serviço e dependência de empregada completa. Ótima localização, vasto comércio, condução para vários, próximo ao Colégio Militar e metrô. Contate-nos e agende sua visita pelo WhatsApp . -",
+        "title": "Apartamento com 3 dormitórios à venda, 97 m² por R$ 600.000,00 - Maracanã - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2634138762",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20550015",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "395",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.231894,
+                "source": "GOOGLE",
+                "lat": -22.915966
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua São Francisco Xavier",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Maracana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Maracanã",
+            "poisList": [
+                "BS:P6: Jaceguaí",
+                "BS:P8: Barão de Mesquita",
+                "BS:P9: Moraes e Silva",
+                "BS:Ponto Final: Saens Peña :: Linha 665",
+                "BS:Ponto Final: Saens Peña",
+                "TS:P6: Jaceguaí",
+                "TS:P8: Barão de Mesquita",
+                "TS:P9: Moraes e Silva",
+                "TS:Ponto Final: Saens Peña :: Linha 665",
+                "TS:Estádio Maracanã / UERJ",
+                "CS:Panetteria São Francisco Xavier",
+                "CS:A Propósito",
+                "CS:Flor da Tijuca",
+                "CS:PADARIA E PANIFICAÇÃO 2 AMIGOS",
+                "CS:Padaria Arte & Pão",
+                "PH:Drogaria Pedro Ernesto",
+                "PH:Drograria Venâncio",
+                "PH:Farma Dez",
+                "PH:Drogaria Venancio",
+                "PH:Farmavita"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "AP0148",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "97"
+        ],
+        "advertiserId": "c8e9aa62-d5ef-dfee-8f1b-0ee72c1d007c",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1310",
+                "price": "600000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1200"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2132817740"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "c8e9aa62-d5ef-dfee-8f1b-0ee72c1d007c",
+        "name": "F. PINHEIRO ADMINISTRACAO DE IMOVEIS",
+        "licenseNumber": "028468-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 70441,
+        "phones": {
+            "primary": "2132817740",
+            "mobile": "2132817740"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "7d963475de9b1c7f0f0e386996e11373",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7d963475de9b1c7f0f0e386996e11373/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cc12831fa357873c7b65bd956a210405",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cc12831fa357873c7b65bd956a210405/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "375b3e7c830404a105ba052b3558337e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/375b3e7c830404a105ba052b3558337e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "43d4adad731d878335624531b9dfd1a1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/43d4adad731d878335624531b9dfd1a1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "30ed94938fdf3601b045e994f5350ff8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30ed94938fdf3601b045e994f5350ff8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bf900e615f0f0c404e08edf683b7e217",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bf900e615f0f0c404e08edf683b7e217/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ebd1511ed2dba84ef2ce9b91a2d8ad78",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ebd1511ed2dba84ef2ce9b91a2d8ad78/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "344c1010cc6663cbf05001a791f23301",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/344c1010cc6663cbf05001a791f23301/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ec941b5eaa551d29c83fadccd32f8092",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ec941b5eaa551d29c83fadccd32f8092/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e2b4d1651d0ae9bef3cf609a9debf8f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e2b4d1651d0ae9bef3cf609a9debf8f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "730e1fbf12793eed40c17d6e192be5f2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/730e1fbf12793eed40c17d6e192be5f2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dbac505cff24b3e28787477522700ab1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dbac505cff24b3e28787477522700ab1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8383bdd1910e07cced1104acb9369d5c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8383bdd1910e07cced1104acb9369d5c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1877590b99234e9218f43961696fb9a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1877590b99234e9218f43961696fb9a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d96a2ace745a9dd6c468aca3ae4159d9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d96a2ace745a9dd6c468aca3ae4159d9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f31c2a3c7f2567b67c30a2399fb39fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f31c2a3c7f2567b67c30a2399fb39fb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a44863ac83dc531c4d8c88d4c4fa4d34",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a44863ac83dc531c4d8c88d4c4fa4d34/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d6e1955e58c12fedf4b4b579136e64e7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d6e1955e58c12fedf4b4b579136e64e7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a461f88320713e290ecc5d343f837d38",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a461f88320713e290ecc5d343f837d38/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bcbdb88e1d5401df716989ecabc93228",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bcbdb88e1d5401df716989ecabc93228/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "877a794307b58b4d419ea735112c4545",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/877a794307b58b4d419ea735112c4545/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ffe37c4e54f716cf41da7d93ec19eb93",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ffe37c4e54f716cf41da7d93ec19eb93/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e19c9985126a041b865a58a59cdf0226",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e19c9985126a041b865a58a59cdf0226/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c0f20763d489788b43ae1851969b9165",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c0f20763d489788b43ae1851969b9165/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b133e562a309c9aabcc25fb2d1bda936",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b133e562a309c9aabcc25fb2d1bda936/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3bca71f39887f71f0f3ba2299f8f3768",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3bca71f39887f71f0f3ba2299f8f3768/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8500f892b716cc6abab4799fd95204fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8500f892b716cc6abab4799fd95204fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "70f32fff5601b0f6ec5743c9f1f756a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/70f32fff5601b0f6ec5743c9f1f756a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a90e1f13d3ad0c8be425c8a3b4a12601",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a90e1f13d3ad0c8be425c8a3b4a12601/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e3df39a58792a0adb88ccef097d822df",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e3df39a58792a0adb88ccef097d822df/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1d6748ab0b2aecd489ab4fe6fdbdab5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1d6748ab0b2aecd489ab4fe6fdbdab5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f393630f4601c65ac27291caeedd828e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f393630f4601c65ac27291caeedd828e/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "F. PINHEIRO ADMINISTRACAO DE IMOVEIS",
+        "href": "/70441/f-pinheiro-administracao-de-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 97m²",
+        "href": "/imovel/apartamento-3-quartos-maracana-zona-norte-rio-de-janeiro-97m2-venda-RS600000-id-2634138762/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Maracanã",
+            "state": "Rio de Janeiro",
+            "street": "Rua São Francisco Xavier",
+            "streetNumber": "395",
+            "zone": "Zona Norte"
+        }
+    }
+}

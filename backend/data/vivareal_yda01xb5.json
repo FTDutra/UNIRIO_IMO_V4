@@ -1,0 +1,218 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [],
+        "usableAreas": [
+            "160"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Oportunidade!<br>Nascimento Silva, entre Maria Quiteria e Garcia,com 160m2 no IPTU, excelente planta, acima da copa das árvores, sol da manhã, muito claro , silencioso, composto por Salão com 56m2 , acima da copa das árvores, todo em parquet , 3 amplos quartos , 2 banheiros sociais, copa-cozinha com planta quadrada, área de serviço, dependências.<br>1 vaga na escritura.<br>Prédio com 5 andares.<br>Portaria horário comercial. <br>Precisa de reforma total!",
+        "title": "Excelente apartamento em Ipanema, com 160 metros quadrados e 3 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2758537269",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22421027",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.206958,
+                "source": "GOOGLE",
+                "lat": -22.981978
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Nascimento Silva",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Ipanema",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "poisList": [
+                "BS:BRS 2: Joana Angélica",
+                "BS:BRS 2 Farme de Amoedo",
+                "BS:BRS 1/3 Teixeira de Melo",
+                "BS:Ponto Final: General Osório :: Rua Teixeira de Melo",
+                "BS:BRS 2: General Osório",
+                "TS:Maria Quitéria",
+                "TS:Nossa Senhora da Paz",
+                "TS:Nossa Senhora da Paz / Ipanema",
+                "TS:Joana Angélica",
+                "TS:BRS 2: Joana Angélica",
+                "CS:Armazém do Café",
+                "CS:Confeitaria Ipanema",
+                "CS:TECNOMEDI IPANEMA",
+                "CS:Chocolate Brasil Cacau",
+                "CS:Terra Mineira",
+                "PH:Drogaria Pop",
+                "PH:Farmácia Central Posto 6",
+                "PH:Prontofarma",
+                "PH:Viva Mais",
+                "PH:Drogasmil"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "8b4fde",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "160"
+        ],
+        "advertiserId": "2d94b2d3-c74a-5a9c-ccb8-788df840d0ec",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "600",
+                "price": "2600000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1800"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21975649098"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21975649098",
+        "stamps": []
+    },
+    "account": {
+        "id": "2d94b2d3-c74a-5a9c-ccb8-788df840d0ec",
+        "name": "ROBERTA GALASSO",
+        "licenseNumber": "00000-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 440059,
+        "phones": {
+            "primary": "21975649098",
+            "mobile": "21975649098"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "4ffffd5dfd8e529cc0e22f96fd70590b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ffffd5dfd8e529cc0e22f96fd70590b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8c3b5752fec82d1862592777d9e62da8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8c3b5752fec82d1862592777d9e62da8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1cf6d4ee560556a6b99fb0ad0cea50f2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1cf6d4ee560556a6b99fb0ad0cea50f2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "163d6dabf22bee37bffa2c9a56807b84",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/163d6dabf22bee37bffa2c9a56807b84/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6f42adcdf296ae2c460ff8b4106f56b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6f42adcdf296ae2c460ff8b4106f56b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c215cf26d020165d7bafc5476aa0f2c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c215cf26d020165d7bafc5476aa0f2c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f207c96774bb45d4f11ad94ccd245f84",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f207c96774bb45d4f11ad94ccd245f84/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "72b5dbc8bf74c8996a57d6aac9989fee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/72b5dbc8bf74c8996a57d6aac9989fee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9118a09530b1722a18e32ea93fb8bdf8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9118a09530b1722a18e32ea93fb8bdf8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "98e915e606e490d584b25b19bde85369",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98e915e606e490d584b25b19bde85369/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc3b84bda3e61565faf9970b1369b419",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc3b84bda3e61565faf9970b1369b419/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a216ed02606366554445b41ae68fb81",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a216ed02606366554445b41ae68fb81/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c68344472f52b22e51e309469ec1a043",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c68344472f52b22e51e309469ec1a043/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "66c15fcd244acfccd9d15ac6153ac973",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/66c15fcd244acfccd9d15ac6153ac973/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b8a122ae110fd4cca6e05f3cb190159e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b8a122ae110fd4cca6e05f3cb190159e/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "ROBERTA GALASSO",
+        "href": "/440059/roberta-galasso/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 160m²",
+        "href": "/imovel/apartamento-3-quartos-ipanema-zona-sul-rio-de-janeiro-com-garagem-160m2-venda-RS2600000-id-2758537269/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "state": "Rio de Janeiro",
+            "street": "Rua Nascimento Silva",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

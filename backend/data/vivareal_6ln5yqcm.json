@@ -1,0 +1,201 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "LAUNDRY",
+            "SERVICE_AREA",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "95"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento com 2 quartos à venda por R$ 299.000 - Marechal Hermes - Rio de Janeiro/RJ.<br><br>Imóveis Mav vende, maravilhoso apartamento com 02 amplas salas, 02 quartos, ótima copa cozinha, área de serviço, banheiro social com box blindex.<br><br>Apartamento todo no parcelanato, \"reformado\". Entrar e morar.<br>Próximo ao hospital Carlos Chagas, maternidade Alexander Fleming, estação de trem de Marechal Hermes.<br>Com farta condução e comércio!<br><br>Aceitando financiamento!!! -",
+        "title": "Apartamento à venda, 95 m² por R$ 299.000,00 - Marechal Hermes - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2574155254",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21610270",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "154",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.372696,
+                "source": "GOOGLE",
+                "lat": -22.864848
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Brigadeiro Delamare",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Marechal Hermes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Marechal Hermes",
+            "poisList": [
+                "BS:Ponto Final: Marechal Hermes :: Linha 653",
+                "BS:Linha 783 Marechal Hermes >> Praça Seca",
+                "BS:Linha 782 Cascadura >> Marechal Hermes via Rocha Miranda",
+                "BS:Linha 781 Marechal Hermes >> Cascadura",
+                "BS:Montese",
+                "TS:Ponto Final: Marechal Hermes :: Linha 653",
+                "TS:Linha 783 Marechal Hermes >> Praça Seca",
+                "TS:Linha 782 Cascadura >> Marechal Hermes via Rocha Miranda",
+                "TS:Linha 781 Marechal Hermes >> Cascadura",
+                "TS:Linha 784 Marechal Hermes >> Vila Kennedy",
+                "CS:PENIEL",
+                "CS:Peniel",
+                "CS:DA BENÇÃO",
+                "CS:Da Benção",
+                "PH:Boa Saúde",
+                "PH:boa saude"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0795",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "95"
+        ],
+        "advertiserId": "4bec5fd9-921f-7958-4e2e-6281b8969d61",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "299000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2130446511",
+                "21964907656"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964907656",
+        "stamps": []
+    },
+    "account": {
+        "id": "4bec5fd9-921f-7958-4e2e-6281b8969d61",
+        "name": "MAV IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc50e6c64348c6b7b0c15b82fd3b30e2/{description}.webp",
+        "licenseNumber": "46890-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 64182,
+        "phones": {
+            "primary": "2130446511",
+            "mobile": "21964907656"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "df45df7b3bf001fc5748d025adcabbee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df45df7b3bf001fc5748d025adcabbee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a9273648bfab6852421bc8e10ded442f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a9273648bfab6852421bc8e10ded442f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d99cde887705517808a4e977b4a415be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d99cde887705517808a4e977b4a415be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "89de3fb1a24c650bc3fbb883f45c79cb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/89de3fb1a24c650bc3fbb883f45c79cb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b061aadce0cf67de2a8e9ac35986171",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b061aadce0cf67de2a8e9ac35986171/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c5fb346305e3967aca1740d0557e9490",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c5fb346305e3967aca1740d0557e9490/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c52c02ef7d56f11e09582bbf6ecf7493",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c52c02ef7d56f11e09582bbf6ecf7493/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "83d8b0b77e176182f147c1fdf06f24e5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/83d8b0b77e176182f147c1fdf06f24e5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0eed662ec785a3b90f353c481a894679",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0eed662ec785a3b90f353c481a894679/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1d6f2ee69b2a3c1720c0816e91e7e85",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1d6f2ee69b2a3c1720c0816e91e7e85/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0062fbbabb8d7ad662f387e9a0d7046a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0062fbbabb8d7ad662f387e9a0d7046a/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "MAV IMÓVEIS",
+        "href": "/64182/mav-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 95m²",
+        "href": "/imovel/apartamento-2-quartos-marechal-hermes-zona-norte-rio-de-janeiro-95m2-venda-RS299000-id-2574155254/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Marechal Hermes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Brigadeiro Delamare",
+            "streetNumber": "154",
+            "zone": "Zona Norte"
+        }
+    }
+}

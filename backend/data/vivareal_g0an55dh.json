@@ -1,0 +1,221 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "160"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua Marianópolis, no bairro Grajaú em Rio de Janeiro. Este imóvel conta com área construída de 160m², oferecendo 4 quartos, 2 banheiros e 1 vaga de garagem. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apartamento à venda em Grajaú com 160 m², 4 quartos, 1 vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2740557321",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20561170",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "74",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.266025,
+                "source": "GOOGLE",
+                "lat": -22.928346
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Marianópolis",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Grajau",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Grajaú",
+            "poisList": [
+                "BS:Ponto Final: Grajaú",
+                "BS:Ponto final 703",
+                "BS:Ponto Final: Andaraí :: Linha 217",
+                "BS:Ponto final 222",
+                "BS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "TS:Ponto Final: Grajaú",
+                "TS:Ponto final 703",
+                "TS:Ponto Final: Andaraí :: Linha 217",
+                "TS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "TS:Ponto Final: Vila Isabel :: Linha 432",
+                "CS:Empório Maria Filó",
+                "CS:Jóia do Grajaú",
+                "CS:Fábrica de Bolo da Vó Alzira",
+                "CS:Padaria do Verdun",
+                "PH:Drograrias Guanabara"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "PU1p8cnjs",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "160"
+        ],
+        "advertiserId": "0035faa4-483a-6176-7991-954afa62ea8a",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1500",
+                "price": "500000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "600"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21970127910"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21970127910",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "0035faa4-483a-6176-7991-954afa62ea8a",
+        "name": "JRZ Imobiliária",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98631c6e4ba667d144ce9c052ab7e3f7/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 559478,
+        "phones": {
+            "primary": "21970127910",
+            "mobile": "21970127910"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "1cf17f2e348e693f90e0548d9a04776d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1cf17f2e348e693f90e0548d9a04776d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "443b3d28b72c1d29af852577faf8fd20",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/443b3d28b72c1d29af852577faf8fd20/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ccc6d12822edcf0034f4477476f1a380",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ccc6d12822edcf0034f4477476f1a380/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d229339f2089ccc64f0cd07720153fa7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d229339f2089ccc64f0cd07720153fa7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3df9eb210b85ebe1691216587792b381",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3df9eb210b85ebe1691216587792b381/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ddbe86079553b677fa975fa3e8616a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ddbe86079553b677fa975fa3e8616a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce031aa0129c90ab454e2483338293ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce031aa0129c90ab454e2483338293ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c30a523fed6abd9358ca0af9380d1097",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c30a523fed6abd9358ca0af9380d1097/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4b2e66572d2f74ab65ad6e83a610ba30",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b2e66572d2f74ab65ad6e83a610ba30/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a7bc2d870fe9fa2bb13b802988839c0c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a7bc2d870fe9fa2bb13b802988839c0c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d6f0a581f82cc32619d4146853e7d281",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d6f0a581f82cc32619d4146853e7d281/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cb13801a752f01da27ffb2124964715c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cb13801a752f01da27ffb2124964715c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c6043b8ecea50f99633d48aead78bc6b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c6043b8ecea50f99633d48aead78bc6b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "18e1db73759180749ae6201d54a77f47",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/18e1db73759180749ae6201d54a77f47/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "264287b3f5e934ef38cf6e45727372e2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/264287b3f5e934ef38cf6e45727372e2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "35b8c60351597a67880580766143faf6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/35b8c60351597a67880580766143faf6/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "JRZ Imobiliária",
+        "href": "/559478/jrz-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 160m²",
+        "href": "/imovel/apartamento-4-quartos-grajau-zona-norte-rio-de-janeiro-com-garagem-160m2-venda-RS500000-id-2740557321/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Grajaú",
+            "state": "Rio de Janeiro",
+            "street": "Rua Marianópolis",
+            "streetNumber": "74",
+            "zone": "Zona Norte"
+        }
+    }
+}

@@ -1,0 +1,303 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "PLAYGROUND",
+            "HEATING",
+            "INTERCOM",
+            "SAFETY_CIRCUIT",
+            "NUMBER_OF_FLOORS"
+        ],
+        "usableAreas": [
+            "72"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Avenida Epitácio Pessoa, no bairro Lagoa em Rio de Janeiro. Este imóvel conta com área construída de 72m², oferecendo 2 quartos e 1 banheiro. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apartamento de 2 quartos na Lagoa",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2759976513",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22471003",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.975,
+                "approximateLon": -43.198,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Epitácio Pessoa",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Lagoa",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Lagoa",
+            "poisList": [
+                "BS:BRS 1 Xavier da Silveira",
+                "BS:BRS 3 Miguel Lemos",
+                "BS:BRS 2 Bolívar",
+                "BS:BRS 3 Bolivar",
+                "BS:BRS 1 Miguel Lemos",
+                "TS:Cantagalo - Sentido Gen. Osório / Jd. Oceânico",
+                "TS:Cantagalo / Copacabana - Sentido Gen. Osório / Jd. Oceânico",
+                "TS:Cantagalo",
+                "TS:Cantagalo / Copacabana",
+                "TS:Cantagalo - sentido Uruguai",
+                "CS:Sulimar",
+                "CS:Planeta Água",
+                "CS:Empório das Águas",
+                "CS:Casa du bisçoito",
+                "CS:Terra Mineira",
+                "PH:Prontofarma",
+                "PH:Drogaria Pop",
+                "PH:Drogaria Galanti",
+                "PH:Viva Mais",
+                "PH:Nash"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "PU1bub6in",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "72"
+        ],
+        "advertiserId": "7d4ec74e-2cb7-2cba-50cf-92ec88a74e8c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3565",
+                "price": "949000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1064"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2132176221",
+                "21964464440"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964464440",
+        "stamps": []
+    },
+    "account": {
+        "id": "7d4ec74e-2cb7-2cba-50cf-92ec88a74e8c",
+        "name": "B&A Imóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38a82296d8f09f9d275212109b82bc17/{description}.webp",
+        "licenseNumber": "07455-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 230106,
+        "phones": {
+            "primary": "2132176221",
+            "mobile": "21964464440"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "2ff6be761349b26de25bbe60522bdf70",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2ff6be761349b26de25bbe60522bdf70/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1affd4d8fa5f55b46c8791d1a9035b17",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1affd4d8fa5f55b46c8791d1a9035b17/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0b5a39ed056762b6ffec73379f82b4f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0b5a39ed056762b6ffec73379f82b4f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8334c31300b9f741e6d00c677bb33ee2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8334c31300b9f741e6d00c677bb33ee2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "76f0188c4310e924ccb5826a98329318",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/76f0188c4310e924ccb5826a98329318/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ca4c2d92b10fb51e2dcc47ed2b83442",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ca4c2d92b10fb51e2dcc47ed2b83442/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "08e3f40524b71c16a7c9abddb83ff323",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/08e3f40524b71c16a7c9abddb83ff323/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "98bebe5772f356d9c5adc2d98ff0fb0d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98bebe5772f356d9c5adc2d98ff0fb0d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4811cc46c91ae993f0c243403f6352f1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4811cc46c91ae993f0c243403f6352f1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff5a09a9a6142a69d6fa3255ca57f774",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff5a09a9a6142a69d6fa3255ca57f774/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a1754a4859ca137011116d5997d87a9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8a1754a4859ca137011116d5997d87a9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "740bc891a6ed7f67c33c1fe1e5c709fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/740bc891a6ed7f67c33c1fe1e5c709fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc8fadfb7eeb2c0a3fe21753ed42c3b3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc8fadfb7eeb2c0a3fe21753ed42c3b3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "656d6b0c64292b48a1318416b6eccc91",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/656d6b0c64292b48a1318416b6eccc91/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "537f1747c8dec8f043db85f20ae4aab2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/537f1747c8dec8f043db85f20ae4aab2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "145220f2ac81ecd1805694673fe1b4fe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/145220f2ac81ecd1805694673fe1b4fe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f6ce1f29673d0e1750d96b900fc129b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f6ce1f29673d0e1750d96b900fc129b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a9319d5490e63a9339bf68f92e3d9338",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a9319d5490e63a9339bf68f92e3d9338/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe152724246bd9893c7ed7e17c951ced",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe152724246bd9893c7ed7e17c951ced/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "479e1edcf6296136cd05e615b5587942",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/479e1edcf6296136cd05e615b5587942/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "247ab636fbce8ebb229ab0850b611850",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/247ab636fbce8ebb229ab0850b611850/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a0efa0d49d3818e47fa5a1bccd3fc790",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a0efa0d49d3818e47fa5a1bccd3fc790/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1912e60438c22dddeeaf2e28047f99e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1912e60438c22dddeeaf2e28047f99e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4fab7ef87ae2f686be803aeb0ca37e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4fab7ef87ae2f686be803aeb0ca37e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e2da5f8465e69443fa436f28acac551c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e2da5f8465e69443fa436f28acac551c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f46e97482218e0ac36cbb0cae4441f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f46e97482218e0ac36cbb0cae4441f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "faf2575a3c1288459ea431392db093be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/faf2575a3c1288459ea431392db093be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4386957653fcf6045ad7c688d09b7eb2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4386957653fcf6045ad7c688d09b7eb2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "de82b905d3a37e39d4d93550b834b1fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/de82b905d3a37e39d4d93550b834b1fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0c620052bb179602356c8e198f1ed5d4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0c620052bb179602356c8e198f1ed5d4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c4eb5d45b5a0fa563f1968abf1c6c8ea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c4eb5d45b5a0fa563f1968abf1c6c8ea/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "B&A Imóveis",
+        "href": "/230106/b-a-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 72m²",
+        "href": "/imovel/apartamento-2-quartos-lagoa-zona-sul-rio-de-janeiro-72m2-venda-RS949000-id-2759976513/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Lagoa",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Epitácio Pessoa",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

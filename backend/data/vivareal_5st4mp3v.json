@@ -1,0 +1,322 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "SERVICE_AREA",
+            "CONCIERGE_24H",
+            "RECREATION_AREA",
+            "BUILTIN_WARDROBE",
+            "BEDROOM_WARDROBE",
+            "KITCHEN_CABINETS",
+            "INTERNET_ACCESS",
+            "GAS_SHOWER",
+            "SANCA",
+            "HIGH_CEILING_HEIGHT",
+            "BLINDEX_BOX",
+            "TREE_CLIMBING",
+            "ELECTRONIC_GATE",
+            "FOOTBALL_FIELD",
+            "INTEGRATED_ENVIRONMENTS",
+            "SAFETY_CIRCUIT",
+            "SECURITY_CAMERA",
+            "GRASS",
+            "LAMINATED_FLOOR"
+        ],
+        "usableAreas": [
+            "86"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "RSantos Imobiliária :<br><br>OPORTUNIDADE - Apartamento vazio com vista livre e sol nascente.<br><br>Composto de: Varanda sala com 2 ambientes, 2 quartos sendo 1 suíte, ambos com armários, banheiro social com blindex, cozinha com armários planejados, área de serviço e dependência de empregada, 1 vaga de garagem.<br><br>Está bem localizado, próximo ao Maracanã, Escola Municipal Madrid, Iaserj Maracanã, Escola Municipal Barão Homem de Mello, Hospital Doutor Badim, Mei Mei e Escola Municipal Leitão da Cunha , Praça Niterói e Metrô<br><br>AVALIAMOS SEU IMÓVEL GRÁTIS!",
+        "title": "Oportunidade - apartamento vazio com 86m² 2 Quartos - Suíte - Dependência de Empregada no Maracanã",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2728858430",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20550155",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "289",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.234636,
+                "source": "GOOGLE",
+                "lat": -22.917099
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Santa Luísa",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Maracana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Maracanã",
+            "poisList": [
+                "BS:P6: Jaceguaí",
+                "BS:Ponto Final: Saens Peña :: Linha 665",
+                "BS:Ponto Final: Saens Peña",
+                "BS:Ponto Final: Saens Peña :: Linha 639",
+                "BS:P8: Barão de Mesquita",
+                "TS:P6: Jaceguaí",
+                "TS:BRS 2, 6, 7",
+                "TS:Ponto Final: Saens Peña :: Linha 665",
+                "TS:Ponto Final: Saens Peña",
+                "TS:Ponto Final: Saens Peña :: Linha 639",
+                "CS:A Propósito",
+                "CS:Panetteria São Francisco Xavier",
+                "CS:Flor da Tijuca",
+                "CS:Padaria Arte & Pão",
+                "CS:PADARIA E PANIFICAÇÃO 2 AMIGOS",
+                "PH:Drograria Venâncio",
+                "PH:Drogaria Pedro Ernesto",
+                "PH:Farma Dez",
+                "PH:Drogaria Venancio",
+                "PH:Drogaria Unidas"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "JPAP20459",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "86"
+        ],
+        "advertiserId": "47140509-d6b3-e80c-bd30-572b81ea79c1",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1117",
+                "price": "510000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "850"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21980907838"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21980907838",
+        "stamps": []
+    },
+    "account": {
+        "id": "47140509-d6b3-e80c-bd30-572b81ea79c1",
+        "name": "RSantos Imobiliária",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f0c8d8e60f69c43253d8b4b26853a044/{description}.webp",
+        "licenseNumber": "8642-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 655679,
+        "phones": {
+            "primary": "21980907838",
+            "mobile": "21980907838"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "969da0fdd6dd6ed8c392746cc97b53e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/969da0fdd6dd6ed8c392746cc97b53e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "41d957e827337edb485d3c050de3c0c5",
+            "url": "https://www.youtube.com/watch?v=MPmT4E_QB7A",
+            "type": "VIDEO"
+        },
+        {
+            "id": "1dbcf3b6a9b2870610b905afb70cdc6f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1dbcf3b6a9b2870610b905afb70cdc6f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "803f69331c04be783e22f3a25d8d01e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/803f69331c04be783e22f3a25d8d01e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c7370b0fa958f542ba45f309c012b407",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c7370b0fa958f542ba45f309c012b407/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c663d0efbb0d26c912dbfa44d943160",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c663d0efbb0d26c912dbfa44d943160/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c44a957fee8ce8d501d1b584d16c731d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c44a957fee8ce8d501d1b584d16c731d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e784a680bd78e2e22f692b48f278963",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e784a680bd78e2e22f692b48f278963/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5dcd12b66f5287c07f20e9bc05f21384",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5dcd12b66f5287c07f20e9bc05f21384/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c4339de56bc7d0cd59b26447cdc42c45",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c4339de56bc7d0cd59b26447cdc42c45/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "41f4e481ffad49d5df8b28d2bfd5526a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/41f4e481ffad49d5df8b28d2bfd5526a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "56ecb97ee732d7a023baddc5cbf9215d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56ecb97ee732d7a023baddc5cbf9215d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ec744436529739796e59cdece5a2cf51",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ec744436529739796e59cdece5a2cf51/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "95cca55007d43caec6e1c5b9138bfc73",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/95cca55007d43caec6e1c5b9138bfc73/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "61bfabefe862b6d0a8469aa6bf50e7fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/61bfabefe862b6d0a8469aa6bf50e7fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "87ee827086d658bb60fc1e8b604f3fff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/87ee827086d658bb60fc1e8b604f3fff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f8d662ae7de29efd6297824e252ecd81",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f8d662ae7de29efd6297824e252ecd81/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "acdc5ade5caa4e7855ee6ab5fe52433b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/acdc5ade5caa4e7855ee6ab5fe52433b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0921955952c03be29b501e3e6923019f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0921955952c03be29b501e3e6923019f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "faba8c163d0946fd23aa910b41a00797",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/faba8c163d0946fd23aa910b41a00797/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a718165c547fd4cb23c7ff49993b1625",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a718165c547fd4cb23c7ff49993b1625/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "114781a753cb8fee15f5b715a259f6e5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/114781a753cb8fee15f5b715a259f6e5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2df6a323e24e326adea5bfad262ffdec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2df6a323e24e326adea5bfad262ffdec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "76fa7d371521582b2f0ea7297e38e31c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/76fa7d371521582b2f0ea7297e38e31c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e7206c68c336c9c591b48681bc25687c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e7206c68c336c9c591b48681bc25687c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4862ca131a36f501eda2d831abba5d39",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4862ca131a36f501eda2d831abba5d39/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5ffb85126a22f60b3b1461faf06c4da6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5ffb85126a22f60b3b1461faf06c4da6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "70078ca84516307aecd01321d89068ae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/70078ca84516307aecd01321d89068ae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2caec936e091dfb8f1f045a247df703a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2caec936e091dfb8f1f045a247df703a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff384b4880dfd9f2166c14e8df8f7089",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff384b4880dfd9f2166c14e8df8f7089/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9847e49e510fd5c458857242d32c7444",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9847e49e510fd5c458857242d32c7444/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "RSantos Imobiliária",
+        "href": "/655679/rsantos-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 86m²",
+        "href": "/imovel/apartamento-2-quartos-maracana-zona-norte-rio-de-janeiro-com-garagem-86m2-venda-RS510000-id-2728858430/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Maracanã",
+            "state": "Rio de Janeiro",
+            "street": "Rua Santa Luísa",
+            "streetNumber": "289",
+            "zone": "Zona Norte"
+        }
+    }
+}

@@ -1,0 +1,306 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "BALCONY",
+            "GYM",
+            "GARAGE",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "WATCHMAN"
+        ],
+        "usableAreas": [
+            "148"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento no Leblon! <br><br>Apartamento com planta circular, 4 quartos sendo 2 suites, sala ampla com varanda, 4 banheiros, closet, área de serviço, depedência completa.<br>São 148m² no Iptu, porém a planta feita pela aquiteta da proprietária mostra 194m²!<br>2 vagas na escritura. Um apartamento por andar, 2 elevadores, portaria 24h, playground, academia e bicicletário.<br>Ótima localização! 1 quadra da praia do Leblon e próximo ao metrô! Apartamento silencioso e ventilado.<br><br>Os valores poderão sofrer alterações sem aviso prévio.",
+        "title": "Leblon , 4 quartos, 2 suítes, 2 vagas",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2737414116",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22430060",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.984,
+                "approximateLon": -43.217,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Afrânio de Melo Franco",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Leblon",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "poisList": [
+                "BS:Humberto de Campos",
+                "BS:BRS 2,3 - Cupertino Durão",
+                "BS:Ponto Final: Afrânio de Melo Franco I",
+                "BS:Ponto Final: Antero de Quental",
+                "BS:Ponto Final: CIEP Nação Rubro Negra",
+                "TS:Almirante Pereira Guimarães",
+                "TS:Jardim de Alah / Leblon",
+                "TS:Jardim de Alah",
+                "TS:Borges de Medeiros",
+                "TS:Humberto de Campos",
+                "CS:Patata",
+                "CS:Talho Capixaba",
+                "CS:Rio Lisboa",
+                "CS:Armazém do Café",
+                "CS:Confeitaria Ipanema",
+                "PH:Drogasmil",
+                "PH:Drogaria Pop"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "58281",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "148"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "10179",
+                "price": "5250000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "3900"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "6b355d58b09a5689055dd1493f8eab3a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6b355d58b09a5689055dd1493f8eab3a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d944dd20a54020dca5d2a20c53226e61",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d944dd20a54020dca5d2a20c53226e61/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a83560d636c16336718d9e8a0e842038",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a83560d636c16336718d9e8a0e842038/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8d6c5ef2f28c077d5f85ae9c984ea452",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d6c5ef2f28c077d5f85ae9c984ea452/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3572a932654c412d8993401c6f236ee3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3572a932654c412d8993401c6f236ee3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2dab8e079e84f4563fa489aa7d21b3d5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2dab8e079e84f4563fa489aa7d21b3d5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "982f6aef668c9a5a6168175ae7200541",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/982f6aef668c9a5a6168175ae7200541/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f2be885064e92e0f87221c36b1e0f5cf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f2be885064e92e0f87221c36b1e0f5cf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5548640326421cd540cc1f8d336fdd5f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5548640326421cd540cc1f8d336fdd5f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e14a9d453db0dfc09278d0e8797f6541",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e14a9d453db0dfc09278d0e8797f6541/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bbb80fb58fcebf451a1b151ac3355bad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bbb80fb58fcebf451a1b151ac3355bad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6cdbe90bbab2e57fd0be6ccea54cbb2b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6cdbe90bbab2e57fd0be6ccea54cbb2b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff3fe826386a00abe3e1baf30d0a86b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff3fe826386a00abe3e1baf30d0a86b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "41d1a2f79bb85b316e2566dbe4ec7f7b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/41d1a2f79bb85b316e2566dbe4ec7f7b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f196744190a96009b9fb8e6f86c2436f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f196744190a96009b9fb8e6f86c2436f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ee9aea2b2548531aa718ccd1e1e80814",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ee9aea2b2548531aa718ccd1e1e80814/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a7abfdeb3da69f753231dccf8736bb7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a7abfdeb3da69f753231dccf8736bb7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2132e6ecbce0fe70567ec9edb1ab9681",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2132e6ecbce0fe70567ec9edb1ab9681/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4b8181f8db81d6c8899be78dc45a49db",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b8181f8db81d6c8899be78dc45a49db/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c856d44f129de857873000cc47eedfb9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c856d44f129de857873000cc47eedfb9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "308dc4d0815b31c1c79864421cf457b1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/308dc4d0815b31c1c79864421cf457b1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c6b78567b564faf36cec234ca3ba677c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c6b78567b564faf36cec234ca3ba677c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ded1b5e2cac70e0caa035dfa0c67ce62",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ded1b5e2cac70e0caa035dfa0c67ce62/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7983404b50a338a075e3961c85aadf0e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7983404b50a338a075e3961c85aadf0e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6ea752029c28eb0954e5bbe1bf0e54f5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ea752029c28eb0954e5bbe1bf0e54f5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b87b2fd4d293866acfbe6f18e2f324b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b87b2fd4d293866acfbe6f18e2f324b0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1ed67ef42665b837c52eb69dc26c7d1d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1ed67ef42665b837c52eb69dc26c7d1d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fab416030e99801d3bf0c467b41ae5d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fab416030e99801d3bf0c467b41ae5d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a8dc455a789a97146881de075f212cc7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a8dc455a789a97146881de075f212cc7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6cd45cbba4fbb7835573950381509993",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6cd45cbba4fbb7835573950381509993/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 148m²",
+        "href": "/imovel/apartamento-4-quartos-leblon-zona-sul-rio-de-janeiro-com-garagem-148m2-venda-RS5250000-id-2737414116/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Leblon",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Afrânio de Melo Franco",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

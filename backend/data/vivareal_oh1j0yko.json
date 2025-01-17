@@ -1,0 +1,264 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "SERVICE_AREA",
+            "GARAGE",
+            "HEATING",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "44"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "<b>APARTAMENTO À VENDA</b><br> <br><b>Descrição do Imóvel:</b><br>- Sala de estar<br>- 02 confortáveis quartos<br>- Banheiro moderno com box em blindex<br>- Cozinha americana funcional<br>- Área de serviço prática<br>- Garagem descoberta<br> <br><b>Vantagens:</b><br>Imóvel totalmente vazio, pronto para você decorar e personalizar ao seu gosto!<br> <br><b>Localização:</b><br>O Condomínio Residencial Vera Cruz está estrategicamente localizado próximo ao West Shopping, com fácil acesso à Estrada do Mendanha. Nas proximidades, você encontrará escolas, clínicas veterinárias, bancos e drogarias, proporcionando comodidade e praticidade no seu dia a dia.<br> <br><i>Financiamento: Documentação em dia e apta para financiamento bancário! Não perca essa oportunidade! Faça sua simulação sem compromisso.</i><br>Entre em Contato: Para mais informações, consulte um de nossos corretores. Estamos prontos para ajudar você a conquistar seu novo lar! 99492",
+        "title": "Apartamento 2 quartos Cond Vera Cruz próximo ao West Shopping",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2752750902",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "23092080",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "442",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.550537,
+                "source": "GOOGLE",
+                "lat": -22.874294
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Estrada João Melo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Campo Grande",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Campo Grande",
+            "poisList": [
+                "SU:Escola Municipal Tóquio",
+                "SU:Escola Municipal Ministro Alcides Carneiro",
+                "SU:Escola Municipal Professor Manuel Said Ali",
+                "SU:Escola Municipal Visconde do Rio Branco",
+                "SU:Escola Municipal Comunidade Jardim Pedregoso",
+                "CH:Centro Municipal de Saúde Dr Oswaldo Vilella",
+                "CH:Clínica da Família Maria Jose Papera de Azevedo",
+                "SC:West Bike",
+                "SC:Promoinfo",
+                "BR:Parmê",
+                "BR:Giraffa's"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "PREMIUM",
+        "externalId": "S2AP6200",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "44"
+        ],
+        "advertiserId": "3f608871-f113-8763-3c35-55a6f328457a",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "140000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "320"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2124134770",
+                "21981566883"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21981566883",
+        "stamps": []
+    },
+    "account": {
+        "id": "3f608871-f113-8763-3c35-55a6f328457a",
+        "name": "SAMPAIO IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a7d79ca68cde496f3ab7f87cd6be5859/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 685082,
+        "phones": {
+            "primary": "2124134770",
+            "mobile": "21981566883"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "9ded8e04db89dbb31a730c8b536d2ca8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ded8e04db89dbb31a730c8b536d2ca8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c7a666f4fc8f7a0e02a0a6846567e2b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c7a666f4fc8f7a0e02a0a6846567e2b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5120896b43bdb812aaddc7d106b662aa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5120896b43bdb812aaddc7d106b662aa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "83f6b4592845306fb8200cb876635612",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/83f6b4592845306fb8200cb876635612/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a1eef77508f90d93051821f60b7ffabc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a1eef77508f90d93051821f60b7ffabc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb457770b91f4a655d3e82bcc07fcfee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb457770b91f4a655d3e82bcc07fcfee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a9088fe479f456c7879714c803d86094",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a9088fe479f456c7879714c803d86094/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1b9891eadce1d5a1c0a6bb43afc0c70",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1b9891eadce1d5a1c0a6bb43afc0c70/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f6316323d979553ff4574802ad0a6fef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f6316323d979553ff4574802ad0a6fef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a5dc8c390f48b0831d0a21f556b8c95e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a5dc8c390f48b0831d0a21f556b8c95e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "44aebd7dcde1748a607ecb1e2b840d41",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/44aebd7dcde1748a607ecb1e2b840d41/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "28a06743ef1ce9fda731400a1bf86531",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/28a06743ef1ce9fda731400a1bf86531/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "76c0f01580e15b942c86755bbd3fb8a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/76c0f01580e15b942c86755bbd3fb8a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c6aa2fa3c23d264985aff8c635d09e82",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c6aa2fa3c23d264985aff8c635d09e82/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e12d077f50955b9ecd3593af55e4abb2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e12d077f50955b9ecd3593af55e4abb2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "279d50daa81eb4333b45d677ee28c679",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/279d50daa81eb4333b45d677ee28c679/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a1d64c40b1575703530f71a6b50256b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a1d64c40b1575703530f71a6b50256b0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48f58b0332b750104f28bc01aa4e5862",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48f58b0332b750104f28bc01aa4e5862/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6cc02dc8c61f917ab2339f71ea439ce8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6cc02dc8c61f917ab2339f71ea439ce8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f1f852008cef6fd91670706e8e1a6efc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f1f852008cef6fd91670706e8e1a6efc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "05d59df6c8059b3c282e06bb158d565f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/05d59df6c8059b3c282e06bb158d565f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3cff72bfb465dd83922bebf4e9996e73",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3cff72bfb465dd83922bebf4e9996e73/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e40c3015f5123360dcfec67f0b47f4b8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e40c3015f5123360dcfec67f0b47f4b8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5fb8ab1931d7d205c154fd6942a40978",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5fb8ab1931d7d205c154fd6942a40978/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b5598c82743e1dd87f072f6ec10f58e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b5598c82743e1dd87f072f6ec10f58e3/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SAMPAIO IMOVEIS",
+        "href": "/685082/sampaio-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 44m²",
+        "href": "/imovel/apartamento-2-quartos-campo-grande-zona-oeste-rio-de-janeiro-com-garagem-44m2-venda-RS140000-id-2752750902/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Campo Grande",
+            "state": "Rio de Janeiro",
+            "street": "Estrada João Melo",
+            "streetNumber": "442",
+            "zone": "Zona Oeste"
+        }
+    }
+}

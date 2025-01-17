@@ -1,0 +1,172 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "CLOSET",
+            "DINNER_ROOM",
+            "SERVICE_AREA",
+            "AIR_CONDITIONING"
+        ],
+        "usableAreas": [
+            "108"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento em ótima localização composto por sala de estar/jantar, 3 quartos, sendo 2 suítes, copa/cozinha, área de serviço e 1 vaga.",
+        "title": "Apartamento para venda com 3 quartos, 108m² - Ipanema - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2692456387",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22420042",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.985,
+                "approximateLon": -43.206,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Prudente de Morais",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Ipanema",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "poisList": [
+                "BS:BRS 2: Joana Angélica",
+                "BS:BRS 2 Farme de Amoedo",
+                "BS:BRS 1/3 Teixeira de Melo",
+                "BS:Ponto Final: General Osório :: Rua Teixeira de Melo",
+                "BS:BRS 2: General Osório",
+                "TS:Nossa Senhora da Paz",
+                "TS:Nossa Senhora da Paz / Ipanema",
+                "TS:Maria Quitéria",
+                "TS:Joana Angélica",
+                "TS:BRS 2: Joana Angélica",
+                "CS:Confeitaria Ipanema",
+                "CS:Armazém do Café",
+                "CS:TECNOMEDI IPANEMA",
+                "CS:Chocolate Brasil Cacau",
+                "CS:Terra Mineira",
+                "PH:Drogaria Pop",
+                "PH:Farmácia Central Posto 6",
+                "PH:Viva Mais",
+                "PH:Drogasmil",
+                "PH:Prontofarma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "10517446",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "108"
+        ],
+        "advertiserId": "53a81422-c55b-213a-0bfa-48f6a5cb7922",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "520",
+                "price": "2415000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "3160"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2125409999",
+                "21995592196"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21995592196",
+        "stamps": []
+    },
+    "account": {
+        "id": "53a81422-c55b-213a-0bfa-48f6a5cb7922",
+        "name": "JUDICE & ARAUJO IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b47db0afe01055497c42eadf8736dc4/{description}.webp",
+        "licenseNumber": "005244-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 51066,
+        "phones": {
+            "primary": "2125409999",
+            "mobile": "21995592196"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "952bdcdffdb84c5b558275b5b647eb19",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/952bdcdffdb84c5b558275b5b647eb19/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d445947f898ad9b949904ce733aba4b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d445947f898ad9b949904ce733aba4b0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d58564510329bd9c99720425d5737354",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d58564510329bd9c99720425d5737354/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a6afd95a30f87f3648be05213fb27e4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a6afd95a30f87f3648be05213fb27e4/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "JUDICE & ARAUJO IMOVEIS",
+        "href": "/51066/judice-araujo-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 108m²",
+        "href": "/imovel/apartamento-3-quartos-ipanema-zona-sul-rio-de-janeiro-com-garagem-108m2-venda-RS2415000-id-2692456387/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "state": "Rio de Janeiro",
+            "street": "Rua Prudente de Morais",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

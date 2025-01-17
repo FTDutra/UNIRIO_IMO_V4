@@ -1,0 +1,211 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "PLAYGROUND",
+            "ELEVATOR",
+            "KITCHEN",
+            "PARTY_HALL"
+        ],
+        "usableAreas": [
+            "50"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento com 52m2, sala, quarto, cozinha e banheiro.<br>Claro, arejado. Prédio com play, salão de festas, portaria 24 horas. Possibilidade de vaga na garagem.<br>Ótima localização, na quadra do Mundial e diversos outros comércios como farmácia, academias, hortifruti, restaurantes, bares. Ponto de ônibus próximo ao prédio. Metrô e Cinelândia a 10 minutos de caminhada.",
+        "title": "Apartamento quarto e sala na Riachuelo/Lapa",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2676992698",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20230011",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.914,
+                "approximateLon": -43.189,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Rua Riachuelo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:Ponto Final: Cruz Vermelha",
+                "BS:P28",
+                "BS:BRS 1,2,4 Inválidos",
+                "BS:BRS 1,2 e 4",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "TS:Ponto Final: Cruz Vermelha",
+                "TS:P28",
+                "TS:BRS 1,2,4 Inválidos",
+                "TS:BRS 1,2 e 4",
+                "TS:Rua Paschoal Carlos Magno próximo ao 15",
+                "CS:Padaria e Confeitaria Costa Bastos",
+                "CS:Cris",
+                "CS:ArmaZen",
+                "CS:Padaria Vilar Pães",
+                "CS:Fábrica de Bolo Vó Alzira",
+                "PH:Viva Bem",
+                "PH:Drogaria Rey",
+                "PH:Exata",
+                "PH:Drogaria Exata",
+                "PH:City Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "63225",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "50"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "751",
+                "price": "348000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "550"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "40e728444fe74c9f9c3fbb97f5fac98a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40e728444fe74c9f9c3fbb97f5fac98a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b8a0e2cde389c17707902d26cfe640b0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b8a0e2cde389c17707902d26cfe640b0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "563c30567fb1d735b438a9c94a7b742b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/563c30567fb1d735b438a9c94a7b742b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "843c3f53ad11481b4a9e867b9c4581a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/843c3f53ad11481b4a9e867b9c4581a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "978919d904b8e7503cac7ee0d276e8d1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/978919d904b8e7503cac7ee0d276e8d1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "53ca3f7615173c4bd86abcb29f640b9d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/53ca3f7615173c4bd86abcb29f640b9d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "615305623e9d78f464062fa5820037d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/615305623e9d78f464062fa5820037d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3903932dc5dfa4841d369b0cf9fed978",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3903932dc5dfa4841d369b0cf9fed978/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f55589d1681aca7b2254eeb919baec7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f55589d1681aca7b2254eeb919baec7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6835c5a59f3194fe0eda61ff7bdf266f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6835c5a59f3194fe0eda61ff7bdf266f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "67a458b8f64100dd8801f2964ca584ba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/67a458b8f64100dd8801f2964ca584ba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eed82c3c56626e4ad18db44a483d5308",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eed82c3c56626e4ad18db44a483d5308/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 50m²",
+        "href": "/imovel/apartamento-1-quartos-centro-zona-central-rio-de-janeiro-50m2-venda-RS348000-id-2676992698/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Rua Riachuelo",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

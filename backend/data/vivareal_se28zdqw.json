@@ -1,0 +1,206 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "AIR_CONDITIONING",
+            "GARDEN",
+            "PLAYGROUND",
+            "GOURMET_BALCONY",
+            "PARTY_HALL",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "SAUNA",
+            "DISABLED_ACCESS",
+            "GAMES_ROOM",
+            "CINEMA",
+            "SPA",
+            "COWORKING",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "155"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Condomínio Península 360 On The Park<br><br>Apartamento voltado em direção a área de lazer, imóvel com planta original.<br>Composto por sala em dois ambientes, varanda gourmet com vista frontal em direção ao lazer, lavabo, cozinha com armários planejados, área de serviço, dependência de empregada e 3 quartos, sendo 3 suítes individuais.",
+        "title": "Condomínio Peninsula 360 On The Park (Frontal Lazer)",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2750744902",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22776070",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "300",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.355338,
+                "source": "GOOGLE",
+                "lat": -22.987136
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Flamboyants da Península",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:O2 Corporate & Offices",
+                "BS:Via Parque Shopping",
+                "BS:Casa Shopping",
+                "BS:Barra Shopping Fundos (Hot Zone)",
+                "BS:Leroy Merlin",
+                "TS:O2 Corporate & Offices",
+                "TS:Via Parque Shopping",
+                "TS:Casa Shopping",
+                "TS:Aeroporto de Jacarepaguá",
+                "TS:Leroy Merlin",
+                "CS:Sítio do Moinho",
+                "CS:Mundo Verde",
+                "CS:Fábrica do Bolo",
+                "CS:Candy Delicatesse",
+                "CS:Esso",
+                "PH:Drogarias Carioca"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            3
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "HPBFN286",
+        "bathrooms": [
+            5
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [],
+        "advertiserId": "3db5bdd2-f97d-8de7-aeb2-38866c63599e",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "6900",
+                "price": "2400000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2700"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21987370721"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21987370721",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "3db5bdd2-f97d-8de7-aeb2-38866c63599e",
+        "name": "H PREMIUM IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52c4d4a4f35c309aadb62d8b49b9f60e/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 593456,
+        "phones": {
+            "primary": "21987370721",
+            "mobile": "21987370721"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "c6892f48fda60790aecc69dd096d61b2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c6892f48fda60790aecc69dd096d61b2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1756bd1d230fc60bae32d6f8d20e2619",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1756bd1d230fc60bae32d6f8d20e2619/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5d7dcf432106dd7faaf97f3a58c60364",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5d7dcf432106dd7faaf97f3a58c60364/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "309d67d9415b87ecd39309f14d9f0774",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/309d67d9415b87ecd39309f14d9f0774/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd2bf741df7656162b99caccb35cf151",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd2bf741df7656162b99caccb35cf151/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "681f0afe5304d7f8a3de1296d970669b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/681f0afe5304d7f8a3de1296d970669b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "30c2a6d16ee5babcd802342e3c333818",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30c2a6d16ee5babcd802342e3c333818/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a0f041a659a5a8cdc67460f2ae2bcb4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8a0f041a659a5a8cdc67460f2ae2bcb4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b5bd9d9b926b03d2f222f336e1c12056",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b5bd9d9b926b03d2f222f336e1c12056/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "H PREMIUM IMÓVEIS",
+        "href": "/593456/h-premium-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 155m²",
+        "href": "/imovel/apartamento-3-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-155m2-venda-RS2400000-id-2750744902/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Flamboyants da Península",
+            "streetNumber": "300",
+            "zone": "Zona Oeste"
+        }
+    }
+}

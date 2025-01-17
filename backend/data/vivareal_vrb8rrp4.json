@@ -1,0 +1,245 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "NUMBER_OF_FLOORS",
+            "KITCHEN",
+            "PARTY_HALL"
+        ],
+        "usableAreas": [
+            "67"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua Conde de Baependi, no bairro Laranjeiras em Rio de Janeiro. Este imóvel conta com área construída de 67m², oferecendo 2 quartos e 1 banheiro. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apartamento no Flamengo, 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2744961322",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22231140",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.933,
+                "approximateLon": -43.182,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Conde de Baependi",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Laranjeiras",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "poisList": [
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Largo do Machado",
+                "BS:Rua das Laranjeiras, 336",
+                "BS:Rua Monte Alegre próximo ao 342",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "TS:Acesso Largo do Machado",
+                "TS:Acesso Catete",
+                "TS:Flamengo",
+                "TS:Ponto Final: Largo do Machado :: Linha 497",
+                "TS:Largo do Machado",
+                "CS:Frigorífico Palácio",
+                "CS:Mercado São José das Artes",
+                "CS:Confeitaria Itajaí",
+                "CS:Vossa Mercê Mercearia",
+                "CS:Casa de Carnes Alentejo",
+                "PH:Farmácia Pinheiro Machado",
+                "PH:drogarias tambaú",
+                "PH:Bioderme",
+                "PH:Quintessência",
+                "PH:Cristal"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "PUqc2770",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "67"
+        ],
+        "advertiserId": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "142",
+                "price": "800000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1050"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21988595427"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988595427",
+        "stamps": []
+    },
+    "account": {
+        "id": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "name": "Luccare Investimentos",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/356f29ff805ce9c2aedf37766016903e/{description}.webp",
+        "licenseNumber": "065358-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 79203,
+        "phones": {
+            "primary": "21988595427",
+            "mobile": "21988595427"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "79e1c5fffc35b5aa25fa4fbcf04a9daf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/79e1c5fffc35b5aa25fa4fbcf04a9daf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "881db4b50f4fd3b4a8b711a4f3e1c0bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/881db4b50f4fd3b4a8b711a4f3e1c0bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3854a731b303d7a73afda1cb07f01264",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3854a731b303d7a73afda1cb07f01264/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "40ffd2ad46ff44cb17dcf0c547d7205f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/40ffd2ad46ff44cb17dcf0c547d7205f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c25223b1c39248b4742d30709689e58",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c25223b1c39248b4742d30709689e58/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5a4877f6423430b2efa84d39b0df7364",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5a4877f6423430b2efa84d39b0df7364/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cb38264c75d7d7f602f8845dc399832e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cb38264c75d7d7f602f8845dc399832e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "69dda868a1f3d524e1604af0fdeeebdb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/69dda868a1f3d524e1604af0fdeeebdb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a34d73191e1298be778e97a2e946be7a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a34d73191e1298be778e97a2e946be7a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8734ccd65a0837894fe2b0051bb21915",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8734ccd65a0837894fe2b0051bb21915/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a396d49ad5fd3cfe3563fcfc6ea815d2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a396d49ad5fd3cfe3563fcfc6ea815d2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "abe823f78a88212a4742df8bfd30fea3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/abe823f78a88212a4742df8bfd30fea3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6217897aadfd8616320ca94ab5d0de0a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6217897aadfd8616320ca94ab5d0de0a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "84e6da40c9ab10b4182763c4c026d813",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/84e6da40c9ab10b4182763c4c026d813/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e8bd68d696254b26203bbf9eb7b6f082",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e8bd68d696254b26203bbf9eb7b6f082/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "544c41e67b5a8231212576c6628d85ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/544c41e67b5a8231212576c6628d85ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b2e0129c7961c53cf41c7fec35fa7ae3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b2e0129c7961c53cf41c7fec35fa7ae3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "67ead7fdfb15714fcd105ca9587dad2a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/67ead7fdfb15714fcd105ca9587dad2a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9910c461c444c25bc771731e5de458a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9910c461c444c25bc771731e5de458a4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c6507108cc2271c8e82ff0d78ba210c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c6507108cc2271c8e82ff0d78ba210c/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Luccare Investimentos",
+        "href": "/79203/luccare-investimentos/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 67m²",
+        "href": "/imovel/apartamento-2-quartos-laranjeiras-zona-sul-rio-de-janeiro-67m2-venda-RS800000-id-2744961322/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Laranjeiras",
+            "state": "Rio de Janeiro",
+            "street": "Rua Conde de Baependi",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "257"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "EXCELENTE APARTAMENTOA EM COPACABANA. LIVING, JANTAR, LAVABO, 4 QUARTOS COM CLOSET, 2 BANHEIROS SOCIAL, COPA COZINHA COM ARAMARIOS, AREA DE SERVIÇO E DEPENDENCIA COMPLETA, , PORTARIA 24H, COM 2 VAGA NA ESCRITURA.<br>-Cod:COAP40109 -Rev.11Dez",
+        "title": "Apartamento - / Residencial / Copacabana",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2757876529",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22040010",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.966,
+                "approximateLon": -43.183,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Paula Freitas",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 1 Paula Freitas",
+                "BS:BRS 2: Hilário de Gouveia",
+                "BS:BRS 2 Hilário de Gouveia",
+                "BS:BRS 2 República do Peru",
+                "BS:Ponto Regulador: Metrô Siqueira Campos",
+                "TS:BRS 1 Paula Freitas",
+                "TS:BRS 2: Hilário de Gouveia",
+                "TS:BRS 2 Hilário de Gouveia",
+                "TS:BRS 2 República do Peru",
+                "TS:Siqueira Campos",
+                "CS:Suíça",
+                "CS:Multifruti",
+                "CS:La Copa",
+                "CS:Paõ & Companhia",
+                "CS:Confeitaria La Marquise",
+                "PH:Drogaria Galanti",
+                "PH:Nash",
+                "PH:Galícia",
+                "PH:Farmácia do Leme",
+                "PH:Prontofarma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "COAP40109",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "257"
+        ],
+        "advertiserId": "f8f93db9-2052-b6de-b109-ae2d269c5109",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "8434",
+                "price": "2300000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "3300"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2137984427",
+                "21993973521"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21993973521",
+        "stamps": []
+    },
+    "account": {
+        "id": "f8f93db9-2052-b6de-b109-ae2d269c5109",
+        "name": "Myto Imobiliária - Copacabana",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ce30a2491cd9135e88c36efcfa82f2c/{description}.webp",
+        "licenseNumber": "007286-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 28570,
+        "phones": {
+            "primary": "2137984427",
+            "mobile": "21993973521"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "2f13f2e46970bb5bee09b89306f68f25",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2f13f2e46970bb5bee09b89306f68f25/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bde637e4bb4bc5e2cfbdcdea1c0813e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bde637e4bb4bc5e2cfbdcdea1c0813e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b8e983e55783b1dcf88571b114bbda61",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b8e983e55783b1dcf88571b114bbda61/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9459ce7ae02bb51bc56866c0f313acb2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9459ce7ae02bb51bc56866c0f313acb2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6d69e114ddb3e231023e4c62f3032af5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6d69e114ddb3e231023e4c62f3032af5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ef60e04e79f6cc3bb458f9be002ef64d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ef60e04e79f6cc3bb458f9be002ef64d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "da65a303cc7720b52b8951aafa4aa59b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/da65a303cc7720b52b8951aafa4aa59b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3b94157bce41e15b0fa6f45901252a6c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b94157bce41e15b0fa6f45901252a6c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d41b1680128247b05784b42f23cbf41",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d41b1680128247b05784b42f23cbf41/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f87f44541c757c160174fb5a54df0283",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f87f44541c757c160174fb5a54df0283/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "587e7355cb5195d3a4126e61066d3112",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/587e7355cb5195d3a4126e61066d3112/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Myto Imobiliária - Copacabana",
+        "href": "/28570/myto-imobiliaria-copacabana/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 257m²",
+        "href": "/imovel/apartamento-4-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-257m2-venda-RS2300000-id-2757876529/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Paula Freitas",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

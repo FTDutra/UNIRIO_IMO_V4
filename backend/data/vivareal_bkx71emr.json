@@ -1,0 +1,253 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "PAVED_STREET",
+            "GARAGE",
+            "SERVICE_AREA",
+            "KITCHEN",
+            "ELEVATOR"
+        ],
+        "usableAreas": [
+            "87"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Ótimo apartamento à venda com facilidade de acesso aos bairros do Campinho, Vila Valqueire, Madureira, Taquara e Pechincha. Localização com farta condução e comércio. Prédio único com elevador. Apartamento é composto de ampla sala para 2 ambientes, 2 quartos, sendo 1 suite, em piso frio. Cozinha ampla com área de serviço separada e quarto de empregada. Banheiro social modernizado. Ambientes claros com ótima luminosidade natural e boa circulação de ar. Garagem escriturada. Documentação perfeita. Financiamos. Agende sua visita conosco e venha conferir. 6b103",
+        "title": "Campinho | Apartamento 2 quartos, sendo 1 suite",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2761796841",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21341460",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.887,
+                "approximateLon": -43.345,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Ana Teles",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Campinho",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Campinho",
+            "poisList": [
+                "BS:Doutor Bernardino",
+                "BS:Linha 779 Madureira >> Pavuna",
+                "BS:Ponto Final: Madureira :: Linha 779",
+                "BS:Praça Seca :: Linhas para o Castelo",
+                "BS:Ponto Final: Praça Seca :: Ônibus Executivo",
+                "TS:Pinto Teles",
+                "TS:Campinho",
+                "TS:Capitão Menezes",
+                "TS:Doutor Bernardino",
+                "TS:Praça Seca (Parador)",
+                "CS:Auto Posto Bittig",
+                "CS:Gula Gula",
+                "CS:3 Marias",
+                "CS:J.D.R.",
+                "CS:Açougue Barão Ltda.",
+                "PH:Imediata"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "ME2AP41350",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "87"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "421",
+                "price": "235000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "300"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": []
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "8577820b7b28e1f5788cd9a9609c0fd7",
+            "url": "https://www.youtube.com/watch?v=HPc5SIUbx34",
+            "type": "VIDEO"
+        },
+        {
+            "id": "b2891d35e4a50e0af031ce700da4318a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b2891d35e4a50e0af031ce700da4318a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b0110f807c237a42034d6fdd74e92ced",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b0110f807c237a42034d6fdd74e92ced/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7844a6349032afa03513663e0875e896",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7844a6349032afa03513663e0875e896/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2f53026c5cfed6028dc6d8dc9f80fd42",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2f53026c5cfed6028dc6d8dc9f80fd42/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a63f862f2bb3a162f908e7af168e383",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a63f862f2bb3a162f908e7af168e383/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "da0a55a08a67023b6663c023891822e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/da0a55a08a67023b6663c023891822e3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a6be070cd9fc587d182c415babc100cf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a6be070cd9fc587d182c415babc100cf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "edb06cb0d7a7649812ae3067511a4581",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/edb06cb0d7a7649812ae3067511a4581/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "692ec6b439abdcfa9af8b7f284afa991",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/692ec6b439abdcfa9af8b7f284afa991/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "df3d30f1271c076025a917b2c29d21ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df3d30f1271c076025a917b2c29d21ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42544ad3eade67440971e4309f851161",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42544ad3eade67440971e4309f851161/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4cc1ee11b88582d2f4e674c539e16be3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4cc1ee11b88582d2f4e674c539e16be3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "483c5424bab14422acb89a2bd6d5c375",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/483c5424bab14422acb89a2bd6d5c375/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bfa026c182fd571d1ea538e52a48aa80",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bfa026c182fd571d1ea538e52a48aa80/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "45f23adee33d55850b10dca6d7860082",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/45f23adee33d55850b10dca6d7860082/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0589d9bbcea95a30b2c722f0db033c7f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0589d9bbcea95a30b2c722f0db033c7f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0783c18340ea545243f6432586b8ae97",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0783c18340ea545243f6432586b8ae97/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6894ac6874d9759fc29779e338769f5a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6894ac6874d9759fc29779e338769f5a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b5219946916b499f7a0bec12c40f62e7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b5219946916b499f7a0bec12c40f62e7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0e9a7a46c50097e3691139c89740440f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0e9a7a46c50097e3691139c89740440f/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 87m²",
+        "href": "/imovel/apartamento-2-quartos-campinho-zona-norte-rio-de-janeiro-com-garagem-87m2-venda-RS235000-id-2761796841/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Campinho",
+            "state": "Rio de Janeiro",
+            "street": "Rua Ana Teles",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

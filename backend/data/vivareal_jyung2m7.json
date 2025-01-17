@@ -1,0 +1,290 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "NUMBER_OF_FLOORS",
+            "KITCHEN",
+            "SAFETY_CIRCUIT",
+            "HEATING",
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "100"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua Siqueira Campos, no bairro Copacabana em Rio de Janeiro. Este imóvel conta com área construída de 100m², oferecendo 3 quartos, sendo 1 suíte e 3 banheiros. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Ótimo apartamento 3 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2752637595",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22031071",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.965,
+                "approximateLon": -43.189,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Siqueira Campos",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:Ponto Regulador: Metrô Siqueira Campos",
+                "BS:BRS 3 Siqueira Campos",
+                "BS:BRS 2 Hilário de Gouveia",
+                "BS:BRS 1 Figueiredo Magalhães",
+                "BS:BRS 2: Hilário de Gouveia",
+                "TS:Siqueira Campos / Copacabana",
+                "TS:Ponto Regulador: Metrô Siqueira Campos",
+                "TS:Figueiredo Magalhães",
+                "TS:Siqueira Campos - Sentido Gen. Osório / Jd. Ocêanico",
+                "TS:Siqueira Campos / Copacabana - Sentido Gen. Osório / Jd. Ocêanico",
+                "CS:The Bakers",
+                "CS:Suíça",
+                "CS:Grão da terra",
+                "CS:Multifruti",
+                "CS:La Copa",
+                "PH:Nash",
+                "PH:Drogaria Galanti",
+                "PH:Caminhoá",
+                "PH:Prontofarma",
+                "PH:Ypiranga"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PU14qeaua",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "100"
+        ],
+        "advertiserId": "7d4ec74e-2cb7-2cba-50cf-92ec88a74e8c",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "300",
+                "price": "850000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2000"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2132176221",
+                "21964464440"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964464440",
+        "stamps": []
+    },
+    "account": {
+        "id": "7d4ec74e-2cb7-2cba-50cf-92ec88a74e8c",
+        "name": "B&A Imóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38a82296d8f09f9d275212109b82bc17/{description}.webp",
+        "licenseNumber": "07455-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 230106,
+        "phones": {
+            "primary": "2132176221",
+            "mobile": "21964464440"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "6cd1ea93ac3a0c82e7f1e573ced82768",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6cd1ea93ac3a0c82e7f1e573ced82768/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e1c277d6c8660fc349a5d21a3c65fd2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e1c277d6c8660fc349a5d21a3c65fd2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5dbdfbcf90a0c411ede2bd4dc3cebb81",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5dbdfbcf90a0c411ede2bd4dc3cebb81/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c87206e948d81fd554b759e92e85c3c0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c87206e948d81fd554b759e92e85c3c0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "56ecab14de94ad9a15d968920ffce88d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56ecab14de94ad9a15d968920ffce88d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8fa3d79eb5424a1eb78f65a298d0a632",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8fa3d79eb5424a1eb78f65a298d0a632/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "395baefd877fe1047c7201c20c12bce5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/395baefd877fe1047c7201c20c12bce5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6bf1025f6eebd9ccf6f8820d97b065c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6bf1025f6eebd9ccf6f8820d97b065c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8ab6642df0c00f6bee0f447909d5eef5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8ab6642df0c00f6bee0f447909d5eef5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d323e6275ef6d4166b92384950661be4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d323e6275ef6d4166b92384950661be4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a6d2780d14d99e3351dfea876abb961",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a6d2780d14d99e3351dfea876abb961/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4e023369a60f69b2bc8f5e00ce98b609",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4e023369a60f69b2bc8f5e00ce98b609/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "06b9d02260005eb9f1e718fd3d0c2c7f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/06b9d02260005eb9f1e718fd3d0c2c7f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "079680dbcc654a631fe58846f58b0211",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/079680dbcc654a631fe58846f58b0211/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ee034cc1e7c213a3ff40e4400cc4373c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ee034cc1e7c213a3ff40e4400cc4373c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b6b63f7ee2e4080304652d6c6c73c193",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b6b63f7ee2e4080304652d6c6c73c193/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d24f103eebd195d7bb1332909aeaf56f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d24f103eebd195d7bb1332909aeaf56f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "818937567fbbed552bf4425e924f4d53",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/818937567fbbed552bf4425e924f4d53/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "06e4e70a1f1928cb49346c7ce802d233",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/06e4e70a1f1928cb49346c7ce802d233/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "df46adfdd956801f3e9339d0c5c45b9d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df46adfdd956801f3e9339d0c5c45b9d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c5f8a93f998f3fe922c429927df07bd0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c5f8a93f998f3fe922c429927df07bd0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fd297554b9afae7ecca1342f75a392d2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd297554b9afae7ecca1342f75a392d2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ca5adbb48b7a0355985a38f5a22c7f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ca5adbb48b7a0355985a38f5a22c7f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e80836fe93400a500ac3821ee563128e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e80836fe93400a500ac3821ee563128e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "17ac222532087ae052a17d12062d1ca3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/17ac222532087ae052a17d12062d1ca3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cc7534fddc1eb1ca6e70c80bdbe7c4e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cc7534fddc1eb1ca6e70c80bdbe7c4e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a31d83f9c5d9fbbf5aa1e5652471ea4e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a31d83f9c5d9fbbf5aa1e5652471ea4e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b32b9156103a86d7ea61368fbc50ea49",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b32b9156103a86d7ea61368fbc50ea49/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "B&A Imóveis",
+        "href": "/230106/b-a-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 100m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-100m2-venda-RS850000-id-2752637595/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Siqueira Campos",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

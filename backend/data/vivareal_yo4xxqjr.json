@@ -1,0 +1,244 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "BALCONY",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "KITCHEN",
+            "INTERCOM",
+            "LAUNDRY",
+            "CABLE_TV"
+        ],
+        "usableAreas": [
+            "128"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "São Conrado com ampla sala com sacada vista verde, 3 amplos quartos com armários sendo uma suite e 1 banheiro social. Armários no corredor para suas louças ou roupas de cama. Copa/cozinha arejada com bastante espaço 2 vagas -",
+        "title": "128m² em andar alto no São Conrado",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2622919715",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22450221",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "965",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.253629,
+                "source": "GOOGLE",
+                "lat": -22.994455
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Niemeyer",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Sao Conrado",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "São Conrado",
+            "poisList": [
+                "BS:Largo das Flores",
+                "BS:Passarela da Rocinha",
+                "BS:Van São Conrado-Jardim de Alah",
+                "BS:Mercado Popular da Rocinha",
+                "BS:Almirante Álvaro Alberto",
+                "TS:Aquarela do Brasil",
+                "TS:Rocinha",
+                "TS:Largo das Flores",
+                "TS:Estrada da Gávea",
+                "TS:Passarela da Rocinha",
+                "CS:Torta & Cia",
+                "SU:Escola Municipal Rinaldo De Lamare",
+                "SU:Ciep Doutor Bento Rubião",
+                "SU:Creche Municipal Doutor Sobral Pinto",
+                "SU:Escola Municipal Paula Brito",
+                "SU:Creche Municipal Castelinho"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP1788",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "128"
+        ],
+        "advertiserId": "97760ff8-b4fb-b510-1c6b-01fd1c32dd37",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "441",
+                "price": "900000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2100"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21979341002"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21979341002",
+        "stamps": []
+    },
+    "account": {
+        "id": "97760ff8-b4fb-b510-1c6b-01fd1c32dd37",
+        "name": "A3 IMÓVEIS",
+        "licenseNumber": "058243-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 229368,
+        "phones": {
+            "primary": "21979341002",
+            "mobile": "21979341002"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "1400d8dc4471efdfcd0cd346ef8c5feb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1400d8dc4471efdfcd0cd346ef8c5feb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d7b4236ae2784562a8e4f4d8de99a48e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7b4236ae2784562a8e4f4d8de99a48e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "45df78a37f40ad48f9a72b9215560091",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/45df78a37f40ad48f9a72b9215560091/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c837782192d7159ba69c9c761604a8d1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c837782192d7159ba69c9c761604a8d1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce8a7856ae0100c6f7acfecd5e2c4b73",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce8a7856ae0100c6f7acfecd5e2c4b73/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8d42268a4a8cf20834355954bf0e61ca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d42268a4a8cf20834355954bf0e61ca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bae8d2f9e5942d3dabccabb4256694be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bae8d2f9e5942d3dabccabb4256694be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "18fbbdb2cb313b04c9521e0cd4dd0f99",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/18fbbdb2cb313b04c9521e0cd4dd0f99/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "66541354eed0e687f28f4c6c8b51881c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/66541354eed0e687f28f4c6c8b51881c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9eb2b0befe809859b677e3e6729ab97c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9eb2b0befe809859b677e3e6729ab97c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c0c77af1388034fe55d850f31a1a922",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c0c77af1388034fe55d850f31a1a922/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "128c1cae9b4b5f1f68a9ba5e459d0c44",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/128c1cae9b4b5f1f68a9ba5e459d0c44/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "045ce47b2b2b49701d717350813e928b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/045ce47b2b2b49701d717350813e928b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c6b465f896f1ad08a53b5e880308d6be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c6b465f896f1ad08a53b5e880308d6be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dbd17d462ff7cae933cf22673e644d8a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dbd17d462ff7cae933cf22673e644d8a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ae82f007165fc77c7cf3ddc39f8adf85",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae82f007165fc77c7cf3ddc39f8adf85/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "45869f892dafe7333504f2642edc2409",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/45869f892dafe7333504f2642edc2409/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c074375e32da705659e221e9f78da7bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c074375e32da705659e221e9f78da7bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "55f506071d7b18f78fc8d4edfc6369f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/55f506071d7b18f78fc8d4edfc6369f8/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "A3 IMÓVEIS",
+        "href": "/229368/a3-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 128m²",
+        "href": "/imovel/apartamento-3-quartos-sao-conrado-zona-sul-rio-de-janeiro-com-garagem-128m2-venda-RS900000-id-2622919715/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "São Conrado",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Niemeyer",
+            "streetNumber": "965",
+            "zone": "Zona Sul"
+        }
+    }
+}

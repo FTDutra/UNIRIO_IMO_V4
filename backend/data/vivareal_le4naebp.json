@@ -1,0 +1,253 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "40"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento, de 40m², à venda, com 2 quartos e 1 banheiro no total, 11° andar. O condomínio fica localizado em Rua Acre no bairro Centro em Rio de Janeiro. É bem localizado, próximo a pontos de interesse de Centro, tais como Rio dos Frangos, FISK Escola de Inglês, Erasmus English School, Morro da Conceição, Estação Uruguaiana e Estação Estação Uruguaiana.",
+        "title": "Apartamento à venda, 2 quartos, Centro - RIO DE JANEIRO/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2664213728",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20081000",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.898,
+                "approximateLon": -43.181,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Rua Acre",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:Ponto Final: Candelária :: Linha 397",
+                "BS:Ponto Final: Candelária :: Linha 369",
+                "BS:Ponto Final: Candelária :: Linha 392",
+                "BS:BRS 5: Rio Branco",
+                "BS:Ponto Final: Candelária :: Linha 393",
+                "TS:Parada dos Museus",
+                "TS:Santa Rita Pretos Novos",
+                "TS:Ponto Final: Candelária :: Linha 397",
+                "TS:Ponto Final: Candelária :: Linha 369",
+                "TS:Ponto Final: Candelária :: Linha 392",
+                "CS:Bella Rio",
+                "CS:Chic's",
+                "CS:Toca do Biscoito",
+                "CS:Kalunga",
+                "CS:Barletta",
+                "PH:Dermage Farmácia de Manipulação",
+                "PH:Drogaria Nações",
+                "PH:Farmalife",
+                "PH:Drogarias Pacheco",
+                "PH:Farmácia Rio Stop Ltda."
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "53126",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "40"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2470",
+                "price": "280000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "420"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "a5fdf466270617aa35c437a9459336aa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a5fdf466270617aa35c437a9459336aa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "57170bc3c0c09d79f7e06381cdcc7a3e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/57170bc3c0c09d79f7e06381cdcc7a3e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "213376477baf41a1653b8a9c38e616df",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/213376477baf41a1653b8a9c38e616df/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6025236159dcb49f19230dc6dce7dbf7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6025236159dcb49f19230dc6dce7dbf7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a1bda8d28f04871bec7812c8bfc48b04",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a1bda8d28f04871bec7812c8bfc48b04/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb333e4495ba034f11e0a2e17bbdb8a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb333e4495ba034f11e0a2e17bbdb8a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dcef89855f0ba3c97d09869e4bf58f24",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dcef89855f0ba3c97d09869e4bf58f24/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe46ba5c532119b95ff8139fa277ff65",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe46ba5c532119b95ff8139fa277ff65/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4b27e067b2193618fcd276c6770b623a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b27e067b2193618fcd276c6770b623a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e6c2694d18c95e4fa8e8faf0995a01a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e6c2694d18c95e4fa8e8faf0995a01a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e70696f762e7788676efe882dc12fa94",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e70696f762e7788676efe882dc12fa94/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "abc1e830dcd3a2d56a27a040d24de60c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/abc1e830dcd3a2d56a27a040d24de60c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36d464c34ce5f2b53a46dfc12e6cfba9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36d464c34ce5f2b53a46dfc12e6cfba9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6733388979b398184cd1814c95912aaa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6733388979b398184cd1814c95912aaa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "341bb29f8f975b8dd87fce304eecbc0b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/341bb29f8f975b8dd87fce304eecbc0b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c77816e64a36e2720e139fda7c851f2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c77816e64a36e2720e139fda7c851f2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff4c4c2dbbde0c7bff83631d7d74d6e5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff4c4c2dbbde0c7bff83631d7d74d6e5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "afa5ddcda5644ea25634503bdd046ec4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/afa5ddcda5644ea25634503bdd046ec4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "58b57ec2756dc5f0027f7eda50412afa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/58b57ec2756dc5f0027f7eda50412afa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3cc25e9f4ec05dfecb0937d2c767e914",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3cc25e9f4ec05dfecb0937d2c767e914/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0fc410185db30f330606d6c33f9195b5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0fc410185db30f330606d6c33f9195b5/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 40m²",
+        "href": "/imovel/apartamento-2-quartos-centro-zona-central-rio-de-janeiro-40m2-venda-RS280000-id-2664213728/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Rua Acre",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

@@ -1,0 +1,241 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GARAGE",
+            "AIR_CONDITIONING",
+            "BUILTIN_WARDROBE",
+            "KITCHEN_CABINETS",
+            "AMERICAN_KITCHEN",
+            "COLD_FLOOR"
+        ],
+        "usableAreas": [
+            "40"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Borge de Medeiros, proximo ao Clube Militar, fundos, silencioso, apartamento de quarto e sala, cozinha americana, porteira fechada! Residencial com serviços (pagos a parte), piscina, academia. Vaga de garagem. Portaria 24h, 40m2.<br><br>Características do imóvel<br>Ar condicionado<br>Armário de Cozinha<br>Armário embutido<br>Cozinha americana<br>Piso frio",
+        "title": "Lagoa - Quarto e sala com serviços",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2729423746",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22470001",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.962,
+                "approximateLon": -43.211,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Borges de Medeiros",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Lagoa",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Lagoa",
+            "poisList": [
+                "BS:Hospital da Lagoa",
+                "BS:Maria Angélica",
+                "BS:Jardim Botânico",
+                "BS:Humaitá",
+                "BS:Cobal do Humaitá",
+                "TS:Hospital da Lagoa",
+                "TS:Maria Angélica",
+                "TS:Humaitá",
+                "TS:Cobal do Humaitá",
+                "TS:Cobal",
+                "CS:A Padaria - Café Et Marché",
+                "CS:Panificação Lagoa",
+                "CS:Vitória Régia",
+                "CS:La Bicyclette",
+                "CS:Bastarda",
+                "PH:Padrão",
+                "PH:Ric",
+                "PH:Minipreço",
+                "PH:Ypiranga"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "RD302",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "40"
+        ],
+        "advertiserId": "dff2d9dc-4279-8223-d613-1441b527b60b",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "383",
+                "price": "750000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1760"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21969808556"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21969808556",
+        "stamps": []
+    },
+    "account": {
+        "id": "dff2d9dc-4279-8223-d613-1441b527b60b",
+        "name": "RICARDO DINIZ CONSULTOR IMOBILIÁRIO",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/92e7eca976a97241b52b11d27bac4ed0/{description}.webp",
+        "licenseNumber": "065691-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 129642,
+        "phones": {
+            "primary": "21969808556",
+            "mobile": "21969808556"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "6ff654c0703f42cdfca691de710825e2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ff654c0703f42cdfca691de710825e2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b3f184b6d28f40148745750366aa5e6b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b3f184b6d28f40148745750366aa5e6b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "00b899458a6dc292d1d7aec96c9f60c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/00b899458a6dc292d1d7aec96c9f60c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "975d2f73fa8ac857f15ed5bead45691e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/975d2f73fa8ac857f15ed5bead45691e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "da661e89762be6167fb1d30538ece514",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/da661e89762be6167fb1d30538ece514/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "beb97f7fe105ef9ae32750cae4785684",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/beb97f7fe105ef9ae32750cae4785684/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4b10ea4204c861e52b113a92b20209da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b10ea4204c861e52b113a92b20209da/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b841e8777e362b9a4ef1222b8d0085d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b841e8777e362b9a4ef1222b8d0085d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "742fb584a46d580955796837fed28dd9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/742fb584a46d580955796837fed28dd9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8bb49ea94b36840cd4407b25a1830daf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8bb49ea94b36840cd4407b25a1830daf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7288a7ef47a8774e7a0b850df009692f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7288a7ef47a8774e7a0b850df009692f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9ac8cde28561f5fca47c570aba0cae92",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ac8cde28561f5fca47c570aba0cae92/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "90ea59d2d26fcf4173d5fd1345742582",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/90ea59d2d26fcf4173d5fd1345742582/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "32b9a43d34b7f6d25c57c24707dbfdc5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/32b9a43d34b7f6d25c57c24707dbfdc5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7cc106c749e645f4611a8ca679490e5d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7cc106c749e645f4611a8ca679490e5d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "697bac1a7ca42c59d0a30946ba06bf7a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/697bac1a7ca42c59d0a30946ba06bf7a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f5323d09236d3642aa03896ad4c29635",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f5323d09236d3642aa03896ad4c29635/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7c8d8a19bcf3388a86d690855ba55ff1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7c8d8a19bcf3388a86d690855ba55ff1/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "RICARDO DINIZ CONSULTOR IMOBILIÁRIO",
+        "href": "/129642/ricardo-diniz-consultor-imobiliario/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 40m²",
+        "href": "/imovel/apartamento-1-quartos-lagoa-zona-sul-rio-de-janeiro-com-garagem-40m2-venda-RS750000-id-2729423746/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Lagoa",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Borges de Medeiros",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

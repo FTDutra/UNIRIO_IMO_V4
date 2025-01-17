@@ -1,0 +1,234 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [],
+        "usableAreas": [
+            "63"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O Laguna Beach é um condomínio de alto padrão localizado na Freguesia (Jacarepaguá), Rio de Janeiro, projetado para oferecer conforto, segurança e qualidade de vida. O empreendimento se destaca por sua infraestrutura moderna, amplas áreas verdes e localização privilegiada em uma região tranquila e valorizada.<br><br>Características do Condomínio:<br><br> • Imóveis: Unidades de apartamentos espaçosos com acabamento de qualidade e plantas bem distribuídas, ideais para famílias que buscam conforto e sofisticação.<br> • Lazer Completo: Piscinas adulto e infantil, playground, espaço gourmet, salão de festas, quadras esportivas e academia equipada.<br> • Segurança: Portaria 24 horas, monitoramento por câmeras e controle de acesso para maior tranquilidade dos moradores.<br> • Infraestrutura Verde: Jardins paisagísticos, áreas para caminhadas e convivência em meio à natureza.<br> • Localização Estratégica: Próximo a escolas, mercados, restaurantes e vias principais da região, facilitando o deslocamento.",
+        "title": "APTO - 63 m2 - FREGUESIA",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2761680259",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22750320",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "87",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.337076,
+                "source": "GOOGLE",
+                "lat": -22.945352
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Alcides Lima",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Jacarepagua",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Jacarepaguá",
+            "poisList": [
+                "BS:Tirol",
+                "BS:Professora Camisão",
+                "BS:Estrada de Jaquarepagua",
+                "BS:Estrada de Jaquarepaqua",
+                "TS:Tirol",
+                "TS:Professora Camisão",
+                "TS:José Roiz de Aragão",
+                "TS:Provedora Lygia Moreira Alves de Brito",
+                "TS:Estrada de Jaquarepagua",
+                "CS:Kúffura",
+                "CS:TECNOMEDI FREGUESIA",
+                "SU:Escola Municipal Menezes Cortes",
+                "SU:Colégio Bahiense - JPA",
+                "SU:Escola Municipal Maria Florinda Paiva da Cruz",
+                "SU:Escola Municipal Edgard Werneck",
+                "SU:Escola Municipal 25 de Abril"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "BS - LAGUNA BEACH - FREGUESIA",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "63"
+        ],
+        "advertiserId": "7492e6d1-28a4-b36e-a362-e7b9bff517e2",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1",
+                "price": "484669",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21996082549"
+            ]
+        },
+        "videoTourLink": "http://www2.lopes.rio.br/brunosimao/",
+        "whatsappNumber": "21996082549",
+        "stamps": []
+    },
+    "account": {
+        "id": "7492e6d1-28a4-b36e-a362-e7b9bff517e2",
+        "name": "MANOEL DIAS CORREA",
+        "licenseNumber": "074655-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 285936,
+        "phones": {
+            "primary": "21996082549",
+            "mobile": "21996082549"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "bce603d42e76b57a274bfd3bea445488",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bce603d42e76b57a274bfd3bea445488/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3b1845b00e2ecca4b3c0bf475f3b5b58",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b1845b00e2ecca4b3c0bf475f3b5b58/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f38468f2c25765c12ee6c3eabcad0ff1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f38468f2c25765c12ee6c3eabcad0ff1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "484e732c63857450c384a4e32b39539f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/484e732c63857450c384a4e32b39539f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a16e188171e73251aab3ae8c11c36208",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a16e188171e73251aab3ae8c11c36208/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38a674555356a2a38d93298950e51399",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38a674555356a2a38d93298950e51399/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "abc5b4290f72b6af8b564cfe6d2706e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/abc5b4290f72b6af8b564cfe6d2706e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1288d0ba439361f6261b6c5403d4b004",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1288d0ba439361f6261b6c5403d4b004/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e77a7022aadd8efad45fc23a01195206",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e77a7022aadd8efad45fc23a01195206/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "353ba409b55a779fd747bb03e5bc5515",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/353ba409b55a779fd747bb03e5bc5515/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "84e48bf3591b04be7fef484ceea28e26",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/84e48bf3591b04be7fef484ceea28e26/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e02f42e3c337d7cf3081e69b103045e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e02f42e3c337d7cf3081e69b103045e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c1802148e0b5b0e054d1451bac3bf5b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c1802148e0b5b0e054d1451bac3bf5b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6354790b252570dfb53b5c348f099155",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6354790b252570dfb53b5c348f099155/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "68f89ebed77bc7d996c4ea5ef9d6ebda",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/68f89ebed77bc7d996c4ea5ef9d6ebda/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9189bec8fc87db7264e58a3c9023fcf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9189bec8fc87db7264e58a3c9023fcf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "22c5e281552e578a65127bd8b9138c86",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/22c5e281552e578a65127bd8b9138c86/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a89ce35174390d6cd9c0f03decb6e12",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8a89ce35174390d6cd9c0f03decb6e12/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2a48c12f8dd951231d44ff3593f34b55",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a48c12f8dd951231d44ff3593f34b55/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "MANOEL DIAS CORREA",
+        "href": "/285936/manoel-dias-correa/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 63m²",
+        "href": "/imovel/apartamento-2-quartos-jacarepagua-zona-oeste-rio-de-janeiro-com-garagem-63m2-venda-RS484669-id-2761680259/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jacarepaguá",
+            "state": "Rio de Janeiro",
+            "street": "Rua Alcides Lima",
+            "streetNumber": "87",
+            "zone": "Zona Oeste"
+        }
+    }
+}

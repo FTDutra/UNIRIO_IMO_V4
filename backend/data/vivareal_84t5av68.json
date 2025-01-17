@@ -1,0 +1,299 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GATED_COMMUNITY",
+            "GARAGE",
+            "SPORTS_COURT",
+            "KITCHEN",
+            "SAFETY_CIRCUIT",
+            "NUMBER_OF_FLOORS",
+            "EXTERIOR_VIEW"
+        ],
+        "usableAreas": [
+            "85"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua Marquês de São Vicente, no bairro Gávea em Rio de Janeiro. Este imóvel conta com área construída de 85m², oferecendo 3 quartos, 2 banheiros e 1 vaga de garagem. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apartamento 3quartos 1vaga- Gávea 85m²",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2744964306",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22451040",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.976,
+                "approximateLon": -43.23,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Marquês de São Vicente",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Gavea",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Gávea",
+            "poisList": [
+                "BS:Marquês de São Vicente",
+                "BS:Terminal da PUC :: Plataforma A",
+                "BS:Ponto Final: Metrô na Superfície :: PUC",
+                "BS:Terminal da PUC :: Plataforma B",
+                "BS:Terminal Rodoviário da PUC",
+                "TS:Terminal da PUC :: Plataforma A",
+                "TS:Ponto Final: Metrô na Superfície :: PUC",
+                "TS:Terminal da PUC :: Plataforma B",
+                "TS:Gávea",
+                "TS:Nossa Senhora Auxiliadora",
+                "CS:am/pm",
+                "CS:Mini Mercado Pacheco Leão",
+                "CS:Rio Lisboa",
+                "CS:Talho Capixaba",
+                "CS:Panificação Século XX",
+                "PH:Drogasmil",
+                "PH:Ric",
+                "PH:Padrão"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "PUhgxan8",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "85"
+        ],
+        "advertiserId": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2806",
+                "price": "1600000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1500"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21988595427"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988595427",
+        "stamps": []
+    },
+    "account": {
+        "id": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "name": "Luccare Investimentos",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/356f29ff805ce9c2aedf37766016903e/{description}.webp",
+        "licenseNumber": "065358-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 79203,
+        "phones": {
+            "primary": "21988595427",
+            "mobile": "21988595427"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "4cba324d8cf45d9da16d7d701efc2135",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4cba324d8cf45d9da16d7d701efc2135/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb6d053d564da61f5c0b9037ca302914",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb6d053d564da61f5c0b9037ca302914/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5fc5264dfb3c38a87ca40196921a17bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5fc5264dfb3c38a87ca40196921a17bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe6f70f8382361f02d2ae878669cf3b7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe6f70f8382361f02d2ae878669cf3b7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "907ce331f3a4d6b7e94d3231cab87e4b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/907ce331f3a4d6b7e94d3231cab87e4b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "75ca1ad669ada857e5eac8de7c675519",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/75ca1ad669ada857e5eac8de7c675519/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65bb45c9f977d3718774632287132429",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65bb45c9f977d3718774632287132429/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "18bf6612c3e9209ae0eb7b00f405ab64",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/18bf6612c3e9209ae0eb7b00f405ab64/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2407315e6867ade5e42bbf645f9ba97f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2407315e6867ade5e42bbf645f9ba97f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "649a0e80022ce375397aad2c1f054f0f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/649a0e80022ce375397aad2c1f054f0f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dd03a99aa2e04a10e3c0bd8d57d8ef15",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd03a99aa2e04a10e3c0bd8d57d8ef15/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd1600b424b9bcda1eb1ed35d93aadbe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd1600b424b9bcda1eb1ed35d93aadbe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "24b40499d89904db27cd800540fba892",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/24b40499d89904db27cd800540fba892/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "647683002ee4797250d7bfec9277ba0b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/647683002ee4797250d7bfec9277ba0b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d7331f27787df9563077a4a1d23032af",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7331f27787df9563077a4a1d23032af/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a8685b083f6ef63729ffb35a1694d65",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a8685b083f6ef63729ffb35a1694d65/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b9fb4c029f578de88c8302210c34fd34",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b9fb4c029f578de88c8302210c34fd34/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b6630ad2f5c63d27197d8905a4171835",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b6630ad2f5c63d27197d8905a4171835/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "723f471393eec9ed2ab47b0e04bb3b78",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/723f471393eec9ed2ab47b0e04bb3b78/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a6993420d0b26a72a7cbf5694249c2c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a6993420d0b26a72a7cbf5694249c2c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1633c9e1be4005dc19ba46e4c3b3c9f3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1633c9e1be4005dc19ba46e4c3b3c9f3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd6506fbe1d7f4897fc1c6198fed5814",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd6506fbe1d7f4897fc1c6198fed5814/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ddf08f6db932671fcd42280c232e4e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ddf08f6db932671fcd42280c232e4e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9f15168c98e2cf8879090af80c96debc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9f15168c98e2cf8879090af80c96debc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8dd7d6ce878fe8c97642718c73a02134",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8dd7d6ce878fe8c97642718c73a02134/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb7a4e158d8dc0c5db912f918453f99b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb7a4e158d8dc0c5db912f918453f99b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd2879ffb6a0003813f18cd5f21e0ea7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd2879ffb6a0003813f18cd5f21e0ea7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eb19df529e866956815a65952751a743",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eb19df529e866956815a65952751a743/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3d63ec926dbffabd64dc1d9b44892f17",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3d63ec926dbffabd64dc1d9b44892f17/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "60d848655184109f860921e40cad7284",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60d848655184109f860921e40cad7284/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Luccare Investimentos",
+        "href": "/79203/luccare-investimentos/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 85m²",
+        "href": "/imovel/apartamento-3-quartos-gavea-zona-sul-rio-de-janeiro-com-garagem-85m2-venda-RS1600000-id-2744964306/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Gávea",
+            "state": "Rio de Janeiro",
+            "street": "Rua Marquês de São Vicente",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

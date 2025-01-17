@@ -1,0 +1,255 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "NUMBER_OF_FLOORS",
+            "ELEVATOR"
+        ],
+        "usableAreas": [
+            "36"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Localização privilegiada, próximo comércio, bancos, colégio, Lapa (maior centro de entretenimento do Rio).<br>Prédio com portaria expediente 24 horas. Apartamento bem dividido, claro, reformado, pronto para morar, composto por sala, quarto, banheiro com blindex e cozinha funcional.<br>Documentação perfeita, aceita financiamento! ae806",
+        "title": "Centro | Apartamento 1 quarto",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2748101375",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20240051",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.916,
+                "approximateLon": -43.188,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Avenida Nossa Senhora de Fátima",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:Ponto Final: Cruz Vermelha",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "BS:Rua Monte Alegre próximo ao 342",
+                "BS:P28",
+                "BS:BRS 1,2,4 Inválidos",
+                "TS:Ponto Final: Cruz Vermelha",
+                "TS:Rua Paschoal Carlos Magno próximo ao 15",
+                "TS:Rua Monte Alegre próximo ao 342",
+                "TS:Largo do Curvelo",
+                "TS:Largo do Guimarães",
+                "CS:Padaria Vilar Pães",
+                "CS:Fábrica de Bolo Vó Alzira",
+                "CS:Padaria e Confeitaria Costa Bastos",
+                "CS:Seu Zé",
+                "CS:ArmaZen",
+                "PH:Viva Bem",
+                "PH:Exata",
+                "PH:Drogaria Rey",
+                "PH:Drogaria Exata",
+                "PH:City Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "SP1AP86695",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "36"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "325000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "522"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": []
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "c524220b16e3bde2c6f0d9cc68059046",
+            "url": "https://www.youtube.com/watch?v=KyH6se6BJ68",
+            "type": "VIDEO"
+        },
+        {
+            "id": "3c78f11abf8fc0288d34cd82c5ea0dfe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c78f11abf8fc0288d34cd82c5ea0dfe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e09a5ef7a925cb58d6f7444fa96ce870",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e09a5ef7a925cb58d6f7444fa96ce870/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "80e11e922efbd561b304db2ffa565f09",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/80e11e922efbd561b304db2ffa565f09/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd3ff347681090a99d30f33c3fb0860d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd3ff347681090a99d30f33c3fb0860d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1ae41cf23692981b7acbfe514d3f1527",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1ae41cf23692981b7acbfe514d3f1527/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "989e3a7cf5613723e5ecfced0987171b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/989e3a7cf5613723e5ecfced0987171b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dc153c0e10592dd1c5f9a2918870d30c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc153c0e10592dd1c5f9a2918870d30c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c3ceebfe1b7d4f6c093c89e05e2c493b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c3ceebfe1b7d4f6c093c89e05e2c493b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "31e8c5c8e8e2c2acde51784cb48dd531",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/31e8c5c8e8e2c2acde51784cb48dd531/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4b5f7cdc1da6381665a3e12c77eaf44f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b5f7cdc1da6381665a3e12c77eaf44f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "003f68d5894f8aa8fa9d66af5b811981",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/003f68d5894f8aa8fa9d66af5b811981/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d261800bbc359c177b56e60addd8c67a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d261800bbc359c177b56e60addd8c67a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c028e055a6b2082af31dc5f4565b2dc8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c028e055a6b2082af31dc5f4565b2dc8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "04868802419c8170c5feaee9caca7010",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/04868802419c8170c5feaee9caca7010/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4864408186af26abbaca9dae318a11e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4864408186af26abbaca9dae318a11e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0e31506fd4165e816525aaaef17fec14",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0e31506fd4165e816525aaaef17fec14/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fca90a14ebd9a4952d81320fbf1056e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fca90a14ebd9a4952d81320fbf1056e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ce8d17755ce20e06fb5a6b6a8f9deb70",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ce8d17755ce20e06fb5a6b6a8f9deb70/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7df7a6cfe8b19beb27bd8cde4e680158",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7df7a6cfe8b19beb27bd8cde4e680158/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "be366fdcd29992d84133819290a8dea5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/be366fdcd29992d84133819290a8dea5/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 36m²",
+        "href": "/imovel/apartamento-1-quartos-centro-zona-central-rio-de-janeiro-36m2-venda-RS325000-id-2748101375/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Nossa Senhora de Fátima",
+            "streetNumber": "",
+            "zone": "Zona Central"
+        }
+    }
+}

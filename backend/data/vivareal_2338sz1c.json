@@ -1,0 +1,225 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "GATED_COMMUNITY",
+            "BALCONY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GARAGE",
+            "AIR_CONDITIONING",
+            "PLAYGROUND",
+            "GREEN_SPACE",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "CONCIERGE_24H",
+            "CLOSET"
+        ],
+        "usableAreas": [
+            "160"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Ótimo apartamento linear de 4 suítes, em condomínio com total infraestrutura de lazer e segurança na Barra da Tijuca, composto de uma ampla sala em 2 ambientes com piso em porcelanato, interligada a varanda com vista para lazer e montanha.<br>Banheiro social com bancada em granito, (03)/ (4 )quartos com piso laminado, sendo uma suíte com bancada em granito.<br>Cozinha ampla com bancada em granito, interligada a área de serviço e dependência de empregada. Próximo aos principais shoppings, Hospitais e supermercado da Barra da Tijuca....5 minutos da praia. aa992",
+        "title": "Barra da Tijuca | Apartamento 4 quartos, sendo 4 suites",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2628926090",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            3
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22783124",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.985,
+                "approximateLon": -43.414,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Escritor Rodrigo Melo Franco",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:Estrada dos Bandeirantes",
+                "TS:Olof Palme",
+                "TS:Ilha Pura",
+                "TS:Estrada dos Bandeirantes",
+                "TS:Riocentro",
+                "TS:Golfe Olímpico",
+                "CS:La Fabrica dell Pane",
+                "CS:Deli Delícia",
+                "CS:Panificadora e Mercearia São Jorge",
+                "PH:Cruz Souza Xavier",
+                "PH:Drogarias MEP"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            4
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "BAAP0655",
+        "bathrooms": [
+            7
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "160"
+        ],
+        "advertiserId": "47f1083a-31bc-6d3c-12e7-fd27d0e5a994",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "300",
+                "price": "1615000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1350"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21967320404"
+            ]
+        },
+        "videoTourLink": "https://my360.com.br/3d-model/atlantico-golf-apartamento-decorado-por-debora-aguiar-3-suites-de-18157m%C2%B2/fullscreen/",
+        "whatsappNumber": "21967320404",
+        "stamps": []
+    },
+    "account": {
+        "id": "47f1083a-31bc-6d3c-12e7-fd27d0e5a994",
+        "name": "SUA CASA DIGITAL",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b7c6cff2e09ebcf80c09d49722f1cdf1/{description}.webp",
+        "licenseNumber": "8313-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 648459,
+        "phones": {
+            "primary": "21967320404",
+            "mobile": "21967320404"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "339aa2d40b7ad3f9574da8b8e304cf01",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/339aa2d40b7ad3f9574da8b8e304cf01/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "513d9e3e42eb7c6cc8c6ee1edded1fa9",
+            "url": "https://www.youtube.com/watch?v=JqnTDYeTwAA",
+            "type": "VIDEO"
+        },
+        {
+            "id": "e45212616164a8bfd40dda8b122dd1f9",
+            "url": "https://my360.com.br/3d-model/atlantico-golf-apartamento-decorado-por-debora-aguiar-3-suites-de-18157m%C2%B2/fullscreen/",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "b79f7b13d49c93038e2b8eb79b82e675",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b79f7b13d49c93038e2b8eb79b82e675/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d37af4df3333799cec2656ccb3475d66",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d37af4df3333799cec2656ccb3475d66/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4aea1ec1b3ed3ef0807fdc122fd0fd68",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4aea1ec1b3ed3ef0807fdc122fd0fd68/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d6fe076ef568914c5ee7ae0e4aef1a2a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d6fe076ef568914c5ee7ae0e4aef1a2a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3b9c4e79a1d358a12e8bb07433e3dd7b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b9c4e79a1d358a12e8bb07433e3dd7b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c542ae57f917cda667d44e654ddd6f98",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c542ae57f917cda667d44e654ddd6f98/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "99574e56dd92ff6190d2cf1499b13ac0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/99574e56dd92ff6190d2cf1499b13ac0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3b6091ca74636163784017046446bedc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b6091ca74636163784017046446bedc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ae62eb1422d028a5da58c3d8df1180b7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae62eb1422d028a5da58c3d8df1180b7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d946813496521ca0675a8248ce78a2ba",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d946813496521ca0675a8248ce78a2ba/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "98387afcfbb743e552fe0e5e56ddcb6a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98387afcfbb743e552fe0e5e56ddcb6a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "25453e133290993763d9088f56eb2bac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/25453e133290993763d9088f56eb2bac/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SUA CASA DIGITAL",
+        "href": "/648459/sua-casa-digital/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 160m²",
+        "href": "/imovel/apartamento-4-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-160m2-venda-RS1615000-id-2628926090/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Escritor Rodrigo Melo Franco",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

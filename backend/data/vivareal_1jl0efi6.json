@@ -1,0 +1,169 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "GATED_COMMUNITY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "GARAGE",
+            "GARDEN",
+            "PLAYGROUND",
+            "CHILDRENS_POOL",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "TENNIS_COURT",
+            "FOOTBALL_FIELD",
+            "ZEN_SPACE",
+            "SPA",
+            "HIKING_TRAIL",
+            "SAUNA",
+            "DISABLED_ACCESS",
+            "ADULT_GAME_ROOM",
+            "PET_SPACE"
+        ],
+        "usableAreas": [
+            "60"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento de 2 Quartos com suíte",
+        "title": "Apartamento de 2 Quartos com 60 m²",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2721767187",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22775029",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "0",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.36724,
+                "source": "GOOGLE",
+                "lat": -22.970215
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Antônio Gallotti",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Jacarepagua",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Jacarepaguá",
+            "poisList": [
+                "BS:Via Parque Shopping",
+                "TS:Rede Sarah",
+                "TS:Rio 2 (Expresso)",
+                "TS:Via Parque Shopping",
+                "TS:Rio 2 (Parador)",
+                "TS:Arroio Pavuna",
+                "CS:Doçura do Rio",
+                "CS:Rio Dois Shopping",
+                "CS:Padaria Felipão",
+                "PH:Rede Viva Bem"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "REAL179",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "60"
+        ],
+        "advertiserId": "deddad6e-6251-84ef-81e3-fc2c3381428a",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "100",
+                "price": "450000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "700"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21970007223",
+                "21966253131"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21966253131",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "deddad6e-6251-84ef-81e3-fc2c3381428a",
+        "name": "Real Imóveis RJ.",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/84f423ec2fc8ec238c229f19166684ff/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 749679,
+        "phones": {
+            "primary": "21970007223",
+            "mobile": "21966253131"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "00980215d5cf45ebee2ba0564ebd4d8c",
+            "url": "https://www.youtube.com/watch?v=e5V3sDK-HZc",
+            "type": "VIDEO"
+        },
+        {
+            "id": "5c71c7ce943dd7943c32cd38d121db10",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5c71c7ce943dd7943c32cd38d121db10/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Real Imóveis RJ.",
+        "href": "/749679/real-imoveis-rj/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 60m²",
+        "href": "/imovel/apartamento-2-quartos-jacarepagua-zona-oeste-rio-de-janeiro-com-garagem-60m2-venda-RS450000-id-2721767187/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jacarepaguá",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Antônio Gallotti",
+            "streetNumber": "0",
+            "zone": "Zona Oeste"
+        }
+    }
+}

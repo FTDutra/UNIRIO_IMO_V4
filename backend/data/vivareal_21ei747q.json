@@ -1,0 +1,256 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "KITCHEN",
+            "INTERCOM",
+            "SERVICE_AREA",
+            "BARBECUE_GRILL"
+        ],
+        "usableAreas": [
+            "50"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento com 2 quartos à venda, 50 m² por R$ 205.000 - Madureira - Rio de Janeiro/RJ.<br><br>Imóveis Mav vende, ótimo apartamento térreo, de frente, vazio. Com sala, 2 quartos, cozinha, banheiro social com blindex.<br>1 vaga de garagem, portão eletrônico e interfone.<br>Em frente a estação de Oswaldo Cruz!!! -",
+        "title": "Apartamento à venda, 50 m² por R$ 205.000,00 - Madureira - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2513953758",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21340020",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "625",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.350118,
+                "source": "GOOGLE",
+                "lat": -22.870043
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua João Vicente",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Madureira",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Madureira",
+            "poisList": [
+                "BS:Ponto de Onibus da Vila Nova",
+                "BS:Linha 774 Madureira >> Jardim América",
+                "BS:LInha 940 Madureira >> Ramos",
+                "BS:Linha 355 Madureira >> Praça Tiradentes",
+                "BS:Linha 766 Madureira >> Freguesia",
+                "TS:Oswaldo Cruz",
+                "TS:Ponto de Onibus da Vila Nova",
+                "TS:LInha 940 Madureira >> Ramos",
+                "TS:Linha 355 Madureira >> Praça Tiradentes",
+                "TS:Linha 766 Madureira >> Freguesia",
+                "CS:FABRICA DE BOLO VÓ ALZIRA",
+                "CS:FINI",
+                "CS:J.D.R.",
+                "CS:Tecnomedi Madureira",
+                "PH:Drogaria My Farma | Farmácia Online - RJ"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0517",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "50"
+        ],
+        "advertiserId": "4bec5fd9-921f-7958-4e2e-6281b8969d61",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "205000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "80"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2130446511",
+                "21964907656"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964907656",
+        "stamps": []
+    },
+    "account": {
+        "id": "4bec5fd9-921f-7958-4e2e-6281b8969d61",
+        "name": "MAV IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc50e6c64348c6b7b0c15b82fd3b30e2/{description}.webp",
+        "licenseNumber": "46890-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 64182,
+        "phones": {
+            "primary": "2130446511",
+            "mobile": "21964907656"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "16fefc1f745ea7b98f39e3f53eb1523f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/16fefc1f745ea7b98f39e3f53eb1523f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8627b0b30ef1bdca48665b3a6e6eaf00",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8627b0b30ef1bdca48665b3a6e6eaf00/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "75089c23347665d7098ee0b4b358e9a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/75089c23347665d7098ee0b4b358e9a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "da8fc147e682f8ed7e2eb074564ca5f6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/da8fc147e682f8ed7e2eb074564ca5f6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5ee22ed1def4053b0ad86604ffe7bffb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5ee22ed1def4053b0ad86604ffe7bffb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "715e98cf665746006ab3af185a5bbd6a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/715e98cf665746006ab3af185a5bbd6a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "030fb2bc435253288a9e7259d7720b09",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/030fb2bc435253288a9e7259d7720b09/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b9ad1d119770bca1ef4a4d0149f85511",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b9ad1d119770bca1ef4a4d0149f85511/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "30acdc132a2d9a241e5f17411385d3c4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/30acdc132a2d9a241e5f17411385d3c4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ae4c91cd9ad3af5d33714571b8df3f7e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae4c91cd9ad3af5d33714571b8df3f7e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2375036383d7486263c064b57337eda2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2375036383d7486263c064b57337eda2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "05c39525d790996806dc2f7a5faca1ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/05c39525d790996806dc2f7a5faca1ff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "27b510e960e8e1462dd987db48dfd1be",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/27b510e960e8e1462dd987db48dfd1be/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "02973754b2adb81f18f553da6ea29c17",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/02973754b2adb81f18f553da6ea29c17/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f19d29cb8ed60c0ec03b20d3d7dd6b98",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f19d29cb8ed60c0ec03b20d3d7dd6b98/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c28fbcafdb9ece87cffc65894721e8df",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c28fbcafdb9ece87cffc65894721e8df/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e7e20ea5350f639aaaaa9023e546b3d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e7e20ea5350f639aaaaa9023e546b3d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8d5c20df3524556004ec7f379ddc60bb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d5c20df3524556004ec7f379ddc60bb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "83a22581956264e07492c5cc2edd0ea9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/83a22581956264e07492c5cc2edd0ea9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b6e78491ce66b25dbe9a6c411716309f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b6e78491ce66b25dbe9a6c411716309f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d18da0ef9b50bd3d3c94c4defcebf3c0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d18da0ef9b50bd3d3c94c4defcebf3c0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "90c4ca18d3edb375ab37a349a39477a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/90c4ca18d3edb375ab37a349a39477a5/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "MAV IMÓVEIS",
+        "href": "/64182/mav-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 50m²",
+        "href": "/imovel/apartamento-2-quartos-madureira-zona-norte-rio-de-janeiro-com-garagem-50m2-venda-RS205000-id-2513953758/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Madureira",
+            "state": "Rio de Janeiro",
+            "street": "Rua João Vicente",
+            "streetNumber": "625",
+            "zone": "Zona Norte"
+        }
+    }
+}

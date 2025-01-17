@@ -1,0 +1,197 @@
+{
+    "listing": {
+        "displayAddressType": "NEIGHBORHOOD",
+        "amenities": [
+            "NUMBER_OF_FLOORS"
+        ],
+        "usableAreas": [
+            "99"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Real Up vende: Imóvel claro e bem arejado em Copacabana!<br>Excelente apartamento composto de 3 quartos, sendo uma suíte, sala dois ambientes, cozinha com armários, 3 banheiros sociais, área de serviço e uma vaga na garagem. O condomínio conta com uma bela estrutura, academia, churrasqueira, salão de festas e playground, além de uma portaria 24horas.<br><br>Mais sobre Copacabana - Famosa pela praia em forma de meia-lua, Copacabana é um dos bairros mais animados do Rio. Ela atrai moradores e turistas para atividades ininterruptas nas suas areias e no calçadão desenhado. Entre os arranha-céus com vista para a praia, estão o hotel Copacabana Palace em estilo art déco e o exuberante Forte de Copacabana, que abriga um museu militar. Mais para dentro do bairro, cafés descontraídos e bares casuais enchem as ruas sossegadas.<br><br>Ligue e agende sua visita!<br><br>Atenção: Os preços e taxas podem sofrer alterações sem aviso prévio. As mobílias não estão incluídas, exceto para imóveis que possuem informação específica que são mobiliados. Considerando a rotatividade dos imóveis é possível que existam imóveis no site que já tenham sido vendidos ou alugados.",
+        "title": "Apartamento - Copacabana - 3 quartos - 1 vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2753747606",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22290130",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.963,
+                "approximateLon": -43.179,
+                "radius": 250
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:Duvivier",
+                "BS:Rodolfo Dantas",
+                "BS:Cardeal Arcoverde",
+                "BS:Ronald de Carvalho",
+                "BS:BRS 1 Rodolfo Dantas",
+                "TS:Duvivier",
+                "TS:Rodolfo Dantas",
+                "TS:Barata Ribeiro",
+                "TS:Cardeal Arcoverde / Copacabana",
+                "TS:Cardeal Arcoverde - Sentido Uruguai",
+                "CS:Marina",
+                "CS:Açai de gema",
+                "CS:Paõ & Companhia",
+                "CS:Confeitaria La Marquise",
+                "CS:Panificadora e Confeitaria Atlântica",
+                "PH:Galícia",
+                "PH:Farmácia do Leme",
+                "PH:Nash",
+                "PH:Drogaria Galanti",
+                "PH:Farma Nature"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "48431",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "99"
+        ],
+        "advertiserId": "00e9fb96-75f2-47bf-136a-813888466a06",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1700",
+                "price": "1000000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1300"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122748888",
+                "21998593444"
+            ]
+        },
+        "videoTourLink": "https://www.banibconecta.com/site/tour/real-up/em-construcao/autostart",
+        "whatsappNumber": "21998593444",
+        "stamps": []
+    },
+    "account": {
+        "id": "00e9fb96-75f2-47bf-136a-813888466a06",
+        "name": "REAL UP IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6198e480078abd442f62aedcbd75a30f/{description}.webp",
+        "licenseNumber": "7357-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 572230,
+        "phones": {
+            "primary": "2122748888",
+            "mobile": "21998593444"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "07369b5417a26554536649cdd837a64a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/07369b5417a26554536649cdd837a64a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8151d7f2798ab9019b4d2296badf7994",
+            "url": "https://www.youtube.com/watch?v=kkzKkLn-8Tw",
+            "type": "VIDEO"
+        },
+        {
+            "id": "b31634044d7220fbf2af6b4f1d8ccf51",
+            "url": "https://www.banibconecta.com/site/tour/real-up/em-construcao/autostart",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "20d23e6a7b8dd09bd9775f415be1cf93",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/20d23e6a7b8dd09bd9775f415be1cf93/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "93946dd201ac11756ff54da7b9d937e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/93946dd201ac11756ff54da7b9d937e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "96602750bbd12d6c9b932c5a8bae28c9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/96602750bbd12d6c9b932c5a8bae28c9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "72deb7bff7747776ceae1fb2a77df16a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/72deb7bff7747776ceae1fb2a77df16a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d0ebf6f1d9e1257ed2b59e8082aae316",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d0ebf6f1d9e1257ed2b59e8082aae316/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b3be2b13aea5d104e8d6ef8e935474dd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b3be2b13aea5d104e8d6ef8e935474dd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "00643bea2b07f824c585483b157422f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/00643bea2b07f824c585483b157422f8/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "REAL UP IMOVEIS",
+        "href": "/572230/real-up-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 99m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-99m2-venda-RS1000000-id-2753747606/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

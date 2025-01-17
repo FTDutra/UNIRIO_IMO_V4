@@ -1,0 +1,181 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [],
+        "usableAreas": [
+            "137"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Imóvel amplo à venda com 3 quartos, sendo 1 suíte, e 2 banheiros no total. Este imóvel está bem equipado, é ideal para quem procura conforto e comodidade. O condomínio é bem equipado com diversas instalações e fica localizado em Rua Professor Hermes Lima no bairro Recreio dos Bandeirantes em Rio de Janeiro. Está bem localizado, próximo a pontos de interesse de Recreio dos Bandeirantes, tais como Praia do Recreio dos Bandeirantes, Colégio Recanto, Recreio Christian School, Colégio e Vestibular de A a Z, Instituto Angelica Mendes e Parque Ecológico Municipal de Marapendi.",
+        "title": "Apartamento à venda com 137m², 3 quartos e 4 vagas",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2743363976",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            4
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22795065",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.023,
+                "approximateLon": -43.459,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Professor Hermes Lima",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "TS:Gilka Machado",
+                "CS:Panetteria Recreio",
+                "CS:Padaria Nobreza",
+                "CS:Padaria e Confeitaria Rei do Recreio",
+                "CS:Padaria AlfaBelle",
+                "CS:Alfa Belle",
+                "PH:Botica do Rio",
+                "PH:Drogaria do Povo das Américas",
+                "PH:Venâncio",
+                "PH:Farmario",
+                "PH:Dona Farma",
+                "SU:Colégio Recanto",
+                "SU:Recreio Christian School",
+                "SU:Colégio e Vestibular de A a Z",
+                "SU:Colégio Alfa CEM Bilíngue",
+                "SU:Colégio QI"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP5864RJ",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "137"
+        ],
+        "advertiserId": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "417",
+                "price": "1200000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1455"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21988595427"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988595427",
+        "stamps": []
+    },
+    "account": {
+        "id": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "name": "Luccare Investimentos",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/356f29ff805ce9c2aedf37766016903e/{description}.webp",
+        "licenseNumber": "065358-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 79203,
+        "phones": {
+            "primary": "21988595427",
+            "mobile": "21988595427"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "051878c50468bd7b0ebc9e613a7033d8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/051878c50468bd7b0ebc9e613a7033d8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "606cffa389a520887e5737a92fccbf65",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/606cffa389a520887e5737a92fccbf65/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4b7b21d09eab75e9c5f0bbd9287d1880",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b7b21d09eab75e9c5f0bbd9287d1880/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "221f43762f6daf56dbe197979e4ba681",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/221f43762f6daf56dbe197979e4ba681/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a8182ac9979aa7d87f600115658e95d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a8182ac9979aa7d87f600115658e95d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6d4464b227cc664038041f11b4aa9e86",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6d4464b227cc664038041f11b4aa9e86/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8145f31f82891ac515662417747d05dc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8145f31f82891ac515662417747d05dc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1b6e71a8a14c6ddf1dc7fad7312bc125",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1b6e71a8a14c6ddf1dc7fad7312bc125/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Luccare Investimentos",
+        "href": "/79203/luccare-investimentos/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 137m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-137m2-venda-RS1200000-id-2743363976/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Professor Hermes Lima",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

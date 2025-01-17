@@ -1,0 +1,248 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "80"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Imóvel à venda com 2 quartos e 1 banheiro. Este imóvel está bem equipado, é ideal para quem procura conforto e comodidade. O condomínio fica localizado em Avenida Atlântica no bairro Copacabana em Rio de Janeiro. Está bem localizado, próximo a pontos de interesse de Copacabana, tais como Escola Municipal Doutor Cícero Penna, Colégio Estadual Pedro Álvares Cabral, Passo a Passo 2, Hospital Galdino Campos, Praça Serzedelo Correa e Escola Municipal Dom Aquino Corrêa.<br>Em área nobre de Copacabana junto ao Hotel Copacabana Palace. Lindo edifício de arte deco com mármores e lustres de cristal na portaria. O apartamento está mobiliado , tem ar condicionado , chuveiro com aquecimento a gás, muito aconchegante e tranquilo.",
+        "title": "Apartamento 2 quartos, 80m² e sem vaga - Copacabana - Rio de Janeiro | RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2733293327",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22021001",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.183235,
+                "source": "GOOGLE",
+                "lat": -22.970819
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Atlântica",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 2 Hilário de Gouveia",
+                "BS:BRS 3 Siqueira Campos",
+                "BS:BRS 2: Hilário de Gouveia",
+                "BS:BRS 1 Paula Freitas",
+                "BS:BRS 1 Figueiredo Magalhães",
+                "TS:BRS 2 Hilário de Gouveia",
+                "TS:BRS 3 Siqueira Campos",
+                "TS:BRS 2: Hilário de Gouveia",
+                "TS:BRS 1 Paula Freitas",
+                "TS:BRS 1 Figueiredo Magalhães",
+                "CS:La Copa",
+                "CS:Multifruti",
+                "CS:Suíça",
+                "CS:Grão da terra",
+                "CS:The Bakers",
+                "PH:Drogaria Galanti",
+                "PH:Nash",
+                "PH:Prontofarma",
+                "PH:Farmácia do Leme",
+                "PH:Galícia"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "PU1dzdl4",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "80"
+        ],
+        "advertiserId": "00e9fb96-75f2-47bf-136a-813888466a06",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "292",
+                "price": "1150000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1100"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122748888",
+                "21998593444"
+            ]
+        },
+        "videoTourLink": "https://www.banibconecta.com/site/tour/real-up/em-construcao/autostart",
+        "whatsappNumber": "21998593444",
+        "stamps": []
+    },
+    "account": {
+        "id": "00e9fb96-75f2-47bf-136a-813888466a06",
+        "name": "REAL UP IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6198e480078abd442f62aedcbd75a30f/{description}.webp",
+        "licenseNumber": "7357-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 572230,
+        "phones": {
+            "primary": "2122748888",
+            "mobile": "21998593444"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "b31634044d7220fbf2af6b4f1d8ccf51",
+            "url": "https://www.banibconecta.com/site/tour/real-up/em-construcao/autostart",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "f89808c29a3cec2dfd139d225ff41b64",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f89808c29a3cec2dfd139d225ff41b64/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "369cea3e12493e61d9a488a72aca3ee9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/369cea3e12493e61d9a488a72aca3ee9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "37ceae32c37ed20e6936748d58cb8cbc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/37ceae32c37ed20e6936748d58cb8cbc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "587470275ff274059237e09da624375c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/587470275ff274059237e09da624375c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5d3990fabbb4e61cc0bfa97b856f0fd8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5d3990fabbb4e61cc0bfa97b856f0fd8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a7ad546d9954ecce4c95d4025a47496",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a7ad546d9954ecce4c95d4025a47496/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8b665c069851627dc9bd57da0ee6e050",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8b665c069851627dc9bd57da0ee6e050/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d7df57b4ef4c6b357a7fb52d1ca605ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7df57b4ef4c6b357a7fb52d1ca605ed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d07f8a50ac385a0bc1fa9ae62ad0f90e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d07f8a50ac385a0bc1fa9ae62ad0f90e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "00ccce6ea08d30acae0f398f35c229b3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/00ccce6ea08d30acae0f398f35c229b3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c775386d4c911b1a3a316eb25dfeef5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c775386d4c911b1a3a316eb25dfeef5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c2a9bce305bbd87fbabc3a9e8ad96c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c2a9bce305bbd87fbabc3a9e8ad96c7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a75e8d2cafe1686ff366dd15f30f096a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a75e8d2cafe1686ff366dd15f30f096a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "319e810c916b8c8f952334a9f4bcd684",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/319e810c916b8c8f952334a9f4bcd684/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a946f58966fc713fb63ea0b3ad8cf01",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a946f58966fc713fb63ea0b3ad8cf01/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9cfa04715a740a5836f925b7e5dfc2ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9cfa04715a740a5836f925b7e5dfc2ed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7244305e3bb8aae69f7aec71a836dc25",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7244305e3bb8aae69f7aec71a836dc25/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4d0ccf9c8f60a8e9e8b9811f23d38d6c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4d0ccf9c8f60a8e9e8b9811f23d38d6c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "195d9ab1e06baef485d3f897817c9ead",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/195d9ab1e06baef485d3f897817c9ead/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7244659efb7dde2364fbb5209aa27d9e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7244659efb7dde2364fbb5209aa27d9e/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "REAL UP IMOVEIS",
+        "href": "/572230/real-up-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 80m²",
+        "href": "/imovel/apartamento-2-quartos-copacabana-zona-sul-rio-de-janeiro-80m2-venda-RS1150000-id-2733293327/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Atlântica",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

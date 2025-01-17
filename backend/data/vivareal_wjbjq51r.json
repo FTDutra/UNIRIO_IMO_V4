@@ -1,0 +1,183 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "FURNISHED",
+            "HEATING",
+            "NUMBER_OF_FLOORS"
+        ],
+        "usableAreas": [
+            "75"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua Sá Ferreira, no bairro Copacabana em Rio de Janeiro. <br><br>Este imóvel conta com área construída de 75m², oferecendo 3 quartos, sendo 1 suíte e 2 banheiros. <br><br>Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apartamento à venda em Copacabana com 75 m², 3 quartos, 1 suíte",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2724164262",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22071100",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "152",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.19357,
+                "source": "GOOGLE",
+                "lat": -22.98138
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Sá Ferreira",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 2: Francisco Sá",
+                "BS:BRS 1 Sá Ferreira",
+                "BS:BRS 2 Djalma Ulrich",
+                "BS:BRS 1 Miguel Lemos",
+                "BS:BRS 3 Miguel Lemos",
+                "TS:Estação 2",
+                "TS:Estação 3",
+                "TS:Estação 4",
+                "TS:Copacabana",
+                "TS:Estação 5",
+                "CS:Casa du bisçoito",
+                "CS:Lopes",
+                "CS:La Veronese",
+                "CS:Empório das Águas",
+                "CS:Planeta Água",
+                "PH:Viva Mais",
+                "PH:Farmácia Central Posto 6",
+                "PH:Prontofarma",
+                "PH:Drogaria Pop",
+                "PH:Drogaria Galanti"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PU1kuodc1",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "75"
+        ],
+        "advertiserId": "14848ac6-70cb-9e82-4530-dbeb734d8a40",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1362",
+                "price": "890000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "850"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2138280882",
+                "21966501603"
+            ]
+        },
+        "videoTourLink": "http://v.imo.bi/ZW8Jj8Vihn6cw5",
+        "whatsappNumber": "21966501603",
+        "stamps": []
+    },
+    "account": {
+        "id": "14848ac6-70cb-9e82-4530-dbeb734d8a40",
+        "name": "BS Imobiliária e Adm Condomínios.",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5594e935c1ca3b85b392d52dbc6140b0/{description}.webp",
+        "licenseNumber": "9763-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 756868,
+        "phones": {
+            "primary": "2138280882",
+            "mobile": "21966501603"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "0b6cd9682d55e38d72883ee152653c0e",
+            "url": "https://www.youtube.com/watch?v=HByzhYS9XQo",
+            "type": "VIDEO"
+        },
+        {
+            "id": "744fc0cd335124c2345a974cac8afd38",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/744fc0cd335124c2345a974cac8afd38/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c83c781153a88843ab8f5ef69123fc41",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c83c781153a88843ab8f5ef69123fc41/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b8768fcdf69a10976e41dd690d67d88b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b8768fcdf69a10976e41dd690d67d88b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3428ecd9f6f9c4988601cdcb5624c72e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3428ecd9f6f9c4988601cdcb5624c72e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e0cb882473263fa593684d8399d3075a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e0cb882473263fa593684d8399d3075a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38362780a247c81d571324542584a207",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38362780a247c81d571324542584a207/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "BS Imobiliária e Adm Condomínios.",
+        "href": "/756868/bs-imobiliaria-e-adm-condominios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 75m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-75m2-venda-RS890000-id-2724164262/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Sá Ferreira",
+            "streetNumber": "152",
+            "zone": "Zona Sul"
+        }
+    }
+}

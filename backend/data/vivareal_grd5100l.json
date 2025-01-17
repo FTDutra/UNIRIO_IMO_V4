@@ -1,0 +1,241 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "PETS_ALLOWED",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "BICYCLES_PLACE",
+            "SECURITY_CAMERA",
+            "ELECTRONIC_GATE",
+            "DISABLED_ACCESS"
+        ],
+        "usableAreas": [
+            "180"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O imóvel no bairro Recreio dos Bandeirantes tem 180 metros quadrados com 3 quartos sendo 3 suites e 5 banheiros<br>Vai lhe possibilitar todo o conforto do ar condicionado nos dias mais quentes.Encontra-se na privacidade de um condomínio fechado.<br>Elevador que garante o transporte das suas malas e compras.",
+        "title": "Imóvel para venda possui 180 metros quadrados com 3 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2736938540",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790147",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "1100",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.456569,
+                "source": "GOOGLE",
+                "lat": -23.014936
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Jorge Emílio Fontenelle",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Salvador Allende (Expresso)",
+                "BS:Salvador Allende (Parador)",
+                "TS:Salvador Allende (Expresso)",
+                "TS:Salvador Allende (Parador)",
+                "TS:Terminal Recreio",
+                "CS:Padaria Nobreza",
+                "CS:Pão Carioca",
+                "CS:Panetteria Recreio",
+                "CS:Padaria e Confeitaria Rei do Recreio",
+                "CS:Padaria & Confeitaria A Lisboeta",
+                "PH:Venâncio",
+                "PH:Drogaria do Povo das Américas",
+                "PH:Botica do Rio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            3
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "LM-Raquel",
+        "bathrooms": [
+            5
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "180"
+        ],
+        "advertiserId": "41685bf8-d53e-b198-926e-25afb3112980",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2000",
+                "price": "1600000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1400"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21977379717"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21977379717",
+        "stamps": []
+    },
+    "account": {
+        "id": "41685bf8-d53e-b198-926e-25afb3112980",
+        "name": "DANIEL BRITO IMÓVEIS",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 387238,
+        "phones": {
+            "primary": "21977379717",
+            "mobile": "21977379717"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "0bfbc73f53d79451fce1c0dec4bcbb8b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0bfbc73f53d79451fce1c0dec4bcbb8b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e662e88cd5aad1ea63dd0311606835d9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e662e88cd5aad1ea63dd0311606835d9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d7beb6b91f0552960c705e45de7c1890",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7beb6b91f0552960c705e45de7c1890/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b862302b44907536cb82bd476b512107",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b862302b44907536cb82bd476b512107/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c2cc5433da78fbaeb602899a756824e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2cc5433da78fbaeb602899a756824e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7daac83fe65763b5e5e68c86d643aa4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7daac83fe65763b5e5e68c86d643aa4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9ab3e73b607cba217dab8524fa399102",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ab3e73b607cba217dab8524fa399102/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "90e9eec61b995a47f4f75148eb571cb8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/90e9eec61b995a47f4f75148eb571cb8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "58309633559f1cba37cd683a437ea887",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/58309633559f1cba37cd683a437ea887/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2ed04357317bc112c1d71f3641e4e073",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2ed04357317bc112c1d71f3641e4e073/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ea06b2e7e4bf0c14a16eae780d4aadb3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ea06b2e7e4bf0c14a16eae780d4aadb3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "23e796209c68251d01c2be4604d6f431",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/23e796209c68251d01c2be4604d6f431/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8afa06f9a9251388f63a67010bf01814",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8afa06f9a9251388f63a67010bf01814/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "576f3d154ed065a0370377deaadbe1b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/576f3d154ed065a0370377deaadbe1b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42c5e206ff3119aa2dc10ebf5cd22310",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42c5e206ff3119aa2dc10ebf5cd22310/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d10e1f3ecf47c30f7ce58005008a2309",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d10e1f3ecf47c30f7ce58005008a2309/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7c71aafc307197a373983b2184c8f5e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7c71aafc307197a373983b2184c8f5e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3d2002601031f96913131e1d6029b471",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3d2002601031f96913131e1d6029b471/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c69d1b87825b025c3b95f24a65da5423",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c69d1b87825b025c3b95f24a65da5423/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "DANIEL BRITO IMÓVEIS",
+        "href": "/387238/daniel-brito-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 180m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-180m2-venda-RS1600000-id-2736938540/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Jorge Emílio Fontenelle",
+            "streetNumber": "1100",
+            "zone": "Zona Oeste"
+        }
+    }
+}

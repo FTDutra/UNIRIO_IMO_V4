@@ -1,0 +1,261 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "SEA_VIEW",
+            "INTERCOM",
+            "SERVICE_AREA",
+            "ELEVATOR"
+        ],
+        "usableAreas": [
+            "185"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Lopes enjoy vende: Avenida Atlântica, Posto 6, Vista Mar em prédio nobre com 185 M2 de área privativa, com ampla sala em dois ambientes, 3 quartos (original 4) , sendo uma suite dupla com sala de TV, banheiro social, ampla copa-cozinha, dependências completas. Todos os cômodos com armários embutidos. Uma vaga na escritura e outra alugada. Agende uma visita!<br><br>Não Perca Essa Oportunidade!* Adquira um imóvel com excelente localização e comodidades incomparáveis.<br><br>*Lopes Enjoy Realizando Sonhos, Transformando Vidas.* -",
+        "title": "Apartamento à venda, 185 m² por R$ 3.890.000,01 - Copacabana - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2756607830",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22070002",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.984,
+                "approximateLon": -43.19,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Atlântica",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 2: Rainha Elizabeth",
+                "BS:BRS 1",
+                "BS:BRS 2: Francisco Sá",
+                "BS:Ponto Final: Copacabana :: Linha 455",
+                "BS:BRS 1 Sá Ferreira",
+                "TS:BRS 2: Rainha Elizabeth",
+                "TS:BRS 1",
+                "TS:BRS 2: Francisco Sá",
+                "TS:Ponto Final: Copacabana :: Linha 455",
+                "TS:BRS 1 Sá Ferreira",
+                "CS:Lopes",
+                "CS:Peixaria Z13",
+                "CS:Colônia dos Pescadores",
+                "CS:Nema",
+                "CS:Casa du bisçoito",
+                "PH:Viva Mais",
+                "PH:Farmácia Central Posto 6",
+                "PH:Prontofarma",
+                "PH:Drogaria Pop",
+                "PH:Drogaria Galanti"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP7114",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "185"
+        ],
+        "advertiserId": "89bdbaf0-3f59-1c9f-73a8-6bd0b1439467",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1106",
+                "price": "3890000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2800"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2134349000"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "89bdbaf0-3f59-1c9f-73a8-6bd0b1439467",
+        "name": "LOPES ENJOY IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/532ae951fff1ad62366b920d7c68c73e/{description}.webp",
+        "licenseNumber": "32269-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 256323,
+        "phones": {
+            "primary": "2134349000",
+            "mobile": "2134349000"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "61a5939cf7e89f09bb1c825f0276c8b6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/61a5939cf7e89f09bb1c825f0276c8b6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5dbb614c271835492109c7a4b1d56d48",
+            "url": "https://youtu.be/8biPqgcwTC8",
+            "type": "VIDEO"
+        },
+        {
+            "id": "bbc69bf4d50b51eb10b53d0af0c4ec82",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bbc69bf4d50b51eb10b53d0af0c4ec82/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "92fbcb854e52ea5a5b99e3fc09df237a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/92fbcb854e52ea5a5b99e3fc09df237a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7ad9f65b9a80ea0fd91b8c55861b5c7e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7ad9f65b9a80ea0fd91b8c55861b5c7e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e38fe170604602e99b1077893fcc651a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e38fe170604602e99b1077893fcc651a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b882831227b992d3792b752c9b50098e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b882831227b992d3792b752c9b50098e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d26e1ce031b8b30f7184cbe5edb4b8cd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d26e1ce031b8b30f7184cbe5edb4b8cd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf94d08c245b690c981534e3cf4f934c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf94d08c245b690c981534e3cf4f934c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0c1004e9d6aa6005c2084fd835845784",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0c1004e9d6aa6005c2084fd835845784/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fc0b986ded13d485f9c3dad157bd9b52",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fc0b986ded13d485f9c3dad157bd9b52/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ec99a6ae1c58b726a5e94c7e49f48aea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ec99a6ae1c58b726a5e94c7e49f48aea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c530f4e2e925cd55fcb0d493bd3f5c8b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c530f4e2e925cd55fcb0d493bd3f5c8b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5307e979da3807be5f7cc831ae57f14f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5307e979da3807be5f7cc831ae57f14f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c7bab8539c2bc4f76f2f5fdc199ab32",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c7bab8539c2bc4f76f2f5fdc199ab32/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b8a683d16fed33caa40fda8d8222983",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b8a683d16fed33caa40fda8d8222983/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "60316b07307b846324f10c0146f27157",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60316b07307b846324f10c0146f27157/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e563773bbf9ecb3ebcb6786527273412",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e563773bbf9ecb3ebcb6786527273412/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ff586c4a973499df7764894d01274ff",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ff586c4a973499df7764894d01274ff/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c6e400f8d6c0b58da43eb7bbeb89a50a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c6e400f8d6c0b58da43eb7bbeb89a50a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7956abccf01043afa84f496d19a550b3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7956abccf01043afa84f496d19a550b3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3fb44a40e97cca0df551a034d5de5e1f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3fb44a40e97cca0df551a034d5de5e1f/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "LOPES ENJOY IMÓVEIS",
+        "href": "/256323/lopes-enjoy-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 185m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-185m2-venda-RS3890000-id-2756607830/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Atlântica",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

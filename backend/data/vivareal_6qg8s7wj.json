@@ -1,0 +1,169 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "GOURMET_BALCONY",
+            "WALL_BALCONY",
+            "ELECTRONIC_GATE",
+            "COLD_FLOOR"
+        ],
+        "usableAreas": [
+            "85"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Maravilhoso apartamento de fundos e silencioso com alto padrão de acabamento em localização privilegiada na Gleba A no Recreio dos Bandeirantes. São 85m² com ampla sala, linda varanda gourmet com cortina de vidro, 3 quartos sendo 1 suíte, banheiro social, cozinha planejada com área e banheiro de serviço. Piso frio. 2 vagas de garagem. Prédio localizado próximo ao Parque Chico Mendes a 400 metros da praia na altura do posto 9.",
+        "title": "Apartamento Gleba A - Varanda Gourmet + Cortina de Vidro",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2673502683",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790010",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "422",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.450459,
+                "source": "GOOGLE",
+                "lat": -23.016648
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Professor Taciel Cylleno",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Salvador Allende (Expresso)",
+                "BS:Salvador Allende (Parador)",
+                "TS:Salvador Allende (Expresso)",
+                "TS:Salvador Allende (Parador)",
+                "TS:Terminal Recreio",
+                "CS:Padaria e Confeitaria Rei do Recreio",
+                "CS:Padaria & Confeitaria A Lisboeta",
+                "CS:Padaria Nobreza",
+                "CS:Pão Carioca",
+                "CS:Panetteria Recreio",
+                "PH:Drogasmil",
+                "PH:Venâncio",
+                "PH:Drogaria do Povo das Américas",
+                "PH:Botica do Rio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AC rec1987",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "85"
+        ],
+        "advertiserId": "5a511ea3-dcc8-0ff7-5fb2-3e77b1aea579",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3200",
+                "price": "650000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "800"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21997423431"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21997423431",
+        "stamps": []
+    },
+    "account": {
+        "id": "5a511ea3-dcc8-0ff7-5fb2-3e77b1aea579",
+        "name": "Andréa R. Coelho",
+        "licenseNumber": "75976-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 532322,
+        "phones": {
+            "primary": "21997423431",
+            "mobile": "21997423431"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "b30334d3be9d35d2f75ee9d920776c9f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b30334d3be9d35d2f75ee9d920776c9f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe8974c0a7b50cb92189f2f5af1a86d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe8974c0a7b50cb92189f2f5af1a86d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c4f712bdbf175c913745eecbb84d286",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c4f712bdbf175c913745eecbb84d286/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b403999e85c0ef3918037d609c1244ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b403999e85c0ef3918037d609c1244ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eaffcbc646eda32747deb488d3a3eeb9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eaffcbc646eda32747deb488d3a3eeb9/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Andréa R. Coelho",
+        "href": "/532322/andrea-r-coelho/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 85m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-85m2-venda-RS650000-id-2673502683/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Professor Taciel Cylleno",
+            "streetNumber": "422",
+            "zone": "Zona Oeste"
+        }
+    }
+}

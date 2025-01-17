@@ -1,0 +1,230 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "BALCONY",
+            "PETS_ALLOWED",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "135"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Charmoso empreendimento no coração da Vila Isabel!<br>Projeto Exclusivo com apenas um bloco e uma boa infraestrutura de lazer. 1123",
+        "title": "Apartamento com 2 quartos a venda em Vila Isabel, Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2725025543",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20560050",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "20",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.254446,
+                "source": "GOOGLE",
+                "lat": -22.917284
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Mendes Tavares",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Vila Isabel",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "poisList": [
+                "BS:Ponto Final: Vila Isabel :: Linha 432",
+                "BS:Ponto Final 433",
+                "BS:Ponto Final 438",
+                "BS:Ponto Final 605",
+                "BS:Ponto Final 439",
+                "TS:Ponto Final: Vila Isabel :: Linha 432",
+                "TS:Ponto Final 433",
+                "TS:Ponto Final 438",
+                "TS:Ponto Final 605",
+                "TS:Ponto Final 439",
+                "CS:Padaria do Verdun",
+                "CS:Fábrica de Bolo da Vó Alzira",
+                "CS:Mercado de Carnes Coração da Vila",
+                "CS:Padaria Abaeté",
+                "CS:Padaria Villas Garden",
+                "PH:Farma Dez",
+                "PH:Drograrias Guanabara",
+                "PH:Drogaria MEP",
+                "PH:Drogaria Pedro Ernesto",
+                "PH:Drograria Venâncio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "1123",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "135"
+        ],
+        "advertiserId": "eeb08206-dc33-2360-7127-bb09eb4a3c07",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "20",
+                "price": "357000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "20"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21964648018"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964648018",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "eeb08206-dc33-2360-7127-bb09eb4a3c07",
+        "name": "House Imoveis RJ",
+        "licenseNumber": "68036-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 621717,
+        "phones": {
+            "primary": "21964648018",
+            "mobile": "21964648018"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "0117dec4c69677d0dd22618ba1db4565",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0117dec4c69677d0dd22618ba1db4565/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a1e656dd15ef786661a275556703c2f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a1e656dd15ef786661a275556703c2f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "59d0b55565651d2fbfa95949e2997fc2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/59d0b55565651d2fbfa95949e2997fc2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "22c296e129390df08d085aa4cd768612",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/22c296e129390df08d085aa4cd768612/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d3297d95515355b44c6ffbf189394766",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d3297d95515355b44c6ffbf189394766/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ebbe7417f3b407f8ad98c442d1705b10",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ebbe7417f3b407f8ad98c442d1705b10/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a48b205fbbab82b0bd95b76a1e6764dc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a48b205fbbab82b0bd95b76a1e6764dc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dc7dc4b4812d6aac8830ad3950170a9a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc7dc4b4812d6aac8830ad3950170a9a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "56f9d21528ca93747c9f9efda19b519a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56f9d21528ca93747c9f9efda19b519a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "90e84d7aef4c2573635a9837ee6fc2f0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/90e84d7aef4c2573635a9837ee6fc2f0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2301af16c703be9d7ab4a1df6b36b17c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2301af16c703be9d7ab4a1df6b36b17c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "afcf8a37a4d3fee2120cbd36a9866cd0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/afcf8a37a4d3fee2120cbd36a9866cd0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bea5d8f47097a93f3fc4e873e13db256",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bea5d8f47097a93f3fc4e873e13db256/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a6f7c9d55b9ae58b75e24f68d1921500",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a6f7c9d55b9ae58b75e24f68d1921500/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "45fdf173d9afb6bcf8664595b8edefb8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/45fdf173d9afb6bcf8664595b8edefb8/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "House Imoveis RJ",
+        "href": "/621717/house-imoveis-rj/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 135m²",
+        "href": "/imovel/apartamento-1-quartos-vila-isabel-zona-norte-rio-de-janeiro-com-garagem-135m2-venda-RS357000-id-2725025543/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Vila Isabel",
+            "state": "Rio de Janeiro",
+            "street": "Rua Mendes Tavares",
+            "streetNumber": "20",
+            "zone": "Zona Norte"
+        }
+    }
+}

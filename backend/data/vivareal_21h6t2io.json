@@ -1,0 +1,279 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "RECREATION_AREA",
+            "KITCHEN_CABINETS",
+            "LARGE_KITCHEN",
+            "DISABLED_ACCESS",
+            "BLINDEX_BOX",
+            "NATURAL_VENTILATION",
+            "GAMES_ROOM",
+            "ELECTRONIC_GATE",
+            "PORCELAIN"
+        ],
+        "usableAreas": [
+            "70"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O imóvel no bairro Todos os Santos possui 70 metros quadrados com 2 quartos e 2 banheiros<br>Possui parquinho com diferentes brinquedos, salão para festas e eventos.<br>Vai lhe possibilitar praticar diversos esportes na quadra poliesportiva.Elevador para mais praticidade no dia-a-dia.<br>Espaço reservado para preparar o seu churrasco.",
+        "title": "Imóvel para venda possui 70 metros quadrados com 2 quartos em Todos os Santos - Rio de Janeiro - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2723167836",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20775001",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "1111",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.279586,
+                "source": "GOOGLE",
+                "lat": -22.894224
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Getúlio",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Cachambi",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Todos os Santos",
+            "poisList": [
+                "BS:Ponto Final: Praça Avaí :: Linha 254 SP",
+                "BS:Ponto final 687",
+                "BS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. A",
+                "BS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. B",
+                "BS:Terminal Arquiteto Gelton Paciello da Motta",
+                "TS:Ponto Final: Praça Avaí :: Linha 254 SP",
+                "TS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. A",
+                "TS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. B",
+                "TS:Constança Barbosa",
+                "TS:Agripino Grieco",
+                "CS:Onitneva Padaria e Confeitaria",
+                "CS:Sabor do Méier",
+                "CS:Marcopão",
+                "CS:Magal",
+                "CS:Imperato",
+                "PH:Drogaria Carioca",
+                "PH:Droh",
+                "PH:Drogaria Mais Barato - Méier",
+                "PH:Drogaria Atração do Méier"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "5584",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "70"
+        ],
+        "advertiserId": "b471c960-e2cf-bf14-ecd7-b71daea9785d",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "711",
+                "price": "280000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "670"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21991425320"
+            ]
+        },
+        "videoTourLink": "https://ws.hvr360.net/tourvirtual/embed/abc111/111111",
+        "whatsappNumber": "21991425320",
+        "stamps": []
+    },
+    "account": {
+        "id": "b471c960-e2cf-bf14-ecd7-b71daea9785d",
+        "name": "ADRIANA PAIVA CORRETORA DE IMÓVEIS",
+        "licenseNumber": "83751-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 834765,
+        "phones": {
+            "primary": "21991425320",
+            "mobile": "21991425320"
+        },
+        "tier": ""
+    },
+    "medias": [
+        {
+            "id": "7edf0d2375ffe6ae8489704c703c5f9f",
+            "url": "https://youtu.be/DwhGjrnIBXs?si=lFvoRzyhAoFQ4VwM",
+            "type": "VIDEO"
+        },
+        {
+            "id": "1daa6713941f57204e6028cdc0f348d8",
+            "url": "https://ws.hvr360.net/tourvirtual/embed/abc111/111111",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "48213030303f1363c3e653e9a51f5bd3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48213030303f1363c3e653e9a51f5bd3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42ff72518bd70cf87fb9965ae647f497",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42ff72518bd70cf87fb9965ae647f497/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "87c122e52053566df6c9d380e3b07de4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/87c122e52053566df6c9d380e3b07de4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "151f8dccfb3d6e870a662cfeafb065d2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/151f8dccfb3d6e870a662cfeafb065d2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a192ea2b422f952f6bba18f8be9ba00",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a192ea2b422f952f6bba18f8be9ba00/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4be625d144974bd3e3dccd95a3b8a0e9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4be625d144974bd3e3dccd95a3b8a0e9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e6a7b48ea8530cbc17a3675f3a19dd7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e6a7b48ea8530cbc17a3675f3a19dd7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9374fb84b0b0b29dedc1946215336642",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9374fb84b0b0b29dedc1946215336642/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "104665a6a79c785789e11e0ce7b38c43",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/104665a6a79c785789e11e0ce7b38c43/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81ff94aebb9cb21bf93b37595b566dd4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81ff94aebb9cb21bf93b37595b566dd4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1956a3b0d9024c7e9842b67acef9a874",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1956a3b0d9024c7e9842b67acef9a874/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e24fd8aeb2f4bb929d64df88b77fe647",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e24fd8aeb2f4bb929d64df88b77fe647/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "61e842a0974c03f3c45a9494e28f0688",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/61e842a0974c03f3c45a9494e28f0688/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7aaf99b8e078d89bbefd838299eb44e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7aaf99b8e078d89bbefd838299eb44e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eead1b523e0feeef347d552a7bcab46a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eead1b523e0feeef347d552a7bcab46a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "46f63a0a3e33a88dfe7f6b4cdf5e594b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/46f63a0a3e33a88dfe7f6b4cdf5e594b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4336fbbc14decd4a967878fe2fef6531",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4336fbbc14decd4a967878fe2fef6531/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4405b493f989cea4706394989631fb8e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4405b493f989cea4706394989631fb8e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4f409cc3c857ae6a06b8f2521feb6739",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4f409cc3c857ae6a06b8f2521feb6739/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36a788d3124158a764bbcd0587ffd3cd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36a788d3124158a764bbcd0587ffd3cd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "57b4ee9f43866c5d980ea600c912a702",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/57b4ee9f43866c5d980ea600c912a702/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "473a1cfb2d65f8158480bec1d1362497",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/473a1cfb2d65f8158480bec1d1362497/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "ADRIANA PAIVA CORRETORA DE IMÓVEIS",
+        "href": "/834765/adriana-paiva-corretora-de-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 70m²",
+        "href": "/imovel/apartamento-2-quartos-cachambi-zona-norte-rio-de-janeiro-com-garagem-70m2-venda-RS280000-id-2723167836/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Cachambi",
+            "state": "Rio de Janeiro",
+            "street": "Rua Getúlio",
+            "streetNumber": "1111",
+            "zone": "Zona Norte"
+        }
+    }
+}

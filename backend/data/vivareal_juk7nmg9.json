@@ -1,0 +1,261 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "BALCONY",
+            "PETS_ALLOWED",
+            "GARAGE",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT"
+        ],
+        "usableAreas": [
+            "51"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento claro e arejado, bem localizado, composto de:<br><br>- Varanda com vista totalmente livre.<br>- Sala com dois ambientes em piso cerâmica decorada.<br>- Banheiro social com revestimento de fino acabamento até o teto, espelheira, armário com fechamento em vidro fosco e box blindex.<br>- Dois quartos, sendo um com armário planejado.<br>- Cozinha planejada com revestimento até o teto, Piso cerâmica..<br>- Área de serviço.<br><br>Prédio bem administrado, área de lazer com piscina, sauna, play, salão de festas, quadra, churrasqueira e jardim.<br><br>Boa localização próxima a comércio, escolas, igrejas e condução farta para várias regiões da Cidade. be209",
+        "title": "Méier | Apartamento 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2629972257",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20710010",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.905,
+                "approximateLon": -43.276,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Hermengarda",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Meier",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Méier",
+            "poisList": [
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. A",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. B",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. C",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. D",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. E",
+                "TS:Silva Freire",
+                "TS:Terminal Rodoviário Américo Ayres :: Plat. A",
+                "TS:Terminal Rodoviário Américo Ayres :: Plat. B",
+                "TS:Terminal Rodoviário Américo Ayres :: Plat. C",
+                "TS:Terminal Rodoviário Américo Ayres :: Plat. D",
+                "CS:Lecadô",
+                "CS:Magal",
+                "CS:Imperato",
+                "CS:Tuti Fruti",
+                "CS:ortális",
+                "PH:Drogaria Mais Barato - Méier",
+                "PH:Drogaria Atração do Méier",
+                "PH:Droh",
+                "PH:Drogaria Carioca"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "AP21243",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "51"
+        ],
+        "advertiserId": "8c3933ab-3821-6adf-b230-951afdfd05f7",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "500",
+                "price": "280000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "864"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21967741221"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21967741221",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_FEVEREIRO_2024",
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "8c3933ab-3821-6adf-b230-951afdfd05f7",
+        "name": "VIVAX PRIME IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2768a51ef6a019eb5a5f56cb4276035/{description}.webp",
+        "licenseNumber": "9577-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 787728,
+        "phones": {
+            "primary": "21967741221",
+            "mobile": "21967741221"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "11830c48acd50eeeff1eb42e81898052",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/11830c48acd50eeeff1eb42e81898052/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9f3f9c257364bd48c7fb3d2bb8e7d9ed",
+            "url": "https://www.youtube.com/watch?v=9ogtrTqUwVA",
+            "type": "VIDEO"
+        },
+        {
+            "id": "2f17a5e3cc1ab71016e7fbda6c165f74",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2f17a5e3cc1ab71016e7fbda6c165f74/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b6808f9100398fd5ebcc746d3115d257",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b6808f9100398fd5ebcc746d3115d257/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "406d48011d50a4e9f9a6a510500839dc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/406d48011d50a4e9f9a6a510500839dc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "de5ca88bf92067d58bc33f3087667b72",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/de5ca88bf92067d58bc33f3087667b72/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7da838c058faa44cf8c0b9537be79afe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7da838c058faa44cf8c0b9537be79afe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d52eb663c9ca7a51dcb7a16f998d20fe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d52eb663c9ca7a51dcb7a16f998d20fe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3612a4423febad8ec829ad9638f6984b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3612a4423febad8ec829ad9638f6984b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "72c9136571d5b4510277a4078123980c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/72c9136571d5b4510277a4078123980c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "881827a4f48fe3482dd4a59fd21f9741",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/881827a4f48fe3482dd4a59fd21f9741/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81e549485395cd5fdd9215717e46d219",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81e549485395cd5fdd9215717e46d219/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "82fe96eefd339d3dc38c3d506c1d5ba3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82fe96eefd339d3dc38c3d506c1d5ba3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "814e6ae2c185d036dd94e5f993508c7f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/814e6ae2c185d036dd94e5f993508c7f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1b94a0f6d2476ad8d30d1907fdb001d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1b94a0f6d2476ad8d30d1907fdb001d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "67ef8c22d7c83f2ae443a7eb9755fc90",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/67ef8c22d7c83f2ae443a7eb9755fc90/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7918a57628fdbd30b1d42520abdd0673",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7918a57628fdbd30b1d42520abdd0673/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5a059376a49262a9334e6eadfd466a8b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5a059376a49262a9334e6eadfd466a8b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c45fb66cc4b828bb5455fc22c2cd8e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c45fb66cc4b828bb5455fc22c2cd8e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb55202d184b8a666c1086170511264e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb55202d184b8a666c1086170511264e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f4adc98eac9e32d33c19565a477dd5ec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f4adc98eac9e32d33c19565a477dd5ec/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "VIVAX PRIME IMÓVEIS",
+        "href": "/787728/vivax-prime-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 51m²",
+        "href": "/imovel/apartamento-2-quartos-meier-zona-norte-rio-de-janeiro-com-garagem-51m2-venda-RS280000-id-2629972257/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Méier",
+            "state": "Rio de Janeiro",
+            "street": "Rua Hermengarda",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

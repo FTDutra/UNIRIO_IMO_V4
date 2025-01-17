@@ -1,0 +1,183 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "AIR_CONDITIONING",
+            "GARDEN",
+            "PLAYGROUND",
+            "GOURMET_BALCONY",
+            "PARTY_HALL",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "CLOSET",
+            "AMERICAN_KITCHEN",
+            "LAUNDRY",
+            "DISABLED_ACCESS",
+            "COWORKING",
+            "SAUNA",
+            "SPA",
+            "GAMES_ROOM",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "89"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O apartamento está localizado no bairro <br>Possui academia, espaço gourmet, área de recreação infantil, jardim, salão de festas.<br>Vai lhe possibilitar praticar diversos esportes na quadra poliesportiva.Churrasqueira para você aproveitar nos momentos de descontração.<br>Elevador para mais praticidade no dia-a-dia.<br>Está em um condomínio protegido por grades.",
+        "title": "Apartamento para venda possui 84 metros quadrados com 2 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2556688513",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22640030",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "185",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.312401,
+                "source": "GOOGLE",
+                "lat": -23.006333
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Nuta James",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:Avenida Vítor Konder próximo ao 225-243",
+                "TS:Jardim Oceânico - Acesso BRT",
+                "TS:Jardim Oceânico - Acesso Mar",
+                "TS:Jardim Oceânico / Barra da Tijuca",
+                "TS:Jardim Oceânico",
+                "TS:Jardim Oceânico - Acesso Lagoa",
+                "CS:Amendoeira II",
+                "CS:Mini Market Gigoia",
+                "CS:Sabor da Bahia",
+                "CS:O Boi Que Ri",
+                "CS:Padaria Belle Barra",
+                "PH:Drogas Rio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "T3M97C",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "89"
+        ],
+        "advertiserId": "94bf7132-7a1b-140b-62e5-9d685a696eaf",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1100",
+                "price": "1361900",
+                "businessType": "SALE",
+                "monthlyCondoFee": "846"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21964402003"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964402003",
+        "stamps": []
+    },
+    "account": {
+        "id": "94bf7132-7a1b-140b-62e5-9d685a696eaf",
+        "name": "SANTOS IMÓVEIS",
+        "licenseNumber": "057914-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 74988,
+        "phones": {
+            "primary": "21964402003",
+            "mobile": "21964402003"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "6d337e46bb76007f96cbc6d6463d29c2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6d337e46bb76007f96cbc6d6463d29c2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d68b11667eb2d5d316b488bd7ed60892",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d68b11667eb2d5d316b488bd7ed60892/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9cfe050de3d64912494be8d419f3677d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9cfe050de3d64912494be8d419f3677d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd16964f46c82ab651aa0ef61bdd8f76",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd16964f46c82ab651aa0ef61bdd8f76/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5e0f0ff56b161931b45a91c6cad6bb7c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5e0f0ff56b161931b45a91c6cad6bb7c/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "SANTOS IMÓVEIS",
+        "href": "/74988/santos-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 89m²",
+        "href": "/imovel/apartamento-2-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-89m2-venda-RS1361900-id-2556688513/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Nuta James",
+            "streetNumber": "185",
+            "zone": "Zona Oeste"
+        }
+    }
+}

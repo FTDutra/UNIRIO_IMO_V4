@@ -1,0 +1,253 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "GARAGE",
+            "HEATING",
+            "NUMBER_OF_FLOORS"
+        ],
+        "usableAreas": [
+            "51"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Avenida Oswaldo Cruz, no bairro Flamengo em Rio de Janeiro.<br><br> Este imóvel conta com área construída de 51m², oferecendo 1 quarto, 1 banheiro e 1 vaga de garagem. <br><br>Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apartamento à venda em Flamengo com 51 m², 1 quarto, 1 vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2724163977",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22250060",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "112",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.176373,
+                "source": "GOOGLE",
+                "lat": -22.940611
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Oswaldo Cruz",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Flamengo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "poisList": [
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Largo do Machado",
+                "BS:Palácio Universitário",
+                "BS:Marechal Cantuária",
+                "BS:Mureta da Urca",
+                "TS:Flamengo",
+                "TS:Ponto Final: Largo do Machado :: Linha 497",
+                "TS:Acesso Catete",
+                "TS:Largo do Machado",
+                "TS:Acesso Largo do Machado",
+                "CS:Padaria Napoles",
+                "CS:Deep Freeze",
+                "CS:Maguila",
+                "CS:Mei-jo",
+                "CS:Benamor",
+                "PH:Rio Brasil",
+                "PH:Farma Hall",
+                "PH:RioFarma",
+                "PH:Drogaria Paraná",
+                "PH:Drogaria Ric"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "PU6pelqo",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "51"
+        ],
+        "advertiserId": "14848ac6-70cb-9e82-4530-dbeb734d8a40",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1340",
+                "price": "685000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "742"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2138280882",
+                "21966501603"
+            ]
+        },
+        "videoTourLink": "http://v.imo.bi/ZXJnwYVihZJR2M",
+        "whatsappNumber": "21966501603",
+        "stamps": []
+    },
+    "account": {
+        "id": "14848ac6-70cb-9e82-4530-dbeb734d8a40",
+        "name": "BS Imobiliária e Adm Condomínios.",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5594e935c1ca3b85b392d52dbc6140b0/{description}.webp",
+        "licenseNumber": "9763-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 756868,
+        "phones": {
+            "primary": "2138280882",
+            "mobile": "21966501603"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "0b6cd9682d55e38d72883ee152653c0e",
+            "url": "https://www.youtube.com/watch?v=HByzhYS9XQo",
+            "type": "VIDEO"
+        },
+        {
+            "id": "23b9d6a2d5f6e60a72d3fe4a753ad91c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/23b9d6a2d5f6e60a72d3fe4a753ad91c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "23005f115cb100ad005232b653539517",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/23005f115cb100ad005232b653539517/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f41684960caef2344dcb24b0615405c1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f41684960caef2344dcb24b0615405c1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "750fb096b2fc66f41d0badcec08eb867",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/750fb096b2fc66f41d0badcec08eb867/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c1d8c2706c0c71ff93949fe4676453cc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c1d8c2706c0c71ff93949fe4676453cc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0e8e8de182e1cf1e21e26d003884fb02",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0e8e8de182e1cf1e21e26d003884fb02/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0a402b4f774e989f29183345f19d82ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0a402b4f774e989f29183345f19d82ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bf6aa50ed24266ff98a4f5356d689d9e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bf6aa50ed24266ff98a4f5356d689d9e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f1133f78468cfe6f0e60c7b6f7af4a64",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f1133f78468cfe6f0e60c7b6f7af4a64/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "417decfe860888f5a200277d9c33922c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/417decfe860888f5a200277d9c33922c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f0a9e7ad3dc6a7940a885f8c23c51b03",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f0a9e7ad3dc6a7940a885f8c23c51b03/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6b7f7355b6e434071041c2b26fd68d30",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6b7f7355b6e434071041c2b26fd68d30/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "89d5190dd3862134d009dd7848d346fc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/89d5190dd3862134d009dd7848d346fc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ef1a07802a1c29054474b0d6094ff586",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ef1a07802a1c29054474b0d6094ff586/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5034eb09b53328f3ce5c523727ea8b5a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5034eb09b53328f3ce5c523727ea8b5a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "441a670898a6597211f463b6a01cfa8d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/441a670898a6597211f463b6a01cfa8d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "da223e0a6d060b3092484296b9d61e9a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/da223e0a6d060b3092484296b9d61e9a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dd05f3db8ee9a254679d3b7dc8e2c4bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd05f3db8ee9a254679d3b7dc8e2c4bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "53877565e5eab0e9c4fd3da43a19907b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/53877565e5eab0e9c4fd3da43a19907b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3e443c3ca05ffd736f0ea975fe319eb8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3e443c3ca05ffd736f0ea975fe319eb8/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "BS Imobiliária e Adm Condomínios.",
+        "href": "/756868/bs-imobiliaria-e-adm-condominios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 51m²",
+        "href": "/imovel/apartamento-1-quartos-flamengo-zona-sul-rio-de-janeiro-com-garagem-51m2-venda-RS685000-id-2724163977/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Oswaldo Cruz",
+            "streetNumber": "112",
+            "zone": "Zona Sul"
+        }
+    }
+}

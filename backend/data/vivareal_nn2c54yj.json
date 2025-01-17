@@ -1,0 +1,179 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "PLAYGROUND",
+            "GATED_COMMUNITY",
+            "ELECTRONIC_GATE"
+        ],
+        "usableAreas": [
+            "107"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "RUA POTIGUARA 350 / 401 <br>Amplo apartamento, Sala (24,20m2) com 2 Quartos (1 Suíte), Copa Cozinha (13,85m2), Dependências, Varanda (9,15m2). <br>-Uma vaga de garagem. <br>-Posição Frente. <br>-Chaves com porteiro.",
+        "title": "Amplo Apartamento com 107,00 m2, 2 Quartos, 1 Suíte, Varanda, Vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2746434795",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22750290",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "350",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.336926,
+                "source": "GOOGLE",
+                "lat": -22.943213
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Potiguara",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Freguesia- Jacarepagua",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Freguesia (Jacarepaguá)",
+            "poisList": [
+                "BS:Tirol",
+                "BS:Professora Camisão",
+                "BS:Estrada de Jaquarepagua",
+                "BS:Estrada de Jaquarepaqua",
+                "TS:Tirol",
+                "TS:Professora Camisão",
+                "TS:José Roiz de Aragão",
+                "TS:Provedora Lygia Moreira Alves de Brito",
+                "TS:Estrada de Jaquarepagua",
+                "CS:Kúffura",
+                "CS:TECNOMEDI FREGUESIA",
+                "SU:Escola Municipal Menezes Cortes",
+                "SU:Colégio Bahiense - JPA",
+                "SU:Escola Municipal Edgard Werneck",
+                "SU:Santa Mônica Centro Educacional",
+                "SU:Escola Municipal 25 de Abril"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "P350.401.V",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "107"
+        ],
+        "advertiserId": "1de2084d-47fb-ca64-63db-d44d319266be",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "187",
+                "price": "459000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1040"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21999118852"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21999118852",
+        "stamps": []
+    },
+    "account": {
+        "id": "1de2084d-47fb-ca64-63db-d44d319266be",
+        "name": "MLS Imóveis",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 421418,
+        "phones": {
+            "primary": "21999118852",
+            "mobile": "21999118852"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "03037f73e4d86f349e2367733467d9c1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/03037f73e4d86f349e2367733467d9c1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc452a1630bf622f6281ded63100d82a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc452a1630bf622f6281ded63100d82a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9ba782e8e788411ffc1c8f50389d052e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ba782e8e788411ffc1c8f50389d052e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8237c15b438cb75ec7660e46f3f3614b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8237c15b438cb75ec7660e46f3f3614b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1dc7181d7a9065b87866f4e3d3a4566e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1dc7181d7a9065b87866f4e3d3a4566e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7d9c1f9ea3691dedad1c41c9261e83a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7d9c1f9ea3691dedad1c41c9261e83a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5bef71b40f6fa3c34ddb18758d7b5608",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5bef71b40f6fa3c34ddb18758d7b5608/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "MLS Imóveis",
+        "href": "/421418/mls-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 107m²",
+        "href": "/imovel/apartamento-2-quartos-freguesia-jacarepagua-zona-oeste-rio-de-janeiro-com-garagem-107m2-venda-RS459000-id-2746434795/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Freguesia- Jacarepaguá",
+            "state": "Rio de Janeiro",
+            "street": "Rua Potiguara",
+            "streetNumber": "350",
+            "zone": "Zona Oeste"
+        }
+    }
+}

@@ -1,0 +1,254 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "FURNISHED",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "WATCHMAN"
+        ],
+        "usableAreas": [
+            "130"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Privilégio Imóveis vende: Excelente apartamento de três quartos com dependência completa. Apartamento com suíte, lindíssimo imóvel!! Com sala e quartos muito espaçosos. Hidráulica e elétrica refeitas. Porteira fechada!! Entrada do prédio imponente. Portaria 24h, possibilidade de alugar vaga no prédio. <br>O valor do imóvel poderá sofrer alteração sem aviso prévio. Fale conosco: .",
+        "title": "Apartamento à venda, 3 quartos, 1 suíte, Copacabana - RIO DE JANEIRO/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2664220994",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22060001",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.978,
+                "approximateLon": -43.19,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Avenida Nossa Senhora de Copacabana",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 1 Miguel Lemos",
+                "BS:BRS 2 Djalma Ulrich",
+                "BS:BRS 1 Sá Ferreira",
+                "BS:BRS 3 Bolivar",
+                "BS:BRS 3 Miguel Lemos",
+                "TS:BRS 1 Miguel Lemos",
+                "TS:BRS 2 Djalma Ulrich",
+                "TS:BRS 1 Sá Ferreira",
+                "TS:BRS 3 Bolivar",
+                "TS:BRS 3 Miguel Lemos",
+                "CS:Casa du bisçoito",
+                "CS:Sulimar",
+                "CS:Lopes",
+                "CS:Grão da terra",
+                "CS:Peixaria Z13",
+                "PH:Prontofarma",
+                "PH:Viva Mais",
+                "PH:Farmácia Central Posto 6",
+                "PH:Drogaria Galanti",
+                "PH:Drogaria Pop"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "35255",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "130"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "1500000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1410"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "0f5df5ce4d2b1f07e2545b1897859dfd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f5df5ce4d2b1f07e2545b1897859dfd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1507bce4886faa6642995a1253c63c4a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1507bce4886faa6642995a1253c63c4a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9a325fe274c22256a488744030d5565",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9a325fe274c22256a488744030d5565/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "52a63e723d718b2948f3eb8feea6c064",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52a63e723d718b2948f3eb8feea6c064/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a83d0b8d07f77896bc5bcf1a2968764",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a83d0b8d07f77896bc5bcf1a2968764/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6a345368cdc8f77ff66c06e1d595e7ac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a345368cdc8f77ff66c06e1d595e7ac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4d95fdc2a725c385a3722fc761888e7b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4d95fdc2a725c385a3722fc761888e7b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a0bf767ac9dc8a4fe7087a88ee31145",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8a0bf767ac9dc8a4fe7087a88ee31145/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8504542618f0f12db7f83acf98cd2a06",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8504542618f0f12db7f83acf98cd2a06/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2926ab642191217413d5cf25e615c2e4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2926ab642191217413d5cf25e615c2e4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1327a7d6c758509f54f65535d3a46bef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1327a7d6c758509f54f65535d3a46bef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9a78f9e9ff819c8cb5956a44989b1a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9a78f9e9ff819c8cb5956a44989b1a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c834f100c9d37bcb77b4ef4e86c4bed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c834f100c9d37bcb77b4ef4e86c4bed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f78aafa4c4e6238aaf3087561362252d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f78aafa4c4e6238aaf3087561362252d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4063d091883ce8ee9e43eb0d87c927f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4063d091883ce8ee9e43eb0d87c927f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c9a4016c0fc8f317948f6fa932d2b425",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c9a4016c0fc8f317948f6fa932d2b425/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7a84a23dc49c4f4eac964fd3d8705d1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7a84a23dc49c4f4eac964fd3d8705d1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e00ff191c8d53c7bf9ce804319c1ff33",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e00ff191c8d53c7bf9ce804319c1ff33/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3e5de0aff2d5444b843ba7cd42ca46a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3e5de0aff2d5444b843ba7cd42ca46a4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d28963485d95f8fc8170349334bd782a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d28963485d95f8fc8170349334bd782a/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 130m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-130m2-venda-RS1500000-id-2664220994/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Nossa Senhora de Copacabana",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

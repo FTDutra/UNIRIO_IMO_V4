@@ -1,0 +1,250 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "KITCHEN",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "64"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Unidade Apartamento a venda no único bairro planejado do Recreio - Pontal Oceânico - Linda unidade com 02 quartos, armários planejados. condomínio possui total infraestrutura de lazer, Ônibus exclusivo com rota por todo Recreio 1794",
+        "title": "Apartamento a venda com 02 quartos no Pontal - Recreio dos Bandeirantes RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2751384004",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790880",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "2021",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.513088,
+                "source": "GOOGLE",
+                "lat": -23.023179
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Luiz Carlos Sarolli",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Piabas :: Linha 554",
+                "TS:Ponto Final: Piabas :: Linha 554",
+                "PH:Drogaria Pontal",
+                "SU:Escola Municipal Professor Jurandir Paes Leme"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "1794",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "64"
+        ],
+        "advertiserId": "eeb08206-dc33-2360-7127-bb09eb4a3c07",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "145",
+                "price": "518420",
+                "businessType": "SALE",
+                "monthlyCondoFee": "797"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21964648018"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964648018",
+        "stamps": []
+    },
+    "account": {
+        "id": "eeb08206-dc33-2360-7127-bb09eb4a3c07",
+        "name": "House Imoveis RJ",
+        "licenseNumber": "68036-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 621717,
+        "phones": {
+            "primary": "21964648018",
+            "mobile": "21964648018"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "d7e8158eb55bb5dd2ba70475f77ec0f1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7e8158eb55bb5dd2ba70475f77ec0f1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e699f52d6e17d1704cb1779bea588c0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e699f52d6e17d1704cb1779bea588c0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ab482b7b0d939cf99ad0fe14fbf3ef47",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ab482b7b0d939cf99ad0fe14fbf3ef47/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "534c254f6dcb35f96a00fa4abfe13f0a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/534c254f6dcb35f96a00fa4abfe13f0a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0d0747d2c83bce269fab9423a707c688",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0d0747d2c83bce269fab9423a707c688/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "28a871f2ce0c95919db450263b501348",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/28a871f2ce0c95919db450263b501348/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3dacfa1fca9b881b16160ee8f9d45216",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3dacfa1fca9b881b16160ee8f9d45216/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4c7afb39ca879fd3dc72d2f2c67f435f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4c7afb39ca879fd3dc72d2f2c67f435f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e6b94dc8dd73449b383bccfc6289cd45",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e6b94dc8dd73449b383bccfc6289cd45/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "df196c9948dfe6b1f1047f9a791f5032",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df196c9948dfe6b1f1047f9a791f5032/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ec93406055830115c6dda7a4d8fb0b91",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ec93406055830115c6dda7a4d8fb0b91/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fdbb368bc8d3c92755a529b71ae6e6e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fdbb368bc8d3c92755a529b71ae6e6e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "158db117a83f73d21d0388ba5c976ed3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/158db117a83f73d21d0388ba5c976ed3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "85d0243178369e67f4fbd6159d7f71c0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/85d0243178369e67f4fbd6159d7f71c0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b128a19d287e022b9f427ca1f6a5dad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b128a19d287e022b9f427ca1f6a5dad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8720ac9a5539c6cdb306c9f24fb37f56",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8720ac9a5539c6cdb306c9f24fb37f56/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "64c182aeeebfca2493fa66255a06e514",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/64c182aeeebfca2493fa66255a06e514/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d64aa0cd2168a916a26de19de99e1c31",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d64aa0cd2168a916a26de19de99e1c31/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1abeac6baf7543645678323e4451d22a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1abeac6baf7543645678323e4451d22a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "51a37fb8c49ebd5bba6ddcc331819a2c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/51a37fb8c49ebd5bba6ddcc331819a2c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b46f58d7b2a35931bfe237aaae022908",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b46f58d7b2a35931bfe237aaae022908/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d8d084ffde44dfdaaf02b3f2ad3a9cf4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8d084ffde44dfdaaf02b3f2ad3a9cf4/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "House Imoveis RJ",
+        "href": "/621717/house-imoveis-rj/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 64m²",
+        "href": "/imovel/apartamento-2-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-64m2-venda-RS518420-id-2751384004/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Luiz Carlos Sarolli",
+            "streetNumber": "2021",
+            "zone": "Zona Oeste"
+        }
+    }
+}

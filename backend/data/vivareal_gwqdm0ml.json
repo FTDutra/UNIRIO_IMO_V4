@@ -1,0 +1,273 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "ELEVATOR",
+            "GYM",
+            "PETS_ALLOWED",
+            "GARAGE",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "ADULT_GAME_ROOM",
+            "WATCHMAN"
+        ],
+        "usableAreas": [
+            "50"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Oportunidade de adquirir apartamento de 1 quarto espaçoso a 10 quadras da praia da Macumba no Recreio dos Bandeirantes. Excelente localização. BRT Guiomar Novaes, perto de escolas, academias e Shopping Recreio. Ao lado do comercio Terreirão onde você pode encontrar tudo que precisa... Andar alto, prédio espetacular, com segurança e porteiro 24horas. O Condomínio Recanto da Praia oferece Salão de festas com cozinha, Sala de jogos, parque infantil, quadra polidesportiva, bicicletário e mercadinho 24hrs. Unidade nunca foi habitada. Unidade está liberada e aprovada para financiamento junto a CEF.<br>1 quarto,1 banheiro,1 vaga, Aceita animais, Elevador, Bicicletário, <br>Playground, Portão eletrônico, Portaria 24h, Quadra polidesportiva, Salão de festas, Salão de jogos.",
+        "title": "Oportunidade de adquirir apartamento de 1 quarto espaçoso.",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2761049918",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22795320",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.025,
+                "approximateLon": -43.483,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Clementina de Jesus",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Recreio Shopping",
+                "TS:Guiomar Novaes",
+                "TS:Gilka Machado",
+                "CS:Barra Bonita Padaria",
+                "CS:R2 Bolos",
+                "CS:Entreposto Pesca Posto 12",
+                "CS:Alfa Belle",
+                "CS:Padaria AlfaBelle",
+                "PH:Economia de Drogarias",
+                "PH:Foliare",
+                "PH:Drogaria M. M. Júnior",
+                "PH:Prophylaxis",
+                "PH:Dona Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "74251",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "50"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "981",
+                "price": "300000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "517"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "64919b0cce625529fa3be58d04c6addf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/64919b0cce625529fa3be58d04c6addf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "315e59e2d0feff74ca234f5c43c7df49",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/315e59e2d0feff74ca234f5c43c7df49/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f3083ba00b1f72a9970755f102b20a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f3083ba00b1f72a9970755f102b20a4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "feaf8cc9883396806a9c102c7cda81f3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/feaf8cc9883396806a9c102c7cda81f3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "98919c22e5cdc7898950be4b540bf584",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/98919c22e5cdc7898950be4b540bf584/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "87fb320777e5e3f01ea7bf9a81f12bfc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/87fb320777e5e3f01ea7bf9a81f12bfc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8ce1e5b2dda7584c8beb0dc6fb4354d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8ce1e5b2dda7584c8beb0dc6fb4354d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "709c8a1a0c129306e00a8fcd29bc9b7e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/709c8a1a0c129306e00a8fcd29bc9b7e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8df69dc63486a7159177fbf5515e1e68",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8df69dc63486a7159177fbf5515e1e68/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f661784cc370bccee6055a4a9d29579b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f661784cc370bccee6055a4a9d29579b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "406845f5eb9319fe08f4173adfda5754",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/406845f5eb9319fe08f4173adfda5754/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dc2e9892b3e934827bfe73ff350f3338",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc2e9892b3e934827bfe73ff350f3338/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a8049114b26b327f0fff52bec973c071",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a8049114b26b327f0fff52bec973c071/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "93fce1f37273af3fc8741d0238e13a0a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/93fce1f37273af3fc8741d0238e13a0a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "585ebbf8ddc7d9b4bbb7064733d99d5b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/585ebbf8ddc7d9b4bbb7064733d99d5b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d23e22e70c8b56711ce4b6f104223761",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d23e22e70c8b56711ce4b6f104223761/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0b976e482307153e08dbd6fdfbd4f85b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0b976e482307153e08dbd6fdfbd4f85b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e29762eb0d56376fca85228e444403d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e29762eb0d56376fca85228e444403d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0497fa73d1b78386faf7b9497d6c1085",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0497fa73d1b78386faf7b9497d6c1085/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f71ff0802cb7278b7e0e08dff0289d55",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f71ff0802cb7278b7e0e08dff0289d55/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2cd61edbb87be6b810d7cafe70b794bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2cd61edbb87be6b810d7cafe70b794bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "894f539c5c9dc7ea6c01a4fce8b3ca2c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/894f539c5c9dc7ea6c01a4fce8b3ca2c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6b871eda3d7460a0f7c8d8e30e0e484c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6b871eda3d7460a0f7c8d8e30e0e484c/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 50m²",
+        "href": "/imovel/apartamento-1-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-50m2-venda-RS300000-id-2761049918/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Clementina de Jesus",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

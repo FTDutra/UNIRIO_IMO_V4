@@ -1,0 +1,198 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [],
+        "usableAreas": [
+            "113"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Reserva do parque O apartamento no bairro Jacarepaguá possui 113 metros quadrados com 3 quartos sendo 1 suite e 3 banheiros",
+        "title": "Reserva do parque Apartamento para venda com 113 metros quadrados com 3 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2711193817",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22775033",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "1500",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.383967,
+                "source": "GOOGLE",
+                "lat": -22.966733
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Vice-Presidente José Alencar",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Jacarepagua",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Jacarepaguá",
+            "poisList": [
+                "BS:Ponto Final: Curicica :: Linhas para Centro",
+                "BS:Ponto Final: Curicica :: Linha 861",
+                "TS:Pedro Corrêa",
+                "TS:Rio 2 (Parador)",
+                "TS:Rio 2 (Expresso)",
+                "TS:Curicica",
+                "TS:Praça do Bandolim",
+                "CS:Rio Dois Shopping",
+                "CS:Doçura do Rio",
+                "CS:Mercearia Sabel",
+                "PH:Rede Viva Bem",
+                "PH:PAGUE MENOS",
+                "PH:Drogaria Dona Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "DGA-MF12",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "113"
+        ],
+        "advertiserId": "310ed770-346b-f0ed-51e8-eb2b0d0e3db4",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "200",
+                "price": "1070000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1660"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "91992486378"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "91992486378",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "310ed770-346b-f0ed-51e8-eb2b0d0e3db4",
+        "name": "D.g.a Negocios Imobiliarios",
+        "licenseNumber": "1051-J-PA",
+        "showAddress": false,
+        "legacyVivarealId": 827116,
+        "phones": {
+            "primary": "91992486378",
+            "mobile": "91992486378"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "9afe24031c26f471824770974e56deda",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9afe24031c26f471824770974e56deda/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f1a040fd5fed0b5980b5d6b7ae08e5e4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f1a040fd5fed0b5980b5d6b7ae08e5e4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "61577964199ec44135f4841e4188caf6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/61577964199ec44135f4841e4188caf6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c6ee9ca9db35cd74c292f7267db3f4e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c6ee9ca9db35cd74c292f7267db3f4e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "565c3f6a7d1fe86e4c94017d05d4df15",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/565c3f6a7d1fe86e4c94017d05d4df15/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f64db9c495fddba23aef4c6d95d58e2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f64db9c495fddba23aef4c6d95d58e2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "28a1009edb9a7d39dc916c8f6e6176a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/28a1009edb9a7d39dc916c8f6e6176a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bbd78e6d76d940ac9886de9a10e1f92e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bbd78e6d76d940ac9886de9a10e1f92e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d2ec2374fa444447b7dd6f66b36e8761",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d2ec2374fa444447b7dd6f66b36e8761/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "67b0fa8894902f1f62c5d8405d3015ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/67b0fa8894902f1f62c5d8405d3015ed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2b9a0bf6d53e73f0b9594da5862c95ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b9a0bf6d53e73f0b9594da5862c95ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "088e7668013bdff5f5f4cb7c09f9c8fc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/088e7668013bdff5f5f4cb7c09f9c8fc/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "D.g.a Negocios Imobiliarios",
+        "href": "/827116/d-g-a-negocios-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 113m²",
+        "href": "/imovel/apartamento-3-quartos-jacarepagua-zona-oeste-rio-de-janeiro-com-garagem-113m2-venda-RS1070000-id-2711193817/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jacarepaguá",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Vice-Presidente José Alencar",
+            "streetNumber": "1500",
+            "zone": "Zona Oeste"
+        }
+    }
+}

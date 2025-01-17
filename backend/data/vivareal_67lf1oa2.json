@@ -1,0 +1,213 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "BALCONY",
+            "GYM",
+            "GARAGE",
+            "PARTY_HALL",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "84"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Lindo apartamento próximo à praia do Recreio, 03 quartos, sendo uma suite, sala, cozinha, 02 banheiros, area de serviço, varanda, móveis planejados em todos os ambientes. 03 vagas de garagem.<br>Próx ao recreio shopping<br>Segundo andar<br>Sol nascente",
+        "title": "Apartamento 03 quartos, planejado, no Recreio dos Bandeirantes",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2642434461",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            3
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22795250",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.023,
+                "approximateLon": -43.491,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Antero Manoel de Sá Filho",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Recreio Shopping",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Guiomar Novaes",
+                "TS:Gilka Machado",
+                "CS:Barra Bonita Padaria",
+                "PH:Prophylaxis",
+                "PH:Drogaria M. M. Júnior",
+                "PH:Foliare",
+                "PH:Economia de Drogarias"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "59682",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "84"
+        ],
+        "advertiserId": "78cad27b-ae01-ed9e-cabe-28967f6af872",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "230",
+                "price": "685000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1200"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2120519007",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_FEVEREIRO_2024",
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "78cad27b-ae01-ed9e-cabe-28967f6af872",
+        "name": "Privilegio Península",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2ae5cca2b86a2b32747043aa79bab98a/{description}.webp",
+        "licenseNumber": "06645-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 578554,
+        "phones": {
+            "primary": "2120519007",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "830d1b2433c44913f495f13834b85dbf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/830d1b2433c44913f495f13834b85dbf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a4b987c79aa7fcc1f57942e97fadb3f2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4b987c79aa7fcc1f57942e97fadb3f2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a58e66aa7e3ce29a4050433c27b9185",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a58e66aa7e3ce29a4050433c27b9185/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca5773109d7e6fbe6c9f1fb780fef4aa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca5773109d7e6fbe6c9f1fb780fef4aa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8b139a7b249053980e12fd6379b18b0b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8b139a7b249053980e12fd6379b18b0b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c2fb07c5649a2cedd8fc541837ec9f01",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2fb07c5649a2cedd8fc541837ec9f01/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1ac1a4e5d5d2d20ce6bfe5f1e97b5839",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1ac1a4e5d5d2d20ce6bfe5f1e97b5839/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d00638abce1d046a123ec188210e6a18",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d00638abce1d046a123ec188210e6a18/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0f54ecd28db55ea467aa43291cdd5e47",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f54ecd28db55ea467aa43291cdd5e47/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b5fe1d2b5ea5a4c3b6687ff1bde55454",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b5fe1d2b5ea5a4c3b6687ff1bde55454/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "656aaded607ba57f7ec758bb1d87c295",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/656aaded607ba57f7ec758bb1d87c295/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "56f4e9552bd2ca85917a6e1a91298e5e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56f4e9552bd2ca85917a6e1a91298e5e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca0c988a46429959ed1cb2dfe2fd9908",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca0c988a46429959ed1cb2dfe2fd9908/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilegio Península",
+        "href": "/578554/privilegio-peninsula/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 84m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-84m2-venda-RS685000-id-2642434461/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Antero Manoel de Sá Filho",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

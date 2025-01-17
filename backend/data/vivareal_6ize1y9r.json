@@ -1,0 +1,223 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "BALCONY",
+            "GARAGE",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "TENNIS_COURT",
+            "BUILTIN_WARDROBE",
+            "DINNER_ROOM",
+            "ADULT_GAME_ROOM",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "142"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Ótimo apartamento laminado de 142 m2 no condomínio Nova Ipanema. 03 quartos sendo uma suite, todos os quartos com armários. Ampla sala em 2 ambientes, varanda com vista frontal para o mar, lagoa e verde. Copa cozinha reformada e planejada. Dependência completa e área de serviço. Além do condomínio estar localizado em frente ao Barrashopping, ele oferece ônibus, balsa para praia e um completo clube com total infra-estrutura. Segurança 24 hs. (Atualizado em )",
+        "title": "Rio de Janeiro - Apartamento Padrão - Barra da Tijuca",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2740125240",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22631390",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.001,
+                "approximateLon": -43.362,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Ipanema",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:C2",
+                "BS:D1",
+                "BS:D2",
+                "BS:E1",
+                "BS:D3",
+                "TS:Barra Shopping (Parador)",
+                "TS:C2",
+                "TS:B2",
+                "TS:D1",
+                "TS:Desembarque TransOeste",
+                "CS:Meu Doce Rio",
+                "CS:Cacau Brasil",
+                "CS:Mundo Verde",
+                "CS:Fábrica do Bolo",
+                "CS:Esso",
+                "PH:Drogarias Carioca",
+                "PH:Drogaria Ministro",
+                "PH:Farma Alfa"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "RB3-0563",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "142"
+        ],
+        "advertiserId": "0a7e0ccc-6045-65d7-8e00-1accdb84c8c2",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "495",
+                "price": "1830000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "3300"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21964866539"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964866539",
+        "stamps": []
+    },
+    "account": {
+        "id": "0a7e0ccc-6045-65d7-8e00-1accdb84c8c2",
+        "name": "REALLER IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0797a26190345f2abaae9577ba0be5a4/{description}.webp",
+        "licenseNumber": "04482-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 42806,
+        "phones": {
+            "primary": "21964866539",
+            "mobile": "21964866539"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "d7f78cf31a2ca0327710b46bd2823c12",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d7f78cf31a2ca0327710b46bd2823c12/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "843eb525e3ce9252bab8d8c41164b692",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/843eb525e3ce9252bab8d8c41164b692/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "00976d0ac9a0b7fba9200be3943604e2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/00976d0ac9a0b7fba9200be3943604e2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eabefe3590a7bb638aa98dd311cc8789",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eabefe3590a7bb638aa98dd311cc8789/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "554dd54f531dd7750de489ba93cd5d49",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/554dd54f531dd7750de489ba93cd5d49/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cff38d965b9ceddfa87dd7e2cb6cb118",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cff38d965b9ceddfa87dd7e2cb6cb118/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f134cdaa358a04813912742031e3f614",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f134cdaa358a04813912742031e3f614/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9b231e68d5224e504f9d7b7a5a1534ea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9b231e68d5224e504f9d7b7a5a1534ea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fccbdaa2383af8d79015dcee5fe85267",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fccbdaa2383af8d79015dcee5fe85267/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b5b1631391017882f0c18303657df9e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b5b1631391017882f0c18303657df9e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c4ffaa24148a44adedeaa3d92b020e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c4ffaa24148a44adedeaa3d92b020e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a9aaedc7ab2fdbff0d1cc8ad970bb44",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a9aaedc7ab2fdbff0d1cc8ad970bb44/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e3599591fc03c8a9983a32d7167f9b06",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e3599591fc03c8a9983a32d7167f9b06/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "REALLER IMÓVEIS",
+        "href": "/42806/realler-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 142m²",
+        "href": "/imovel/apartamento-3-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-142m2-venda-RS1830000-id-2740125240/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Ipanema",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

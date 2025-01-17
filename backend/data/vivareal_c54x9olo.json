@@ -1,0 +1,230 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "KITCHEN",
+            "INTERCOM",
+            "GARAGE",
+            "ELEVATOR"
+        ],
+        "usableAreas": [
+            "215"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento a venda localizado no Quadrilátero Nobre de Ipanema, a uma Quadra da Praia. Imóvel amplo, um por andar, planta com cômodos confortáveis, composto por hall privativo, salão para 3 ambientes, 04 quartos com armários, sendo um deles transformado em escritório, 02 banheiros sociais, possibilidade de fazer suítes, copa e cozinha separadas, área e dependências completas de serviço. Edifício muito bem conservado com portaria 24hs, próximo a lojas de grifes, alta gastronomia, Praça Nsa da Paz, metrô e comércio Local. . 01 vaga de garagem escriturada e demarcada.",
+        "title": "Apartamento para Venda em Rio de Janeiro, Ipanema, 4 dormitórios, 3 banheiros, 1 vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2706431108",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22410050",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "001",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.211594,
+                "source": "GOOGLE",
+                "lat": -22.985645
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Aníbal de Mendonça",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Ipanema",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "poisList": [
+                "BS:BRS 2: Joana Angélica",
+                "BS:Humberto de Campos",
+                "BS:Ponto Final: Afrânio de Melo Franco I",
+                "BS:BRS 2,3 - Cupertino Durão",
+                "BS:Ponto Final: Antero de Quental",
+                "TS:Borges de Medeiros",
+                "TS:Maria Quitéria",
+                "TS:Jardim de Alah",
+                "TS:Nossa Senhora da Paz",
+                "TS:Nossa Senhora da Paz / Ipanema",
+                "CS:Armazém do Café",
+                "CS:Patata",
+                "CS:Confeitaria Ipanema",
+                "CS:TECNOMEDI IPANEMA",
+                "CS:Chocolate Brasil Cacau",
+                "PH:Drogaria Pop",
+                "PH:Drogasmil"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "CM0458_2-2466922",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "215"
+        ],
+        "advertiserId": "ba68860c-80eb-f42e-4f1f-b702ee5023c5",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1180",
+                "price": "3590000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2360"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21981432566"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21981432566",
+        "stamps": []
+    },
+    "account": {
+        "id": "ba68860c-80eb-f42e-4f1f-b702ee5023c5",
+        "name": "Clara Martin",
+        "licenseNumber": "53375-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 814229,
+        "phones": {
+            "primary": "21981432566",
+            "mobile": "21981432566"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "2f3ed2ba6602c01f6931f9b5beeb44d9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2f3ed2ba6602c01f6931f9b5beeb44d9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e8c370975259d9eb9c56d8804ed9263",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e8c370975259d9eb9c56d8804ed9263/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f0634c12913904d2c2ef145895531e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f0634c12913904d2c2ef145895531e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "155f37fa1a891c4bab5ccaf2355d6dc6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/155f37fa1a891c4bab5ccaf2355d6dc6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "89a6c66736148f998b2bb29703a2e113",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/89a6c66736148f998b2bb29703a2e113/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e68f6985747c2a591262471bfaff7586",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e68f6985747c2a591262471bfaff7586/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ae31a7522c6f0f242c492e8d2ccc1f4e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ae31a7522c6f0f242c492e8d2ccc1f4e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5aee755990d3f7843b9827a0a29c9d6e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5aee755990d3f7843b9827a0a29c9d6e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ff1eacc6520441c71bd4423eeaa3218",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ff1eacc6520441c71bd4423eeaa3218/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d0b1b8bb3044c4516f3cac46ae3da926",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d0b1b8bb3044c4516f3cac46ae3da926/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c8bea70cb9f401bc8d6ad8e8278c9112",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c8bea70cb9f401bc8d6ad8e8278c9112/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a0e5b6b44e071b8a06783911b9c48f97",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a0e5b6b44e071b8a06783911b9c48f97/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a246e8b481586a4b64660ed4650f32ec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a246e8b481586a4b64660ed4650f32ec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "780720ab93a9fe1e4aa879fce3247529",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/780720ab93a9fe1e4aa879fce3247529/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "de1693f44088bb002e116f95bd591376",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/de1693f44088bb002e116f95bd591376/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f8c2cd76677afc839d69b817013194e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f8c2cd76677afc839d69b817013194e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fab05705725b57df545d261b48e49913",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fab05705725b57df545d261b48e49913/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Clara Martin",
+        "href": "/814229/clara-martin/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 215m²",
+        "href": "/imovel/apartamento-4-quartos-ipanema-zona-sul-rio-de-janeiro-com-garagem-215m2-venda-RS3590000-id-2706431108/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Ipanema",
+            "state": "Rio de Janeiro",
+            "street": "Rua Aníbal de Mendonça",
+            "streetNumber": "001",
+            "zone": "Zona Sul"
+        }
+    }
+}

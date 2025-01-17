@@ -1,0 +1,298 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "ELEVATOR",
+            "SERVICE_AREA",
+            "KITCHEN",
+            "INTERCOM",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "130"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Planta fenomenal, quadrada, são 4 quartos maravilhosos sendo 1 suíte, 3 banheiros. Varanda Gourmet com vista para Pão de Açucar e Cristo Redentor. São 2 vagas na escritura, predio com infra estrutura, piscina, academia, sala de cinema, sauna, brinquedoteca. -",
+        "title": "Apartamento com 4 dormitórios à venda, 130 m² por R$ 1.750.000,00 - Botafogo - Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2710113905",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22281080",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.958,
+                "approximateLon": -43.194,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Pinheiro Guimarães",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Botafogo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:Cobal do Humaitá",
+                "BS:Cobal",
+                "BS:Humaitá",
+                "BS:BRS 3: Sorocaba",
+                "BS:Ponto Regulador: Metrô Siqueira Campos",
+                "TS:Cobal do Humaitá",
+                "TS:Cobal",
+                "TS:Humaitá",
+                "TS:Ponto Regulador: Metrô Siqueira Campos",
+                "TS:Siqueira Campos / Copacabana",
+                "CS:Do Conde",
+                "CS:Mercado Humaitá",
+                "CS:TECNOMEDI BOTAFOGO",
+                "CS:Casa Imperial",
+                "CS:Farinha Pura",
+                "PH:Caminhoá",
+                "PH:Minipreço",
+                "PH:Ypiranga",
+                "PH:Bio Mundo",
+                "PH:Nash"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0541",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "130"
+        ],
+        "advertiserId": "ea2b3ef2-8a5a-2ac5-a1a0-58c00a18af43",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "665",
+                "price": "1750000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2260"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2136485005",
+                "21988575005"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988575005",
+        "stamps": []
+    },
+    "account": {
+        "id": "ea2b3ef2-8a5a-2ac5-a1a0-58c00a18af43",
+        "name": "CALLERI IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5dbf06da7ed1e17ff4186ca4a71bc1ba/{description}.webp",
+        "licenseNumber": "05483-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 102021,
+        "phones": {
+            "primary": "2136485005",
+            "mobile": "21988575005"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "d4b074e3062d8f31d847b9203bf0bace",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d4b074e3062d8f31d847b9203bf0bace/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "630c5427834e42fc31671ae0014e90ce",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/630c5427834e42fc31671ae0014e90ce/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e682858fe187a0811f605b3a953183a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e682858fe187a0811f605b3a953183a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "03ca7867f8df1f7f66088feaf284b83e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/03ca7867f8df1f7f66088feaf284b83e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c00aa7ea1ca8964ee4db30902106c79f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c00aa7ea1ca8964ee4db30902106c79f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e21addc97473945b442a93c6a00a496e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e21addc97473945b442a93c6a00a496e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "454d77d1f0dc252fe8810454c382281a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/454d77d1f0dc252fe8810454c382281a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "48aaacd0b641e82bf30b57a85d5ca0e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/48aaacd0b641e82bf30b57a85d5ca0e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2bc74b76941c2a166f66cfcfdb927ce7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2bc74b76941c2a166f66cfcfdb927ce7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ffa841b538f05585ae62b2e217987a16",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ffa841b538f05585ae62b2e217987a16/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0ae2d4198bd11bf668ebd6e6d8502e8c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0ae2d4198bd11bf668ebd6e6d8502e8c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "84f7f352721faef509e97f1bd3967bcc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/84f7f352721faef509e97f1bd3967bcc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1631ce7efb9fdc93557cc6f2a8526be1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1631ce7efb9fdc93557cc6f2a8526be1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c7b3fb8fa6a3ecee467bc4dd55472cc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c7b3fb8fa6a3ecee467bc4dd55472cc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a23772c01ad7267e072c2077a6dfa628",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a23772c01ad7267e072c2077a6dfa628/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ddf53b80193a1af473b94383ef548bac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ddf53b80193a1af473b94383ef548bac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36ca58b9489f2c7ed63a443dacf0c755",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36ca58b9489f2c7ed63a443dacf0c755/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c46c503fdeff399702bd322fe8677cf0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c46c503fdeff399702bd322fe8677cf0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc205d5e314ffec0bd2de0a02393ef8b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc205d5e314ffec0bd2de0a02393ef8b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2337a0bf3ccc6d36c9ee0bfa2014a09a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2337a0bf3ccc6d36c9ee0bfa2014a09a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "54db6d396f6919928af1f1806dc67d37",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/54db6d396f6919928af1f1806dc67d37/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9339d0a8976532313351d9568506ea7d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9339d0a8976532313351d9568506ea7d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "878b4dd1ecd2f7a3602b4fbeb59d0050",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/878b4dd1ecd2f7a3602b4fbeb59d0050/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4fade18c9333fa65d8031a20929d5ffd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4fade18c9333fa65d8031a20929d5ffd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "31b69dc00930e7425045a9908cd84eb2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/31b69dc00930e7425045a9908cd84eb2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "32a7e09754e4f371bdb927a0cc0bca16",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/32a7e09754e4f371bdb927a0cc0bca16/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3b227bc0a09042e653223d31bb9ee3cc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b227bc0a09042e653223d31bb9ee3cc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c5645bad4f629e239920647884e3e040",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c5645bad4f629e239920647884e3e040/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d2e762de58a34bbc9ed1c67b2ecd85fb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d2e762de58a34bbc9ed1c67b2ecd85fb/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "CALLERI IMÓVEIS",
+        "href": "/102021/calleri-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 130m²",
+        "href": "/imovel/apartamento-4-quartos-botafogo-zona-sul-rio-de-janeiro-com-garagem-130m2-venda-RS1750000-id-2710113905/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Pinheiro Guimarães",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

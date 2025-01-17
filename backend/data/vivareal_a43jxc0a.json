@@ -1,0 +1,267 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "AIR_CONDITIONING",
+            "ELEVATOR",
+            "INTERCOM",
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "180"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Privilegio Imóveis vende: Excelente apartamento 2 salas, 4 quartos sendo 3 suítes e 1 escritório, cozinha planejada, armários planejados, piso de sinteco, totalmente reformado e planejado por arquiteto Área construída de 200m², sendo 180m² no IPTU e 20m² de jardim de inverno. O prédio possui terraço com churrasqueira. Rua silenciosa e sem saída. Próximo ao Iate Clube do Rio de Janeiro, Shopping Rio Sul, Shopping CasaGourmet, Praia Vermelha, universidades, transportes público. O valor deste imóvel poderá ser alterado sem aviso prévio. Fale conosco também pelo whatszap .",
+        "title": "Apartamento à venda, 4 quartos, 3 suítes, 1 vaga, Botafogo - RIO DE JANEIRO/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2664220551",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22290190",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.951,
+                "approximateLon": -43.176,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Bartolomeu Portela",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Botafogo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:Palácio Universitário",
+                "BS:Integrada 9",
+                "BS:Integrada 8",
+                "BS:Ponto Final: Rio Sul :: Barra, Recreio e Vargem Grande",
+                "BS:Rio Sul",
+                "TS:Palácio Universitário",
+                "TS:Integrada 9",
+                "TS:Integrada 8",
+                "TS:Ponto Final: Rio Sul :: Barra, Recreio e Vargem Grande",
+                "TS:Rio Sul",
+                "CS:Padaria e Confeitaria Rio 2001",
+                "CS:The Slow Bakery",
+                "CS:Fica Café",
+                "CS:Americanas Local",
+                "CS:Le Dépanneur Delicatessen",
+                "PH:Farmácia Iate Club",
+                "PH:Drogarias American",
+                "PH:Farma Nature",
+                "PH:Farmacopa",
+                "PH:Poubel"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            3
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "22242",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "200"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "5280",
+                "price": "1497000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2000"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": []
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "4a18534b7427524eb3b8c058f728b35b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a18534b7427524eb3b8c058f728b35b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b825b38ae1c755a0c70cff451dd420cb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b825b38ae1c755a0c70cff451dd420cb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "76cf1c18d610fdc9c406ca96a112ea9f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/76cf1c18d610fdc9c406ca96a112ea9f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ba3171ae2e58d729e84ff9a8aa974e93",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ba3171ae2e58d729e84ff9a8aa974e93/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6fa276c390610580362ca17b1c20e7e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6fa276c390610580362ca17b1c20e7e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8da95eb6c3f0e3b7eb30b7dcc94c4dcf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8da95eb6c3f0e3b7eb30b7dcc94c4dcf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "78997dba8fc6dc01a01f6b57cb8b05d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/78997dba8fc6dc01a01f6b57cb8b05d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2b140b0a1f5ffc0e3152e0d658ad446c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2b140b0a1f5ffc0e3152e0d658ad446c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb16ed87394bb419a32a09dec0e83a38",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb16ed87394bb419a32a09dec0e83a38/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a2ad9feb85e9b9c68a11e28ed5ffebdd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a2ad9feb85e9b9c68a11e28ed5ffebdd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "479232ab1269f995e1785c1659f13837",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/479232ab1269f995e1785c1659f13837/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a7ec37bf0919d9296a3fd120a5eae53d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a7ec37bf0919d9296a3fd120a5eae53d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5a555898d290382c22d124c5ca396d47",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5a555898d290382c22d124c5ca396d47/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bedafc073c0b10d53db6249ebcbb6995",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bedafc073c0b10d53db6249ebcbb6995/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "502325164087727dcb7a07bd2e7ae4f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/502325164087727dcb7a07bd2e7ae4f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8dada7952dd9608fededb6537dc7b191",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8dada7952dd9608fededb6537dc7b191/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3daa6fc36d37b65cecfc38429cac722a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3daa6fc36d37b65cecfc38429cac722a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d5366264240e675557ab55359bacd11a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d5366264240e675557ab55359bacd11a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0d799d29061ac1966b9508786e95099e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0d799d29061ac1966b9508786e95099e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "94decd9dd493c7a4e35358cb9a917bd9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/94decd9dd493c7a4e35358cb9a917bd9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "215d52921d279603799e6f35fcb4604d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/215d52921d279603799e6f35fcb4604d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d9bb31e8a2d51f094027b24a804bb66",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d9bb31e8a2d51f094027b24a804bb66/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e49f257171fc80145681f776c273eb0b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e49f257171fc80145681f776c273eb0b/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 180m²",
+        "href": "/imovel/apartamento-4-quartos-botafogo-zona-sul-rio-de-janeiro-com-garagem-180m2-venda-RS1497000-id-2664220551/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Bartolomeu Portela",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

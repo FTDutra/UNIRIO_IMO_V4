@@ -1,0 +1,298 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "INTERCOM",
+            "ELEVATOR",
+            "BALCONY",
+            "KITCHEN",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "123"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Oportunidade! Apartamento reformado de 125m², com sala em dois ambientes, varanda incrível com vista livre, que traz uma ótima ventilação e iluminação, 4 quartos com armários, sendo um suíte com sacada, banheiro social, linda cozinha planejada e com copa, área de serviço e dependência completa. Documentação cristalina! Uma vaga na escritura.<br><br> Prédio excelente, em rua residencial e arborizada, muito bem administrado e com portaria 24h. Localização privilegiada, agende uma visita e venha conhecer!<br>-Cod:LEAP40164-JOHT -Rev.11Dez",
+        "title": "Apartamento - / Residencial / Jardim Botânico",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2759782018",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22461010",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.963,
+                "approximateLon": -43.218,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Visconde da Graça",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Jardim Botanico",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "poisList": [
+                "BS:Jardim Botânico",
+                "BS:Hospital da Lagoa",
+                "BS:Maria Angélica",
+                "BS:Baixo Gávea",
+                "BS:Humaitá",
+                "TS:Hospital da Lagoa",
+                "TS:Maria Angélica",
+                "TS:Humaitá",
+                "TS:Ponto Final: CIEP Nação Rubro Negra",
+                "TS:Nossa Senhora Auxiliadora",
+                "CS:Vitória Régia",
+                "CS:La Bicyclette",
+                "CS:Bastarda",
+                "CS:Toquinha da Globo",
+                "CS:Panificação Século XX",
+                "PH:Padrão",
+                "PH:Ric"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "LEAP40164-JOHT",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "123"
+        ],
+        "advertiserId": "bb2c8fc3-812d-4f47-6d73-aa18def86426",
+        "bedrooms": [
+            4
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "7159",
+                "price": "2090000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1909"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21992817455"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21992817455",
+        "stamps": []
+    },
+    "account": {
+        "id": "bb2c8fc3-812d-4f47-6d73-aa18def86426",
+        "name": "DNA IMOVEIS HUMAITÁ",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ccc5f40f2e44a358b1b386ea7da16c9d/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 848241,
+        "phones": {
+            "primary": "21992817455",
+            "mobile": "21992817455"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "d648d99be39f463f791393079d2cd2a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d648d99be39f463f791393079d2cd2a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ac71ba8db5b31ec8226eb4d37415c421",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ac71ba8db5b31ec8226eb4d37415c421/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "16ae26c2f91fd5c2bcbf7deb1d2ba35a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/16ae26c2f91fd5c2bcbf7deb1d2ba35a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "93a1ceae0e8bb8783dcca990775dd391",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/93a1ceae0e8bb8783dcca990775dd391/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1fd8765f15db66a54a94274691d0e9c9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1fd8765f15db66a54a94274691d0e9c9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cdf939407062424301e92cb8a13bef9b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cdf939407062424301e92cb8a13bef9b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e177ce4d44a5e3f50919a7e06f63f169",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e177ce4d44a5e3f50919a7e06f63f169/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f8cc653105e8ef7b12582aa4e0b876a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f8cc653105e8ef7b12582aa4e0b876a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc0550354e80b483e3457c3a7563e56d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc0550354e80b483e3457c3a7563e56d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "798f452c29fd4f99ef305cfd6b2416de",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/798f452c29fd4f99ef305cfd6b2416de/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "37dc8cc4d81c915bdda7dbce0c7bc185",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/37dc8cc4d81c915bdda7dbce0c7bc185/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "66b4568f27e73a3dfced2ec0b984f846",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/66b4568f27e73a3dfced2ec0b984f846/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "183fc0058243bd6ac0c2bec5e513f789",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/183fc0058243bd6ac0c2bec5e513f789/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b110a1a892a50d678cb0a11c78afeacc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b110a1a892a50d678cb0a11c78afeacc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36e4b788ec308371c1078d5bfaaf4324",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36e4b788ec308371c1078d5bfaaf4324/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c611408e51345724b410f516b2198541",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c611408e51345724b410f516b2198541/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d6737cd32978f8bb5c391bc826d3433e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d6737cd32978f8bb5c391bc826d3433e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "50481f0923ee5b6578647a39faf57c63",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/50481f0923ee5b6578647a39faf57c63/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4151c0350acc8eaa79c3ca9e4f8cfb81",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4151c0350acc8eaa79c3ca9e4f8cfb81/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "05c18c8b9d3bb3ad30ab0ce66df1bb2b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/05c18c8b9d3bb3ad30ab0ce66df1bb2b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ff71fc4e206989bd21a47be3e79e15bb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ff71fc4e206989bd21a47be3e79e15bb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e25ace7c857ee2ea707eb7ca1df5d6d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e25ace7c857ee2ea707eb7ca1df5d6d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4e704a1d62ecd95e34cd6a3df38239e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4e704a1d62ecd95e34cd6a3df38239e8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c1275d3f013b02dac959b6063c4f66dc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c1275d3f013b02dac959b6063c4f66dc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7e89b920f50f10672391e2165f6e4732",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7e89b920f50f10672391e2165f6e4732/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6b0b7d0ab7c9842d55b351fe0f0670ae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6b0b7d0ab7c9842d55b351fe0f0670ae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "824ccce4c454dde435d1c41f80708608",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/824ccce4c454dde435d1c41f80708608/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c1ed71f639391dd939b8419dbec5e0e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c1ed71f639391dd939b8419dbec5e0e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "341d59401fd7db0e070de6aac5779a98",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/341d59401fd7db0e070de6aac5779a98/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "049f07ddeaa1a7e50a0fe0375d7b58ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/049f07ddeaa1a7e50a0fe0375d7b58ad/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "DNA IMOVEIS HUMAITÁ",
+        "href": "/848241/dna-imoveis-humaita/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 4 Quartos à venda, 123m²",
+        "href": "/imovel/apartamento-4-quartos-jardim-botanico-zona-sul-rio-de-janeiro-com-garagem-123m2-venda-RS2090000-id-2759782018/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "state": "Rio de Janeiro",
+            "street": "Rua Visconde da Graça",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

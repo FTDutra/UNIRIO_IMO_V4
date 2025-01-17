@@ -1,0 +1,232 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELECTRONIC_GATE",
+            "PETS_ALLOWED"
+        ],
+        "usableAreas": [
+            "67"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Ótimo apartamento Vila da Penha, próximo a casa de Vizeu e Parmê. Desocupado, Todo reformado, prédio antigo mto bem conservado (possui terraço comum a todos para confraternizações familiares) composto de: Sala em dois ambientes, dois bons dormitórios, copa cozinha planejada, área de serviço e banheiro social com box blindex! Não tem vaga de garagem porém existe vaga alugada na rua do prédio. <br><br>Documentação OK aceitando carta de crédito e FGTS!",
+        "title": "Apartamento 2 quartos Vila da Penha 67m²",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2718834552",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21210050",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "120",
+            "level": "STREET",
+            "precision": "RANGE_INTERPOLATED",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.230642,
+                "source": "GOOGLE",
+                "lat": -22.813453
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Cisne",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Vila da Penha",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Vila da Penha",
+            "poisList": [
+                "BS:Galeão - Tom Jobim 2",
+                "BS:Premium Auto Ônibus",
+                "TS:Galeão - Tom Jobim 2",
+                "TS:Premium Auto Ônibus",
+                "CS:Upper Crust",
+                "SU:Creche Municipal Sempre Vida Loreto",
+                "SU:Escola Municipal Tenente Pedro de Lima Mendes",
+                "SU:Escola Municipal Professora Lavínia de Oliveira Escragnolle Dória",
+                "SU:Escola Municipal Alberto de Oliveira",
+                "SU:Colégio Brigadeiro Newton Braga"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "IGCIS",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "67"
+        ],
+        "advertiserId": "8913e4d2-f262-ef32-c64d-44c1b6c26969",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "10",
+                "price": "219000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "290"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21994464980"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21994464980",
+        "stamps": []
+    },
+    "account": {
+        "id": "8913e4d2-f262-ef32-c64d-44c1b6c26969",
+        "name": "Igor Alvarenga",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6a5a5274f2481018145bb51666894845/{description}.webp",
+        "licenseNumber": "60249-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 426368,
+        "phones": {
+            "primary": "21994464980",
+            "mobile": "21994464980"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "7db7957bb1e10df1db15e499c67b4f59",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7db7957bb1e10df1db15e499c67b4f59/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb241b231748e2923f4b59e187b7a35b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb241b231748e2923f4b59e187b7a35b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "46da1d9b66e310987a8f7cae11ea56bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/46da1d9b66e310987a8f7cae11ea56bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5cd0db3e85abdda2ffaa71566b93c126",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5cd0db3e85abdda2ffaa71566b93c126/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c2cad72497377406ae6e03c60544c16a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2cad72497377406ae6e03c60544c16a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aa74afbc62b890870cf3a4c27ced2a79",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aa74afbc62b890870cf3a4c27ced2a79/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "92076d3fc78a0be9f29fa84c4e8b7a6b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/92076d3fc78a0be9f29fa84c4e8b7a6b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c7c88a6d265b7e265a46345ef9fb00a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c7c88a6d265b7e265a46345ef9fb00a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "532b8a5f6c0196044c7955952e7c8d4a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/532b8a5f6c0196044c7955952e7c8d4a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "13dcefc23cb49e43aa62783b1bad4f4a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/13dcefc23cb49e43aa62783b1bad4f4a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "982904c8aa1c1db978958c7dc4324389",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/982904c8aa1c1db978958c7dc4324389/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ea0df0dd6925dc5ef2044c33eeccb6e7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ea0df0dd6925dc5ef2044c33eeccb6e7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5de294174f66d082cc94636239ad0356",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5de294174f66d082cc94636239ad0356/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f36305f074781da2f67a09d9558bea6a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f36305f074781da2f67a09d9558bea6a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "07f0fb707282292a2dc3133c67e054ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/07f0fb707282292a2dc3133c67e054ed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "11707380c9e836bf93808e5910c46a4a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/11707380c9e836bf93808e5910c46a4a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f46f02be6795d1b10ce165555a65f21c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f46f02be6795d1b10ce165555a65f21c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e26129112efebc8168bb8bbcb4d72b33",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e26129112efebc8168bb8bbcb4d72b33/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f48d92328ecd35d4eddd28e83f74b586",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f48d92328ecd35d4eddd28e83f74b586/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Igor Alvarenga",
+        "href": "/426368/igor-alvarenga/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 67m²",
+        "href": "/imovel/apartamento-2-quartos-vila-da-penha-zona-norte-rio-de-janeiro-67m2-venda-RS219000-id-2718834552/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Vila da Penha",
+            "state": "Rio de Janeiro",
+            "street": "Rua Cisne",
+            "streetNumber": "120",
+            "zone": "Zona Norte"
+        }
+    }
+}

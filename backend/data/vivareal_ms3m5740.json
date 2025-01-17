@@ -1,0 +1,242 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "PETS_ALLOWED",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "LAUNDRY",
+            "DINNER_ROOM",
+            "HEATING"
+        ],
+        "usableAreas": [
+            "60"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "CONDOMÍNIO SCORPIUS<br>Rua Laura Teles, 270<br>Tanque<br><br>Excelente apartamento com 60m² de 2 quartos,<br>Sala em 2 ambientes com rebaixamento de gesso com iluminação em LED,<br>Cozinha com despensa e área de serviço,<br>Dependência podendo ser usada como escritório,<br>Banheiro com blindex instalado,<br>Piso porcelanato,<br>ANDAR ALTO,<br>1 vaga de garagem.<br><br>FOTOS REAIS<br><br>LIGUE E AGENDE SUA VISITA<br><br>Ligações e WhatsApp<br><br>Temos outros imóveis na região<br>www.royalimoveisrj.com<br><br>Creci: 8726/0<br><br>REALIZAMOS APROVAÇÃO DE CRÉDITO NO MESMO DIA",
+        "title": "Apartamento à venda, Tanque, Rio de Janeiro, RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2759495925",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22730305",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.926,
+                "approximateLon": -43.362,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Laura Teles",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Tanque",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tanque",
+            "poisList": [
+                "BS:Ponto Final: Pechincha :: Linha 2115",
+                "BS:Terminal Bandeira Brasil (Taquara) :: Plat. Oeste",
+                "TS:Ponto Final: Pechincha :: Linha 2115",
+                "TS:Aracy Cabral",
+                "TS:Tanque (Expresso)",
+                "TS:André Rocha",
+                "TS:Taquara (Expresso)",
+                "CS:Padaria Quero Pão da Taquara",
+                "PH:Farmácia (Rede Bandeirantes de Drogarias)"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "SUPER_PREMIUM",
+        "externalId": "AP0437_ROYALR",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "10"
+        ],
+        "advertiserId": "19ab6793-4674-0a7c-94e0-18119b2d290e",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "700",
+                "price": "310000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "750"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21998001209"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21998001209",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "19ab6793-4674-0a7c-94e0-18119b2d290e",
+        "name": "Royal IMÓVEIS RJ - BÚZIOS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/80758f8415739986a1531cbd274128e0/{description}.webp",
+        "licenseNumber": "79770-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 638650,
+        "phones": {
+            "primary": "21998001209",
+            "mobile": "21998001209"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "50325f52b77c1c73dab9e1d4092f34d5",
+            "url": "https://www.youtube.com/watch?v=l6bVzqj0gJs",
+            "type": "VIDEO"
+        },
+        {
+            "id": "0f87a19b817618d2cdb5d001bc0137d0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f87a19b817618d2cdb5d001bc0137d0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e886daeae0aedbc6bf0ba7e4e8e43eb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e886daeae0aedbc6bf0ba7e4e8e43eb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f87e21fe6a93cfad3178fdcada2badd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f87e21fe6a93cfad3178fdcada2badd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a5c770b7f57564f1313c2a46b7291d5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a5c770b7f57564f1313c2a46b7291d5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1262a5aae9bc831e3bb979ab8107655b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1262a5aae9bc831e3bb979ab8107655b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2860bed2f70bea6e9a32f8869306655c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2860bed2f70bea6e9a32f8869306655c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f331e4a4fdbafb6dc2e3b04ba713e406",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f331e4a4fdbafb6dc2e3b04ba713e406/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8d4be13e74e691db06d9838d76f3421f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d4be13e74e691db06d9838d76f3421f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f2eb5bbf83ff9178b63529f07ecb5a30",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f2eb5bbf83ff9178b63529f07ecb5a30/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4d02973e172fc11268c64573397bc36a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4d02973e172fc11268c64573397bc36a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "926d788f7872785750d7b9c9eb1feb79",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/926d788f7872785750d7b9c9eb1feb79/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0c8bae855e9ddad8a5e44ba1fc15ab34",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0c8bae855e9ddad8a5e44ba1fc15ab34/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "12643398e69f3a023a0b8a54b2bbc0c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/12643398e69f3a023a0b8a54b2bbc0c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9148073246700f6cc7aafd1fdf4154b1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9148073246700f6cc7aafd1fdf4154b1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "29a7562b69dd66a3c44bd029b5aebe12",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/29a7562b69dd66a3c44bd029b5aebe12/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a3eaf7bd6059e06cc7e81e8bf79d9902",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a3eaf7bd6059e06cc7e81e8bf79d9902/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e345c3c23209c1085696deb77c3d2f88",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e345c3c23209c1085696deb77c3d2f88/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1fade240ebb4e83d9e5744c9882011f3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1fade240ebb4e83d9e5744c9882011f3/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Royal IMÓVEIS RJ - BÚZIOS",
+        "href": "/638650/royal-imoveis-rj-buzios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 60m²",
+        "href": "/imovel/apartamento-2-quartos-tanque-zona-oeste-rio-de-janeiro-com-garagem-60m2-venda-RS310000-id-2759495925/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tanque",
+            "state": "Rio de Janeiro",
+            "street": "Rua Laura Teles",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

@@ -1,0 +1,272 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "GARAGE",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM",
+            "ALARM_SYSTEM",
+            "ADULT_GAME_ROOM",
+            "MASSAGE_ROOM",
+            "CINEMA",
+            "SAFETY_CIRCUIT",
+            "SPA",
+            "GARAGE_BAND",
+            "HOME_CINEMA",
+            "WATCHMAN",
+            "SAUNA"
+        ],
+        "usableAreas": [
+            "131"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O lançamento Glória Residencial estará situado em área privilegiada no bairro Glória, onde antes se localizava um tradicional e sofisticado hotel. Sua fachada será restaurada e exibirá um delicado estilo retrofit, que é um belo diferencial se comparado com a moderna paisagem urbana ao redor.<br><br>Os apartamentos tipo do Glória Residencial foram elaborados para agradar aos padrões mais exigentes em relação a um lar, sendo ideais para famílias que buscam imóveis de metragens amplas e com layouts diferenciados. As unidades possuirão entre 2 a 4 quartos, sendo até 4 suítes espaçosas e ambientes que exibirão um design primoroso. Os moradores podem contar com metragens de 77 m² a 228 m², com cômodos bem distribuídos, espaços integrados que possibilitam melhor aproveitamento de espaço, bem como ambientes que apresentam um projeto inteligente de iluminação e ventilação. Além disso, os imóveis também dispõem de vagas no estacionamento do condomínio e vista garantida para o mar, área natural e para um dos principais cartões postais da cidade, o Pão de Açúcar.",
+        "title": "Lançamento Hotel Glória Residencial, stúdios e apartamentos de 1 a 3 quartos, mais infraestrutura co",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2725789062",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22210010",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.922,
+                "approximateLon": -43.172,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua do Russel",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Gloria",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Glória",
+            "poisList": [
+                "BS:Largo do Machado",
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Passeio :: Linha 517",
+                "BS:Ponto Regulador: Linha 247",
+                "BS:BRS 1/3 Pres. Antônio Carlos (Beira-Mar)",
+                "TS:Russel",
+                "TS:Outeiro da Glória",
+                "TS:Silveira Martins",
+                "TS:Glória",
+                "TS:Catete",
+                "CS:Confeitaria Santo Amaro",
+                "CS:Parque do Flamengo",
+                "CS:Padaria Catete",
+                "CS:Padaria Nova Viriato",
+                "CS:Pão Francês",
+                "PH:Drogaria RioFarma",
+                "PH:Miliflora Farmácia de Manipulação",
+                "PH:Bem Estar",
+                "PH:Drogaria Riofarma",
+                "PH:Drogaria Norte e Sul"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "55880",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "131"
+        ],
+        "advertiserId": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "2384200",
+                "businessType": "SALE",
+                "monthlyCondoFee": "0"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135072001",
+                "21996212001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21996212001",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "00eea45c-92f1-08e6-19ec-85bfb40517d1",
+        "name": "Privilégio Investimentos Imobiliários",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/004f72cf24aef561de164f29f982a718/{description}.webp",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 272187,
+        "phones": {
+            "primary": "2135072001",
+            "mobile": "21996212001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "132548ad682b9f10ae398ef45db2dbeb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/132548ad682b9f10ae398ef45db2dbeb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "857c1e9b3d6fee1bae3d40ba62a8b8c5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/857c1e9b3d6fee1bae3d40ba62a8b8c5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "356ad36713a500c44d373d0e38b17289",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/356ad36713a500c44d373d0e38b17289/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "593128607240bea4cefe7de00f877ed1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/593128607240bea4cefe7de00f877ed1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "00079c9b9e6e20ee542a3821fb6626c1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/00079c9b9e6e20ee542a3821fb6626c1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "304c09f14535d396715112d99bce2988",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/304c09f14535d396715112d99bce2988/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d050dabd18323da65e20168c8c7da7e6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d050dabd18323da65e20168c8c7da7e6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9d5e5b43a811a181fcca4f0a5acf287f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9d5e5b43a811a181fcca4f0a5acf287f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c3a43458ab6cdc6d102470f37e38d389",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c3a43458ab6cdc6d102470f37e38d389/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "df7af067753c046065d230c22f6f2a81",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df7af067753c046065d230c22f6f2a81/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1daca23b041b49db637ffc73913dd629",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1daca23b041b49db637ffc73913dd629/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a35182a61d1c5fff549e4b3e3433c8e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a35182a61d1c5fff549e4b3e3433c8e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6aa38a3c1f0f3897b792f71148cc3092",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6aa38a3c1f0f3897b792f71148cc3092/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f2a9bae470b6d3eb84d78f1744c7229a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f2a9bae470b6d3eb84d78f1744c7229a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e2dc47d9a1eebdb5240fe593e0a54475",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e2dc47d9a1eebdb5240fe593e0a54475/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "13ada0c879b8b92f05ed9a7af417cf27",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/13ada0c879b8b92f05ed9a7af417cf27/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "018bb75b81c8a086e0ff27cf5d7f8554",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/018bb75b81c8a086e0ff27cf5d7f8554/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d6e73c740cff299ff14a2821ad57f8c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d6e73c740cff299ff14a2821ad57f8c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f8345efeb1f6a37e6d2368e9d30bc624",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f8345efeb1f6a37e6d2368e9d30bc624/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1100ddf0ba8c325e3d413e3acbc501ea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1100ddf0ba8c325e3d413e3acbc501ea/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Privilégio Investimentos Imobiliários",
+        "href": "/272187/privilegio-investimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 131m²",
+        "href": "/imovel/apartamento-3-quartos-gloria-zona-sul-rio-de-janeiro-com-garagem-131m2-venda-RS2384200-id-2725789062/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Glória",
+            "state": "Rio de Janeiro",
+            "street": "Rua do Russel",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "GOURMET_BALCONY",
+            "SERVICE_AREA",
+            "ELEVATOR",
+            "AIR_CONDITIONING",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "87"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento com 3 quartos à venda, 87 m² por R$ 600.000 - Recreio dos Bandeirantes - Rio de Janeiro/RJ<br><br>Imóveis Mav vende excelente apartamento todo planejado com salão em dois ambientes, 03 quartos sendo 01 suíte, varanda gourmet fechada com cortina de vidro, área de serviço, despensa e cozinha. Todos os cômodos com móveis planejados, rebaixamento de teto com luz indireta e split e piso porcelanato. Cozinha com cooktop, coifa e forno, banheiro com blindex.<br>Próximo ao comércio, shopping, mercado, banco etc,... a 10 minutos da praia. Condomínio aceita pet.<br><br>Documentação cristalina. Aceita financiamento....<br>É só entrar e morar!!! -",
+        "title": "Apartamento com 3 quartos à venda, 87 m² por R$ 600.000 - Recreio dos Bandeirantes - Rio de Janeiro/",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2519941394",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790220",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "347",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.444376,
+                "source": "GOOGLE",
+                "lat": -23.011115
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Artur Possolo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Salvador Allende (Expresso)",
+                "BS:Salvador Allende (Parador)",
+                "BS:Ponto Final: Barra Sul :: Linha 553 SP",
+                "TS:Salvador Allende (Expresso)",
+                "TS:Salvador Allende (Parador)",
+                "TS:Terminal Recreio",
+                "TS:Catedral do Recreio",
+                "TS:Ponto Final: Barra Sul :: Linha 553 SP",
+                "CS:Padaria & Confeitaria A Lisboeta",
+                "CS:Santa Therezinha",
+                "CS:Fábrica de Bolo",
+                "CS:Padaria e Confeitaria Rei do Recreio",
+                "CS:Pão Carioca",
+                "PH:Venâncio",
+                "PH:Drogaria do Povo das Américas"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0553",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "87"
+        ],
+        "advertiserId": "4bec5fd9-921f-7958-4e2e-6281b8969d61",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2300",
+                "price": "600000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "410"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2130446511",
+                "21964907656"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964907656",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "4bec5fd9-921f-7958-4e2e-6281b8969d61",
+        "name": "MAV IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc50e6c64348c6b7b0c15b82fd3b30e2/{description}.webp",
+        "licenseNumber": "46890-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 64182,
+        "phones": {
+            "primary": "2130446511",
+            "mobile": "21964907656"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "9071090a17235ddcf325b36b1d795d74",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9071090a17235ddcf325b36b1d795d74/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f2b1fe462b2f97f262701e6df2f2194f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f2b1fe462b2f97f262701e6df2f2194f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "90054733d000ed33b1f39c8b781520c0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/90054733d000ed33b1f39c8b781520c0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a58c8c84ab3fe0e4ba13f9369a414475",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a58c8c84ab3fe0e4ba13f9369a414475/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "679bdd05f4b7668affd25768ed919163",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/679bdd05f4b7668affd25768ed919163/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2c1cbebbabae788321c3040a001aea3e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c1cbebbabae788321c3040a001aea3e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e456a02605443188f2e5e21e0fe4bed4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e456a02605443188f2e5e21e0fe4bed4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e1f580b680642269610b01a65a3acb2c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e1f580b680642269610b01a65a3acb2c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4264420c911e74b93f769a120caa742d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4264420c911e74b93f769a120caa742d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "be6d386b44b237713c7332cbe7da9687",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/be6d386b44b237713c7332cbe7da9687/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d064015d24951fb218c35a0ff8590b1b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d064015d24951fb218c35a0ff8590b1b/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "MAV IMÓVEIS",
+        "href": "/64182/mav-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 87m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-87m2-venda-RS600000-id-2519941394/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Artur Possolo",
+            "streetNumber": "347",
+            "zone": "Zona Oeste"
+        }
+    }
+}

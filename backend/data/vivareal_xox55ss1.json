@@ -1,0 +1,254 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "KITCHEN",
+            "BATHTUB",
+            "SERVICE_AREA",
+            "ELEVATOR"
+        ],
+        "usableAreas": [
+            "88"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento com 3 dormitórios à venda, 88 m² por R$ 350.000 - Praça Seca - Rio de Janeiro/RJGeraldo Paes Imóveis vende apartamento com 88m² Sala, 3 dormitórios, varanda, banheiro social, copa, cozinha, área de serviço, dependência de empregada completa, 1 vaga de garagem, elevador, portão eletrônico, 1 vaga de garagem. Aceita financiamento!!Temos outros em www.geraldopaesimoveis.com.br",
+        "title": "Apartamento com 3 dormitórios à venda, 88 m² por R$ 350.000,00 - Praça Seca - Ri",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2700071281",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "21321160",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "129",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "lon": -43.356536,
+                "source": "GOOGLE",
+                "lat": -22.896264
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Gastão Taveira",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Praca Seca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Praça Seca",
+            "poisList": [
+                "BS:Doutor Bernardino",
+                "BS:Praça Seca :: Linhas para o Castelo",
+                "BS:Rua Marangá 912",
+                "BS:Ponto Final: Praça Seca :: Ônibus Executivo",
+                "BS:Ponto Final: Praça Seca :: Linha 371",
+                "TS:Praça Seca (Expresso)",
+                "TS:Praça Seca (Parador)",
+                "TS:Doutor Bernardino",
+                "TS:Capitão Menezes",
+                "TS:Ipase",
+                "CS:Açougue Barão Ltda.",
+                "CS:3 Marias",
+                "CS:Auto Posto Bittig",
+                "CS:Gula Gula",
+                "PH:Imediata"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "AP0879",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "88"
+        ],
+        "advertiserId": "874cf9f1-b470-f17c-0b6e-a1cbfb4303a0",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "841",
+                "price": "350000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1076"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2124894023",
+                "21981554031"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21981554031",
+        "stamps": []
+    },
+    "account": {
+        "id": "874cf9f1-b470-f17c-0b6e-a1cbfb4303a0",
+        "name": "GERALDO PAES IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6fdea9850fba5f1a289a39302c30565c/{description}.webp",
+        "licenseNumber": "05659-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 40004,
+        "phones": {
+            "primary": "2124894023",
+            "mobile": "21981554031"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "5c562d862677f38c840f268537f5dbe5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5c562d862677f38c840f268537f5dbe5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "33bda2046f3cb1541719d75477a3a227",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/33bda2046f3cb1541719d75477a3a227/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f2458fdb41b38c3972173683afb3583d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f2458fdb41b38c3972173683afb3583d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "084efecbbf031c0e8c5b7aae0a440638",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/084efecbbf031c0e8c5b7aae0a440638/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5573b7c495bff41e7e1fb2bee05d0938",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5573b7c495bff41e7e1fb2bee05d0938/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "57fa0a342f969ecfc98754a8e6632298",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/57fa0a342f969ecfc98754a8e6632298/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4558b360ec1bb7894da211e8588831db",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4558b360ec1bb7894da211e8588831db/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "205ab5abce6918abb129359d17fbd6bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/205ab5abce6918abb129359d17fbd6bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "218bc3787b1770bc88d604eadf38505d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/218bc3787b1770bc88d604eadf38505d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cac94b888c08299e4e9972db055766a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cac94b888c08299e4e9972db055766a4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e9345c8a847e710e9ebcd6be5d96f436",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e9345c8a847e710e9ebcd6be5d96f436/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5b5a1cc1cf9247ebaf9144fc1c51f6dd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5b5a1cc1cf9247ebaf9144fc1c51f6dd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "56e8b8418852a5d8a522df3f335127e4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56e8b8418852a5d8a522df3f335127e4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a15fc37f7f1bd200fa65e9a7540eaccb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a15fc37f7f1bd200fa65e9a7540eaccb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e9cee557bf5e95155131f8da5d2eec09",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e9cee557bf5e95155131f8da5d2eec09/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ac5ef4dbe69154d232bf5838035f913d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ac5ef4dbe69154d232bf5838035f913d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "10a518cbb769049d29f4201a521d3dae",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/10a518cbb769049d29f4201a521d3dae/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f957b0339feae77a3b36831234da1418",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f957b0339feae77a3b36831234da1418/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a829e92e34ac094bff5d33a3417d3365",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a829e92e34ac094bff5d33a3417d3365/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6daef7bd2ab50c12fc2abe0b00c6071b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6daef7bd2ab50c12fc2abe0b00c6071b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c868b6e8c6d0ff443482d8c57f689591",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c868b6e8c6d0ff443482d8c57f689591/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0806f3a4bdf7018b383037eb51b4b093",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0806f3a4bdf7018b383037eb51b4b093/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "GERALDO PAES IMOVEIS",
+        "href": "/40004/geraldo-paes-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 88m²",
+        "href": "/imovel/apartamento-3-quartos-praca-seca-zona-oeste-rio-de-janeiro-com-garagem-88m2-venda-RS350000-id-2700071281/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Praça Seca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Gastão Taveira",
+            "streetNumber": "129",
+            "zone": "Zona Oeste"
+        }
+    }
+}

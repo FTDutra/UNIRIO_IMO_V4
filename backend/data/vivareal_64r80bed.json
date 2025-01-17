@@ -1,0 +1,259 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "GARAGE",
+            "KITCHEN",
+            "INTERCOM",
+            "HEATING",
+            "SAFETY_CIRCUIT",
+            "NUMBER_OF_FLOORS"
+        ],
+        "usableAreas": [
+            "139"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua Dias da Rocha, no bairro Copacabana em Rio de Janeiro. Este imóvel conta com área construída de 139m², oferecendo 3 quartos, sendo 1 suíte, 1 banheiro e 1 vaga de garagem. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "APARTAMENTO- COPACABANA - 03 QUARTOS - 01 VAGA",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2744962963",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22051020",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.973,
+                "approximateLon": -43.188,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Dias da Rocha",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 2 Santa Clara",
+                "BS:BRS 1 Constante Ramos",
+                "BS:BRS 1,3 - Avenida Nossa Senhora de Copacabana",
+                "BS:2018",
+                "BS:BRS 2 Barão de Ipanema",
+                "TS:BRS 2 Santa Clara",
+                "TS:BRS 1 Constante Ramos",
+                "TS:BRS 1,3 - Avenida Nossa Senhora de Copacabana",
+                "TS:2018",
+                "TS:BRS 2 Barão de Ipanema",
+                "CS:Grão da terra",
+                "CS:The Bakers",
+                "CS:Sulimar",
+                "CS:La Copa",
+                "CS:Multifruti",
+                "PH:Drogaria Galanti",
+                "PH:Prontofarma",
+                "PH:Nash",
+                "PH:Viva Mais",
+                "PH:Farmácia Central Posto 6"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PUilbka",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "139"
+        ],
+        "advertiserId": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "5222",
+                "price": "1100000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1161"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21988595427"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988595427",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "name": "Luccare Investimentos",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/356f29ff805ce9c2aedf37766016903e/{description}.webp",
+        "licenseNumber": "065358-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 79203,
+        "phones": {
+            "primary": "21988595427",
+            "mobile": "21988595427"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "4b441f82c6f78bd759823727d089003e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4b441f82c6f78bd759823727d089003e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "33c268679e77e84a530cfce77a74a453",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/33c268679e77e84a530cfce77a74a453/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0201481fea5ab6cad33e42400b64b825",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0201481fea5ab6cad33e42400b64b825/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "05716bc746f55962afa55b843878b03f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/05716bc746f55962afa55b843878b03f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d8d908a6fbbc5b4e1cf7a1ca9ea905bb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8d908a6fbbc5b4e1cf7a1ca9ea905bb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca667f72d5997059134234593b42c03b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca667f72d5997059134234593b42c03b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f9db5c508dea70ccfc8e6ec9346204b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f9db5c508dea70ccfc8e6ec9346204b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c13ddf2b42b4f4270a36eb7464ddd08",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c13ddf2b42b4f4270a36eb7464ddd08/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a0c798a410921239d43492ca0c59fb9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a0c798a410921239d43492ca0c59fb9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ea8e24260705afeab194ba692a4a7501",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ea8e24260705afeab194ba692a4a7501/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b839e437e309b62f2f5badf097cc83aa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b839e437e309b62f2f5badf097cc83aa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "536fe45036f588add723529852e3bf8d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/536fe45036f588add723529852e3bf8d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "547bf050e5c74c7668c2c224fe008165",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/547bf050e5c74c7668c2c224fe008165/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b1e2e9eca1f3be6086eaef54c3a4499e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b1e2e9eca1f3be6086eaef54c3a4499e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a49c5b9fded5d63cc3621bf2161d3a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8a49c5b9fded5d63cc3621bf2161d3a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ed7dd2e80f596d8d1fdc13eb3f9b6700",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ed7dd2e80f596d8d1fdc13eb3f9b6700/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd438ac4cc64eee59666a0bfd4850a14",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd438ac4cc64eee59666a0bfd4850a14/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "882cb9cc0f9b1842dd2c1a4ec4d36e27",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/882cb9cc0f9b1842dd2c1a4ec4d36e27/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b78e724a9331d157b56568fc8302e3ec",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b78e724a9331d157b56568fc8302e3ec/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c699b204868f532959763eab8e7d0d40",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c699b204868f532959763eab8e7d0d40/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "53e4faae954730eb395d3cb659ee48c6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/53e4faae954730eb395d3cb659ee48c6/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Luccare Investimentos",
+        "href": "/79203/luccare-investimentos/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 139m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-139m2-venda-RS1100000-id-2744962963/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Dias da Rocha",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

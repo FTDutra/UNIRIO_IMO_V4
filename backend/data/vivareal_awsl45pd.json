@@ -1,0 +1,203 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [],
+        "usableAreas": [
+            "90"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Imóvel amplo à venda com 2 quartos, sendo 2 suítes, e 2 banheiros no total. Este imóvel está bem equipado, é ideal para quem procura conforto e comodidade. O condomínio é bem equipado com diversas instalações, apropriado para quem busca lazer sem sair de casa e fica localizado em Avenida Lúcio Costa no bairro Barra da Tijuca em Rio de Janeiro. Está bem localizado, próximo a pontos de interesse de Barra da Tijuca, tais como Rio International School, Colégio Saint John, SENAC, pH, Praça Ministro Vitor Nunes Leal e Escola Municipal Professora Didia Machado Fortes.",
+        "title": "Apartamento à venda com 90m², 2 quartos e 2 vagas",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2737720342",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22630012",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -23.009,
+                "approximateLon": -43.357,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Lúcio Costa",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:Barra Shopping",
+                "BS:D1",
+                "BS:C2",
+                "BS:E1",
+                "BS:E2",
+                "TS:Barra Shopping (Expresso)",
+                "TS:Barra Shopping (Parador)",
+                "TS:Barra Shopping",
+                "TS:D1",
+                "TS:C2",
+                "CS:Ateliê Mineiro",
+                "CS:Alfa Belle - Alfa Barra I",
+                "CS:Esso",
+                "CS:Alfa Belle - Alfa Barra II",
+                "CS:Meu Doce Rio",
+                "PH:Drogaria Ministro",
+                "PH:Farma Alfa",
+                "PH:Drogarias Carioca"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP56213RJ",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "90"
+        ],
+        "advertiserId": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "500",
+                "price": "1375000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1700"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21988595427"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21988595427",
+        "stamps": []
+    },
+    "account": {
+        "id": "610efc6a-3efd-b875-0a90-873ef125ace8",
+        "name": "Luccare Investimentos",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/356f29ff805ce9c2aedf37766016903e/{description}.webp",
+        "licenseNumber": "065358-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 79203,
+        "phones": {
+            "primary": "21988595427",
+            "mobile": "21988595427"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "d35e525d203b9bc86f25c86b5e72a6c1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d35e525d203b9bc86f25c86b5e72a6c1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5409fb70ef670ee7a2f0b8edaf13b477",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5409fb70ef670ee7a2f0b8edaf13b477/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9ed7776c8aec502b00b77bba67459d8c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ed7776c8aec502b00b77bba67459d8c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "62c6c0b910573cbec86ea7337b296813",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/62c6c0b910573cbec86ea7337b296813/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9fd1cac33c6f80b1f82cf82a289d126d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9fd1cac33c6f80b1f82cf82a289d126d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "eef97c9b0d447784b349846108e6bfe7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/eef97c9b0d447784b349846108e6bfe7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb17bb067298db8af777a41c5ea8f3ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb17bb067298db8af777a41c5ea8f3ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e341e258c0978a74e928c98cec62970f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e341e258c0978a74e928c98cec62970f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d866877d7214cf3bb893dee891113d1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d866877d7214cf3bb893dee891113d1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d8b3b7178960240131885fedda731b8e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8b3b7178960240131885fedda731b8e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "69b56989a05e8c9551f588eb4518b638",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/69b56989a05e8c9551f588eb4518b638/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3b59ba0e1af28ae3d87d8fa11a2548a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b59ba0e1af28ae3d87d8fa11a2548a4/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Luccare Investimentos",
+        "href": "/79203/luccare-investimentos/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 90m²",
+        "href": "/imovel/apartamento-2-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-90m2-venda-RS1375000-id-2737720342/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Lúcio Costa",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

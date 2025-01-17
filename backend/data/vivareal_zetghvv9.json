@@ -1,0 +1,267 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "CONCIERGE_24H",
+            "KITCHEN",
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "95"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "APARTANENTO EM ÓTIMA LOCALIZAÇÃO NA PRAIA DE BOTAFOGO COM 1 VAGA DE GARAGEM NA ESCRITURA LOCALIZADO FRENTE PRAÇA NICARÁGUA NAS PROXIMIDADES DA AVENIDA OSWALDO CRUZ E RUI BARBOSA NAS SEGUINTES CARACTERÍSTICAS: SALA 2 AMBIENTES BASTANTE CLARA E VENTILADA COM VISTA ABERTA, CIRCULAÇÃO INTEGRANDO 2 DORMITÓRIOS VENTILADOS, BANHEIRO SOCIAL , COZINHA AMPLA COM VISTA LIVRE ENSEADA E ÓTIMA ÁREA DE LAVANDERIA COM DEPENDÊNCIA DE EMPREGADA COMPLETA EM CONDOMÍNIO SEGURO DE ÓTIMA APRESENTAÇÃO DISPONIBILIZANDO DE PORTARIA 24 HORAS, SALÃO DE FESTAS E PLAYGROUND. <br>-Cod:KFAP20596 -Rev.11Dez",
+        "title": "Apartamento - Padrão / Residencial / Botafogo",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2681075859",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22250145",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.941,
+                "approximateLon": -43.176,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Praia Botafogo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Flamengo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Largo do Machado",
+                "BS:Palácio Universitário",
+                "BS:Mureta da Urca",
+                "BS:Marechal Cantuária",
+                "TS:Flamengo",
+                "TS:Ponto Final: Largo do Machado :: Linha 497",
+                "TS:Acesso Muniz Barreto/Botafogo Praia Shopping",
+                "TS:Acesso Catete",
+                "TS:Acesso São Clemente/Praia",
+                "CS:Padaria Napoles",
+                "CS:Mei-jo",
+                "CS:Deep Freeze",
+                "CS:Maguila",
+                "CS:Benamor",
+                "PH:Rio Brasil",
+                "PH:RioFarma",
+                "PH:Farma Hall",
+                "PH:Drogaria Paraná",
+                "PH:Drogaria Ric"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "KFAP20596",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "95"
+        ],
+        "advertiserId": "7a87e28e-32f7-506e-28d1-99fec4280d74",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "286",
+                "price": "890000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1058"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21999884701",
+                "2134399062"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "7a87e28e-32f7-506e-28d1-99fec4280d74",
+        "name": "KASANOVA IMÓVEIS FLAMENGO",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c5cfd70163cdf979ae80b53d1d9cc39/{description}.webp",
+        "licenseNumber": "005024-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 37892,
+        "phones": {
+            "primary": "21999884701",
+            "mobile": "2134399062"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "ef341a4c6cdd5479ad5c58e17056f722",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ef341a4c6cdd5479ad5c58e17056f722/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "af99460d84317decd8a588f71422d54a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/af99460d84317decd8a588f71422d54a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e068ecf0a335904911df99a5b96c9de",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e068ecf0a335904911df99a5b96c9de/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e59d4be7722bb34acda105f45dbfab0c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e59d4be7722bb34acda105f45dbfab0c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a9fb9d4c481a245728a9df3bfb307c9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8a9fb9d4c481a245728a9df3bfb307c9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bf3435ef34f4f9dd43174fb0f296b627",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bf3435ef34f4f9dd43174fb0f296b627/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "998b56cdb3185d2754a8806534b96dc2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/998b56cdb3185d2754a8806534b96dc2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5642625fe260e4a5f12ef8093bf64e63",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5642625fe260e4a5f12ef8093bf64e63/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e86b79afb16fca7933cb0c42fcfdfdeb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e86b79afb16fca7933cb0c42fcfdfdeb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "28fc1b9aff8049e2e454e2a5e3161885",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/28fc1b9aff8049e2e454e2a5e3161885/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "88ebeb7dc7095130b4ad73e92186e6d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/88ebeb7dc7095130b4ad73e92186e6d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "50f2dd31ff5a56528bb19152da452c0c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/50f2dd31ff5a56528bb19152da452c0c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "231647a7803fc33ad126ec723567ef78",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/231647a7803fc33ad126ec723567ef78/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9cdc4adb62f55d390fc3f3b473a234b7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9cdc4adb62f55d390fc3f3b473a234b7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1468e1705ea30fb2c7e845e17b4de2d8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1468e1705ea30fb2c7e845e17b4de2d8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d46bdbaeebbb1b68ce1e8216af25bb49",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d46bdbaeebbb1b68ce1e8216af25bb49/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dd8c0ee9fe0c70a5cd3ce7c8d79a6114",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd8c0ee9fe0c70a5cd3ce7c8d79a6114/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "93c9ad9daa3063aabe27bf078ed7406a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/93c9ad9daa3063aabe27bf078ed7406a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "18446d4ee216d624147e181b111d6ee0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/18446d4ee216d624147e181b111d6ee0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "00587ee47af9b5c26d2a28d3447dd0d5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/00587ee47af9b5c26d2a28d3447dd0d5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "122b806b12fca54a3ec39707f4013c33",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/122b806b12fca54a3ec39707f4013c33/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "38516162f3c96ccee10afa2d9d2b663c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/38516162f3c96ccee10afa2d9d2b663c/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "KASANOVA IMÓVEIS FLAMENGO",
+        "href": "/37892/kasanova-imoveis-flamengo/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 95m²",
+        "href": "/imovel/apartamento-2-quartos-flamengo-zona-sul-rio-de-janeiro-com-garagem-95m2-venda-RS890000-id-2681075859/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "state": "Rio de Janeiro",
+            "street": "Praia Botafogo",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

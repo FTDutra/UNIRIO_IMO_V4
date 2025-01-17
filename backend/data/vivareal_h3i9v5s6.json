@@ -1,0 +1,349 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "POOL",
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "BALCONY",
+            "PETS_ALLOWED",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "CONCIERGE_24H",
+            "KITCHEN_CABINETS",
+            "KITCHEN",
+            "LAUNDRY",
+            "HEATING"
+        ],
+        "usableAreas": [
+            "93"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Hilmar Empreendimentos Imobiliários, Matriz localizada na Praça Marco Aurélio nº 115, e Filial localizada na Rua Tirol nº 172 Freguesia/JPA. VENDE. Grande oportunidade de adquirir um excelente imóvel com uma área de aproximadamente 93m², composto por 3 quartos, sendo 1 suíte, este imóvel é ideal para famílias que precisam de espaço e conforto. A sala ampla proporciona um ambiente aconchegante para receber visitas e desfrutar de momentos de convivência, e a cozinha é espaçosa e funcional. Além disso, o imóvel conta com 1 banheiro social com blindex, armários na cozinha, quartos e banheiros, e uma varanda trazendo maior comodidade aos moradores. Todos os cômodos possuem boa ventilação garantindo um ambiente fresco e arejado, e iluminação natural, o que contribui para um imóvel mais agradável e acolhedor. O condomínio conta com salão de festa, playground, piscina, churrasqueira, elevador e portaria 24 horas. Localizado em um bairro tranquilo e familiar, área com infraestrutura completa, com fácil acesso a diversos pontos de interesse como opções de comércios na região, farmácias, mercados, hortifrútis, restaurantes, colégios, padarias, bancos, e a apenas 10 minutos do park shopping Jacarepaguá e 20 minutos da praia, proporcionando maior lazer e entretenimento. Região residencial que oferece diversas opções de serviços e transporte público, tornando-a uma ótima escolha para quem busca comodidade e praticidade no dia a dia. Para mais informações e agendamento de visita entrarem em contato através dos nossos WhatsApp .",
+        "title": "Apartamento à venda, fundos, 3 quartos, 1 suíte, Dependência completa e varanda. Freguesia (Jacare",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2749361994",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22750009",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.939,
+                "approximateLon": -43.335,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Tirol",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Freguesia- Jacarepagua",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Freguesia (Jacarepaguá)",
+            "poisList": [
+                "BS:Tirol",
+                "BS:Professora Camisão",
+                "BS:Estrada de Jaquarepagua",
+                "TS:Tirol",
+                "TS:Professora Camisão",
+                "TS:José Roiz de Aragão",
+                "TS:Provedora Lygia Moreira Alves de Brito",
+                "TS:Estrada de Jaquarepagua",
+                "CS:Kúffura",
+                "CS:TECNOMEDI FREGUESIA",
+                "SU:Santa Mônica Centro Educacional",
+                "SU:Escola Municipal Menezes Cortes",
+                "SU:Colégio Bahiense - JPA",
+                "SU:Escola Municipal Edgard Werneck",
+                "SU:Escola Municipal 25 de Abril"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP3304_HILMAR",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "93"
+        ],
+        "advertiserId": "44ff615e-d494-a236-2ca8-c4b32d1fbaa1",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "133",
+                "price": "495000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1350"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2134579100",
+                "2124475353"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "44ff615e-d494-a236-2ca8-c4b32d1fbaa1",
+        "name": "HILMAR EMPREENDIMENTOS IMOBILIARIOS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cea59c7e909c15e72d13c0b6b6d3a019/{description}.webp",
+        "licenseNumber": "001973-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 134152,
+        "phones": {
+            "primary": "2134579100",
+            "mobile": "2124475353"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "289c24e2136650c660dec52e426996aa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/289c24e2136650c660dec52e426996aa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4d5b369171992d875cf3459d81b4e9aa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4d5b369171992d875cf3459d81b4e9aa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "68b2d0a1a9fe8c8cf45d7393914fcdb0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/68b2d0a1a9fe8c8cf45d7393914fcdb0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9c51db4b219ffdafbfd50b95ca496da0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9c51db4b219ffdafbfd50b95ca496da0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b73d47f12f9c64fe5ee9722c393ea444",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b73d47f12f9c64fe5ee9722c393ea444/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e5e84191b23585344ed9f09b1515ccad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e5e84191b23585344ed9f09b1515ccad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5bb8923d8636d8a01f65e43f30fb0c11",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5bb8923d8636d8a01f65e43f30fb0c11/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4113763fd553e2578747f4b8ac9c221d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4113763fd553e2578747f4b8ac9c221d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1ffb47b661f0e3656ab9b87b5f800e42",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1ffb47b661f0e3656ab9b87b5f800e42/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d49b24161607b34a0f1b4c5d4be0d61e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d49b24161607b34a0f1b4c5d4be0d61e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c728806d28db6ba1157a5380f998256",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c728806d28db6ba1157a5380f998256/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0735aa337761dbccf8a6dc60b6e2f75c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0735aa337761dbccf8a6dc60b6e2f75c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "621d849f0c00a15b611fd315607b6caf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/621d849f0c00a15b611fd315607b6caf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "701db3bd35405515685a02f36c8e039b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/701db3bd35405515685a02f36c8e039b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c1f4fb217cfadb370e7aca55d748ba4a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c1f4fb217cfadb370e7aca55d748ba4a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "340fc6766faa21929cb02ad62e9f856c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/340fc6766faa21929cb02ad62e9f856c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3540e855c682a8ceb39f9afc0aa48eed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3540e855c682a8ceb39f9afc0aa48eed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf16ce161ac97427a26c525d253ae9a5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf16ce161ac97427a26c525d253ae9a5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8a44b080034f24b42f233310dac50834",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8a44b080034f24b42f233310dac50834/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fa4ff3674184fa023df18776c404f600",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa4ff3674184fa023df18776c404f600/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f87cc78512c296fd681417d928edec3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f87cc78512c296fd681417d928edec3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d8d22ed6c12157fec86d57103e9c96f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8d22ed6c12157fec86d57103e9c96f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "89a2ff9b88ed51c668c894d106b4f5f4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/89a2ff9b88ed51c668c894d106b4f5f4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b0e77346c2f770a1db88d411a335b00f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b0e77346c2f770a1db88d411a335b00f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "05783fe098c66d28fc6bde2f4563c3fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/05783fe098c66d28fc6bde2f4563c3fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bfd109084c2551a2d42dc2b7ca48ca77",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bfd109084c2551a2d42dc2b7ca48ca77/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "65533c24f13c797ea5fa7acdc775f743",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/65533c24f13c797ea5fa7acdc775f743/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d8618f1f28d86a0ebdfb4c490fb0db74",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8618f1f28d86a0ebdfb4c490fb0db74/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d8fba48b82d9617398a20d6a5ef66a12",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d8fba48b82d9617398a20d6a5ef66a12/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8f673348d4b604076156e8d8e7b050d1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8f673348d4b604076156e8d8e7b050d1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0c094911e8acee67bdb6a7bbe4dcfd44",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0c094911e8acee67bdb6a7bbe4dcfd44/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8ca605d94913680bab485d99e54300c5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8ca605d94913680bab485d99e54300c5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e24030d9a5c4cf596ae9142786256740",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e24030d9a5c4cf596ae9142786256740/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a1083d596fd12cde2b2f103f2c540962",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a1083d596fd12cde2b2f103f2c540962/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5741a75576c6dbe4e12a502c2ec7e0e5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5741a75576c6dbe4e12a502c2ec7e0e5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0fb1c3c2afd4d898b2c63d7945d1419f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0fb1c3c2afd4d898b2c63d7945d1419f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cef1b27ec32dc4896145cf959cc2afd8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cef1b27ec32dc4896145cf959cc2afd8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e5699a13a13824ea718602da70eb839",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e5699a13a13824ea718602da70eb839/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a29b0a0bdf610bcac7a29e2d51ca6fc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a29b0a0bdf610bcac7a29e2d51ca6fc/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "HILMAR EMPREENDIMENTOS IMOBILIARIOS",
+        "href": "/134152/hilmar-empreendimentos-imobiliarios/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 93m²",
+        "href": "/imovel/apartamento-3-quartos-freguesia-jacarepagua-zona-oeste-rio-de-janeiro-com-garagem-93m2-venda-RS495000-id-2749361994/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Freguesia- Jacarepaguá",
+            "state": "Rio de Janeiro",
+            "street": "Rua Tirol",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

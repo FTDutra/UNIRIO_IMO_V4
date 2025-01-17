@@ -1,0 +1,296 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "SMART_APARTMENT",
+            "HOME_OFFICE"
+        ],
+        "usableAreas": [
+            "85"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda 3 quartos em Botafogo<br>Nova Época vende apartamento de 3 quartos em Botafogo.<br>Apartamento silencioso e bem iluminado em prédio charmoso de apenas 12 unidades.<br>Com ótima planta e bem arejado, esse imóvel de fundos oferece tranquilidade e conforto em um edifício antigo, sem elevador. A sala ampla, os 3 quartos com armários embutidos e o banheiro espaçoso são ideais para quem busca espaço e praticidade. A cozinha é funcional e possui área de serviço completa com dependências. Equipado com aparelhos de ar condicionado split na sala e nos quartos. O prédio conta com porteiro em horário comercial, garantindo segurança e comodidade.<br>Ótima localização perto do polo gastrômico e Cobal do Humaitá. 005aa",
+        "title": "Botafogo | Apartamento 3 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2747289288",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22271020",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.957,
+                "approximateLon": -43.194,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Conde de Irajá",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Botafogo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "poisList": [
+                "BS:Cobal do Humaitá",
+                "BS:Cobal",
+                "BS:BRS 3: Sorocaba",
+                "BS:Humaitá",
+                "BS:Ponto Regulador: Metrô Siqueira Campos",
+                "TS:Cobal do Humaitá",
+                "TS:Cobal",
+                "TS:Humaitá",
+                "TS:Acesso Mena Barreto",
+                "TS:Acesso Voluntários",
+                "CS:Do Conde",
+                "CS:Mercado Humaitá",
+                "CS:TECNOMEDI BOTAFOGO",
+                "CS:Casa Imperial",
+                "CS:Farinha Pura",
+                "PH:Caminhoá",
+                "PH:Ypiranga",
+                "PH:Minipreço",
+                "PH:Bio Mundo",
+                "PH:Nash"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "JB3AP101488",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "85"
+        ],
+        "advertiserId": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2197",
+                "price": "765000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1206"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2135596700",
+                "21971814848"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21971814848",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "89626831-2c52-59ff-fa0b-47b9a12f0a5c",
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b07c03732264193e3ed9e7a2aeb2f0cb/{description}.webp",
+        "licenseNumber": "07141-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 109155,
+        "phones": {
+            "primary": "2135596700",
+            "mobile": "21971814848"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "dc7a727803aff2c024df05173d3e1b31",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc7a727803aff2c024df05173d3e1b31/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c524220b16e3bde2c6f0d9cc68059046",
+            "url": "https://www.youtube.com/watch?v=KyH6se6BJ68",
+            "type": "VIDEO"
+        },
+        {
+            "id": "723ff70711950c5fb4493aa2ebce351f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/723ff70711950c5fb4493aa2ebce351f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "316e5d6f982c1688eb81594b8bcff0d5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/316e5d6f982c1688eb81594b8bcff0d5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "39dc0660a5d87d83e574a7e0e26b5208",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39dc0660a5d87d83e574a7e0e26b5208/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a50b5cd81f6323b644feff7d928d8122",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a50b5cd81f6323b644feff7d928d8122/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2505a74da805b064228f1db862fd2954",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2505a74da805b064228f1db862fd2954/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b84119e9d78ca814d6b59132f6cab394",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b84119e9d78ca814d6b59132f6cab394/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6746e62c22779a7b431ec563e6ab9f91",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6746e62c22779a7b431ec563e6ab9f91/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9af84458537ed4e2dd00c9c9dfada60d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9af84458537ed4e2dd00c9c9dfada60d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e4cd8ea4347cc145c96b653df55b4ed9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e4cd8ea4347cc145c96b653df55b4ed9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0bf98516699893e26a5bbf5b20ce957c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0bf98516699893e26a5bbf5b20ce957c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21827671a052fe31de5e1aa2a71cf4a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21827671a052fe31de5e1aa2a71cf4a6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e1e0b9d93e9d8e840953437c2164fb74",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e1e0b9d93e9d8e840953437c2164fb74/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "57cbe915a53aaff7352f9316b323d143",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/57cbe915a53aaff7352f9316b323d143/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d651380a949ae18f7aa52005827866da",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d651380a949ae18f7aa52005827866da/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7472d07da21873ccfd6b37246a4eab84",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7472d07da21873ccfd6b37246a4eab84/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0fb7e5c6a84c4b5478d06332df0325a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0fb7e5c6a84c4b5478d06332df0325a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dff2c7e70d3796117ff37ef363731b95",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dff2c7e70d3796117ff37ef363731b95/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3767f7b0c6854dfc9d41047dc8de87e3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3767f7b0c6854dfc9d41047dc8de87e3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "195167efdbbe3f3f8bfeb89c009959fe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/195167efdbbe3f3f8bfeb89c009959fe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "698084faa1fe2cfd262cc2f352fc1e6f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/698084faa1fe2cfd262cc2f352fc1e6f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9a0270d2b27953fd46c16a4e62812ea1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9a0270d2b27953fd46c16a4e62812ea1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8f29202bd73616ce9a4072f7fc0af646",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8f29202bd73616ce9a4072f7fc0af646/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1e9a2c3be2ff08b442a024dc89d3e9d5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1e9a2c3be2ff08b442a024dc89d3e9d5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9e5f0046eba00562f1138cb14c5189bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9e5f0046eba00562f1138cb14c5189bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0df1e3b1d770d6a51dc9b17ab334a491",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0df1e3b1d770d6a51dc9b17ab334a491/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f267004985e0e7be15e15f10295e112d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f267004985e0e7be15e15f10295e112d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7437a78f1b844c762f970d7669a33d74",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7437a78f1b844c762f970d7669a33d74/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "NOVA ÉPOCA IMÓVEIS",
+        "href": "/109155/nova-epoca-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 85m²",
+        "href": "/imovel/apartamento-3-quartos-botafogo-zona-sul-rio-de-janeiro-85m2-venda-RS765000-id-2747289288/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Botafogo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Conde de Irajá",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

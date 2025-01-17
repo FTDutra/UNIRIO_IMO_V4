@@ -1,0 +1,243 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "BALCONY",
+            "PLATED_GAS",
+            "LARGE_WINDOW",
+            "DINNER_ROOM",
+            "LARGE_ROOM",
+            "SMALL_ROOM",
+            "ALUMINUM_WINDOW",
+            "LUNCH_ROOM",
+            "NATURAL_VENTILATION"
+        ],
+        "usableAreas": [
+            "70"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "LOCALIZAÇÃO SINGULAR - EXCELENTE PROPRIEDADE - LITERALMENTE REFORMADO - TODO BONITO - VARANDA - 2 SALAS - 3 DORMITÓRIOS - BANHEIRO SOCIAL - COZINHA MONTADA - ÁREA DE SERVIÇO - SEM CONDOMÍNIO - GARAGEM! 1 LANCE.",
+        "title": "Apartamento de 70 metros quadrados no bairro Engenho Novo com 3 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2472489582",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20715030",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.911,
+                "approximateLon": -43.265,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Agariba",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Engenho Novo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Engenho Novo",
+            "poisList": [
+                "BS:Ponto final 703",
+                "BS:Padre Roma",
+                "BS:Ponto Final: Grajaú",
+                "BS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "BS:Ponto final 222",
+                "TS:Ponto final 703",
+                "TS:Padre Roma",
+                "TS:Ponto Final: Grajaú",
+                "TS:Ponto Final: Vila Isabel :: Linhas 218 e 222",
+                "TS:Engenho Novo",
+                "CS:Jóia do Grajaú",
+                "CS:Empório Maria Filó",
+                "CS:Padaria Principal",
+                "CS:Hortifruti Kilo Frut",
+                "CS:Fábrica de Bolo da Vó Alzira",
+                "PH:Drograrias Guanabara",
+                "PH:Drogaria MEP",
+                "PH:Drogaria Mais Barato - Méier"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "MBAP32903",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "100"
+        ],
+        "advertiserId": "389c32ae-d0fe-84f2-5fb6-bdb9645da201",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "200",
+                "price": "230000",
+                "businessType": "SALE"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122047000",
+                "21994033825"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21994033825",
+        "stamps": []
+    },
+    "account": {
+        "id": "389c32ae-d0fe-84f2-5fb6-bdb9645da201",
+        "name": "RJC IMOBILIÁRIA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82c4683131e146314b54c3710d313a85/{description}.webp",
+        "licenseNumber": "043388-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 232020,
+        "phones": {
+            "primary": "2122047000",
+            "mobile": "21994033825"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "196d627672a270a9d89f3694274363bf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/196d627672a270a9d89f3694274363bf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "79541d18e5231e6ccd75eabbbb2fce49",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/79541d18e5231e6ccd75eabbbb2fce49/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c55e18df08f1d0cdb8f29df3875f181b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c55e18df08f1d0cdb8f29df3875f181b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f5973c8d9899fb453ca575008f3713ea",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f5973c8d9899fb453ca575008f3713ea/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cef67eb01373bb2754f385a023f5d4a9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cef67eb01373bb2754f385a023f5d4a9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a97043f1cd68415a157a1fbaa4f9c3a6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a97043f1cd68415a157a1fbaa4f9c3a6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8d86d8533a50953f9f8bc1f73e6a83c0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8d86d8533a50953f9f8bc1f73e6a83c0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "51f2adae6a09d67e7cbc9144e22eec52",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/51f2adae6a09d67e7cbc9144e22eec52/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2c7bbb3ecd3f4e760be357e8b29f5fc0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c7bbb3ecd3f4e760be357e8b29f5fc0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e585ca900680d20142562f48b31efcdd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e585ca900680d20142562f48b31efcdd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1df7832c55723d19d1a3b5c4b53753fe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1df7832c55723d19d1a3b5c4b53753fe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "566e95d0751d7783f4c1693fb136612c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/566e95d0751d7783f4c1693fb136612c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1db1500a2687e7ec43124bbe7c8ff93",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1db1500a2687e7ec43124bbe7c8ff93/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0e0a7ae0f91e87bc116e5877757237ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0e0a7ae0f91e87bc116e5877757237ee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c90550a5156a1efbc9c9c3f2920e0236",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c90550a5156a1efbc9c9c3f2920e0236/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c875f7a3bbca020ee4fc9fb40023256",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c875f7a3bbca020ee4fc9fb40023256/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ae481f5645692f03267bed179e268c6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ae481f5645692f03267bed179e268c6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e556bd7ef3d30e1d38b129b36078a3db",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e556bd7ef3d30e1d38b129b36078a3db/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "RJC IMOBILIÁRIA",
+        "href": "/232020/rjc-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 70m²",
+        "href": "/imovel/apartamento-3-quartos-engenho-novo-zona-norte-rio-de-janeiro-com-garagem-70m2-venda-RS230000-id-2472489582/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Engenho Novo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Agariba",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

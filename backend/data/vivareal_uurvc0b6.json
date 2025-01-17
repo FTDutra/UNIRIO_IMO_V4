@@ -1,0 +1,255 @@
+{
+    "listing": {
+        "displayAddressType": "NEIGHBORHOOD",
+        "amenities": [
+            "ELEVATOR",
+            "SERVICE_AREA",
+            "GARAGE",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "85"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "MELHOR OPÇÃO VENDE: Ótimo apartamento localizado no posto 06 em Copacabana! Legítimo quadra da praia! O apartamento é composto por: três quartos com dependência completa, dois banheiros e uma vaga alugada. Prédio com garagem e portaria 24hrs. Agende já sua visita! Avaliamos seu imóvel gratuitamente!!!",
+        "title": "Apartamento em Copacabana - Rio de Janeiro",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2741216867",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22070011",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.983,
+                "approximateLon": -43.19,
+                "radius": 250
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 2: Rainha Elizabeth",
+                "BS:BRS 1",
+                "BS:BRS 2: Francisco Sá",
+                "BS:BRS 1 Sá Ferreira",
+                "BS:Ponto Final: Copacabana :: Linha 455",
+                "TS:BRS 2: Rainha Elizabeth",
+                "TS:BRS 1",
+                "TS:BRS 2: Francisco Sá",
+                "TS:BRS 1 Sá Ferreira",
+                "TS:Ponto Final: Copacabana :: Linha 455",
+                "CS:Lopes",
+                "CS:Peixaria Z13",
+                "CS:Casa du bisçoito",
+                "CS:Colônia dos Pescadores",
+                "CS:Nema",
+                "PH:Viva Mais",
+                "PH:Farmácia Central Posto 6",
+                "PH:Prontofarma",
+                "PH:Drogaria Pop",
+                "PH:Drogaria Galanti"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "124",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "85"
+        ],
+        "advertiserId": "18b78756-e073-76c3-30f7-5c49867eb483",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "250",
+                "price": "960000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "900"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2139524130",
+                "21997612924"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21997612924",
+        "stamps": []
+    },
+    "account": {
+        "id": "18b78756-e073-76c3-30f7-5c49867eb483",
+        "name": "Melhor Opção Consultoria Imobiliária",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/be31817f830f5ad6b1d54c9249cceaad/{description}.webp",
+        "licenseNumber": "42624-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 396810,
+        "phones": {
+            "primary": "2139524130",
+            "mobile": "21997612924"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "10553dfc534c8d7cd54b418295abe8fd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/10553dfc534c8d7cd54b418295abe8fd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "23ff88d19222f076dabbde295f3da5b8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/23ff88d19222f076dabbde295f3da5b8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7ff6a8af636785ff6ce030e26e0edfc7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7ff6a8af636785ff6ce030e26e0edfc7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "af0e7288b1276b793c718f854a524816",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/af0e7288b1276b793c718f854a524816/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d0910a8c0f166b98cff064ad387fe31",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d0910a8c0f166b98cff064ad387fe31/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1b48ff546774fa7cab1486f65bb73004",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1b48ff546774fa7cab1486f65bb73004/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "58e2b888a5e80fb5dc251200c90769bf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/58e2b888a5e80fb5dc251200c90769bf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3e235fa036799f135b8005fe3997a294",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3e235fa036799f135b8005fe3997a294/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "092b92cc548292298176c4b7bc64b05e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/092b92cc548292298176c4b7bc64b05e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7c7af08a26089c7206234d21af12705c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7c7af08a26089c7206234d21af12705c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cf0836313b12e84ba3cd85dfca901381",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cf0836313b12e84ba3cd85dfca901381/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c183b1a2564f1bed0c9501ddb44e326c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c183b1a2564f1bed0c9501ddb44e326c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a829e82887d36a900fd8e31fcd9db10",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a829e82887d36a900fd8e31fcd9db10/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b0900c624baf2f13d3d5bdd5867eea54",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b0900c624baf2f13d3d5bdd5867eea54/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8692dffb675f3deafc27d4decbe50ac6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8692dffb675f3deafc27d4decbe50ac6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "467c92339f770843c1b9e6cbb54f242c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/467c92339f770843c1b9e6cbb54f242c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "739ff534c8051a084ce0b983f6d7acd7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/739ff534c8051a084ce0b983f6d7acd7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7cf2a27e71d52bfe504bda52c1558439",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7cf2a27e71d52bfe504bda52c1558439/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe40db3ebaf3ec3aca952d5ffb1567cd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe40db3ebaf3ec3aca952d5ffb1567cd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a43a8fe2886da35c412568f090945e1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a43a8fe2886da35c412568f090945e1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d1f0e08b04676c2d41d4e65675f3ca9f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d1f0e08b04676c2d41d4e65675f3ca9f/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Melhor Opção Consultoria Imobiliária",
+        "href": "/396810/melhor-opcao-consultoria-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 85m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-85m2-venda-RS960000-id-2741216867/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

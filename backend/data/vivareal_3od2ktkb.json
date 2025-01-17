@@ -1,0 +1,260 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [],
+        "usableAreas": [
+            "81"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Condomínio Noir 3 quartos em andares altos, com 81 m2,todos em porcelanato, sendo 1 suíte ,1 banheiro social, cozinha americana e 1 vaga de garagem.<br>Estão situados a 350 metros da Avenida das Américas, 5 minutos da praia,próximo do BRT (Guiomar Novaes) e do Recreio Shopping.<br><br>Condomínio comtoda infraestrutura de lazer completa em especial:Piscina Adulto com Raia, Piscina Infantil, Spa, Sauna a Vapor, Academia,Salão de Jogos Adulto, Churrasqueiras,Quadra de Tênis de Saibro,Quadra Poliesportiva, Play Kids, Parque para Cachorros, Salão de Festas e Segurança 24hrs.",
+        "title": "Imóvel para venda tem 81 metros quadrados com 3 quartos",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2739330116",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22790675",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "45",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.48343,
+                "source": "GOOGLE",
+                "lat": -23.019909
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Sandro Moreira",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Recreio Dos Bandeirantes",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Recreio dos Bandeirantes",
+            "poisList": [
+                "BS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Guiomar Novaes",
+                "TS:Ponto Final: Recreio dos Bandeirantes",
+                "TS:Recreio Shopping",
+                "TS:Gilka Machado",
+                "CS:Barra Bonita Padaria",
+                "CS:R2 Bolos",
+                "CS:Américas Pão",
+                "CS:Armazém do Recreio",
+                "CS:Alfa Belle",
+                "PH:Drogaria M. M. Júnior",
+                "PH:Foliare",
+                "PH:Prophylaxis",
+                "PH:Economia de Drogarias",
+                "PH:Dona Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "PREMIUM",
+        "externalId": "DV Noir 3Q 680K.,",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "81"
+        ],
+        "advertiserId": "46cf5652-5e86-a0c4-767a-129ee5fd549e",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "270",
+                "price": "680000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1300"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21998596223"
+            ]
+        },
+        "videoTourLink": "https://www.vila360.com.br/videos-360-realidade-virtual/?gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4ats-x6xZ0DUT1URZcmO4O0_Xzg94dfHhUvfGNI8O1MCsP6SGaAdsxRoCcfEQAvD_BwE",
+        "whatsappNumber": "21998596223",
+        "stamps": [
+            "FESTIVAL_DA_MUDANCA_OUTUBRO_2024"
+        ]
+    },
+    "account": {
+        "id": "46cf5652-5e86-a0c4-767a-129ee5fd549e",
+        "name": "FULL TIME IMOBILIÁRIA",
+        "licenseNumber": "67810-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 100492,
+        "phones": {
+            "primary": "21998596223",
+            "mobile": "21998596223"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "5969c398d06aa652429bea944202b32b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5969c398d06aa652429bea944202b32b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "055a0572c60eb23f048e80bb27a84c06",
+            "url": "https://www.vila360.com.br/videos-360-realidade-virtual/?gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4ats-x6xZ0DUT1URZcmO4O0_Xzg94dfHhUvfGNI8O1MCsP6SGaAdsxRoCcfEQAvD_BwE",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "319926f5e1e81247b3bb73a0b73078e8",
+            "url": "https://www.youtube.com/watch?v=ZzNTPn4s9o8",
+            "type": "VIDEO"
+        },
+        {
+            "id": "9ef5e3ed60ef7c4c429966b995b793f2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ef5e3ed60ef7c4c429966b995b793f2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f17e5f5fcd228e0cfaf4f8075f67f929",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f17e5f5fcd228e0cfaf4f8075f67f929/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3826bba2d572ed798fd674cc857b07ed",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3826bba2d572ed798fd674cc857b07ed/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3671ab3179dc5c68904512f4d840caf4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3671ab3179dc5c68904512f4d840caf4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f532c0d75fad8461b3b9d944b67d55bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f532c0d75fad8461b3b9d944b67d55bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c39ae242092fc94ea6e309670652a8a1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c39ae242092fc94ea6e309670652a8a1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "04e4e69424aec761e3e6097bc2523a9e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/04e4e69424aec761e3e6097bc2523a9e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "921d0e60b1836d0d4db83b778dc70d3d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/921d0e60b1836d0d4db83b778dc70d3d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9d487d7f85f90087e6b2ef92653760f8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9d487d7f85f90087e6b2ef92653760f8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "13ae576a5ab07d7ac1c00c7ec03be617",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/13ae576a5ab07d7ac1c00c7ec03be617/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dac3edd55e863087a2a5dedeafa566aa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dac3edd55e863087a2a5dedeafa566aa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9ef7023c401bc0e08565e6011bdfaa2d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9ef7023c401bc0e08565e6011bdfaa2d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0ff0ca2f198285028d2a6e38fb2b0619",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0ff0ca2f198285028d2a6e38fb2b0619/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d86f017a9001ad74dcf58702b875a799",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d86f017a9001ad74dcf58702b875a799/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "153ee70c1a988f4757b3b8e3c40c60d4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/153ee70c1a988f4757b3b8e3c40c60d4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b6522138efd4b60b7f0496e589cc2608",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b6522138efd4b60b7f0496e589cc2608/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "172d04a0b8a5b3915115b45bf67a9258",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/172d04a0b8a5b3915115b45bf67a9258/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "701fcfb89167d3b58c2265c4416b79cc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/701fcfb89167d3b58c2265c4416b79cc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bcdc4ee596ab436e09de678660e21439",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bcdc4ee596ab436e09de678660e21439/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d30b214762f2aecd04293d54da52d6f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d30b214762f2aecd04293d54da52d6f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c566b91ff01fc6e123cb42a929a51a05",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c566b91ff01fc6e123cb42a929a51a05/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "FULL TIME IMOBILIÁRIA",
+        "href": "/100492/full-time-imobiliaria/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 81m²",
+        "href": "/imovel/apartamento-3-quartos-recreio-dos-bandeirantes-zona-oeste-rio-de-janeiro-com-garagem-81m2-venda-RS680000-id-2739330116/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Recreio Dos Bandeirantes",
+            "state": "Rio de Janeiro",
+            "street": "Rua Sandro Moreira",
+            "streetNumber": "45",
+            "zone": "Zona Oeste"
+        }
+    }
+}

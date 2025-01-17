@@ -1,0 +1,254 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "KITCHEN",
+            "INTERCOM",
+            "CABLE_TV"
+        ],
+        "usableAreas": [
+            "120"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apresentamos este espaçoso apartamento de 120 m², situado em um condomínio fechado no tranquilo e prestigiado Jardim Botânico. Com uma planta bem distribuída, o imóvel dispõe de 3 quartos, oferecendo o espaço perfeito para famílias, quem trabalha de casa ou simplesmente deseja conforto adicional.<br><br>Os 3 banheiros são um diferencial, garantindo praticidade e privacidade para os moradores. Todos os cômodos são climatizados com ar-condicionado, proporcionando um ambiente refrescante e agradável em qualquer estação. O imóvel foi pensado para quem valoriza conforto e qualidade de vida em um dos bairros mais verdes do Rio.<br><br>O condomínio oferece segurança com controle de acesso e porteiro eletrônico, além de comodidades como bicicletário, ideal para quem aprecia um estilo de vida sustentável e deseja explorar a vizinhança de maneira prática. A localização permite fácil acesso a áreas de lazer, restaurantes e comércio, tornando o dia a dia mais dinâmico e prazeroso.<br><br>Não perca a oportunidade de morar em um dos melhores bairros da cidade! Agende uma visita e descubra tudo o que este apartamento tem a oferecer. -",
+        "title": "Apartamento com 3 dormitórios à venda, 120 m² por R$ 1.160.000,00 - Jardim Botânico - Rio de Janeiro",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2751131439",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22461240",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "127",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.203814,
+                "source": "GOOGLE",
+                "lat": -22.958836
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Pio Correia",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Jardim Botanico",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "poisList": [
+                "BS:Humaitá",
+                "BS:Maria Angélica",
+                "BS:Cobal do Humaitá",
+                "BS:Cobal",
+                "BS:Hospital da Lagoa",
+                "TS:Humaitá",
+                "TS:Maria Angélica",
+                "TS:Cobal do Humaitá",
+                "TS:Cobal",
+                "TS:Hospital da Lagoa",
+                "CS:Panificação Lagoa",
+                "CS:A Padaria - Café Et Marché",
+                "CS:Mercado Humaitá",
+                "CS:Farinha Pura",
+                "CS:Do Conde",
+                "PH:Minipreço",
+                "PH:Ypiranga",
+                "PH:Caminhoá",
+                "PH:Bio Mundo",
+                "PH:Padrão"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP2351",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "120"
+        ],
+        "advertiserId": "a216a41f-b2f9-0fc0-1f71-5375a94be498",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2370",
+                "price": "1160000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1400"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21975601010"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21975601010",
+        "stamps": [
+            "DATAZAP_APPROVED_SALE"
+        ]
+    },
+    "account": {
+        "id": "a216a41f-b2f9-0fc0-1f71-5375a94be498",
+        "name": "Bella Rio Imóveis",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc3a9012c0b34b80835430d5222c2609/{description}.webp",
+        "licenseNumber": "10826-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 667001,
+        "phones": {
+            "primary": "21975601010",
+            "mobile": "21975601010"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "13a37ca03fdcf6721818706ab8eb3ab0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/13a37ca03fdcf6721818706ab8eb3ab0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d8e6ef0a9ca040b2acc2764bb6b5efc4",
+            "url": "https://youtu.be/uDMzvBj_hQ4",
+            "type": "VIDEO"
+        },
+        {
+            "id": "579d0c684f69459a3d55329d157e4ace",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/579d0c684f69459a3d55329d157e4ace/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "47b844d739cf412a5ae4fb91555a8162",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/47b844d739cf412a5ae4fb91555a8162/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a4e3d919d3fb4000fa858119ff7811d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a4e3d919d3fb4000fa858119ff7811d6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a2ed31251b3d824e39a4f854050a594c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a2ed31251b3d824e39a4f854050a594c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5c29e5f72fe03cb510a0186db04cdf6d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5c29e5f72fe03cb510a0186db04cdf6d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "97a52d0f212f9bc35595a0223dbf6839",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/97a52d0f212f9bc35595a0223dbf6839/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3f99ff7f01b44dc671b43d0063e409bf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3f99ff7f01b44dc671b43d0063e409bf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8ecf753be67736406a0b34036ee2e5af",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8ecf753be67736406a0b34036ee2e5af/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6ebcbcfaa7102ac9e7edabdef89df264",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6ebcbcfaa7102ac9e7edabdef89df264/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8c1c50e85bdb0b0dfd9c84d21cd1a9a2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8c1c50e85bdb0b0dfd9c84d21cd1a9a2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c3800280335208ab6185449116983492",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c3800280335208ab6185449116983492/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6607af12939fe6e42894f136ddc9ae38",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6607af12939fe6e42894f136ddc9ae38/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "398dfc31e501f46a3f42ab6de1a3d8d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/398dfc31e501f46a3f42ab6de1a3d8d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "636c919fc99a8ea7c30b15ba12d0962a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/636c919fc99a8ea7c30b15ba12d0962a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "92327a54e912248435f5450e5f53b68e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/92327a54e912248435f5450e5f53b68e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b49e933318020bb56408fe35787d698f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b49e933318020bb56408fe35787d698f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "56ae4448a5692ce3671b9d209cdd411d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56ae4448a5692ce3671b9d209cdd411d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "24d6247fa9a8b8d2f308e6c409d7c555",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/24d6247fa9a8b8d2f308e6c409d7c555/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Bella Rio Imóveis",
+        "href": "/667001/bella-rio-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 120m²",
+        "href": "/imovel/apartamento-3-quartos-jardim-botanico-zona-sul-rio-de-janeiro-com-garagem-120m2-venda-RS1160000-id-2751131439/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Jardim Botânico",
+            "state": "Rio de Janeiro",
+            "street": "Rua Pio Correia",
+            "streetNumber": "127",
+            "zone": "Zona Sul"
+        }
+    }
+}

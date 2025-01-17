@@ -1,0 +1,231 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ELEVATOR",
+            "PETS_ALLOWED"
+        ],
+        "usableAreas": [
+            "40"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Melhor investimento! Próximo a boêmia da lapa, sala e quarto, arejadissimo, frente, cozinha americana, cabe fogão e geladeira, banheiro amplo, área de serviço, com tanque, cabe máquina de lavar. Condução na porta para zona sul, mercados próximo, bancos, feira, farmácias. IPTU isento,Documentação cristalina,aceitamos financiamento.",
+        "title": "Próximo aos arcos da lapa",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2732510063",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20230011",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "00",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.186809,
+                "source": "GOOGLE",
+                "lat": -22.91493
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Central",
+            "street": "Rua Riachuelo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Central>Centro",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "poisList": [
+                "BS:Ponto Final: Cruz Vermelha",
+                "BS:BRS 1,2,4 Inválidos",
+                "BS:P28",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "BS:BRS 5: Praça da República",
+                "TS:Ponto Final: Cruz Vermelha",
+                "TS:BRS 1,2,4 Inválidos",
+                "TS:P28",
+                "TS:Francisco Muratori",
+                "TS:Largo do Curvelo",
+                "CS:Seu Zé",
+                "CS:Café Bakery",
+                "CS:ArmaZen",
+                "CS:Padaria Vilar Pães",
+                "CS:Mercearia Gabi",
+                "PH:Viva Bem",
+                "PH:Exata",
+                "PH:Drogaria Rey",
+                "PH:Drogaria Guanabara",
+                "PH:City Farma"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "Jc260000",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "40"
+        ],
+        "advertiserId": "f344b56f-5c0f-a752-6d70-0b8dc20a5691",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "0",
+                "price": "260000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "497"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21986216556"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21986216556",
+        "stamps": []
+    },
+    "account": {
+        "id": "f344b56f-5c0f-a752-6d70-0b8dc20a5691",
+        "name": "Jefferson Coqui Imóveis",
+        "licenseNumber": "50991-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 75601,
+        "phones": {
+            "primary": "21986216556",
+            "mobile": "21986216556"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "185d3ada8df46fa8a6437ceb37d4c61a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/185d3ada8df46fa8a6437ceb37d4c61a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d36b0262c5978a77c65f53bd8e8d7a77",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d36b0262c5978a77c65f53bd8e8d7a77/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3e9bff24429c7bf17a05e21d028c73d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3e9bff24429c7bf17a05e21d028c73d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d04938d9155189c3cafc47e0ea3490c5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d04938d9155189c3cafc47e0ea3490c5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "362f9ef2d541c2ddc4efd548b3811704",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/362f9ef2d541c2ddc4efd548b3811704/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fa6a67b975f8e65d4e5f912b52111c93",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa6a67b975f8e65d4e5f912b52111c93/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a77594fa7f8ea66d1b46df346bf7950f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a77594fa7f8ea66d1b46df346bf7950f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "df885b047b1cc91ca689427777a8aa3e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/df885b047b1cc91ca689427777a8aa3e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7f8d6392b14e72d909ee11846c3eabaf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7f8d6392b14e72d909ee11846c3eabaf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f5a14bb6289ee9884f25177d6cdf05eb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f5a14bb6289ee9884f25177d6cdf05eb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1f8585a31809a812fdc3ff18c3c0d344",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1f8585a31809a812fdc3ff18c3c0d344/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "66d8f213dcc8059f57b7760814db2add",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/66d8f213dcc8059f57b7760814db2add/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9acdff329325ec87aaf172daa8e06e50",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9acdff329325ec87aaf172daa8e06e50/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2c0e735b65c0595aef2b5cee059acd37",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c0e735b65c0595aef2b5cee059acd37/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "23494bd67a753e1a6238acc9f81f0702",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/23494bd67a753e1a6238acc9f81f0702/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b32bd175d2bf90dd5bfa052a0ab6e582",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b32bd175d2bf90dd5bfa052a0ab6e582/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "db0202170829d57790479703fa7885d6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/db0202170829d57790479703fa7885d6/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Jefferson Coqui Imóveis",
+        "href": "/75601/jefferson-coqui-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 40m²",
+        "href": "/imovel/apartamento-1-quartos-centro-zona-central-rio-de-janeiro-40m2-venda-RS260000-id-2732510063/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Centro",
+            "state": "Rio de Janeiro",
+            "street": "Rua Riachuelo",
+            "streetNumber": "00",
+            "zone": "Zona Central"
+        }
+    }
+}

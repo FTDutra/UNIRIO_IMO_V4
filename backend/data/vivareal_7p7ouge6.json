@@ -1,0 +1,178 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "ELEVATOR",
+            "AIR_CONDITIONING",
+            "KITCHEN",
+            "INTERCOM",
+            "SECURITY_24_HOURS",
+            "SAFETY_CIRCUIT"
+        ],
+        "usableAreas": [
+            "110"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Abnara vende: <br><br> Rua Barata Ribeiro 112M2 posto 3<br><br> 1 Vaga na escritura!!!<br><br> Ótima localização a 3 quadras da praia próximo a metrô e polos gastronômicos<br><br> Prédio com ótima portaria e porteiro 24 horas<br><br> Espetacular apartamento, todo reformado, claro e arejado composto por: sala ampla, 3 quartos, sendo 1 suítes, 1 banheiro social, copa-cozinha, área de serviço e dependências completa<br><br> Agende já sua visita! Para nós é um prazer atendê-lo (a). Avaliamos seu imóvel gratuitamente, contate-nos www.abnaraimoveis.com.br.<br>-Cod:CPAP31515 -Rev.18Jul",
+        "title": "Apartamento - Padrão / Residencial / Copacabana",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2674862097",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22040001",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.97,
+                "approximateLon": -43.188,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Barata Ribeiro",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Copacabana",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:BRS 1,3 - Avenida Nossa Senhora de Copacabana",
+                "BS:BRS 2 Santa Clara",
+                "BS:BRS 1 Figueiredo Magalhães",
+                "BS:2018",
+                "BS:BRS 3 Siqueira Campos",
+                "TS:BRS 1,3 - Avenida Nossa Senhora de Copacabana",
+                "TS:BRS 2 Santa Clara",
+                "TS:BRS 1 Figueiredo Magalhães",
+                "TS:2018",
+                "TS:BRS 3 Siqueira Campos",
+                "CS:The Bakers",
+                "CS:Grão da terra",
+                "CS:La Copa",
+                "CS:Multifruti",
+                "CS:Sulimar",
+                "PH:Drogaria Galanti",
+                "PH:Prontofarma",
+                "PH:Nash",
+                "PH:Galícia",
+                "PH:Farmácia do Leme"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "CPAP31515",
+        "bathrooms": [
+            3
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "110"
+        ],
+        "advertiserId": "84149632-f393-3459-e17b-7f0523ca37af",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "409",
+                "price": "1249000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2100"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2132157564",
+                "21965602193"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21965602193",
+        "stamps": []
+    },
+    "account": {
+        "id": "84149632-f393-3459-e17b-7f0523ca37af",
+        "name": "ABNARA IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa1d28ee3c277a4ee5c386cc46a582b3/{description}.webp",
+        "licenseNumber": "006386-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 110161,
+        "phones": {
+            "primary": "2132157564",
+            "mobile": "21965602193"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "3b578cbe83b9faef106928277803f4d4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b578cbe83b9faef106928277803f4d4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "efd9760755c347adf1d3386f4bbe430d",
+            "url": "https://youtu.be/md7J2IcdrRI",
+            "type": "VIDEO"
+        },
+        {
+            "id": "d345983a5a2a1f1558575682889c1358",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d345983a5a2a1f1558575682889c1358/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "79c523e2a1721862359c033d474812e4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/79c523e2a1721862359c033d474812e4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f1fb1268a426258692d48759c544265e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f1fb1268a426258692d48759c544265e/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "ABNARA IMOVEIS",
+        "href": "/110161/abnara-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 110m²",
+        "href": "/imovel/apartamento-3-quartos-copacabana-zona-sul-rio-de-janeiro-com-garagem-110m2-venda-RS1249000-id-2674862097/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "state": "Rio de Janeiro",
+            "street": "Rua Barata Ribeiro",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

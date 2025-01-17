@@ -1,0 +1,315 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "KITCHEN",
+            "INTERCOM",
+            "ELEVATOR",
+            "SERVICE_AREA"
+        ],
+        "usableAreas": [
+            "80"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento 2 quartos à venda na Tijuca, Rio de Janeiro/RJ<br>Oportunidade de morar perto do metrô Uruguai, com todas as facilidades e comodidades que a região oferece.<br>Apartamento com planta bem distribuída, frente, vista livre e perto de comércio da região.<br>Composto de sala em dois ambientes, 2 ótimos quartos com armários embutidos e janelão, banheiro social amplo, copa cozinha, dependências completas com banheiro e área de serviço.<br>O Prédio conta com com 2 elevadores, portaria em horário comercial, interfone, portão eletrônico, câmeras CTFV e zelador.<br>Documentos Ok, aceitando financiamento e FGTS.<br>Ligue e marque uma visita!<br>Atualizado em dezdedezembro. -",
+        "title": "Apartamento 2 quartos à venda na Tijuca, Rio de Janeiro/RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2756606670",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            0
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20530000",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.935,
+                "approximateLon": -43.243,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Conde de Bonfim",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Muda (Ponto Final)",
+                "BS:Jose Higino 148",
+                "BS:Ponto Final: Saens Peña :: Linha 409",
+                "BS:Ponto Final 409",
+                "BS:Doutor Aníbal Moreira",
+                "TS:Uruguai",
+                "TS:Muda (Ponto Final)",
+                "TS:Uruguai / Tijuca",
+                "TS:Ponto Final: Saens Peña :: Linha 409",
+                "TS:Ponto Final - 134B (Nova Iguaçu - Vila Isabel)",
+                "CS:Queijeiro da Muda",
+                "CS:La Panetteria",
+                "CS:Artigrano",
+                "CS:Nema Padaria",
+                "CS:O Boticário",
+                "PH:Drogarias Mundial",
+                "PH:Mundial",
+                "PH:FarmaDez",
+                "PH:Drogaria Unidas",
+                "PH:Drogaria Venancio"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP12310",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "80"
+        ],
+        "advertiserId": "89bdbaf0-3f59-1c9f-73a8-6bd0b1439467",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1251",
+                "price": "450000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "720"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2134349000"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "89bdbaf0-3f59-1c9f-73a8-6bd0b1439467",
+        "name": "LOPES ENJOY IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/532ae951fff1ad62366b920d7c68c73e/{description}.webp",
+        "licenseNumber": "32269-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 256323,
+        "phones": {
+            "primary": "2134349000",
+            "mobile": "2134349000"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "51c9371c7b985ca5d5987d78449a3637",
+            "url": "https://youtu.be/Vl0OG9nJlWU",
+            "type": "VIDEO"
+        },
+        {
+            "id": "26060218203acaa688e27ec8ffc99a97",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/26060218203acaa688e27ec8ffc99a97/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "627e1a5ef57f43aa70767cc62f281baf",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/627e1a5ef57f43aa70767cc62f281baf/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "86d9ca359fd44c3ee728792eb9547395",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/86d9ca359fd44c3ee728792eb9547395/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3a1d6da40612fabeb561b6c601f26680",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3a1d6da40612fabeb561b6c601f26680/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f7a420d73030afb7cdc307c2b5827587",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f7a420d73030afb7cdc307c2b5827587/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d4ff123d69bd4c96b5749d0de3e9de35",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d4ff123d69bd4c96b5749d0de3e9de35/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "60e4b53f812abc5d86d66481bf918727",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/60e4b53f812abc5d86d66481bf918727/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fba8b2d849df0aadd37f90f109a6db86",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fba8b2d849df0aadd37f90f109a6db86/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0ebd21c0ba8a0f62b09dd972bf4d0fcc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0ebd21c0ba8a0f62b09dd972bf4d0fcc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c60b23e1a7c6030c939c22b637e67703",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c60b23e1a7c6030c939c22b637e67703/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "488e58f79154ef2687fe8f7ff694259c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/488e58f79154ef2687fe8f7ff694259c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c59849a77e74f5ca96cd0409de1ac96b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c59849a77e74f5ca96cd0409de1ac96b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "52cd9395c18c57fbe818bad16bbe0a59",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/52cd9395c18c57fbe818bad16bbe0a59/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "071d4b9e0ce1312a046bedbc4eb46ebd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/071d4b9e0ce1312a046bedbc4eb46ebd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6f874f079e795b0acbab3e0034196dfe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6f874f079e795b0acbab3e0034196dfe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2443c9452f28d4100e41c6717648606c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2443c9452f28d4100e41c6717648606c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8653f3b4fabda85f12ea65508c798e9c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8653f3b4fabda85f12ea65508c798e9c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9b75267de7c86c82bd3137b1108ccbf9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9b75267de7c86c82bd3137b1108ccbf9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c91191c1db1ccdfc757e2d250e4c840d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c91191c1db1ccdfc757e2d250e4c840d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b404cca9d46081a6ae45188aab0db2bd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b404cca9d46081a6ae45188aab0db2bd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81a85bdcce15c845c5c8ba417ae005b9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81a85bdcce15c845c5c8ba417ae005b9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3ecae1255fd91e811b6b634a141278a8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3ecae1255fd91e811b6b634a141278a8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b69f30202ef73557cbaa044c54a8ea03",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b69f30202ef73557cbaa044c54a8ea03/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c7309dd6f11aef0e3895686950c4093d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c7309dd6f11aef0e3895686950c4093d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cb7b350601f7ad515e7849d356bc8d78",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cb7b350601f7ad515e7849d356bc8d78/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6934c83b4d8eab48224f150f0784411d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6934c83b4d8eab48224f150f0784411d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5c88cf35bc2f299d55f46bf44b37b294",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5c88cf35bc2f299d55f46bf44b37b294/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1d650d44b09753b89e974a3737ae1220",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1d650d44b09753b89e974a3737ae1220/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ec29df25e75412a50c0c1c3dc727f30b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ec29df25e75412a50c0c1c3dc727f30b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2a102cd20df0302c9294530455a3a354",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a102cd20df0302c9294530455a3a354/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ef10b7fa208a6febc4e28ef6a830e6bb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ef10b7fa208a6febc4e28ef6a830e6bb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9dc6d67be48c493595f1fe3501fa537c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9dc6d67be48c493595f1fe3501fa537c/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "LOPES ENJOY IMÓVEIS",
+        "href": "/256323/lopes-enjoy-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 80m²",
+        "href": "/imovel/apartamento-2-quartos-tijuca-zona-norte-rio-de-janeiro-80m2-venda-RS450000-id-2756606670/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Conde de Bonfim",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "GARAGE",
+            "HEATING"
+        ],
+        "usableAreas": [
+            "85"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Rua da Bela Vista, no bairro Engenho Novo em Rio de Janeiro. Este imóvel conta com área construída de 85m², oferecendo 2 quartos, 1 banheiro e 1 vaga de garagem. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apartamento à venda em Engenho Novo com 85 m², 2 q",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2761461545",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20950320",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "85",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.267337,
+                "source": "GOOGLE",
+                "lat": -22.90461
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua da Bela Vista",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Engenho Novo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Engenho Novo",
+            "poisList": [
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. B",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. A",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. C",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. D",
+                "BS:Terminal Rodoviário Américo Ayres :: Plat. E",
+                "TS:Engenho Novo",
+                "TS:Sampaio",
+                "TS:Silva Freire",
+                "TS:Terminal Rodoviário Américo Ayres :: Plat. B",
+                "TS:Terminal Rodoviário Américo Ayres :: Plat. A",
+                "CS:Padaria Principal",
+                "CS:Hortifruti Kilo Frut",
+                "CS:Marcopão",
+                "CS:Magal",
+                "CS:Lecadô",
+                "PH:Drogaria MEP",
+                "PH:Drogaria Mais Barato - Méier",
+                "PH:Droh"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [],
+        "publicationType": "STANDARD",
+        "externalId": "PUc34816",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "85"
+        ],
+        "advertiserId": "da2563c4-12f0-3dc1-868f-7bb25cd3c2d6",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "583",
+                "price": "270000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "380"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21965821001"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21965821001",
+        "stamps": []
+    },
+    "account": {
+        "id": "da2563c4-12f0-3dc1-868f-7bb25cd3c2d6",
+        "name": "IMOVELUM TIJUCA",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5bea3a3ee0dd27e8541a75453fa1224e/{description}.webp",
+        "licenseNumber": "8951-J-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 73606,
+        "phones": {
+            "primary": "21965821001",
+            "mobile": "21965821001"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "693d25ae9bc6c7454e94042d1579e72b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/693d25ae9bc6c7454e94042d1579e72b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "710eb508f08052c994fdd75c26158934",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/710eb508f08052c994fdd75c26158934/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5312eecf3ca420502772b8eadb34fc16",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5312eecf3ca420502772b8eadb34fc16/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4ad4fecc99636597d04f7a8fb1ea85cc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ad4fecc99636597d04f7a8fb1ea85cc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fcd82dfc631716b3539043cb96fb632e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fcd82dfc631716b3539043cb96fb632e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ebd26ffa19bcd0a47ef9cfd192b03ec9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ebd26ffa19bcd0a47ef9cfd192b03ec9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dba8f7e6f6bd1693a56efe345f13f279",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dba8f7e6f6bd1693a56efe345f13f279/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e8240ce3d4fa53f387bd0465ce58c080",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e8240ce3d4fa53f387bd0465ce58c080/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f21e8cbc7a681165b82c9dafe63a64bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f21e8cbc7a681165b82c9dafe63a64bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "731f7cf48d6d8d6184dc045888350687",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/731f7cf48d6d8d6184dc045888350687/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2c0b50681c5e222fdbdcf4eadc5aa814",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2c0b50681c5e222fdbdcf4eadc5aa814/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6fc274e1be005f4ec651fb19057b438a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6fc274e1be005f4ec651fb19057b438a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d0e7b705b3b7c302a5504414786533a4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d0e7b705b3b7c302a5504414786533a4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7022ada8902d4ca7599700a6534005d4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7022ada8902d4ca7599700a6534005d4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "3c9b748f7eb165c5aabd0fcb744f9c5a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3c9b748f7eb165c5aabd0fcb744f9c5a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8517fd137d48477c840d2f231e69b766",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8517fd137d48477c840d2f231e69b766/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "IMOVELUM TIJUCA",
+        "href": "/73606/imovelum-tijuca/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 85m²",
+        "href": "/imovel/apartamento-2-quartos-engenho-novo-zona-norte-rio-de-janeiro-com-garagem-85m2-venda-RS270000-id-2761461545/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Engenho Novo",
+            "state": "Rio de Janeiro",
+            "street": "Rua da Bela Vista",
+            "streetNumber": "85",
+            "zone": "Zona Norte"
+        }
+    }
+}

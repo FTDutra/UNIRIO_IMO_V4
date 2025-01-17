@@ -1,0 +1,211 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "GARAGE"
+        ],
+        "usableAreas": [
+            "90"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Imóvel amplo à venda com 2 quartos, sendo 2 suítes, e 2 banheiros no total. Este imóvel está bem equipado, é ideal para quem procura conforto e comodidade. O condomínio é bem equipado com diversas instalações, apropriado para quem busca lazer sem sair de casa e fica localizado em Avenida Lúcio Costa no bairro Barra da Tijuca em Rio de Janeiro. Está bem localizado, próximo a pontos de interesse de Barra da Tijuca, tais como Rio International School, Colégio Saint John, SENAC, pH, Praça Ministro Vitor Nunes Leal e Escola Municipal Professora Didia Machado Fortes.",
+        "title": "Apartamento à venda com 90m², 2 quartos e 2 vagas",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2739983465",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            2
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22630012",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.374972,
+                "source": "GOOGLE",
+                "lat": -23.011355
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Lúcio Costa",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:E8",
+                "BS:D11",
+                "BS:C15",
+                "BS:E7",
+                "BS:C14",
+                "TS:Bosque da Barra",
+                "TS:E8",
+                "TS:D11",
+                "TS:C15",
+                "TS:E7",
+                "CS:Alfa Belle - Alfa Barra II",
+                "CS:Alfa Belle - Alfa Barra I",
+                "CS:Ateliê Mineiro",
+                "CS:Barra Bakery",
+                "CS:Bolos da Cecília",
+                "PH:Farma Alfa",
+                "PH:Drogaria Ministro",
+                "PH:Drogarias Carioca",
+                "PH:Homeonatus Farmácia Homeopática"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PU6zb9ci",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "90"
+        ],
+        "advertiserId": "00e9fb96-75f2-47bf-136a-813888466a06",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "500",
+                "price": "1375000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1700"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122748888",
+                "21998593444"
+            ]
+        },
+        "videoTourLink": "https://www.banibconecta.com/site/tour/real-up/em-construcao/autostart",
+        "whatsappNumber": "21998593444",
+        "stamps": []
+    },
+    "account": {
+        "id": "00e9fb96-75f2-47bf-136a-813888466a06",
+        "name": "REAL UP IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6198e480078abd442f62aedcbd75a30f/{description}.webp",
+        "licenseNumber": "7357-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 572230,
+        "phones": {
+            "primary": "2122748888",
+            "mobile": "21998593444"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "be9b5688cfda429a164bc57b2e1cb0d5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/be9b5688cfda429a164bc57b2e1cb0d5/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b31634044d7220fbf2af6b4f1d8ccf51",
+            "url": "https://www.banibconecta.com/site/tour/real-up/em-construcao/autostart",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "4ae87e6483d44cec324d6cfd285f2458",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4ae87e6483d44cec324d6cfd285f2458/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bb634283be6dbbbb6d053a756038dc45",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bb634283be6dbbbb6d053a756038dc45/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "24ef25533a3fb722b9f48eb06fc7fe9f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/24ef25533a3fb722b9f48eb06fc7fe9f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f9a89eb94e7f7fed92700957cfefdb36",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f9a89eb94e7f7fed92700957cfefdb36/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9bc567e7b6d3156fd203dd2efc4f02a3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/9bc567e7b6d3156fd203dd2efc4f02a3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "82b8baa7818d5d5ab5e43c630aa76a58",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82b8baa7818d5d5ab5e43c630aa76a58/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7974364a7c84ea43ca590b9056df40c4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7974364a7c84ea43ca590b9056df40c4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "94bf95e87c1e859652259517fae1dacc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/94bf95e87c1e859652259517fae1dacc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "79f28181114a148fc04cc613e1f0b8f0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/79f28181114a148fc04cc613e1f0b8f0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "140b8a6c966f780ddd9654af466bc46f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/140b8a6c966f780ddd9654af466bc46f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "63168d8eb4558ae84591bfcab899e7c5",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/63168d8eb4558ae84591bfcab899e7c5/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "REAL UP IMOVEIS",
+        "href": "/572230/real-up-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 90m²",
+        "href": "/imovel/apartamento-2-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-90m2-venda-RS1375000-id-2739983465/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Lúcio Costa",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}

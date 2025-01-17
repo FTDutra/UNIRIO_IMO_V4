@@ -1,0 +1,192 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "ALARM_SYSTEM",
+            "PETS_ALLOWED",
+            "SERVICE_AREA",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "40"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "\" Apartamento composto por: 2 Quartos, Sala, Cozinha, Banheiro e Área de serviço. <br> Com maravilhosa localização, ao lado do metrô, local farto em comércio e condução. <br> Térreo. <br> R$ 140.000 <br> Em processo de inventário <br> Agende sua visita. <br> Acesse também nas redes sociais: @felipemachadoocorretor <br> Venda seu imóvel conosco! \" -",
+        "title": "Apartamento à venda em Rio de Janeiro, Engenho da Rainha, com 2 quartos, com 40 m², Comércio",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2752769593",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20765390",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "56",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.29625,
+                "source": "GOOGLE",
+                "lat": -22.867039
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Adauto Bezerra de Araújo",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Engenho Da Rainha",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Engenho da Rainha",
+            "poisList": [
+                "TS:Engenho da Rainha",
+                "TS:Tomás Coelho",
+                "TS:Thomáz Coelho",
+                "TS:Inhaúma",
+                "TS:Palmeiras",
+                "CS:Padaria Verão Vermelho",
+                "SU:Escola Municipal Eurico Salles",
+                "SU:Escola Municipal Marechal Estevão Leitão de Carvalho",
+                "SU:Escola Municipal Engenho da Rainha",
+                "SU:Escola Municipal Liberato Bittencourt",
+                "SU:Escola Municipal José Marti",
+                "CH:Centro Municipal de Saúde Ariadne Lopes de Menezes",
+                "CH:Clínica da Família Bibi Vogel",
+                "CH:Creche Municipal Joseph Barbera"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0096",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "40"
+        ],
+        "advertiserId": "611f9e00-5859-ac1d-6c1c-6d8c4dbb01a3",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "price": "140000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "274"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21997895520"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21997895520",
+        "stamps": []
+    },
+    "account": {
+        "id": "611f9e00-5859-ac1d-6c1c-6d8c4dbb01a3",
+        "name": "Felipe Machado",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/3b1005ba27fe63da639816343e445675/{description}.webp",
+        "licenseNumber": "82807-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 288321,
+        "phones": {
+            "primary": "21997895520",
+            "mobile": "21997895520"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "b91c09cfb0ce2a891262849821408a8b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b91c09cfb0ce2a891262849821408a8b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c36ca948c0242b426d97a1f6d40ca5b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c36ca948c0242b426d97a1f6d40ca5b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cde113610260c01ede0fb30ac12e34c0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cde113610260c01ede0fb30ac12e34c0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "03332de48a4f1c2f2ea3115be268f5e0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/03332de48a4f1c2f2ea3115be268f5e0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b398f2e1e0661179558473c61c34f2d3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b398f2e1e0661179558473c61c34f2d3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a7925af996a64a48db0794ccb32d7304",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a7925af996a64a48db0794ccb32d7304/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "71d4586f5b17c3466627d258441fe552",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/71d4586f5b17c3466627d258441fe552/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1f8c28be46146aa652d320e3e2ad6fac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1f8c28be46146aa652d320e3e2ad6fac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6d68462c69542d954bc200e16c0ec53b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6d68462c69542d954bc200e16c0ec53b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cedd13359e70ae670809a1a27b4a42ee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cedd13359e70ae670809a1a27b4a42ee/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "Felipe Machado",
+        "href": "/288321/felipe-machado/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 40m²",
+        "href": "/imovel/apartamento-2-quartos-engenho-da-rainha-zona-norte-rio-de-janeiro-com-garagem-40m2-venda-RS140000-id-2752769593/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Engenho Da Rainha",
+            "state": "Rio de Janeiro",
+            "street": "Rua Adauto Bezerra de Araújo",
+            "streetNumber": "56",
+            "zone": "Zona Norte"
+        }
+    }
+}

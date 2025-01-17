@@ -1,0 +1,261 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "BALCONY",
+            "GYM",
+            "PETS_ALLOWED",
+            "GOURMET_SPACE",
+            "SERVICE_AREA",
+            "PLAYGROUND",
+            "GOURMET_BALCONY",
+            "COVERED_POOL",
+            "CHILDRENS_POOL",
+            "PARTY_HALL",
+            "BICYCLES_PLACE",
+            "CONCIERGE_24H",
+            "SECURITY_CABIN",
+            "RECREATION_AREA",
+            "INTERNET_ACCESS",
+            "INTERCOM",
+            "TOYS_PLACE",
+            "ZEN_SPACE",
+            "WATCHMAN",
+            "ADULT_POOL",
+            "DISABLED_ACCESS",
+            "COWORKING",
+            "SAUNA",
+            "ELECTRONIC_GATE",
+            "PORCELAIN"
+        ],
+        "usableAreas": [
+            "91"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamentos de 2 e 3 quartos na Tijuca, a 4 minutos da estação São Francisco Xavier. Rua tranquila e arborizada, mas com toda a facilidade (comercio e serviços no entorno). Entre Praças Saens Pena e Afonso Pena. Facilidade de deslocamento para o Centro, Zona Sul e Barra da Tijuca.",
+        "title": "Alto padrão na Tijuca",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2727837840",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20550030",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "96",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.225527,
+                "source": "GOOGLE",
+                "lat": -22.921811
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Marquês de Valença",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "poisList": [
+                "BS:Ponto Final do 600 (Taquara)",
+                "BS:Ponto Final: Saens Peña :: Linha 601",
+                "BS:P9: Moraes e Silva",
+                "BS:P8: Barão de Mesquita",
+                "BS:Saens Peña :: Integração Metrô",
+                "TS:Ponto Final do 600 (Taquara)",
+                "TS:Ponto Final: Saens Peña :: Linha 601",
+                "TS:São Francisco Xavier / Tijuca",
+                "TS:P9: Moraes e Silva",
+                "TS:P8: Barão de Mesquita",
+                "CS:Empório Lamego",
+                "CS:Confeitaria Rita de Cássia",
+                "CS:Império do Pão",
+                "CS:Empório Mineiro Cheirin Bão",
+                "CS:Flor da Tijuca",
+                "PH:Drograria Venâncio",
+                "PH:Drogaria Pedro Ernesto",
+                "PH:Farmavita",
+                "PH:Drogaria Unidas"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "MC0082",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "91"
+        ],
+        "advertiserId": "41685bf8-d53e-b198-926e-25afb3112980",
+        "bedrooms": [
+            3
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1",
+                "price": "954000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "1"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21977379717"
+            ]
+        },
+        "videoTourLink": "http://www2.lopes.rio.br/miriansobral/",
+        "whatsappNumber": "21977379717",
+        "stamps": []
+    },
+    "account": {
+        "id": "41685bf8-d53e-b198-926e-25afb3112980",
+        "name": "DANIEL BRITO IMÓVEIS",
+        "licenseNumber": "",
+        "showAddress": true,
+        "legacyVivarealId": 387238,
+        "phones": {
+            "primary": "21977379717",
+            "mobile": "21977379717"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "18d6eead02e4afa7cc8d62c7e53e89c1",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/18d6eead02e4afa7cc8d62c7e53e89c1/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "74fcdeb2e12e7ba8826df2c8f60e4c2d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/74fcdeb2e12e7ba8826df2c8f60e4c2d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c33d94951867d27e1c30f9d30c5fa82f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c33d94951867d27e1c30f9d30c5fa82f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "56b1f05d10b782eabba0a3cbbf69f873",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56b1f05d10b782eabba0a3cbbf69f873/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a91c4f04143c87b61472a765026238c7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a91c4f04143c87b61472a765026238c7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d5c32cb51fd8c51f2c97a093f44678ca",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d5c32cb51fd8c51f2c97a093f44678ca/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fb7ecf83c4373f0ee2241d4dc0a815b6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fb7ecf83c4373f0ee2241d4dc0a815b6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "630414bb981bda230572de8a29c7edbc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/630414bb981bda230572de8a29c7edbc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "37eb3d2fd9ebafaa32a01b0ae097992c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/37eb3d2fd9ebafaa32a01b0ae097992c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4a504e37f01c000f641ed7bb540b9c5f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4a504e37f01c000f641ed7bb540b9c5f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1f7aa1d7b7743bb5d5c8a9ee59b521bc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1f7aa1d7b7743bb5d5c8a9ee59b521bc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a65e896244d01d857b2c1e6b8578758",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a65e896244d01d857b2c1e6b8578758/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "aba50455006d07f138e048134f556aee",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/aba50455006d07f138e048134f556aee/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4e7e996c7b8a6122961abb371b362017",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4e7e996c7b8a6122961abb371b362017/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7b73fbbd8d0bcfc892ad06ae5d4809a0",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7b73fbbd8d0bcfc892ad06ae5d4809a0/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "71865eb2c06f5516538b95035c17235a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/71865eb2c06f5516538b95035c17235a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1ab0849ab8571986f33f8da7b77ae638",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1ab0849ab8571986f33f8da7b77ae638/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7d133c542ec58d8415273c0e5bbd677a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7d133c542ec58d8415273c0e5bbd677a/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "DANIEL BRITO IMÓVEIS",
+        "href": "/387238/daniel-brito-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 3 Quartos à venda, 91m²",
+        "href": "/imovel/apartamento-3-quartos-tijuca-zona-norte-rio-de-janeiro-com-garagem-91m2-venda-RS954000-id-2727837840/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Rua Marquês de Valença",
+            "streetNumber": "96",
+            "zone": "Zona Norte"
+        }
+    }
+}

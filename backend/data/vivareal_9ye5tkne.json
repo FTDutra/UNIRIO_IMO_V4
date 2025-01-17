@@ -1,0 +1,313 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "ELEVATOR",
+            "GATED_COMMUNITY",
+            "BALCONY",
+            "GYM",
+            "PETS_ALLOWED",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "KITCHEN"
+        ],
+        "usableAreas": [
+            "70"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "O Arpoador é um bairro jovem localizado na Zona Sul do Rio de Janeiro. Quem mora por ali, tem o prazer de admirar um pôr do sol único! 246",
+        "title": "Apartamento a venda com 2 suítes no Arpoador, na Francsico Otaviano - RJ",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2725024065",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22080040",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "49",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.190107,
+                "source": "GOOGLE",
+                "lat": -22.987248
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Francisco Otaviano",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Arpoador",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Copacabana",
+            "poisList": [
+                "BS:Ponto Final: Copacabana :: Linha 455",
+                "BS:BRS 1",
+                "BS:BRS 2: Rainha Elizabeth",
+                "BS:BRS 2: Francisco Sá",
+                "BS:Ponto Final: General Osório :: Rua Prudente de Morais",
+                "TS:Ponto Final: Copacabana :: Linha 455",
+                "TS:BRS 1",
+                "TS:BRS 2: Rainha Elizabeth",
+                "TS:BRS 2: Francisco Sá",
+                "TS:Ponto Final: General Osório :: Rua Prudente de Morais",
+                "CS:Nema",
+                "CS:Colônia dos Pescadores",
+                "CS:Peixaria Z13",
+                "CS:Lopes",
+                "CS:La Veronese",
+                "PH:Farmácia Central Posto 6",
+                "PH:Viva Mais",
+                "PH:Drogaria Pop",
+                "PH:Prontofarma",
+                "PH:Drogaria Galanti"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            1
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "246",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "70"
+        ],
+        "advertiserId": "eeb08206-dc33-2360-7127-bb09eb4a3c07",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "20",
+                "price": "2292000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "20"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21964648018"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21964648018",
+        "stamps": []
+    },
+    "account": {
+        "id": "eeb08206-dc33-2360-7127-bb09eb4a3c07",
+        "name": "House Imoveis RJ",
+        "licenseNumber": "68036-F-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 621717,
+        "phones": {
+            "primary": "21964648018",
+            "mobile": "21964648018"
+        },
+        "tier": "gold"
+    },
+    "medias": [
+        {
+            "id": "91289c037e3766feb977cc577c201536",
+            "url": "https://www.youtube.com/watch?v=uld3N9LARlk&t=321s&pp=ygUKaXBhbm1lYSByag%3D%3D",
+            "type": "VIDEO"
+        },
+        {
+            "id": "2a28db3b0b94502f44031afe26230646",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2a28db3b0b94502f44031afe26230646/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "de881732efae2fe54446f7ed55382744",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/de881732efae2fe54446f7ed55382744/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ca3228ba8e99ba5c680379adf195ca00",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ca3228ba8e99ba5c680379adf195ca00/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e4bdbce496594184e3b786f7183ebc68",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e4bdbce496594184e3b786f7183ebc68/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b9290f2fdb65148e20cfa541a0fcd72b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b9290f2fdb65148e20cfa541a0fcd72b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bd73850bf8e9975001518bc50666170d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bd73850bf8e9975001518bc50666170d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "50fc67483d52ad539ab77c6f114db777",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/50fc67483d52ad539ab77c6f114db777/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bbef4746c1a2650a9decdb387afd9438",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bbef4746c1a2650a9decdb387afd9438/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b85a9d70c18815cb69d1fda0722a0c4c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b85a9d70c18815cb69d1fda0722a0c4c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dd1f4984d584a7d3d786d8285b0d3734",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dd1f4984d584a7d3d786d8285b0d3734/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b55c58d76193c9b11d12a4660409b096",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b55c58d76193c9b11d12a4660409b096/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "dc9f900c4e4cc8eaeebc94982829072a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/dc9f900c4e4cc8eaeebc94982829072a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a7ba8ff3332d12ee493970785f13243",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a7ba8ff3332d12ee493970785f13243/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "58f1c67e2c89dce81ca8c86040b04041",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/58f1c67e2c89dce81ca8c86040b04041/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cfe62c6b651379c7423b1b1c7eda3f50",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cfe62c6b651379c7423b1b1c7eda3f50/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cd916e5dc438aeec2bd3c283a842da48",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cd916e5dc438aeec2bd3c283a842da48/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ea95db7a2a6ee8e9c0c5d7109d642a98",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ea95db7a2a6ee8e9c0c5d7109d642a98/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "697e1b8095cb1242164ab1ad14899efe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/697e1b8095cb1242164ab1ad14899efe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2da4775b710e9cdda7e674fcf53b80b4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2da4775b710e9cdda7e674fcf53b80b4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b081acb0bfdb4beadcc4c832d57e27ad",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b081acb0bfdb4beadcc4c832d57e27ad/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c55e9c5fe5137f2eae7f564bb801d75b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c55e9c5fe5137f2eae7f564bb801d75b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2ba36e161506d225fb20b5a2ccbcfb3c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2ba36e161506d225fb20b5a2ccbcfb3c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a7a4363e4695f708d1b43044cee08c4b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a7a4363e4695f708d1b43044cee08c4b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "97cfd193867b8ae41a8a1f115f17fdbd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/97cfd193867b8ae41a8a1f115f17fdbd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "422e678d4ed685a289dfbb40a488c88c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/422e678d4ed685a289dfbb40a488c88c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d53abcc4153e9e7b58f66d30612ad290",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d53abcc4153e9e7b58f66d30612ad290/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "524cce8b9813975acd2b7d5f7b2b5bfd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/524cce8b9813975acd2b7d5f7b2b5bfd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f44214b2b969977fbeb62f88a7871610",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f44214b2b969977fbeb62f88a7871610/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f2237b68180d9520bf19fd4959ff7f54",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f2237b68180d9520bf19fd4959ff7f54/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0bc12d5446e783158fa0d4e85971ff06",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0bc12d5446e783158fa0d4e85971ff06/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "387f1709405517127cb85d5696de9ae8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/387f1709405517127cb85d5696de9ae8/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "House Imoveis RJ",
+        "href": "/621717/house-imoveis-rj/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 70m²",
+        "href": "/imovel/apartamento-1-quartos-arpoador-zona-sul-rio-de-janeiro-com-garagem-70m2-venda-RS2292000-id-2725024065/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Arpoador",
+            "state": "Rio de Janeiro",
+            "street": "Rua Francisco Otaviano",
+            "streetNumber": "49",
+            "zone": "Zona Sul"
+        }
+    }
+}

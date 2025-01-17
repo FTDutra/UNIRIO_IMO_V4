@@ -1,0 +1,212 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "SERVICE_AREA",
+            "PARTY_HALL",
+            "KITCHEN",
+            "PETS_ALLOWED"
+        ],
+        "usableAreas": [
+            "40"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Bom apartamento claro e arejado, situado em condomínio fechado, total segurança 24hs, distribuído em sala e 1 quarto com piso cerâmica, banheiro social e cozinha , azulejo ao teto e piso frio, box em acrílico, área de serviço separada, próximo a todo comércio e transportes na porta.<br><br> Aceitando financiamento bancário e Fgts.<br>-Cod:JCAP10016 -Rev.11Dez",
+        "title": "Apartamento sala 1quarto em condomínio.",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2724491533",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "23059150",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "15",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.583282,
+                "source": "GOOGLE",
+                "lat": -22.910806
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Rua Moranga",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Inhoaiba",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Inhoaíba",
+            "poisList": [
+                "BS:Ana Gonzaga",
+                "BS:Pina Rangel",
+                "BS:Parque Esperança",
+                "BS:Inhoaíba",
+                "BS:Gramado",
+                "TS:Benjamim do Monte",
+                "TS:Benjamin do Monte",
+                "TS:Ana Gonzaga",
+                "TS:Pina Rangel",
+                "TS:Parque Esperança",
+                "CS:Mercado Moranga",
+                "CS:Padaria Spinosa",
+                "CS:Padaria do careca",
+                "SU:Ciep Raymundo Ottoni de Castro Maya",
+                "SU:Escola Municipal Santa Isabel",
+                "SU:Escola Municipal Isabel",
+                "SU:Escola Municipal Professor Paulo Silva",
+                "SU:Escola Municipal Iva Gomes Ribeiro"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "JCAP10016",
+        "bathrooms": [
+            1
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "40"
+        ],
+        "advertiserId": "bb7046ce-b7c2-2cd7-156e-0c7d09304839",
+        "bedrooms": [
+            1
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "1",
+                "price": "70000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "690"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "21967765878",
+                "2124160362"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "bb7046ce-b7c2-2cd7-156e-0c7d09304839",
+        "name": "JCM IMOBILIÁRIA & CONSTRUÇÕES",
+        "licenseNumber": "",
+        "showAddress": false,
+        "legacyVivarealId": 763462,
+        "phones": {
+            "primary": "21967765878",
+            "mobile": "2124160362"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "135424532ab94b89e851b70a078960d9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/135424532ab94b89e851b70a078960d9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "749360497acf4d75bcd7c40e7ea85949",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/749360497acf4d75bcd7c40e7ea85949/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1a23cecac869633f6aaa14c613e5007d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1a23cecac869633f6aaa14c613e5007d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b324d56188072d8e7a122a3e1e11ea76",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b324d56188072d8e7a122a3e1e11ea76/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "237122f6161b2376c26f8b68e9eacca4",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/237122f6161b2376c26f8b68e9eacca4/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "96a74c85be4f6b6a89dd4cdd8c79dbef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/96a74c85be4f6b6a89dd4cdd8c79dbef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8e41fb33d0004b998f2416994ea407c3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8e41fb33d0004b998f2416994ea407c3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "555c1dd60a2e02deb9d60925bf0e9f39",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/555c1dd60a2e02deb9d60925bf0e9f39/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7a1bc9585472544e6846be9b46c0a726",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7a1bc9585472544e6846be9b46c0a726/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f8b48ff30ba00ccb3c918e48856d4e06",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f8b48ff30ba00ccb3c918e48856d4e06/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7ba82738e634ac761551cb58f959ea50",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7ba82738e634ac761551cb58f959ea50/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "11ef9a3d7727bcab4cbfac6f42a1f324",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/11ef9a3d7727bcab4cbfac6f42a1f324/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "81c6779edb53a39bf7afdb82a0d6703f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/81c6779edb53a39bf7afdb82a0d6703f/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "JCM IMOBILIÁRIA & CONSTRUÇÕES",
+        "href": "/763462/jcm-imobiliaria-construcoes/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 1 Quarto à venda, 40m²",
+        "href": "/imovel/apartamento-1-quartos-inhoaiba-zona-oeste-rio-de-janeiro-com-garagem-40m2-venda-RS70000-id-2724491533/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Inhoaíba",
+            "state": "Rio de Janeiro",
+            "street": "Rua Moranga",
+            "streetNumber": "15",
+            "zone": "Zona Oeste"
+        }
+    }
+}

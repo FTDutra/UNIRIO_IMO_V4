@@ -1,0 +1,296 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "INTERCOM"
+        ],
+        "usableAreas": [
+            "85"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Lindo apartamento todo reformado por arquiteto na rua Ferreira Viana quadra da praia, 2 suítes com ar condicionado split, sala ampla com janelões, banheiro social com box blindex e gás fora do banheiro, 1 lavabo, cozinha planejada com balcão de mármore. <br><br>Excelente localização, quadra da praia, próximo do Palácio do Catete, estação do metrô, padarias, bancos, supermercados, lojas comerciais, bares e restaurantes.<br>-Cod:HLAP20412 -Rev.11Dez",
+        "title": "Apartamento - / Residencial / Flamengo",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2743402077",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [],
+        "address": {
+            "country": "BR",
+            "zipCode": "22210040",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.927,
+                "approximateLon": -43.175,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Sul",
+            "street": "Rua Ferreira Viana",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Sul>Flamengo",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "poisList": [
+                "BS:Largo do Machado",
+                "BS:Ponto Final: Largo do Machado :: Linha 497",
+                "BS:Rua Paschoal Carlos Magno próximo ao 15",
+                "BS:Rua Monte Alegre próximo ao 342",
+                "BS:Passeio :: Linha 517",
+                "TS:Palácio",
+                "TS:Catete",
+                "TS:Silveira Martins",
+                "TS:Largo do Machado",
+                "TS:Acesso Largo do Machado",
+                "CS:Parque do Flamengo",
+                "CS:Padaria Catete",
+                "CS:Artigrano - Padaria Artesanal",
+                "CS:Sorvetes Itália",
+                "CS:Pão Francês",
+                "PH:Drogaria Norte e Sul",
+                "PH:Norte e Sul",
+                "PH:Rio Farma",
+                "PH:Drogaria RioFarma",
+                "PH:Miliflora Farmácia de Manipulação"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "HLAP20412",
+        "bathrooms": [
+            4
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "85"
+        ],
+        "advertiserId": "57e8be46-bd5d-7c75-0956-c13306ff22c6",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "2283",
+                "price": "735000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "850"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2125481717",
+                "21999862966"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "21999862966",
+        "stamps": []
+    },
+    "account": {
+        "id": "57e8be46-bd5d-7c75-0956-c13306ff22c6",
+        "name": "H LANDI FILHO IMOBILIARIA LTDA - ME",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c2a8f77836676ae3a57dd4b7b1049931/{description}.webp",
+        "licenseNumber": "12234-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 133172,
+        "phones": {
+            "primary": "2125481717",
+            "mobile": "21999862966"
+        },
+        "tier": "platinum"
+    },
+    "medias": [
+        {
+            "id": "08c21018f5d17946b23448bd9b800052",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/08c21018f5d17946b23448bd9b800052/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6c419a7350f257619f480e0eafe64ad6",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6c419a7350f257619f480e0eafe64ad6/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "2e76994ee5cd47f46f2b2bf74b6df4d7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/2e76994ee5cd47f46f2b2bf74b6df4d7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5921487c78ace6a5a68e2f0797d9185b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5921487c78ace6a5a68e2f0797d9185b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "36ed8fdf5b1ece550206e0b32cedbc7c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/36ed8fdf5b1ece550206e0b32cedbc7c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fc12f6e35195f07017e62c0b336238f9",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fc12f6e35195f07017e62c0b336238f9/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cbac7e09f390c675f2e79ac26c2cf509",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cbac7e09f390c675f2e79ac26c2cf509/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "42d723d672620903ddf4c23e9256f5eb",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/42d723d672620903ddf4c23e9256f5eb/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "39ca18117d6893bd1d88e741c644de5e",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39ca18117d6893bd1d88e741c644de5e/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5f3d13d18423ff106b3193fbbd22e7ef",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/5f3d13d18423ff106b3193fbbd22e7ef/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0e008d1c09f57ffa868f836b99f3b24f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0e008d1c09f57ffa868f836b99f3b24f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ef8f02c3bb1b1f6da191f65bd4c99432",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ef8f02c3bb1b1f6da191f65bd4c99432/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1c3e8c507ad4759dc54fdbe75bda8241",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1c3e8c507ad4759dc54fdbe75bda8241/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "87afe283b1330ef0324ed07f36fda321",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/87afe283b1330ef0324ed07f36fda321/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0a31235881a11617e127ad45880c7a68",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0a31235881a11617e127ad45880c7a68/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c58c1d2ca65b93dfe4ba864f41dc6cf2",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c58c1d2ca65b93dfe4ba864f41dc6cf2/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "21b2daf40347c78ad92a5f2834b91736",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/21b2daf40347c78ad92a5f2834b91736/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b2c4a28c1795990c3376f3607996c521",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b2c4a28c1795990c3376f3607996c521/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a64bed26bf2a13d1b48c39781aa2d28c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a64bed26bf2a13d1b48c39781aa2d28c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0d8cdfe231772070cbf73ea29b66d44c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0d8cdfe231772070cbf73ea29b66d44c/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fa9acaa59ae5ffa14c79df1db0a5f59b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fa9acaa59ae5ffa14c79df1db0a5f59b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b3539617a2837e1a76364d013a1c8058",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b3539617a2837e1a76364d013a1c8058/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fe5cdcbc1836c75001da804373a886d8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fe5cdcbc1836c75001da804373a886d8/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fbacea58a588932a669dff1b599dbfdc",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fbacea58a588932a669dff1b599dbfdc/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e41484bea4ef76da044ecee88a3639cd",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e41484bea4ef76da044ecee88a3639cd/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "828b39762385312a69addd484703840b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/828b39762385312a69addd484703840b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "895d8b050b6095559ac25587c7170416",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/895d8b050b6095559ac25587c7170416/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "953f657129cb1e697e27761d68c3ae30",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/953f657129cb1e697e27761d68c3ae30/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "39b6986a1036aa7497609b03293b6d88",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/39b6986a1036aa7497609b03293b6d88/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a9cb7cc1cccfb38d19473075b72b3a0f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a9cb7cc1cccfb38d19473075b72b3a0f/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "H LANDI FILHO IMOBILIARIA LTDA - ME",
+        "href": "/133172/h-landi-filho-imobiliaria-ltda-me/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 85m²",
+        "href": "/imovel/apartamento-2-quartos-flamengo-zona-sul-rio-de-janeiro-85m2-venda-RS735000-id-2743402077/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Flamengo",
+            "state": "Rio de Janeiro",
+            "street": "Rua Ferreira Viana",
+            "streetNumber": "",
+            "zone": "Zona Sul"
+        }
+    }
+}

@@ -1,0 +1,246 @@
+{
+    "listing": {
+        "displayAddressType": "STREET",
+        "amenities": [
+            "BARBECUE_GRILL",
+            "ELEVATOR",
+            "BALCONY",
+            "AIR_CONDITIONING",
+            "SERVICE_AREA",
+            "INTERCOM",
+            "ALARM_SYSTEM"
+        ],
+        "usableAreas": [
+            "66"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Excelente apartamento todo em piso porcelanato, com sala ampla 2 ambientes e jardim de inverno, 2 quartos, cozinha, área de serviço e banheiro social com azulejo até o teto. Ótima localização, perto do Norte Shopping. Vaga de garagem na escritura, 2 elevadores, portaria 24horas. Aceita financiamento e FGTS.<br>Atualizado emdoiadeoutubrode2024 -",
+        "title": "Apartamento com 2 dormitórios boa infra no Cachambi",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2756608119",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "20771445",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "level": "STREET",
+            "precision": "ROOFTOP",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "aproximated": true,
+                "source": "GOOGLE",
+                "approximateLat": -22.889,
+                "approximateLon": -43.277,
+                "radius": 140
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Norte",
+            "street": "Rua Tenente Franca",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Norte>Cachambi",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Cachambi",
+            "poisList": [
+                "BS:Ponto Final: Praça Avaí :: Linha 254 SP",
+                "BS:Ponto Final: Norte Shopping :: Linha 456",
+                "BS:Ponto final 687",
+                "BS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. A",
+                "BS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. B",
+                "TS:Ponto Final: Praça Avaí :: Linha 254 SP",
+                "TS:Ponto Final: Norte Shopping :: Linha 456",
+                "TS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. A",
+                "TS:Terminal Arquiteto Gelton Paciello da Motta :: Plat. B",
+                "TS:Nova América / Del Castilho",
+                "CS:Onitneva Padaria e Confeitaria",
+                "CS:Sabor do Méier",
+                "CS:Marcopão",
+                "CS:Panificação Recreio do Cruzeiro",
+                "CS:Magal",
+                "PH:Droh",
+                "PH:Drogaria Carioca",
+                "PH:Drogaria Mais Barato - Méier"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            0
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "AP0771",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "66"
+        ],
+        "advertiserId": "89bdbaf0-3f59-1c9f-73a8-6bd0b1439467",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "189",
+                "price": "325000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "700"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2134349000"
+            ]
+        },
+        "videoTourLink": "",
+        "whatsappNumber": "",
+        "stamps": []
+    },
+    "account": {
+        "id": "89bdbaf0-3f59-1c9f-73a8-6bd0b1439467",
+        "name": "LOPES ENJOY IMÓVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/532ae951fff1ad62366b920d7c68c73e/{description}.webp",
+        "licenseNumber": "32269-F-RJ",
+        "showAddress": true,
+        "legacyVivarealId": 256323,
+        "phones": {
+            "primary": "2134349000",
+            "mobile": "2134349000"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "0f60e110f5bb00e17b3cd423bfed5c33",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0f60e110f5bb00e17b3cd423bfed5c33/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "5dbb614c271835492109c7a4b1d56d48",
+            "url": "https://youtu.be/8biPqgcwTC8",
+            "type": "VIDEO"
+        },
+        {
+            "id": "55ee3d53f79cbd0a3a223a67df5f6a79",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/55ee3d53f79cbd0a3a223a67df5f6a79/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "0704aff5ee9cafc00547fdabd99e1352",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/0704aff5ee9cafc00547fdabd99e1352/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4820f9b686d35eab0cf6dd1204662d20",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4820f9b686d35eab0cf6dd1204662d20/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "4376f75c44ebc81e006cf2072632fe7a",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/4376f75c44ebc81e006cf2072632fe7a/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "10c0329e2d971f87cc0a55e135e5ff71",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/10c0329e2d971f87cc0a55e135e5ff71/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a28929fc48867fe5853e68775d4e5db7",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a28929fc48867fe5853e68775d4e5db7/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "bc0dafe989b357521ac8c874a8c8b349",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/bc0dafe989b357521ac8c874a8c8b349/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "8f9290126f7d1f509c8aeddbcca1b53b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8f9290126f7d1f509c8aeddbcca1b53b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b3115d422aad7d78f95b284eac78a9ac",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b3115d422aad7d78f95b284eac78a9ac/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "1b414cc6e9bd94df7d3305ceeddf10fa",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/1b414cc6e9bd94df7d3305ceeddf10fa/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "75cd9448a13659915594a0b76c78ca9d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/75cd9448a13659915594a0b76c78ca9d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "fdc79765a9382b76f0c3680f8b995361",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fdc79765a9382b76f0c3680f8b995361/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "f8602f1bfed8d0dbb07f4fe7ad06d14f",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/f8602f1bfed8d0dbb07f4fe7ad06d14f/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cb0e5608c71dd2b2d898ab4da977e535",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cb0e5608c71dd2b2d898ab4da977e535/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a1f705f6e6c73657bb7dbcb6a6f9dafe",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/a1f705f6e6c73657bb7dbcb6a6f9dafe/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b4b94b46f2206abaacc9e1f59b037a97",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/b4b94b46f2206abaacc9e1f59b037a97/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "d502e552efe4e134fc81adae946194e8",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/d502e552efe4e134fc81adae946194e8/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "LOPES ENJOY IMÓVEIS",
+        "href": "/256323/lopes-enjoy-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 66m²",
+        "href": "/imovel/apartamento-2-quartos-cachambi-zona-norte-rio-de-janeiro-com-garagem-66m2-venda-RS325000-id-2756608119/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Cachambi",
+            "state": "Rio de Janeiro",
+            "street": "Rua Tenente Franca",
+            "streetNumber": "",
+            "zone": "Zona Norte"
+        }
+    }
+}

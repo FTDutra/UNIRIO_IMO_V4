@@ -1,0 +1,215 @@
+{
+    "listing": {
+        "displayAddressType": "ALL",
+        "amenities": [
+            "POOL",
+            "GYM",
+            "GOURMET_SPACE",
+            "GARAGE",
+            "GARDEN",
+            "PLAYGROUND",
+            "PARTY_HALL",
+            "SPORTS_COURT"
+        ],
+        "usableAreas": [
+            "65"
+        ],
+        "constructionStatus": "ConstructionStatus_NONE",
+        "listingType": "USED",
+        "description": "Apartamento à venda localizado na Avenida Gastão Senges, no bairro Barra da Tijuca em Rio de Janeiro. Este imóvel conta com área construída de 65m², oferecendo 2 quartos, sendo 2 suítes, 2 banheiros e 1 vaga de garagem. Aproveite para visitar esta oportunidade e agende uma visita com um de nossos corretores.",
+        "title": "Apartamento à venda em Barra da Tijuca com 65 m², 2 quartos, 1 vaga",
+        "unitTypes": [
+            "APARTMENT"
+        ],
+        "nonActivationReason": "NonActivationReason_NONE",
+        "propertyType": "UNIT",
+        "unitSubTypes": [],
+        "id": "2739983469",
+        "portal": "GRUPOZAP",
+        "parkingSpaces": [
+            1
+        ],
+        "address": {
+            "country": "BR",
+            "zipCode": "22631280",
+            "geoJson": "",
+            "city": "Rio de Janeiro",
+            "streetNumber": "",
+            "level": "STREET",
+            "precision": "GEOMETRIC_CENTER",
+            "confidence": "VALID_STREET",
+            "stateAcronym": "RJ",
+            "source": "CORREIOS",
+            "point": {
+                "lon": -43.342132,
+                "source": "GOOGLE",
+                "lat": -23.003514
+            },
+            "ibgeCityId": "",
+            "zone": "Zona Oeste",
+            "street": "Avenida Gastão Senges",
+            "locationId": "BR>Rio de Janeiro>NULL>Rio de Janeiro>Zona Oeste>Barra da Tijuca",
+            "district": "",
+            "name": "",
+            "state": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "poisList": [
+                "BS:Barra Shopping Lateral",
+                "BS:Barra Shopping",
+                "BS:Barra Shopping Fundos (Hot Zone)",
+                "TS:Afrânio Costa",
+                "TS:Barra Shopping",
+                "TS:Bosque Marapendi (Parador)",
+                "TS:Barra Shopping (Expresso)",
+                "TS:Bosque Marapendi (Expresso)",
+                "CS:Esso",
+                "CS:Padaria Belle Barra",
+                "CS:Mundo Verde",
+                "SU:Escola Municipal República da Colômbia",
+                "SU:Escola Municipal Sérgio Buarque de Holanda",
+                "SU:Creche Municipal Carmen Miranda",
+                "SU:Colégio Saint John",
+                "SU:Curso Miguel Couto"
+            ],
+            "pois": [],
+            "valuableZones": []
+        },
+        "suites": [
+            2
+        ],
+        "publicationType": "STANDARD",
+        "externalId": "PU184c6z8",
+        "bathrooms": [
+            2
+        ],
+        "usageTypes": [
+            "RESIDENTIAL"
+        ],
+        "totalAreas": [
+            "65"
+        ],
+        "advertiserId": "00e9fb96-75f2-47bf-136a-813888466a06",
+        "bedrooms": [
+            2
+        ],
+        "pricingInfos": [
+            {
+                "yearlyIptu": "3200",
+                "price": "680000",
+                "businessType": "SALE",
+                "monthlyCondoFee": "2400"
+            }
+        ],
+        "showPrice": true,
+        "status": "ACTIVE",
+        "advertiserContact": {
+            "chat": "",
+            "phones": [
+                "2122748888",
+                "21998593444"
+            ]
+        },
+        "videoTourLink": "https://www.banibconecta.com/site/tour/real-up/em-construcao/autostart",
+        "whatsappNumber": "21998593444",
+        "stamps": []
+    },
+    "account": {
+        "id": "00e9fb96-75f2-47bf-136a-813888466a06",
+        "name": "REAL UP IMOVEIS",
+        "logoUrl": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6198e480078abd442f62aedcbd75a30f/{description}.webp",
+        "licenseNumber": "7357-J-RJ",
+        "showAddress": false,
+        "legacyVivarealId": 572230,
+        "phones": {
+            "primary": "2122748888",
+            "mobile": "21998593444"
+        },
+        "tier": "diamond"
+    },
+    "medias": [
+        {
+            "id": "8694a399461aa44757d8fa1367fb5d4b",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/8694a399461aa44757d8fa1367fb5d4b/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "b31634044d7220fbf2af6b4f1d8ccf51",
+            "url": "https://www.banibconecta.com/site/tour/real-up/em-construcao/autostart",
+            "type": "VIDEO_TOUR"
+        },
+        {
+            "id": "fd4c40771cd8809c2bb634bd8c8d5c28",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/fd4c40771cd8809c2bb634bd8c8d5c28/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "ccf21ea0443a08ec48bb9a14f966670d",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/ccf21ea0443a08ec48bb9a14f966670d/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "6315978fc21d3c74d9fae8691c91d068",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/6315978fc21d3c74d9fae8691c91d068/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "56fc9ea53e902b3d0e989369dbed1bc3",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/56fc9ea53e902b3d0e989369dbed1bc3/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "91259e09503d729559b3ca77477b3990",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/91259e09503d729559b3ca77477b3990/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "c3b42c19be0c4af81998bebe2e80b667",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/c3b42c19be0c4af81998bebe2e80b667/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "cfe47322179ecf5f6ba3b93b82a1ec91",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/cfe47322179ecf5f6ba3b93b82a1ec91/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "7ff001d2bd577b35a4d6061b2add5923",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/7ff001d2bd577b35a4d6061b2add5923/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "82981d41ada0baca9bd32dc437319006",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/82981d41ada0baca9bd32dc437319006/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e6beffd6fce1eb474bafc3b6cb951052",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e6beffd6fce1eb474bafc3b6cb951052/{description}.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "e48e838b93f39dbffaf355e939d5d14c",
+            "url": "https://resizedimgs.vivareal.com/{action}/{width}x{height}/named.images.sp/e48e838b93f39dbffaf355e939d5d14c/{description}.webp",
+            "type": "IMAGE"
+        }
+    ],
+    "accountLink": {
+        "name": "REAL UP IMOVEIS",
+        "href": "/572230/real-up-imoveis/",
+        "rel": "",
+        "data": {}
+    },
+    "link": {
+        "name": "Apartamento com 2 Quartos à venda, 65m²",
+        "href": "/imovel/apartamento-2-quartos-barra-da-tijuca-zona-oeste-rio-de-janeiro-com-garagem-65m2-venda-RS680000-id-2739983469/",
+        "rel": "",
+        "data": {
+            "city": "Rio de Janeiro",
+            "neighborhood": "Barra da Tijuca",
+            "state": "Rio de Janeiro",
+            "street": "Avenida Gastão Senges",
+            "streetNumber": "",
+            "zone": "Zona Oeste"
+        }
+    }
+}
