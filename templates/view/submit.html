@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="bumblebee">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Previsão de preço</title>
+    <link rel="stylesheet" href="{{url_for('static',filename='dist/css/output.css')}}">
+</head>
+<body class="flex flex-col items-center justify-center min-h-screen bg-gray-100">
+<div class="p-6 border border-yellow-400 bg-white rounded-lg max-w-screen-sm w-full max-h-screen overflow-auto">
+    <div id="price-prediction">
+        <div class="price-head text-xl font-bold mb-4">Resultado da predição</div>
+        <div>
+            <div class="grid grid-cols-3 gap-3 mb-6">
+              <div class="border border-blue-950 rounded-md p-2 bg-blue-50">
+                    <div class="font-bold text-lg mb-6">{{ 'R$ ' + '{:,.2f}'.format(predict.price).replace(',', 'X').replace('.', ',').replace('X', '.') }}</div>
+                    <div class="font-light text-sm">Preço sugerido</div>
+              </div>
+              <div class="border border-red-700 rounded-md p-2 bg-red-50">
+                    <div class="font-bold text-lg mb-6">{{ 'R$ ' + '{:,.2f}'.format(predict.max_price).replace(',', 'X').replace('.', ',').replace('X', '.') }}</div>
+                    <div class="font-light text-sm">Preço máximo (+20%)</div>
+              </div>
+              <div class="border border-green-700 rounded-md p-2 bg-green-50">
+                    <div class="font-bold text-lg mb-6">{{ 'R$ ' + '{:,.2f}'.format(predict.min_price).replace(',', 'X').replace('.', ',').replace('X', '.') }}</div>
+                    <div class="font-light text-sm">Preço mínimo (+20%)</div>
+              </div>
+            </div>
+            <div>
+                <button class="btn btn-primary w-full" id="backLink">Clique aqui para voltar ao formulário.</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const backLink = document.getElementById('backLink');
+
+    backLink.addEventListener('click', function (event) {
+      event.preventDefault();
+      history.back();
+    });
+  });
+</script>
+</body>
+</html>

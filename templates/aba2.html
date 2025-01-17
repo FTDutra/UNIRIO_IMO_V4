@@ -1,0 +1,126 @@
+<div class="content hidden">
+    <div class="collapse collapse-arrow bg-base-200 mb-2 rounded-md border border-orange-100">
+      <input type="radio" name="aba_2" checked="checked" />
+      <div class="collapse-title text-sm font-bold">Localização do imóvel</div>
+      <div class="collapse-content">
+        <div role="alert" class="alert alert-error p-2 rounded-sm">
+          <div>
+            <div class="text-xs">O campo <b>Região</b>, <b>Bairro</b> e <b>Rua</b> são obrigatórios. Seguir sem o preenchimento resultará em erro.</div>
+          </div>
+        </div>
+        <div class="form-control">
+            <label class="form-control form-flex w-full">
+              <div class="label">
+                <span class="label-text">Região</span>
+              </div>
+              <select class="select select-bordered" name="itemZONE" id="zona" onchange="loadBairros()">
+                    <option value="">Selecione uma região</option>
+                  {% for zona in zonas %}
+                    <option value="{{ zona }}">{{ zona }}</option>
+                  {% endfor %}
+              </select>
+            </label>
+            <label class="form-control form-flex w-full">
+              <div class="label">
+                <span class="label-text">Bairro</span>
+              </div>
+              <select id="bairro" class="select select-bordered" name="itemNEIGHBORHOOD" onchange="loadRuas()">
+                <option value="">Selecione o bairro</option>
+              </select>
+            </label>
+            <label class="form-control form-flex w-full">
+              <div class="label">
+                <span class="label-text">Rua</span>
+              </div>
+              <select id="rua" class="select select-bordered" name="itemSTREET">
+                <option value="">Selecione a rua</option>
+              </select>
+            </label>
+        </div>
+      </div>
+    </div>
+
+    <div class="collapse collapse-arrow bg-base-200 mb-2 rounded-md border border-orange-100">
+      <input type="radio" name="aba_2"/>
+      <div class="collapse-title text-sm font-bold">Despesas com o imóvel</div>
+      <div class="collapse-content">
+        <div role="alert" class="alert alert-warning p-2 rounded-sm">
+          <div>
+            <div class="text-xs">Os campos abaixo recebem apenas valores numéricos.</div>
+          </div>
+        </div>
+        <div class="form-control">
+            <label class="form-control input-md w-full">
+                <div class="label">
+                    <span class="label-text">IPTU anual (apenas números, sem vírgula)</span>
+                </div>
+                <input type="text" placeholder="Type here" class="input input-bordered w-full num-field" name="itemIPTU" inputmode="numeric" pattern="^[0-9]+$"/>
+          </label>
+          <label class="form-control input-md w-full">
+                <div class="label">
+                    <span class="label-text">Condomínio (mensal) (apenas números, sem vírgula)</span>
+                </div>
+                <input type="text" placeholder="Type here" class="input input-bordered w-full num-field" name="itemCONDOFEE"/>
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="collapse collapse-arrow bg-base-200 mb-2 rounded-md border border-orange-100">
+      <input type="radio" name="aba_2"/>
+      <div class="collapse-title text-sm font-bold">Tipo de imóvel</div>
+      <div class="collapse-content">
+        <div class="form-control form-control-custom">
+          <label class="label cursor-pointer">
+            <input type="radio" name="imovelTipo" class="radio" checked="checked" value="itemAPARTMENT"/>
+            <div class="label-text">Apartamento</div>
+          </label>
+          <label class="label cursor-pointer">
+            <input type="radio" name="imovelTipo" class="radio" value="itemCOVERAGE"/>
+            <div class="label-text">Cobertura</div>
+          </label>
+          <label class="label cursor-pointer">
+            <input type="radio" name="imovelTipo" class="radio" value="itemGARDEN"/>
+            <div class="label-text">Garden</div>
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="collapse collapse-arrow bg-base-200 mb-2 rounded-md border border-orange-100">
+      <input type="radio" name="aba_2"/>
+      <div class="collapse-title text-sm font-bold">Característica habitacional</div>
+      <div class="collapse-content">
+        <div role="alert" class="alert alert-warning p-2 rounded-sm">
+          <div>
+            <div class="text-xs">Os campos abaixo recebem apenas valores numéricos.</div>
+          </div>
+        </div>
+        <div class="form-control">
+            <label class="form-control input-md w-full">
+                <div class="label">
+                    <span class="label-text">Metragem (m2) (número inteiro)</span>
+                </div>
+                <input type="text" placeholder="Type here" class="input input-bordered w-full num-field" name="itemUSABLEAREAS"/>
+          </label>
+          <label class="form-control input-md w-full">
+                <div class="label">
+                    <span class="label-text">Número de quartos</span>
+                </div>
+                <input type="text" placeholder="Type here" class="input input-bordered w-full num-field" name="itemBEDROOMS"/>
+          </label>
+          <label class="form-control input-md w-full">
+                <div class="label">
+                    <span class="label-text">Número de banheiros</span>
+                </div>
+                <input type="text" placeholder="Type here" class="input input-bordered w-full num-field" name="itemBATHROOMS"/>
+          </label>
+          <label class="form-control input-md w-full">
+                <div class="label">
+                    <span class="label-text">Suítes</span>
+                </div>
+                <input type="text" placeholder="Type here" class="input input-bordered w-full num-field" name="itemSUITES"/>
+          </label>
+        </div>
+      </div>
+    </div>
+
+</div>

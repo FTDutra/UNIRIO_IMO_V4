@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="bumblebee">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Previsão de preço</title>
+    <link rel="stylesheet" href="{{url_for('static',filename='dist/css/output.css')}}">
+    <style>
+        .hidden {
+            display: none;
+        }
+        .visible {
+            display: block;
+        }
+        .step {
+            cursor: pointer;
+        }
+        .form-control {
+            /*display: flex;*/
+            display: contents;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+        .form-flex{display: flex;}
+        .label {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.5rem;
+        }
+        .label-text {
+            margin-left: 0;
+        }
+        .max-w-screen-lg { max-width: 750px; }
+        .form-control-custom { display: block !important; }
+        .form-control-custom .label { display: inline-flex }
+    </style>
+    <script>
+        async function loadBairros() {
+            const zona = document.getElementById('zona').value;
+            if (!zona) return; // Não faz nada se a zona não for selecionada
+            console.log('Zona selecionada:', zona);
+            try {
+                const response = await fetch(`/NEIGHBORHOOD?ZONE=${zona}`);
+                const bairros = await response.json();
+
+                const bairroSelect = document.getElementById('bairro');
+                bairroSelect.innerHTML = '<option value="">Selecione o bairro</option>';
+                bairros.forEach(bairro => {
+                    const option = document.createElement('option');
+                    option.value = bairro;
+                    option.innerText = bairro;
+                    bairroSelect.appendChild(option);
+                });
+
+                // Resetar as ruas ao mudar a zona
+                document.getElementById('rua').innerHTML = '<option value="">Selecione a rua</option>';
+            } catch (error) {
+                console.error('Erro ao carregar bairros:', error);
+            }
+        }
+
+        async function loadRuas() {
+            const zona = document.getElementById('zona').value;
+            const bairro = document.getElementById('bairro').value;
+            if (!zona || !bairro) return;
+            console.log('Zona e bairro selecionados:', zona, bairro);
+            try {
+                const response = await fetch(`/STREET?ZONE=${zona}&NEIGHBORHOOD=${bairro}`);
+                const ruas = await response.json();
+
+                const ruaSelect = document.getElementById('rua');
+                ruaSelect.innerHTML = '<option value="">Selecione a rua</option>';
+
+                ruas
+                    .filter(rua => typeof rua === 'string' && rua.trim() !== '')
+                    .forEach(rua => {
+                        const option = document.createElement('option');
+                        option.value = rua;
+                        option.innerText = rua;
+                        ruaSelect.appendChild(option);
+                    });
+            } catch (error) {
+                console.error('Erro ao carregar ruas:', error);
+            }
+        }
+    </script>
+
+</head>
+<body class="flex flex-col items-center justify-center min-h-screen bg-gray-100">
+<div class="p-6 bg-white rounded-lg max-w-screen-md w-full max-h-screen overflow-auto">
+    <!-- Steps -->
+    <ul class="steps mb-4 w-full">
+        <li class="step step-primary text-center align-top">Informações <br/> gerais</li>
+        <li class="step text-center align-top">Dados do <br/> imóvel</li>
+        <li class="step text-center align-top">Estilo do <br/> imóvel</li>
+        <li class="step text-center align-top">Redondeza</li>
+        <li class="step text-center align-top">Eco</li>
+        <li class="step text-center align-top">Lazer</li>
+        <li class="step text-center align-top">Trabalho e <br/> acessibilidade</li>
+    </ul>
+
+    <!-- Form encapsulating all steps -->
+    <form id="mainForm" method="post" action="/submit" onsubmit="return validarCampos()">
+        <!-- Content for each step -->
+        <div id="stepContent">
+            {% include 'aba1.html' %}
+            {% include 'aba2.html' %}
+            {% include 'aba3.html' %}
+            {% include 'aba4.html' %}
+            {% include 'aba5.html' %}
+            {% include 'aba6.html' %}
+            {% include 'aba7.html' %}
+        </div>
+
+        <!-- Navigation buttons -->
+        <div class="flex justify-between items-center mt-4">
+            <button id="prevBtn" type="button" class="btn btn-secondary rounded-md px-2 py-1 text-sm" disabled>Anterior</button>
+            <button id="nextBtn" type="button" class="btn btn-primary rounded-md px-2 py-1 text-sm">Próximo</button>
+            <button id="submitBtn" type="submit" class="btn btn-primary rounded-md px-2 py-1 text-sm hidden ">Calcular preço</button>
+        </div>
+    </form>
+</div>
+
+<script>
+    const steps = document.querySelectorAll('.step');
+    const contents = document.querySelectorAll('.content');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    const submitBtn = document.getElementById('submitBtn');
+
+    let currentStep = 0;
+
+    function updateSteps() {
+        steps.forEach((step, index) => {
+            step.classList.toggle('step-primary', index <= currentStep);
+            contents[index].classList.toggle('visible', index === currentStep);
+            contents[index].classList.toggle('hidden', index !== currentStep);
+        });
+
+        prevBtn.disabled = currentStep === 0;
+        nextBtn.classList.toggle('hidden', currentStep === steps.length - 1);
+        submitBtn.classList.toggle('hidden', currentStep !== steps.length - 1);
+    }
+
+    prevBtn.addEventListener('click', () => {
+        if (currentStep > 0) {
+            currentStep--;
+            updateSteps();
+        }
+    });
+
+    nextBtn.addEventListener('click', () => {
+        if (currentStep < steps.length - 1) {
+            currentStep++;
+            updateSteps();
+        }
+    });
+
+    steps.forEach((step, index) => {
+        step.addEventListener('click', () => {
+            currentStep = index;
+            updateSteps();
+        });
+    });
+
+    updateSteps();
+</script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const inputFields = document.getElementsByClassName('num-field');
+
+    // Converta a HTMLCollection para um array para iteração
+    Array.from(inputFields).forEach(function (inputField) {
+      // Adicione os eventos para cada elemento da classe
+      inputField.addEventListener('keypress', function (event) {
+        if (!/[0-9]/.test(event.key)) {
+          event.preventDefault();
+        }
+      });
+
+      inputField.addEventListener('input', function () {
+        this.value = this.value.replace(/[^0-9]/g, '');
+      });
+    });
+  });
+</script>
+</body>
+</html>

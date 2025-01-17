@@ -1,0 +1,24 @@
+<script>
+  // Seleciona os elementos de passo e conteúdo
+  const steps = document.querySelectorAll(".step");
+  const contents = document.querySelectorAll(".content");
+
+  // Adiciona eventos de clique para os passos
+  steps.forEach((step, index) => {
+    step.addEventListener("click", () => {
+      // Remove a classe ativa de todos os passos e conteúdos
+      steps.forEach(s => s.classList.remove("step-primary"));
+      contents.forEach(c => c.classList.add("hidden"));
+
+      // Ativa o passo e exibe o conteúdo correspondente
+      step.classList.add("step-primary");
+      contents[index].classList.remove("hidden");
+    });
+  });
+
+  // Exibe o primeiro conteúdo ao carregar a página
+  if (steps.length > 0 && contents.length > 0) {
+    steps[0].classList.add("step-primary");
+    contents[0].classList.remove("hidden");
+  }
+</script>
